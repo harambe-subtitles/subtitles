@@ -1,0 +1,7087 @@
+﻿1
+00:00:11,232 --> 00:00:15,779
+ROK 1991
+
+2
+00:01:10,416 --> 00:01:11,751
+Tęsknota
+
+3
+00:01:13,920 --> 00:01:14,587
+Zardzewiały
+
+4
+00:01:15,463 --> 00:01:16,339
+Siedemnaście
+
+5
+00:01:17,090 --> 00:01:17,757
+Świt
+
+6
+00:01:19,175 --> 00:01:20,176
+Piec
+
+7
+00:01:21,636 --> 00:01:22,303
+Dziewięć
+
+8
+00:01:23,138 --> 00:01:24,472
+Dobroduszny
+
+9
+00:01:25,682 --> 00:01:27,016
+Powrót do ojczyzny
+
+10
+00:01:28,435 --> 00:01:29,352
+Jeden
+
+11
+00:01:31,438 --> 00:01:33,106
+Wagon towarowy
+
+12
+00:01:41,072 --> 00:01:42,073
+Dzień dobry, żołnierzu.
+
+13
+00:01:44,784 --> 00:01:45,785
+Gotów na rozkazy.
+
+14
+00:01:47,412 --> 00:01:48,621
+Mam dla ciebie misję.
+
+15
+00:01:50,623 --> 00:01:52,125
+Likwidacja i przejęcie.
+
+16
+00:01:52,959 --> 00:01:54,294
+Bez świadków.
+
+17
+00:02:36,127 --> 00:02:37,670
+Znakomicie, żołnierzu.
+
+18
+00:03:12,163 --> 00:03:14,791
+OBECNIE
+
+19
+00:03:21,965 --> 00:03:23,716
+<i>Mów, co widać.</i>
+
+20
+00:03:23,883 --> 00:03:25,885
+Paru zwykłych mundurowych.
+
+21
+00:03:27,011 --> 00:03:28,638
+Mały komisariat.
+
+22
+00:03:30,807 --> 00:03:31,933
+Spokojna ulica.
+
+23
+00:03:32,392 --> 00:03:33,893
+<i>Idealny cel.</i>
+
+24
+00:03:34,060 --> 00:03:36,187
+Na rogu jest bankomat,
+a to oznacza?
+
+25
+00:03:36,354 --> 00:03:37,397
+Kamery.
+
+26
+00:03:37,564 --> 00:03:39,232
+<i>A przecznice są jednokierunkowe.</i>
+
+27
+00:03:39,399 --> 00:03:40,900
+Co utrudnia ucieczkę po skoku.
+
+28
+00:03:41,776 --> 00:03:43,403
+Facet się nie kryje.
+
+29
+00:03:43,486 --> 00:03:45,613
+Ma gdzieś, że będą ofiary.
+
+30
+00:03:45,780 --> 00:03:47,740
+Widzisz Range Rovera
+w połowie ulicy?
+
+31
+00:03:47,907 --> 00:03:49,742
+Tego czerwonego? Nawet fajny.
+
+32
+00:03:49,909 --> 00:03:52,328
+<i>I kuloodporny.
+Co oznacza prywatną ochronę,</i>
+
+33
+00:03:52,495 --> 00:03:53,872
+<i>co oznacza dużo broni.</i>
+
+34
+00:03:54,038 --> 00:03:56,499
+<i>Czyli ktoś będzie miał kłopoty.
+Pewnie my.</i>
+
+35
+00:03:56,666 --> 00:03:59,169
+Wiesz, że przesuwam
+przedmioty na odległość?
+
+36
+00:03:59,335 --> 00:04:01,838
+Mimo to masz mieć oczy
+dookoła głowy.
+
+37
+00:04:02,380 --> 00:04:04,757
+Mówił ci ktoś,
+że masz skłonności do paranoi?
+
+38
+00:04:04,924 --> 00:04:07,177
+<i>Nie wprost.
+A co? Ktoś ci coś mówił?</i>
+
+39
+00:04:07,343 --> 00:04:08,595
+<i>Obserwować cel.</i>
+
+40
+00:04:08,803 --> 00:04:11,723
+Ścigamy Rumlowa od pół roku.
+Nie chcę go zgubić.
+
+41
+00:04:12,098 --> 00:04:15,643
+Jeśli nas zobaczy, nie da się zgubić.
+Nienawidzi nas.
+
+42
+00:04:19,230 --> 00:04:20,356
+Sam?
+
+43
+00:04:20,523 --> 00:04:21,941
+Widzisz tę śmieciarę?
+
+44
+00:04:22,108 --> 00:04:22,859
+Przeskanuj.
+
+45
+00:04:41,878 --> 00:04:42,962
+Dawaj rentgen.
+
+46
+00:04:48,092 --> 00:04:49,803
+Załadowana na maksa.
+
+47
+00:04:49,969 --> 00:04:50,970
+Kierowca ma broń.
+
+48
+00:04:51,137 --> 00:04:52,096
+Taran na kołach.
+
+49
+00:04:52,263 --> 00:04:53,264
+<i>- Ruszajcie.
+</i>- Jak to?
+
+50
+00:04:54,516 --> 00:04:55,725
+Nie atakuje posterunku.
+
+51
+00:04:58,561 --> 00:05:01,022
+INSTYTUT CHORÓB ZAKAŹNYCH
+
+52
+00:05:59,914 --> 00:06:01,875
+Mają kamizelki i broń automatyczną.
+
+53
+00:06:02,041 --> 00:06:03,585
+<i>Jest ich siedmiu.</i>
+
+54
+00:06:12,385 --> 00:06:13,803
+Już tylko pięciu.
+
+55
+00:06:19,350 --> 00:06:20,268
+Sam!
+
+56
+00:06:23,813 --> 00:06:24,939
+Czterech.
+
+57
+00:06:29,319 --> 00:06:30,737
+Rumlow jest na trzecim.
+
+58
+00:06:30,904 --> 00:06:32,280
+Wanda. Tak, jak ćwiczyliśmy.
+
+59
+00:06:32,447 --> 00:06:33,406
+A gaz?
+
+60
+00:06:33,573 --> 00:06:34,532
+Usuń go.
+
+61
+00:06:52,550 --> 00:06:53,676
+Pakuj.
+
+62
+00:07:31,089 --> 00:07:32,257
+On tu jest.
+
+63
+00:07:36,052 --> 00:07:37,470
+Rumlow ma broń biologiczną.
+
+64
+00:07:37,637 --> 00:07:38,930
+<i>Już jestem.</i>
+
+65
+00:08:14,132 --> 00:08:15,967
+Już mnie to nie kręci.
+
+66
+00:08:19,137 --> 00:08:20,013
+Uwaga, granat.
+
+67
+00:08:25,852 --> 00:08:26,770
+Nie!
+
+68
+00:08:49,793 --> 00:08:50,752
+Sam?
+
+69
+00:08:50,919 --> 00:08:53,046
+<i>Jedzie transporterem na północ.</i>
+
+70
+00:08:57,717 --> 00:08:59,719
+Zawieź to na lotnisko.
+
+71
+00:08:59,886 --> 00:09:01,971
+Nie uciekniemy im.
+Wysiadać.
+
+72
+00:09:09,312 --> 00:09:10,396
+Gdzie się spotkamy?
+
+73
+00:09:10,563 --> 00:09:11,773
+Nigdzie.
+
+74
+00:09:23,326 --> 00:09:25,120
+Widzę czterech. Rozdzielili się.
+
+75
+00:09:29,999 --> 00:09:31,626
+Wezmę tych dwóch po lewej.
+
+76
+00:09:40,093 --> 00:09:41,302
+Zostawili cały sprzęt.
+
+77
+00:09:41,469 --> 00:09:43,263
+Mogą być wszędzie.
+Jeden ma towar.
+
+78
+00:09:49,269 --> 00:09:51,271
+Mam cię wreszcie, bydlaku.
+
+79
+00:09:52,272 --> 00:09:53,606
+Czekałem na to.
+
+80
+00:10:10,957 --> 00:10:12,125
+Ten nie ma.
+
+81
+00:10:12,792 --> 00:10:13,626
+U mnie nic.
+
+82
+00:10:13,793 --> 00:10:15,128
+Z drogi!
+
+83
+00:10:54,501 --> 00:10:55,710
+Rzuć broń.
+
+84
+00:10:56,044 --> 00:10:57,045
+Albo ja rzucę to.
+
+85
+00:10:58,838 --> 00:11:00,673
+- Rzuć broń!
+- Zrobi to!
+
+86
+00:11:07,931 --> 00:11:09,849
+Ładunek przejęty. Dzięki, Sam.
+
+87
+00:11:10,016 --> 00:11:11,017
+Nie dziękuj mnie.
+
+88
+00:11:11,184 --> 00:11:12,811
+Nie będę dziękować dronowi.
+
+89
+00:11:12,977 --> 00:11:13,978
+Wabi się Redwing.
+
+90
+00:11:14,145 --> 00:11:15,105
+<i>Nic mnie to nie obchodzi.</i>
+
+91
+00:11:15,271 --> 00:11:16,564
+Jest miły. Pogłaszcz go.
+
+92
+00:11:23,363 --> 00:11:24,405
+Dawaj!
+
+93
+00:11:32,580 --> 00:11:34,666
+Za to, że zrzuciłeś mi
+budynek na twarz.
+
+94
+00:11:56,938 --> 00:11:58,773
+Mógłbym wyglądać o wiele gorzej.
+
+95
+00:11:58,940 --> 00:11:59,899
+Kto ci zapłacił?
+
+96
+00:12:00,275 --> 00:12:02,068
+Wiesz, że cię pamiętał?
+
+97
+00:12:02,235 --> 00:12:04,362
+Twój kumpel, ten cały Bucky.
+
+98
+00:12:05,947 --> 00:12:06,781
+Coś ty powiedział?
+
+99
+00:12:06,948 --> 00:12:08,825
+Przypomniałeś mu się.
+
+100
+00:12:08,992 --> 00:12:11,911
+Sam widziałem.
+Prawie łzy miał w oczach.
+
+101
+00:12:13,288 --> 00:12:15,165
+Zanim mu znowu wyprali mózg.
+
+102
+00:12:15,999 --> 00:12:17,750
+Prosił, żeby coś ci przekazać.
+
+103
+00:12:17,917 --> 00:12:18,960
+Powiedział...
+
+104
+00:12:19,377 --> 00:12:21,463
+„Przekaż Rogersowi,
+
+105
+00:12:22,046 --> 00:12:23,381
+że nikt nie zna dnia
+
+106
+00:12:23,548 --> 00:12:25,300
+ani godziny”.
+
+107
+00:12:27,594 --> 00:12:28,761
+Twoja właśnie wybiła.
+
+108
+00:12:50,074 --> 00:12:51,409
+Sam...
+
+109
+00:12:53,286 --> 00:12:56,289
+Będą potrzebne służby ratunkowe.
+
+110
+00:12:56,831 --> 00:12:58,374
+Musimy im pomóc.
+
+111
+00:13:16,726 --> 00:13:19,104
+Wstawaj, synku.
+Musisz pożegnać się z tatą.
+
+112
+00:13:19,270 --> 00:13:20,939
+Bezdomny zagnieździł się na kanapie.
+
+113
+00:13:22,398 --> 00:13:24,442
+Dlatego uwielbiam wpadać na święta,
+
+114
+00:13:24,609 --> 00:13:25,902
+tuż przed twoim wyjazdem.
+
+115
+00:13:26,069 --> 00:13:28,321
+Bądź wyrozumiały,
+wdepnął w niezły pasztet.
+
+116
+00:13:28,488 --> 00:13:30,281
+Pasztet? Jak ma na imię?
+
+117
+00:13:30,448 --> 00:13:31,783
+Candice.
+
+118
+00:13:32,283 --> 00:13:34,994
+Mam prośbę.
+Nie spal domu przez weekend.
+
+119
+00:13:35,161 --> 00:13:36,329
+Mam cały weekend?
+
+120
+00:13:36,496 --> 00:13:39,624
+Widzisz, dobrze wiedzieć.
+Muszę zaplanować imprezkę.
+
+121
+00:13:40,416 --> 00:13:41,501
+Gdzie jedziecie?
+
+122
+00:13:41,668 --> 00:13:44,170
+Tata zabiera nas na Bahamy
+na małe wakacje.
+
+123
+00:13:44,337 --> 00:13:45,755
+Po drodze zrobimy przystanek.
+
+124
+00:13:45,922 --> 00:13:48,007
+W Pentagonie, tak?
+
+125
+00:13:48,174 --> 00:13:51,177
+Spoko, Wigilia w stołówce
+jest bardzo rodzinna.
+
+126
+00:13:51,344 --> 00:13:54,013
+Podobno złośliwość
+świadczy o inteligencji.
+
+127
+00:13:54,180 --> 00:13:56,099
+Jeśli tak jest, będziesz wybitny.
+
+128
+00:13:56,266 --> 00:13:57,600
+Idę po walizki.
+
+129
+00:14:00,061 --> 00:14:02,439
+Bardzo za tobą tęskni.
+
+130
+00:14:04,190 --> 00:14:07,485
+Ty też kiedyś za nami zatęsknisz.
+
+131
+00:14:08,236 --> 00:14:11,614
+Po raz ostatni
+spotykamy się w tym gronie.
+
+132
+00:14:12,532 --> 00:14:14,909
+Wiesz przecież, co będzie.
+
+133
+00:14:15,452 --> 00:14:16,786
+Odezwij się do niego.
+
+134
+00:14:16,953 --> 00:14:18,997
+Inaczej będziesz żałował.
+
+135
+00:14:22,667 --> 00:14:24,210
+Kocham cię, tato.
+
+136
+00:14:25,336 --> 00:14:27,630
+Wiem, że robiłeś, co mogłeś.
+
+137
+00:14:43,480 --> 00:14:45,440
+Chciałbym, żeby to była prawda.
+
+138
+00:14:47,859 --> 00:14:50,403
+Komputerowe Uregulowanie
+Pamięci Analogowej.
+
+139
+00:14:50,570 --> 00:14:51,613
+Czyli KUPA.
+
+140
+00:14:51,780 --> 00:14:53,490
+Pomyślę nad innym skrótem.
+
+141
+00:14:53,656 --> 00:14:58,286
+Koszmarnie droga metoda resetowania
+tej części układu limbicznego,
+
+142
+00:14:58,453 --> 00:15:02,540
+w której kryją się bolesne wspomnienia.
+
+143
+00:15:06,419 --> 00:15:09,672
+I nie zmienia to faktu,
+że nie dotarli na lotnisko
+
+144
+00:15:10,215 --> 00:15:13,468
+ani że do dzisiaj
+nie przepracowałem tej traumy, ale...
+
+145
+00:15:15,220 --> 00:15:19,557
+Poza tym 611 milionów dolarów
+za jakiś pseudonaukowy eksperyment?
+
+146
+00:15:21,601 --> 00:15:24,312
+Nikt normalny nie wyłożyłby na to kasy.
+
+147
+00:15:25,563 --> 00:15:28,149
+Przypomnijcie mi, jak brzmi misja MIT?
+
+148
+00:15:28,316 --> 00:15:32,403
+„Generować,
+rozpowszechniać i ochraniać wiedzę.
+
+149
+00:15:33,029 --> 00:15:34,572
+Wspólnie z innymi
+
+150
+00:15:34,739 --> 00:15:37,617
+rozwiązywać problemy
+nurtujące ludzkość.”
+
+151
+00:15:38,576 --> 00:15:41,454
+Wy, to ci inni.
+
+152
+00:15:42,622 --> 00:15:43,873
+I choć się o tym nie mówi,
+
+153
+00:15:44,040 --> 00:15:47,210
+mierzycie się
+z największym problemem ludzkości.
+
+154
+00:15:47,627 --> 00:15:49,337
+Mianowicie: brakuje wam kasy.
+
+155
+00:15:50,130 --> 00:15:52,048
+Przepraszam, wróć - brakowało.
+
+156
+00:15:52,215 --> 00:15:53,424
+Od tej chwili
+
+157
+00:15:53,591 --> 00:15:55,802
+każdy student otrzyma wsparcie
+
+158
+00:15:55,969 --> 00:15:59,139
+z Fundacji Stypendialnej.
+
+159
+00:15:59,305 --> 00:16:00,807
+Co oznacza,
+
+160
+00:16:00,974 --> 00:16:03,560
+że znalazły się fundusze
+na każdy projekt.
+
+161
+00:16:06,813 --> 00:16:09,399
+Żadnych haczyków ani podatków.
+
+162
+00:16:09,566 --> 00:16:11,734
+Po prostu wymyślacie przyszłość!
+
+163
+00:16:11,901 --> 00:16:13,570
+Od tej chwili.
+
+164
+00:16:14,821 --> 00:16:19,325
+A TERAZ PRZEDSTAWIAM SZEFOWĄ
+FUNDACJI: PEPPER POTTS
+
+165
+00:16:23,455 --> 00:16:24,456
+Idźcie i rozrabiajcie.
+
+166
+00:16:35,467 --> 00:16:37,677
+Teraz to mnie zamurowało.
+
+167
+00:16:37,844 --> 00:16:39,262
+Tony! Co za gest!
+
+168
+00:16:39,429 --> 00:16:41,598
+Taka fura forsy!
+
+169
+00:16:41,765 --> 00:16:43,516
+A tak z ciekawości...
+
+170
+00:16:43,683 --> 00:16:46,394
+Czy fundusz obejmie też
+wykładowców?
+
+171
+00:16:46,561 --> 00:16:47,854
+Wiem, wiem, ale posłuchaj.
+
+172
+00:16:48,021 --> 00:16:50,148
+Mam w zanadrzu genialny patent
+na samogotującą się parówkę.
+
+173
+00:16:50,315 --> 00:16:51,483
+Detonator idzie...
+
+174
+00:16:51,649 --> 00:16:53,485
+- WC jest tam?
+- ... w trzon mięsny.
+
+175
+00:16:53,651 --> 00:16:56,029
+Panie Stark,
+przepraszam za prompter.
+
+176
+00:16:56,196 --> 00:16:59,449
+Nie wiedzieliśmy,
+że panna Potts zrezygnowała.
+
+177
+00:17:01,075 --> 00:17:02,994
+Spoko. Zaraz wracam.
+
+178
+00:17:03,328 --> 00:17:04,621
+Potem pogadamy.
+
+179
+00:17:22,722 --> 00:17:25,558
+Zdobył się pan na piękny gest.
+
+180
+00:17:26,226 --> 00:17:27,727
+Należy im się.
+
+181
+00:17:27,894 --> 00:17:30,063
+Poza tym chcę ulżyć sumieniu.
+
+182
+00:17:30,647 --> 00:17:35,235
+Podobno istnieje korelacja pomiędzy
+poczuciem winy a szczodrością.
+
+183
+00:17:36,319 --> 00:17:38,863
+Skoro ma pan pieniądze,
+
+184
+00:17:39,781 --> 00:17:41,866
+kto panu zabroni je wyrzucać?
+
+185
+00:17:42,659 --> 00:17:44,035
+Prawda?
+
+186
+00:17:52,794 --> 00:17:53,628
+Też na górę?
+
+187
+00:17:54,212 --> 00:17:56,381
+Dobrze mi tu, gdzie jestem.
+
+188
+00:17:56,965 --> 00:17:57,715
+Chwila. Hej!
+
+189
+00:18:01,386 --> 00:18:04,222
+Przepraszam, choroba zawodowa.
+
+190
+00:18:04,389 --> 00:18:06,015
+Pracuję w Departamencie Stanu.
+
+191
+00:18:06,724 --> 00:18:08,435
+W kadrach.
+
+192
+00:18:08,601 --> 00:18:10,854
+Wiem, nudna praca,
+
+193
+00:18:11,020 --> 00:18:14,274
+ale dzięki niej wychowałam syna.
+
+194
+00:18:15,066 --> 00:18:18,069
+Jestem dumna z tego,
+że wyszedł na ludzi.
+
+195
+00:18:20,029 --> 00:18:22,574
+Nazywał się Charlie Spencer.
+
+196
+00:18:24,993 --> 00:18:26,161
+Zamordował go pan.
+
+197
+00:18:27,787 --> 00:18:29,581
+W Sokowii.
+
+198
+00:18:31,124 --> 00:18:34,335
+Ale to pana
+oczywiście nie interesuje.
+
+199
+00:18:35,879 --> 00:18:38,089
+Twierdzicie, że walczycie dla nas.
+
+200
+00:18:39,215 --> 00:18:41,468
+Walczycie tylko dla siebie.
+
+201
+00:18:42,886 --> 00:18:46,181
+Kto pomści śmierć mojego syna, Stark?
+
+202
+00:18:47,724 --> 00:18:49,392
+On nie żyje.
+
+203
+00:18:49,559 --> 00:18:51,603
+I to pana wina.
+
+204
+00:18:59,986 --> 00:19:03,490
+<i>11 członków plemienia Wakanda
+zginęło w czasie starcia...</i>
+
+205
+00:19:03,615 --> 00:19:05,450
+<i>Avengers z grupą najemników...</i>
+
+206
+00:19:05,617 --> 00:19:07,786
+<i>w Lagos, w Nigerii.</i>
+
+207
+00:19:07,952 --> 00:19:10,789
+<i>Wycofani zwykle Wakandowie,
+brali w Lagos udział</i>
+
+208
+00:19:10,955 --> 00:19:12,832
+<i>w misji humanitarnej.</i>
+
+209
+00:19:12,999 --> 00:19:16,252
+<i>Krew rodaków przelano na obcej ziemi</i>
+
+210
+00:19:16,795 --> 00:19:19,839
+<i>nie tylko z winy przestępców,</i>
+
+211
+00:19:20,006 --> 00:19:23,843
+<i>ale też przez obojętność osób,
+które miały ich zatrzymać.</i>
+
+212
+00:19:24,010 --> 00:19:26,971
+<i>Sukces za cenę życia niewinnych,</i>
+
+213
+00:19:27,138 --> 00:19:29,474
+<i>to klęska.</i>
+
+214
+00:19:30,016 --> 00:19:31,101
+<i>Król Wakandy podkreślił...</i>
+
+215
+00:19:31,351 --> 00:19:34,521
+<i>... zero poszanowania
+dla prawa międzynarodowego.</i>
+
+216
+00:19:34,687 --> 00:19:37,607
+<i>Taka jest prawda.
+Musimy reagować na takie czyny.</i>
+
+217
+00:19:37,774 --> 00:19:40,235
+<i>Jakie uprawnienia ma taka
+zmodyfikowana osoba,</i>
+
+218
+00:19:40,318 --> 00:19:41,528
+<i>jak Wanda Maximoff,</i>
+
+219
+00:19:41,694 --> 00:19:43,029
+<i>by działać w Niger...</i>
+
+220
+00:19:47,784 --> 00:19:49,119
+To moja wina.
+
+221
+00:19:49,285 --> 00:19:51,454
+- Nieprawda.
+- Włącz telewizor.
+
+222
+00:19:51,621 --> 00:19:53,832
+Wszyscy są bardzo przekonujący.
+
+223
+00:19:53,998 --> 00:19:57,627
+To ja przegapiłem ten ładunek,
+ty ratowałaś sytuację.
+
+224
+00:19:58,503 --> 00:20:00,046
+Rumlow wspomniał Bucky'ego
+
+225
+00:20:01,548 --> 00:20:04,551
+i nagle znowu byłem 16-latkiem
+na Brooklynie.
+
+226
+00:20:08,805 --> 00:20:10,390
+Zginęli ludzie.
+
+227
+00:20:12,684 --> 00:20:13,685
+Z mojej winy.
+
+228
+00:20:14,227 --> 00:20:15,854
+To nasza wspólna wina.
+
+229
+00:20:16,896 --> 00:20:18,314
+Nasza robota...
+
+230
+00:20:21,401 --> 00:20:23,319
+Zawsze chcemy ocalić wszystkich.
+
+231
+00:20:24,320 --> 00:20:25,989
+Ale czasem nie da rady.
+
+232
+00:20:26,156 --> 00:20:28,074
+Jeśli się z tym nie pogodzisz,
+
+233
+00:20:28,241 --> 00:20:30,160
+następnym razem
+
+234
+00:20:31,494 --> 00:20:33,288
+nikt może się nie uratować.
+
+235
+00:20:37,333 --> 00:20:39,377
+Ej! Ile mam cię prosić?
+
+236
+00:20:39,544 --> 00:20:42,255
+Ale drzwi były otwarte, więc uznałem...
+
+237
+00:20:44,007 --> 00:20:46,968
+Kapitan kazał się powiadomić,
+gdy zjawi się pan Stark.
+
+238
+00:20:47,135 --> 00:20:48,678
+Dzięki. Zaraz przyjdę.
+
+239
+00:20:49,137 --> 00:20:51,306
+To ja wyjdę drzwiami.
+
+240
+00:20:52,307 --> 00:20:54,642
+Aha, przywiózł ze sobą gościa.
+
+241
+00:20:54,809 --> 00:20:56,519
+Wiesz kogo?
+
+242
+00:20:56,686 --> 00:20:58,521
+Sekretarza Stanu.
+
+243
+00:21:02,317 --> 00:21:03,359
+<i>Pięć lat temu</i>
+
+244
+00:21:03,735 --> 00:21:05,612
+przeszedłem atak serca.
+
+245
+00:21:05,779 --> 00:21:08,907
+Ścięło mnie z nóg,
+gdy zabierałem się do uderzenia.
+
+246
+00:21:09,616 --> 00:21:12,035
+Okazało się,
+że był to strzał w dziesiątkę,
+
+247
+00:21:12,202 --> 00:21:16,206
+ponieważ po trzynastogodzinnej
+operacji wszczepienia bajpasów,
+
+248
+00:21:17,123 --> 00:21:20,960
+odkryłem coś,
+czego nie dało mi 40 lat w armii.
+
+249
+00:21:21,628 --> 00:21:22,837
+Dystans.
+
+250
+00:21:24,964 --> 00:21:28,843
+Ludzkość ma u Avengers
+ogromny dług.
+
+251
+00:21:29,677 --> 00:21:32,680
+Broniliście nas,
+
+252
+00:21:32,847 --> 00:21:35,892
+chroniliście, ryzykowaliście życie.
+
+253
+00:21:36,059 --> 00:21:40,105
+Dla wielu wasza działalność
+to bohaterstwo,
+
+254
+00:21:40,271 --> 00:21:42,190
+jednak inni
+
+255
+00:21:43,650 --> 00:21:45,652
+wolą słowo „samowolka”.
+
+256
+00:21:45,819 --> 00:21:48,113
+A dla pana czym jesteśmy?
+
+257
+00:21:48,279 --> 00:21:49,489
+Beczką prochu.
+
+258
+00:21:50,156 --> 00:21:55,078
+Jak inaczej nazwać grupę
+zmodyfikowanych osobników,
+
+259
+00:21:55,245 --> 00:21:58,206
+którzy regularnie naruszają
+granice państwowe,
+
+260
+00:21:58,373 --> 00:22:02,001
+narzucają swoją wolę innym
+
+261
+00:22:02,168 --> 00:22:05,755
+i nie bardzo przejmują się
+skutkami ubocznymi tych akcji.
+
+262
+00:22:10,635 --> 00:22:12,220
+Nowy Jork.
+
+263
+00:22:26,025 --> 00:22:27,861
+Waszyngton.
+
+264
+00:22:35,952 --> 00:22:37,454
+Sokowia.
+
+265
+00:22:48,339 --> 00:22:49,174
+Lagos.
+
+266
+00:22:58,600 --> 00:23:00,310
+Rozumiemy. Wystarczy.
+
+267
+00:23:02,437 --> 00:23:04,939
+Przez ostatnie 4 lata
+mieliście pełną swobodę,
+
+268
+00:23:05,106 --> 00:23:06,941
+i żadnej kontroli.
+
+269
+00:23:07,108 --> 00:23:10,987
+Takiej sytuacji społeczność światowa
+nie będzie dłużej tolerować.
+
+270
+00:23:13,448 --> 00:23:15,867
+Mamy jednak dla was propozycję.
+
+271
+00:23:19,621 --> 00:23:21,956
+Protokół z Sokowii.
+
+272
+00:23:22,624 --> 00:23:25,251
+Zatwierdzony przez 117 krajów.
+
+273
+00:23:25,418 --> 00:23:30,965
+Głosi, że Avengers przestają być
+organizacją prywatną
+
+274
+00:23:31,132 --> 00:23:32,342
+i od tej pory
+
+275
+00:23:32,509 --> 00:23:36,638
+będą działać
+pod kontrolą komisji ONZ,
+
+276
+00:23:36,805 --> 00:23:41,267
+wtedy i tylko wtedy,
+kiedy komisja uzna to za stosowne.
+
+277
+00:23:42,435 --> 00:23:45,271
+Avengers powstali,
+by świat był bezpieczniejszy.
+
+278
+00:23:45,772 --> 00:23:46,981
+Sądzę, że się udało.
+
+279
+00:23:47,357 --> 00:23:51,277
+Kapitanie, a wie pan,
+gdzie są teraz Thor i Banner?
+
+280
+00:23:52,821 --> 00:23:55,115
+Gdybym ja gdzieś posiał
+dwie atomówki,
+
+281
+00:23:55,281 --> 00:23:57,617
+nie uszłoby mi to na sucho.
+
+282
+00:23:57,951 --> 00:24:02,288
+Kompromisy. Gwarancje.
+Na tym opiera się porządek świata.
+
+283
+00:24:02,455 --> 00:24:05,333
+To rozwiązanie korzystne dla obu stron.
+
+284
+00:24:06,334 --> 00:24:09,045
+A jakie są warunki?
+
+285
+00:24:09,379 --> 00:24:12,048
+Za trzy dni ONZ zbiera się w Wiedniu,
+
+286
+00:24:12,215 --> 00:24:14,217
+by ratyfikować Protokół.
+
+287
+00:24:16,386 --> 00:24:17,971
+Przegadajcie to.
+
+288
+00:24:21,141 --> 00:24:23,309
+Jeśli zdecydujemy nie po waszej myśli?
+
+289
+00:24:25,311 --> 00:24:27,021
+Przejdziecie w stan spoczynku.
+
+290
+00:24:50,170 --> 00:24:51,171
+Przepraszam.
+
+291
+00:24:53,006 --> 00:24:55,049
+To pański samochód?
+
+292
+00:24:56,676 --> 00:24:58,428
+Trochę mnie zarzuciło.
+
+293
+00:25:00,096 --> 00:25:01,097
+Może załatwimy to
+
+294
+00:25:01,681 --> 00:25:03,183
+między sobą.
+
+295
+00:25:03,349 --> 00:25:05,393
+Mogę też zadzwonić po policję.
+
+296
+00:25:05,560 --> 00:25:07,020
+- Jak pan woli.
+- Nie.
+
+297
+00:25:08,688 --> 00:25:10,440
+Żadnych glin.
+
+298
+00:25:10,690 --> 00:25:11,691
+Dziękuję.
+
+299
+00:25:49,771 --> 00:25:51,397
+Młodo pan wygląda.
+
+300
+00:25:52,190 --> 00:25:53,191
+Moje gratulacje.
+
+301
+00:25:57,195 --> 00:26:01,199
+„Raport z misji z 16 grudnia, 1991”.
+
+302
+00:26:01,366 --> 00:26:02,784
+Kim jesteś?
+
+303
+00:26:04,035 --> 00:26:05,870
+Mów mi Zemo.
+
+304
+00:26:07,038 --> 00:26:09,249
+Ponawiam pytanie.
+
+305
+00:26:09,874 --> 00:26:14,754
+Gdzie raport
+z misji z 16 grudnia, 1991?
+
+306
+00:26:14,921 --> 00:26:16,714
+Jak mnie znalazłeś?
+
+307
+00:26:16,881 --> 00:26:18,800
+Gdy padła Tarcza,
+
+308
+00:26:18,967 --> 00:26:22,428
+Czarna Wdowa opublikowała w sieci
+archiwum Hydry.
+
+309
+00:26:22,595 --> 00:26:27,100
+Miliony dokumentów. Wiele,
+szyfrem trudnym do rozgryzienia.
+
+310
+00:26:30,437 --> 00:26:32,272
+Ja jednak jestem doświadczony.
+
+311
+00:26:33,148 --> 00:26:34,774
+I cierpliwy.
+
+312
+00:26:36,151 --> 00:26:38,278
+Takiego nic nie powstrzyma.
+
+313
+00:26:39,320 --> 00:26:40,572
+Czego chcesz?
+
+314
+00:26:41,739 --> 00:26:43,616
+Raportu z misji.
+
+315
+00:26:43,783 --> 00:26:45,618
+Z 16 grudnia.
+
+316
+00:26:45,785 --> 00:26:47,287
+1991 roku.
+
+317
+00:26:47,954 --> 00:26:51,332
+Idź w cholerę.
+
+318
+00:27:05,513 --> 00:27:07,932
+Miejsce Hydry
+jest na śmietniku dziejów,
+
+319
+00:27:08,475 --> 00:27:10,977
+więc mam gdzieś, czy zginiesz.
+
+320
+00:27:11,603 --> 00:27:13,521
+Wtedy będę musiał użyć tej książki
+
+321
+00:27:13,980 --> 00:27:17,192
+i innych, bardziej krwawych metod,
+by znaleźć, czego szukam.
+
+322
+00:27:17,358 --> 00:27:20,278
+A na to nie mam specjalnej ochoty.
+
+323
+00:27:21,154 --> 00:27:23,364
+Więc jedyną przyczyną twojej śmierci
+
+324
+00:27:23,531 --> 00:27:24,991
+będzie duma.
+
+325
+00:27:39,672 --> 00:27:42,509
+Heil Hydra.
+
+326
+00:27:53,394 --> 00:27:55,980
+Rossa odznaczono medalem Kongresu,
+
+327
+00:27:56,147 --> 00:27:57,315
+a ciebie nie.
+
+328
+00:27:57,482 --> 00:27:59,150
+Jeżeli to podpiszemy,
+
+329
+00:27:59,317 --> 00:28:02,529
+sami sobie zafundujemy
+obrożę, smycz i kaganiec.
+
+330
+00:28:02,695 --> 00:28:04,697
+Protokół chce ratyfikować 117 krajów.
+
+331
+00:28:04,864 --> 00:28:08,535
+- Ale nie, ty wiesz lepiej.
+- Długo będziesz grać na dwa fronty?
+
+332
+00:28:08,701 --> 00:28:09,994
+Wypracowałem wzór.
+
+333
+00:28:10,161 --> 00:28:12,163
+O, to wszystko wyjaśni.
+
+334
+00:28:12,539 --> 00:28:15,625
+Odkąd 8 lat temu pan Stark ogłosił,
+że on to Iron Man
+
+335
+00:28:15,792 --> 00:28:19,379
+liczba „udoskonalonych osób”
+wzrasta geometrycznie.
+
+336
+00:28:20,964 --> 00:28:22,215
+W tym samym okresie
+
+337
+00:28:22,382 --> 00:28:26,302
+ilość prób zniszczenia życia
+na planecie wzrosła proporcjonalnie.
+
+338
+00:28:26,469 --> 00:28:27,679
+I to nasza wina?
+
+339
+00:28:28,054 --> 00:28:30,515
+Widzę tylko związek
+przyczynowo-skutkowy.
+
+340
+00:28:32,517 --> 00:28:35,186
+Nasza siła stanowi wyzwanie.
+
+341
+00:28:35,353 --> 00:28:37,981
+To z kolei oznacza konflikt.
+
+342
+00:28:38,148 --> 00:28:39,899
+A konflikt...
+
+343
+00:28:41,484 --> 00:28:43,695
+prowadzi do katastrofy.
+
+344
+00:28:43,862 --> 00:28:45,238
+Dlatego kontrola...
+
+345
+00:28:47,699 --> 00:28:50,743
+Warto rozważyć
+wprowadzenie jakiejś formy kontroli.
+
+346
+00:28:50,910 --> 00:28:51,911
+Bum.
+
+347
+00:28:52,745 --> 00:28:53,913
+Tony?
+
+348
+00:28:54,080 --> 00:28:56,749
+Jesteś podejrzanie nie-przemądrzały.
+
+349
+00:28:56,916 --> 00:28:58,084
+Podjął już decyzję.
+
+350
+00:28:58,251 --> 00:29:00,170
+Rany, jak ty mnie znasz.
+
+351
+00:29:01,171 --> 00:29:03,840
+Mam migrenę elektromagnetyczną.
+
+352
+00:29:04,549 --> 00:29:07,343
+Tylko tyle, kapitanku.
+Ból.
+
+353
+00:29:08,386 --> 00:29:09,929
+Dolegliwość.
+
+354
+00:29:10,096 --> 00:29:12,223
+Kto wrzucił fusy do zlewu?
+
+355
+00:29:12,932 --> 00:29:15,560
+To nie pensjonat dla jaskiniowców.
+
+356
+00:29:21,775 --> 00:29:24,944
+A to jest niejaki Charles Spencer.
+Fajny chłopak.
+
+357
+00:29:25,111 --> 00:29:28,448
+Właśnie skończył informatykę,
+średnia 5.0,
+
+358
+00:29:28,615 --> 00:29:31,284
+dostał robotę w Intelu.
+Miał zacząć na jesieni.
+
+359
+00:29:31,451 --> 00:29:34,037
+Ale pomyślał,
+że nim zaprzeda duszę korpo,
+
+360
+00:29:34,204 --> 00:29:36,706
+nim siądzie za biurkiem,
+pojeździ po świecie.
+
+361
+00:29:36,873 --> 00:29:38,291
+Zrobi coś pożytecznego.
+
+362
+00:29:39,125 --> 00:29:41,961
+Nie wybrał Vegas czy Florydy,
+jak ja bym to zrobił.
+
+363
+00:29:42,128 --> 00:29:44,881
+Ani Paryża czy Amsterdamu,
+gdzie jest ekstra.
+
+364
+00:29:45,048 --> 00:29:48,468
+Postanowił spędzić wakacje,
+budując mieszkania dla ubogich.
+
+365
+00:29:48,635 --> 00:29:50,261
+Zgadnijcie gdzie. W Sokowii.
+
+366
+00:29:54,057 --> 00:29:55,391
+Mógł coś zmienić?
+
+367
+00:29:55,558 --> 00:29:59,145
+Nie dowiemy się, bo zrzuciliśmy mu
+dom na głowę ratując ludzkość.
+
+368
+00:30:07,445 --> 00:30:09,948
+Nie mamy pojęcia, co robimy.
+
+369
+00:30:11,658 --> 00:30:12,951
+Należy nas wziąć w karby.
+
+370
+00:30:13,118 --> 00:30:15,495
+Wszystko jedno jak. Głosuję za.
+
+371
+00:30:15,662 --> 00:30:17,831
+Dopóki nie godzimy się na kontrolę
+i robimy co chcemy,
+
+372
+00:30:17,997 --> 00:30:19,958
+nie jesteśmy lepsi, niż ci źli.
+
+373
+00:30:20,125 --> 00:30:22,752
+Nie można się poddawać,
+bo ma się kogoś na sumieniu.
+
+374
+00:30:22,919 --> 00:30:23,628
+Kto się poddaje?
+
+375
+00:30:23,795 --> 00:30:26,256
+My, odrzucając
+odpowiedzialność za swoje czyny.
+
+376
+00:30:26,422 --> 00:30:28,174
+Umowa przerzuca ją na kogoś innego.
+
+377
+00:30:28,341 --> 00:30:30,009
+Nie gniewaj się, Steve,
+
+378
+00:30:30,176 --> 00:30:31,928
+ale to szczyt arogancji.
+
+379
+00:30:32,095 --> 00:30:34,013
+Mówimy o ONZ.
+
+380
+00:30:34,180 --> 00:30:37,809
+Już nie o Radzie Bezpieczeństwa,
+Tarczy czy Hydrze.
+
+381
+00:30:37,976 --> 00:30:40,687
+To też ludzie mający swoje plany.
+A te się zmieniają.
+
+382
+00:30:40,854 --> 00:30:42,689
+Na szczęście! Dlatego tu jestem.
+
+383
+00:30:42,856 --> 00:30:45,316
+Kiedy zrozumiałem,
+ile zła można wyrządzić moją bronią,
+
+384
+00:30:45,483 --> 00:30:47,152
+zamknąłem fabryki.
+
+385
+00:30:47,318 --> 00:30:49,487
+Podjąłeś taką decyzję.
+
+386
+00:30:49,654 --> 00:30:52,532
+Podpisując ten papier,
+zrzekamy się prawa do decyzji.
+
+387
+00:30:53,533 --> 00:30:55,869
+A jak nas gdzieś wyślą
+wbrew naszej woli?
+
+388
+00:30:56,035 --> 00:30:58,538
+Albo będziemy gdzieś potrzebni,
+a oni nas uziemią.
+
+389
+00:30:58,705 --> 00:31:02,041
+Nie jesteśmy idealni,
+ale jesteśmy najpewniejszą opcją.
+
+390
+00:31:02,208 --> 00:31:06,379
+Jeśli nie zgodzimy się teraz,
+za jakiś czas i tak nam to zrobią.
+
+391
+00:31:06,546 --> 00:31:08,465
+Bez pytania. I będzie dym.
+
+392
+00:31:08,631 --> 00:31:11,176
+- Wezmą się za mnie?
+- Obronilibyśmy cię.
+
+393
+00:31:11,342 --> 00:31:13,219
+Może Tony ma rację.
+
+394
+00:31:14,387 --> 00:31:18,892
+Z jedną ręką na kierownicy wciąż
+możesz kierować. Ale zdejmij ją...
+
+395
+00:31:19,058 --> 00:31:22,228
+To nie ty mówiłaś, że wszystkie
+rządy świata mogą cię cmoknąć?
+
+396
+00:31:22,395 --> 00:31:24,898
+Próbuję ocenić sytuację.
+
+397
+00:31:25,064 --> 00:31:28,234
+Zaliczyliśmy parę wpadek.
+
+398
+00:31:28,401 --> 00:31:30,403
+Spróbujmy odzyskać zaufanie ludzi.
+
+399
+00:31:30,570 --> 00:31:32,739
+Przesłyszałem się chyba.
+
+400
+00:31:32,906 --> 00:31:34,866
+- Przyznałaś mi rację?
+- Odwołuję.
+
+401
+00:31:35,033 --> 00:31:35,909
+Nie możesz.
+
+402
+00:31:36,075 --> 00:31:38,244
+Dziękuję. Coś takiego.
+
+403
+00:31:38,745 --> 00:31:40,538
+Koniec. Wygrałem.
+
+404
+00:31:40,705 --> 00:31:42,707
+Odeszła. We śnie.
+
+405
+00:31:42,874 --> 00:31:44,083
+Muszę iść.
+
+406
+00:31:57,347 --> 00:32:00,934
+LONDYN
+
+407
+00:32:26,251 --> 00:32:31,589
+Na zakończenie chciałbym prosić
+o kilka słów panią Sharon Carter.
+
+408
+00:32:45,145 --> 00:32:48,440
+Margaret Carter była dla wielu
+współzałożycielką Tarczy,
+
+409
+00:32:49,315 --> 00:32:51,484
+dla mnie była ciocią Peggy.
+
+410
+00:32:53,778 --> 00:32:55,738
+W jej gabinecie wisiało zdjęcie.
+
+411
+00:32:55,905 --> 00:32:58,908
+Ciocia Peggy i John Kennedy.
+
+412
+00:32:59,826 --> 00:33:01,744
+Jako dziecko byłam pod wrażeniem.
+
+413
+00:33:01,911 --> 00:33:04,330
+Ale trudno mi było jej dorównać.
+
+414
+00:33:04,497 --> 00:33:06,833
+Dlatego ukrywałam,
+że to moja rodzina.
+
+415
+00:33:08,168 --> 00:33:12,297
+Zapytałam ją, jak udało się jej
+zaistnieć w dyplomacji i wywiadzie,
+
+416
+00:33:12,464 --> 00:33:16,801
+w czasach, gdy kobiety
+nie były tam mile widziane.
+
+417
+00:33:17,302 --> 00:33:19,179
+Odparła: Zawsze idź na kompromis.
+
+418
+00:33:20,013 --> 00:33:23,266
+Chyba że się nie da.
+
+419
+00:33:24,184 --> 00:33:29,689
+Choćby wszyscy ci tłumaczyli,
+że zło to dobro.
+
+420
+00:33:29,856 --> 00:33:33,026
+Nawet gdy cały świat mówi,
+że masz się ruszyć,
+
+421
+00:33:33,193 --> 00:33:36,863
+zaryj się nogami w ziemi,
+
+422
+00:33:37,030 --> 00:33:41,493
+spójrz mu w oczy i powiedz:
+„Sam się rusz”.
+
+423
+00:33:53,296 --> 00:33:57,967
+Kiedy mnie rozmrozili, okazało się,
+że wszyscy moi bliscy umarli.
+
+424
+00:33:58,635 --> 00:34:00,887
+Oprócz niej.
+
+425
+00:34:01,805 --> 00:34:03,389
+Miałem szczęście, że ją znałem.
+
+426
+00:34:03,973 --> 00:34:05,350
+A ona, że znała ciebie.
+
+427
+00:34:07,894 --> 00:34:09,312
+Kto jeszcze podpisał?
+
+428
+00:34:10,063 --> 00:34:12,899
+Tony, Rhodey, Vision.
+
+429
+00:34:13,817 --> 00:34:14,818
+A Clint?
+
+430
+00:34:15,568 --> 00:34:17,195
+Twierdzi, że się wycofał.
+
+431
+00:34:17,362 --> 00:34:19,155
+- Wanda?
+- Nie wiadomo.
+
+432
+00:34:20,824 --> 00:34:23,576
+Lecę do Wiednia na ratyfikację.
+
+433
+00:34:23,743 --> 00:34:25,411
+W samolocie są wolne miejsca.
+
+434
+00:34:29,207 --> 00:34:32,043
+Pójść po linii najmniejszego oporu
+
+435
+00:34:32,210 --> 00:34:34,504
+to nie to samo co zbłądzić.
+
+436
+00:34:34,671 --> 00:34:37,590
+Ważne, że trzymamy się razem,
+nieważne za jaką cenę.
+
+437
+00:34:38,341 --> 00:34:40,426
+A jeśli będzie bardzo wysoka?
+
+438
+00:34:44,722 --> 00:34:46,015
+Przykro mi.
+
+439
+00:34:46,182 --> 00:34:47,851
+Nie podpiszę.
+
+440
+00:34:49,102 --> 00:34:50,103
+Wiem.
+
+441
+00:34:52,689 --> 00:34:54,190
+To po co przyjechałaś?
+
+442
+00:34:56,943 --> 00:34:59,279
+Nie chciałam, żebyś był tu sam.
+
+443
+00:35:09,372 --> 00:35:12,792
+WIEDEŃ
+
+444
+00:35:12,959 --> 00:35:15,587
+<i>Na specjalnym posiedzeniu ONZ...</i>
+
+445
+00:35:15,753 --> 00:35:21,134
+<i>117 krajów
+ratyfikuje Protokół z Sokowii.</i>
+
+446
+00:35:25,096 --> 00:35:26,890
+- Panno Romanow?
+- Tak?
+
+447
+00:35:27,056 --> 00:35:28,641
+Jeszcze podpis.
+
+448
+00:35:29,934 --> 00:35:31,269
+- Dziękuję.
+- Dzięki.
+
+449
+00:35:32,395 --> 00:35:35,774
+Widzę, że żadne z nas
+nie lubi blasku reflektorów.
+
+450
+00:35:37,150 --> 00:35:39,152
+Często ujawnia niedoskonałości.
+
+451
+00:35:39,319 --> 00:35:41,654
+Na moje oko nic ci nie grozi.
+
+452
+00:35:42,280 --> 00:35:44,240
+Ale z twojej wizyty na Kapitolu,
+
+453
+00:35:44,657 --> 00:35:48,119
+wnoszę, że nie przepadasz
+za takim towarzystwem.
+
+454
+00:35:48,286 --> 00:35:49,329
+To prawda.
+
+455
+00:35:49,496 --> 00:35:52,332
+Tym bardziej się cieszę
+z twojej obecności.
+
+456
+00:35:52,499 --> 00:35:54,167
+Przecież popierasz to wszystko.
+
+457
+00:35:54,334 --> 00:35:57,796
+Protokół - tak.
+Politykę - niekoniecznie.
+
+458
+00:35:58,171 --> 00:36:01,674
+Dwie osoby zdziałają tu więcej
+niż stu ludzi.
+
+459
+00:36:01,841 --> 00:36:04,177
+Chyba, że trzeba przenieść fortepian.
+
+460
+00:36:06,679 --> 00:36:08,932
+- Panno Romanow.
+- Królu T'Chaka.
+
+461
+00:36:09,516 --> 00:36:11,810
+Chcę przeprosić za to,
+co stało się w Nigerii.
+
+462
+00:36:11,976 --> 00:36:13,520
+Dziękuję.
+
+463
+00:36:13,686 --> 00:36:16,022
+I dziękuję, że pani podpisała.
+
+464
+00:36:16,189 --> 00:36:19,359
+Tylko przykro,
+że kapitan postanowił się wycofać.
+
+465
+00:36:19,526 --> 00:36:20,777
+Mnie również.
+
+466
+00:36:20,944 --> 00:36:24,197
+<i>Proszę o zajęcie miejsc.
+Rozpoczyna się posiedzenie.</i>
+
+467
+00:36:25,198 --> 00:36:26,366
+Przyszłość wzywa.
+
+468
+00:36:28,284 --> 00:36:29,369
+Było mi miło.
+
+469
+00:36:29,661 --> 00:36:30,829
+Dziękuję.
+
+470
+00:36:32,038 --> 00:36:35,708
+Jak na przeciwnika dyplomacji,
+
+471
+00:36:36,459 --> 00:36:38,294
+całkiem nieźle sobie radzisz.
+
+472
+00:36:38,962 --> 00:36:40,505
+Miło mi to słyszeć.
+
+473
+00:36:45,510 --> 00:36:46,219
+Dziękuję.
+
+474
+00:36:47,220 --> 00:36:48,054
+Dziękuję.
+
+475
+00:36:48,888 --> 00:36:51,558
+<i>Gdy wykradzione
+z Wakandy wibranium</i>
+
+476
+00:36:51,599 --> 00:36:54,227
+<i>wykorzystano do budowy
+strasznej broni,</i>
+
+477
+00:36:54,394 --> 00:36:58,398
+<i>zmuszeni byliśmy zakwestionować
+dziedzictwo przodków.</i>
+
+478
+00:36:59,065 --> 00:37:01,317
+Nasi rodacy, którzy zginęli w Nigerii,
+
+479
+00:37:01,484 --> 00:37:05,572
+brali udział w misji dobrej woli. Nasz
+kraj za długo pozostawał na uboczu.
+
+480
+00:37:06,823 --> 00:37:10,910
+Ta tragedia
+nie zmusi nas już do odwrotu.
+
+481
+00:37:11,077 --> 00:37:14,831
+Naprawimy świat,
+którego chcemy być częścią.
+
+482
+00:37:15,331 --> 00:37:19,210
+Dziękuję członkom Avengers
+za wsparcie tej inicjatywy.
+
+483
+00:37:21,254 --> 00:37:25,341
+Wakanda przyjmuje ten
+pokojowy gest.
+
+484
+00:37:25,508 --> 00:37:26,509
+Na ziemię!
+
+485
+00:38:01,503 --> 00:38:04,255
+Mama odwodziła mnie
+od wstąpienia do agencji.
+
+486
+00:38:04,422 --> 00:38:05,840
+Ciocia przeciwnie.
+
+487
+00:38:06,007 --> 00:38:08,176
+Podarowała mi nawet kaburę na udo.
+
+488
+00:38:08,343 --> 00:38:10,053
+Praktyczny prezent.
+
+489
+00:38:10,220 --> 00:38:11,763
+I elegancki.
+
+490
+00:38:17,352 --> 00:38:19,687
+CIA wysłała cię tutaj, tak?
+
+491
+00:38:19,854 --> 00:38:21,648
+Do Berlina.
+Sekcja antyterrorystyczna.
+
+492
+00:38:21,981 --> 00:38:24,025
+Jasne. Fajna zabawa.
+
+493
+00:38:24,609 --> 00:38:26,152
+I to jaka.
+
+494
+00:38:28,655 --> 00:38:30,949
+Miałem cię spytać...
+
+495
+00:38:31,116 --> 00:38:34,285
+Kiedy mnie szpiegowałaś...
+
+496
+00:38:34,452 --> 00:38:35,703
+Wykonywałam zadanie.
+
+497
+00:38:38,706 --> 00:38:39,916
+Czy Peggy wiedziała?
+
+498
+00:38:42,335 --> 00:38:44,587
+Miała tyle tajemnic.
+
+499
+00:38:45,130 --> 00:38:46,714
+Nie chciałam obarczać jej kolejną.
+
+500
+00:38:51,219 --> 00:38:52,554
+Dzięki za odprowadzenie.
+
+501
+00:38:52,887 --> 00:38:54,097
+Spoko.
+
+502
+00:38:57,642 --> 00:38:58,810
+Steve.
+
+503
+00:38:58,977 --> 00:39:00,770
+Musisz coś zobaczyć.
+
+504
+00:39:00,937 --> 00:39:02,647
+<i>Bomba ukryta
+w wozie transmisyjnym...</i>
+
+505
+00:39:02,814 --> 00:39:04,858
+- Kto koordynuje?
+<i>- ... zniszczyła gmach ONZ.</i>
+
+506
+00:39:05,024 --> 00:39:07,152
+- Ok. Laboratorium?
+- <i>70 osób rannych,</i>
+
+507
+00:39:07,318 --> 00:39:11,114
+<i>a dwanaście poniosło śmierć,
+w tym król Wakandy T'Chaka.</i>
+
+508
+00:39:11,281 --> 00:39:13,074
+<i>Władze pokazały
+nagranie z podejrzanym.</i>
+
+509
+00:39:13,241 --> 00:39:15,702
+<i>Jest nim niejaki
+James Buchanan Barnes.</i>
+
+510
+00:39:15,869 --> 00:39:17,245
+<i>Zimowy Żołnierz,</i>
+
+511
+00:39:17,412 --> 00:39:18,830
+<i>słynny agent Hydry</i>
+
+512
+00:39:18,997 --> 00:39:22,041
+<i>odpowiedzialny za
+terroryzm i zbrodnie polityczne.</i>
+
+513
+00:39:22,208 --> 00:39:24,085
+Czas brać się do pracy.
+
+514
+00:39:29,424 --> 00:39:32,635
+Dzwoń do MI6,
+niech ekipa śledcza się streszcza.
+
+515
+00:39:32,802 --> 00:39:35,221
+Mają dwie godziny,
+potem będzie za późno.
+
+516
+00:39:45,648 --> 00:39:46,816
+Moje kondolencje.
+
+517
+00:39:53,740 --> 00:39:55,200
+W mojej kulturze
+
+518
+00:39:55,575 --> 00:39:58,411
+śmierci nie uważa się za kres.
+
+519
+00:40:00,163 --> 00:40:03,208
+To raczej most nad przepaścią.
+
+520
+00:40:04,292 --> 00:40:06,002
+Wyciągasz obie ręce,
+
+521
+00:40:06,169 --> 00:40:10,799
+a Bast i Sekhmet
+niosą cię na zielone łąki,
+
+522
+00:40:11,716 --> 00:40:14,177
+gdzie możesz wędrować bez końca.
+
+523
+00:40:14,886 --> 00:40:16,554
+Spokojna wieczność.
+
+524
+00:40:18,056 --> 00:40:20,141
+Mój ojciec w nią wierzył.
+
+525
+00:40:21,810 --> 00:40:23,937
+Nie jestem taki jak on.
+
+526
+00:40:24,354 --> 00:40:25,605
+T'Challa...
+
+527
+00:40:25,772 --> 00:40:28,483
+ONZ zdecyduje,
+kto schwyta Barnesa.
+
+528
+00:40:30,610 --> 00:40:32,862
+To nie będzie konieczne.
+
+529
+00:40:33,863 --> 00:40:36,116
+Sam go zabiję.
+
+530
+00:40:42,163 --> 00:40:42,789
+Tak?
+
+531
+00:40:42,956 --> 00:40:44,165
+Nic ci się nie stało?
+
+532
+00:40:44,332 --> 00:40:47,210
+<i>Tak, dzięki, miałam szczęście.</i>
+
+533
+00:40:52,966 --> 00:40:56,636
+Wiem, że ty i Barnes byliście blisko.
+Rozumiem to.
+
+534
+00:40:57,679 --> 00:41:00,807
+Zostań w domu.
+Nie komplikuj sprawy.
+
+535
+00:41:00,974 --> 00:41:02,350
+<i>Nikomu z nas.</i>
+
+536
+00:41:02,517 --> 00:41:03,393
+<i>Proszę.</i>
+
+537
+00:41:03,560 --> 00:41:04,644
+Aresztujesz mnie?
+
+538
+00:41:04,811 --> 00:41:06,312
+Nie.
+
+539
+00:41:07,355 --> 00:41:08,481
+Ale oni tak.
+
+540
+00:41:08,648 --> 00:41:10,859
+<i>Jeśli się wtrącisz.
+Tak to teraz działa.</i>
+
+541
+00:41:11,025 --> 00:41:14,154
+Jeśli tak z nim źle,
+to ja powinienem go zwinąć.
+
+542
+00:41:14,320 --> 00:41:15,196
+<i>Czemu?</i>
+
+543
+00:41:15,363 --> 00:41:18,158
+Bo ja będę miał
+największe szanse przeżycia.
+
+544
+00:41:20,076 --> 00:41:20,994
+Cholera.
+
+545
+00:41:25,498 --> 00:41:27,333
+Zakazała ci się wtrącać?
+
+546
+00:41:29,085 --> 00:41:30,086
+Może i słusznie.
+
+547
+00:41:30,253 --> 00:41:31,379
+On by mnie ratował.
+
+548
+00:41:31,546 --> 00:41:33,047
+W 1945 roku to może.
+
+549
+00:41:33,214 --> 00:41:36,009
+Chcę rozważyć wszystkie za i przeciw.
+
+550
+00:41:36,176 --> 00:41:39,345
+Ci, co do ciebie strzelają,
+zwykle strzelają i do mnie.
+
+551
+00:41:41,681 --> 00:41:44,434
+Spływa masa informacji,
+odkąd puścili nagranie.
+
+552
+00:41:44,601 --> 00:41:46,519
+Chyba wszyscy
+chodzą z Barnesem na siłkę.
+
+553
+00:41:46,936 --> 00:41:48,438
+Czyli same bzdety.
+
+554
+00:41:48,605 --> 00:41:49,898
+Oprócz tego.
+
+555
+00:41:51,858 --> 00:41:54,194
+Mój szef domaga się raportu.
+Na wczoraj,
+
+556
+00:41:54,360 --> 00:41:56,529
+więc będziemy deptać ci po piętach.
+
+557
+00:41:56,696 --> 00:41:57,572
+Dziękuję.
+
+558
+00:41:57,739 --> 00:41:59,532
+Lepiej sie pospiesz.
+
+559
+00:42:00,450 --> 00:42:02,202
+Jest rozkaz strzelać bez rozkazu.
+
+560
+00:42:08,541 --> 00:42:11,377
+Powrót do ojczyzny
+
+561
+00:42:13,046 --> 00:42:14,047
+Jeden
+
+562
+00:42:14,714 --> 00:42:15,548
+Jeden
+
+563
+00:42:20,720 --> 00:42:22,722
+Wagon towarowy
+
+564
+00:42:34,109 --> 00:42:36,027
+Śniadanie dla pana.
+
+565
+00:42:39,739 --> 00:42:41,866
+Przez drzwi czułem jak pachnie.
+
+566
+00:42:42,075 --> 00:42:43,910
+Bekon i czarna kawa.
+
+567
+00:42:44,077 --> 00:42:44,577
+Znowu.
+
+568
+00:42:45,078 --> 00:42:47,080
+Mogę też panu przyrządzić coś innego.
+
+569
+00:42:47,247 --> 00:42:47,956
+Jest wspaniale.
+
+570
+00:42:48,206 --> 00:42:49,374
+Postawię na...
+
+571
+00:42:49,874 --> 00:42:51,417
+Nie trzeba. Dam sobie radę.
+
+572
+00:43:14,941 --> 00:43:19,154
+BUKARESZT
+
+573
+00:43:46,097 --> 00:43:47,682
+ZIMOWY ŻOŁNIERZ
+
+574
+00:44:24,677 --> 00:44:25,678
+<i>Uważaj, Steve.</i>
+
+575
+00:44:25,845 --> 00:44:28,181
+<i>Niemieccy antyterroryści.
+Idą od południa.</i>
+
+576
+00:44:28,973 --> 00:44:30,183
+Zrozumiałem.
+
+577
+00:44:39,067 --> 00:44:40,026
+Ty mnie znasz?
+
+578
+00:44:43,154 --> 00:44:44,531
+Jesteś Steve.
+
+579
+00:44:45,406 --> 00:44:47,700
+Czytałem o tobie w muzeum.
+
+580
+00:44:48,201 --> 00:44:49,953
+<i>Otoczyli budynek.</i>
+
+581
+00:44:50,995 --> 00:44:54,290
+Jesteś zdenerwowany.
+I masz ku temu powody.
+
+582
+00:44:56,042 --> 00:44:57,710
+Ale kłamiesz.
+
+583
+00:44:58,795 --> 00:45:00,797
+Nie było mnie w Wiedniu.
+Już się w to nie bawię.
+
+584
+00:45:00,964 --> 00:45:02,173
+<i>Wchodzą do środka.</i>
+
+585
+00:45:02,340 --> 00:45:04,634
+Ci, co tu idą, są innego zdania.
+
+586
+00:45:04,801 --> 00:45:06,678
+Nie mają zamiaru brać cię żywcem.
+
+587
+00:45:06,845 --> 00:45:08,304
+I słusznie.
+
+588
+00:45:08,471 --> 00:45:09,681
+Rozsądna taktyka.
+
+589
+00:45:11,182 --> 00:45:12,725
+<i>Są na dachu. Nie mam manewru.</i>
+
+590
+00:45:16,020 --> 00:45:17,647
+To da się rozwiązać bez wojny.
+
+591
+00:45:22,694 --> 00:45:24,737
+- Wojna to tylko kwestia czasu.
+<i>- 5 sekund.</i>
+
+592
+00:45:25,697 --> 00:45:27,323
+Wyciągnąłeś mnie z rzeki.
+
+593
+00:45:27,866 --> 00:45:28,867
+Dlaczego?
+
+594
+00:45:29,742 --> 00:45:31,536
+- Nie wiem.
+<i>- Trzy.</i>
+
+595
+00:45:31,828 --> 00:45:33,413
+Owszem, wiesz.
+
+596
+00:45:34,706 --> 00:45:35,748
+<i>Uwaga! Uwaga!</i>
+
+597
+00:45:56,352 --> 00:45:57,270
+Buck, opanuj się!
+
+598
+00:45:57,937 --> 00:45:59,105
+Zabijesz kogoś.
+
+599
+00:46:01,775 --> 00:46:03,109
+Nie zamierzam.
+
+600
+00:46:49,447 --> 00:46:50,990
+Podejrzany ucieka.
+
+601
+00:46:51,324 --> 00:46:52,117
+Schodzi wschodnią klatką.
+
+602
+00:47:03,670 --> 00:47:04,504
+Proszę.
+
+603
+00:48:09,486 --> 00:48:10,904
+Sam, południowy narożnik.
+
+604
+00:48:11,070 --> 00:48:12,405
+<i>Co to za nowy zawodnik?</i>
+
+605
+00:48:12,572 --> 00:48:13,573
+Zaraz się dowiem.
+
+606
+00:48:26,377 --> 00:48:28,171
+- Sam?
+<i>- Robi się.</i>
+
+607
+00:49:09,796 --> 00:49:10,797
+Zatrzymać się!
+
+608
+00:49:13,967 --> 00:49:14,968
+Zatrzymać się!
+
+609
+00:49:43,955 --> 00:49:45,373
+Sam, nowy się czepia.
+
+610
+00:49:45,540 --> 00:49:46,833
+Masz mnie na ogonie.
+
+611
+00:51:21,761 --> 00:51:23,972
+Poddajcie się.
+
+612
+00:51:31,062 --> 00:51:32,772
+<i>Gratulacje, kapitanie.</i>
+
+613
+00:51:32,939 --> 00:51:34,566
+<i>Zostałeś przestępcą.</i>
+
+614
+00:51:57,464 --> 00:51:58,673
+<i>Wasza Wysokość.</i>
+
+615
+00:52:05,013 --> 00:52:07,015
+„Szczypta papryki”.
+
+616
+00:52:07,182 --> 00:52:08,183
+Szczypta.
+
+617
+00:52:12,103 --> 00:52:13,980
+Robisz paprykarz?
+
+618
+00:52:14,147 --> 00:52:17,442
+Pomyślałem, że poprawi ci humor.
+
+619
+00:52:30,663 --> 00:52:32,665
+Poprawi i to jak.
+
+620
+00:52:34,209 --> 00:52:39,130
+Pamiętaj, że ja jeszcze właściwie
+nigdy niczego nie jadłem, więc...
+
+621
+00:52:39,297 --> 00:52:40,507
+Pozwolisz?
+
+622
+00:52:40,673 --> 00:52:41,549
+Proszę.
+
+623
+00:52:48,723 --> 00:52:50,016
+Wanda?
+
+624
+00:52:50,350 --> 00:52:52,102
+Nie masz tu wrogów, wiesz?
+
+625
+00:52:54,562 --> 00:52:55,438
+Dzięki.
+
+626
+00:52:55,605 --> 00:52:56,564
+Nie ma za co.
+
+627
+00:52:56,731 --> 00:53:00,026
+Nie, to reakcja automatyczna
+ciała migdałowego.
+
+628
+00:53:00,193 --> 00:53:02,278
+Chcą czy nie chcą, boją się ciebie.
+
+629
+00:53:02,445 --> 00:53:03,196
+Ty też?
+
+630
+00:53:03,530 --> 00:53:05,532
+Mam mózg z plastiku, tak że...
+
+631
+00:53:09,035 --> 00:53:12,455
+Kiedyś myślałam, że wiem, kim jestem.
+
+632
+00:53:13,873 --> 00:53:15,750
+Ale odkąd mam to...
+
+633
+00:53:16,209 --> 00:53:18,378
+stałam się innym człowiekiem.
+
+634
+00:53:18,545 --> 00:53:22,298
+Niby wciąż ja to ja,
+
+635
+00:53:24,300 --> 00:53:26,970
+ale nie wszyscy tak to widzą.
+
+636
+00:53:29,931 --> 00:53:32,392
+Ty wiesz, że nie wiem, co to jest?
+
+637
+00:53:33,226 --> 00:53:34,269
+Naprawdę.
+
+638
+00:53:34,727 --> 00:53:36,312
+Wiem, że nie pochodzi z Ziemi,
+
+639
+00:53:36,479 --> 00:53:40,233
+że wykorzystywał to Loki,
+że dało ci twoje moce,
+
+640
+00:53:41,651 --> 00:53:44,988
+ale sedno zjawiska pozostaje tajemnicą.
+
+641
+00:53:45,155 --> 00:53:47,240
+Jednocześnie jest częścią mnie.
+
+642
+00:53:47,407 --> 00:53:48,575
+Boisz się tego?
+
+643
+00:53:49,242 --> 00:53:51,578
+Chcę pojąć jego naturę.
+
+644
+00:53:51,744 --> 00:53:53,913
+Jak to osiągnę, straci nade mną władzę.
+
+645
+00:53:54,080 --> 00:53:56,958
+Może kiedyś... Kto wie?
+
+646
+00:53:57,125 --> 00:53:58,585
+To ja przejmę kontrolę.
+
+647
+00:54:01,296 --> 00:54:05,133
+Nie pojmuję tego, ale na razie
+jego naturą nie jest papryka.
+
+648
+00:54:05,925 --> 00:54:08,094
+Skoczę do sklepu.
+
+649
+00:54:08,595 --> 00:54:10,638
+Wrócę za 20 minut.
+
+650
+00:54:10,805 --> 00:54:14,100
+A może zadzwonimy po pizzę?
+
+651
+00:54:15,101 --> 00:54:18,021
+Vision. Czy to jest areszt domowy?
+
+652
+00:54:19,939 --> 00:54:21,441
+To kwestia bezpieczeństwa.
+
+653
+00:54:21,649 --> 00:54:23,610
+Dam sobie radę.
+
+654
+00:54:24,944 --> 00:54:26,321
+Nie twojego.
+
+655
+00:54:27,989 --> 00:54:32,494
+Pan Stark chce zminimalizować
+szanse na kolejny incydent,
+
+656
+00:54:33,036 --> 00:54:37,123
+dopóki Protokół nie zyska
+stabilniejszej podstawy.
+
+657
+00:54:39,626 --> 00:54:41,628
+A tobie na czym zależy?
+
+658
+00:54:42,670 --> 00:54:44,172
+Żeby widzieli cię taką,
+
+659
+00:54:45,131 --> 00:54:46,716
+jaką ja cię widzę.
+
+660
+00:55:19,624 --> 00:55:20,625
+To co, lubisz koty?
+
+661
+00:55:20,792 --> 00:55:22,544
+- Sam.
+- No co?
+
+662
+00:55:22,710 --> 00:55:25,171
+Gość przebrał się za kota,
+to się pytam.
+
+663
+00:55:27,507 --> 00:55:29,300
+Twój strój to wibranium?
+
+664
+00:55:32,846 --> 00:55:37,016
+Czarna Pantera broni Wakandy
+od wielu pokoleń.
+
+665
+00:55:38,143 --> 00:55:41,646
+Jak miecz przekazywany
+z ojca na syna.
+
+666
+00:55:43,022 --> 00:55:45,859
+A teraz, ponieważ twój kolega
+zabił mi ojca,
+
+667
+00:55:46,901 --> 00:55:49,362
+królewski miecz trafił w moje ręce.
+
+668
+00:55:50,029 --> 00:55:51,531
+Zastanów się.
+
+669
+00:55:51,698 --> 00:55:54,701
+Pytam jako wojownik i władca.
+
+670
+00:55:55,743 --> 00:55:59,664
+Jak długo zdołasz
+bronić kolegę przede mną?
+
+671
+00:56:19,350 --> 00:56:20,602
+I co z nim zrobicie?
+
+672
+00:56:20,769 --> 00:56:25,273
+To, co i wam by się przydało:
+badanie psychiatryczne i ekstradycja.
+
+673
+00:56:25,482 --> 00:56:27,358
+Everett Ross,
+zastępca szefa sztabu.
+
+674
+00:56:28,026 --> 00:56:29,068
+Żądam adwokata.
+
+675
+00:56:29,235 --> 00:56:30,904
+Adwokata. Dobre.
+
+676
+00:56:31,070 --> 00:56:33,031
+Trzymajcie ich sprzęt pod kluczem.
+
+677
+00:56:33,198 --> 00:56:35,074
+Dostaniecie pokwitowania.
+
+678
+00:56:35,241 --> 00:56:38,912
+Tylko żeby mi nic
+nie latało pod oknem.
+
+679
+00:56:44,584 --> 00:56:47,587
+Umieszczę was w gabinecie,
+a nie w celi.
+
+680
+00:56:47,754 --> 00:56:49,881
+Tylko mam prośbę: nie wychodźcie.
+
+681
+00:56:50,548 --> 00:56:52,509
+Nigdzie się nie wybieram.
+
+682
+00:56:52,884 --> 00:56:56,554
+To właśnie miałam na myśli,
+mówiąc, że komplikujesz.
+
+683
+00:56:56,721 --> 00:56:57,847
+On żyje.
+
+684
+00:56:59,724 --> 00:57:01,935
+Rumunia nie podpisała Protokołu.
+
+685
+00:57:02,102 --> 00:57:03,728
+A pułkownik Rhodes usuwa ślady.
+
+686
+00:57:03,895 --> 00:57:05,772
+Nim posprzątamy,
+nie naróbcie bałaganu.
+
+687
+00:57:05,939 --> 00:57:08,358
+Konsekwencje?
+Stanowczo wyciągnę.
+
+688
+00:57:08,525 --> 00:57:11,778
+Oczywiście, może pan zacytować,
+to moje słowa. Coś jeszcze?
+
+689
+00:57:11,945 --> 00:57:12,946
+Dziękuję, szefie.
+
+690
+00:57:14,197 --> 00:57:15,448
+„Konsekwencje”?
+
+691
+00:57:15,615 --> 00:57:18,284
+Ross chce wytoczyć wam sprawę.
+Nie mogłem go zawieść.
+
+692
+00:57:18,451 --> 00:57:19,911
+Czyli tarczy nie odzyskam?
+
+693
+00:57:20,370 --> 00:57:22,956
+To własność rządu USA.
+Skrzydła też.
+
+694
+00:57:23,248 --> 00:57:24,290
+Ale zima.
+
+695
+00:57:24,457 --> 00:57:25,792
+W celi jest zimniej.
+
+696
+00:57:53,445 --> 00:57:55,530
+Pokazać ci coś ekstra?
+
+697
+00:57:56,322 --> 00:57:58,491
+Znalazłem w archiwach starego.
+
+698
+00:57:59,951 --> 00:58:01,327
+Ale na czasie.
+
+699
+00:58:05,540 --> 00:58:09,169
+Roosevelt podpisał nimi ustawę
+Lend-Lease Act w 1941 r.
+
+700
+00:58:09,586 --> 00:58:12,505
+Żeby wesprzeć Aliantów
+w najtrudniejszej chwili.
+
+701
+00:58:12,672 --> 00:58:14,841
+Niektórzy twierdzą,
+że tak wplątał nas w wojnę.
+
+702
+00:58:16,509 --> 00:58:18,887
+Dzięki nim jeszcze chodzisz po świecie.
+
+703
+00:58:20,555 --> 00:58:23,057
+Usiłuję tylko... Jak to się nazywa...?
+
+704
+00:58:23,224 --> 00:58:25,185
+To gałązka oliwna.
+
+705
+00:58:26,019 --> 00:58:27,520
+Tak się to mówi?
+
+706
+00:58:28,938 --> 00:58:31,399
+Pepper też tu jest? Nie widziałem jej.
+
+707
+00:58:32,650 --> 00:58:34,944
+Jesteśmy trochę...
+
+708
+00:58:35,612 --> 00:58:37,280
+- To znaczy...
+- W ciąży?
+
+709
+00:58:37,655 --> 00:58:39,157
+Nie. Absolutnie.
+
+710
+00:58:39,324 --> 00:58:41,117
+Odpoczywamy od siebie.
+
+711
+00:58:41,284 --> 00:58:42,702
+To niczyja wina.
+
+712
+00:58:44,287 --> 00:58:45,747
+Przykro mi. Nie wiedziałem.
+
+713
+00:58:46,498 --> 00:58:49,459
+Parę lat temu mało nie zginęła.
+Skasowałem wszystkie zbroje.
+
+714
+00:58:50,418 --> 00:58:52,295
+Potem ta historia z Hydrą.
+
+715
+00:58:52,462 --> 00:58:54,798
+A potem Ultron. Moja wina.
+
+716
+00:58:54,964 --> 00:58:58,176
+I tak dalej, i tak dalej, i tak dalej.
+
+717
+00:58:58,343 --> 00:59:00,804
+Tak naprawdę nie chcę odpuścić.
+
+718
+00:59:02,096 --> 00:59:04,140
+Stracić jej też nie chcę.
+
+719
+00:59:04,307 --> 00:59:07,102
+Liczyłem, że Protokół
+to będzie jakiś kompromis.
+
+720
+00:59:10,563 --> 00:59:12,732
+Ciężko ze mną wytrzymać.
+
+721
+00:59:13,942 --> 00:59:18,279
+Z ojca też był złamas,
+ale jakoś się z mamą dogadywali.
+
+722
+00:59:18,446 --> 00:59:19,906
+Cieszyłem się, że się ożenił.
+
+723
+00:59:20,615 --> 00:59:22,575
+Znałem go jako szalonego kawalera.
+
+724
+00:59:22,742 --> 00:59:26,121
+To wy się wtedy znaliście?
+Nic mi nie mówił.
+
+725
+00:59:26,287 --> 00:59:28,915
+No może z milion razy.
+
+726
+00:59:29,666 --> 00:59:31,084
+Nienawidziłem cię.
+
+727
+00:59:32,919 --> 00:59:34,546
+Nie chcę nikomu utrudniać życia.
+
+728
+00:59:34,712 --> 00:59:37,006
+Wiem,
+kulturalny z ciebie człowiek.
+
+729
+00:59:37,632 --> 00:59:39,926
+Kiedy widzę, że sprawy stoją źle,
+
+730
+00:59:40,760 --> 00:59:42,303
+nie mogę tego olać.
+
+731
+00:59:42,470 --> 00:59:43,847
+Choć czasem bym chciał.
+
+732
+00:59:44,013 --> 00:59:45,098
+Wcale nie.
+
+733
+00:59:48,059 --> 00:59:50,061
+Fakt, nie chcę.
+
+734
+00:59:50,270 --> 00:59:51,271
+Bywa, że...
+
+735
+00:59:51,438 --> 00:59:54,482
+Bywa, że walnąłbym cię
+w te idealne ząbki.
+
+736
+00:59:55,191 --> 00:59:56,651
+Ale nie chcę cię stracić.
+
+737
+00:59:57,277 --> 00:59:59,070
+Jesteś nam potrzebny.
+
+738
+00:59:59,487 --> 01:00:02,824
+Na razie wszystko można odkręcić.
+Podpisz tylko.
+
+739
+01:00:03,366 --> 01:00:05,243
+Twoja akcja będzie legalna,
+
+740
+01:00:05,410 --> 01:00:07,704
+a Barnes trafi do czubków w USA,
+
+741
+01:00:07,871 --> 01:00:09,831
+zamiast do pierdla w Wakandzie.
+
+742
+01:00:21,718 --> 01:00:23,052
+Może i podpiszę,
+
+743
+01:00:23,219 --> 01:00:25,180
+ale niezbędne będą poprawki.
+
+744
+01:00:25,346 --> 01:00:26,389
+Spoko.
+
+745
+01:00:26,556 --> 01:00:30,310
+Ugasimy tylko pożar w mediach.
+Wtedy możemy szlifować Protokół.
+
+746
+01:00:30,477 --> 01:00:32,353
+Zawnioskuję,
+by przywrócić ciebie i Wandę...
+
+747
+01:00:32,520 --> 01:00:34,355
+Wandę? Co ona wam zrobiła?
+
+748
+01:00:34,522 --> 01:00:36,065
+Nic jej nie jest.
+Siedzi sobie w bazie.
+
+749
+01:00:36,232 --> 01:00:37,484
+Vision ją zabawia.
+
+750
+01:00:37,650 --> 01:00:38,735
+O rany, Tony.
+
+751
+01:00:38,902 --> 01:00:41,154
+Ile razy myślę,
+że jesteś w porządku...
+
+752
+01:00:41,321 --> 01:00:43,490
+To wielka posiadłość
+z basenem i kinem.
+
+753
+01:00:43,656 --> 01:00:45,825
+- Są gorsze metody ochrony ludzi.
+- Ochrony?
+
+754
+01:00:46,493 --> 01:00:49,704
+Wierzysz w to?
+Że to dla jej dobra? Jest internowana.
+
+755
+01:00:49,871 --> 01:00:51,372
+- Nie jest obywatelką USA.
+- Przestań.
+
+756
+01:00:51,539 --> 01:00:52,874
+Nie dadzą wizy chodzącej bombie.
+
+757
+01:00:53,041 --> 01:00:53,833
+To dziecko!
+
+758
+01:00:54,000 --> 01:00:55,502
+Nie chrzań.
+
+759
+01:00:56,544 --> 01:00:58,588
+Robię, co trzeba zrobić.
+
+760
+01:00:58,755 --> 01:01:00,548
+Żeby uniknąć czegoś gorszego.
+
+761
+01:01:03,676 --> 01:01:05,678
+Sam nie wierzysz w to, co mówisz.
+
+762
+01:01:08,765 --> 01:01:10,058
+Nie chcę zdekompletować.
+
+763
+01:01:17,440 --> 01:01:19,359
+<i>Dzień dobry, panie Barnes.</i>
+
+764
+01:01:20,026 --> 01:01:22,362
+<i>Z ramienia ONZ mam pana zbadać.</i>
+
+765
+01:01:22,529 --> 01:01:24,781
+<i>Mogę usiąść?</i>
+
+766
+01:01:29,702 --> 01:01:31,371
+<i>Ma pan na imię James.</i>
+
+767
+01:01:32,872 --> 01:01:34,749
+Pokwitowanie za sprzęt.
+
+768
+01:01:36,584 --> 01:01:38,294
+„Kostium ptaka”? No weź.
+
+769
+01:01:38,461 --> 01:01:40,213
+Nie ja to pisałam.
+
+770
+01:01:46,219 --> 01:01:47,887
+<i>Nie zamierzam cię osądzać.</i>
+
+771
+01:01:48,221 --> 01:01:49,722
+<i>A zadać kilka pytań.</i>
+
+772
+01:01:51,433 --> 01:01:53,726
+<i>Czy wiesz,
+gdzie się znajdujesz, James?</i>
+
+773
+01:01:56,896 --> 01:01:59,691
+<i>Nie pomogę ci,
+jeśli ze mną nie porozmawiasz.</i>
+
+774
+01:02:00,567 --> 01:02:02,610
+<i>Na imię mam Bucky.</i>
+
+775
+01:02:11,202 --> 01:02:12,620
+Halo?
+
+776
+01:02:41,274 --> 01:02:44,277
+Po co opublikowaliście to zdjęcie?
+
+777
+01:02:44,444 --> 01:02:46,654
+Wszyscy go zobaczą,
+szybciej się znajdzie.
+
+778
+01:02:46,821 --> 01:02:49,783
+Jasne. Niezły trik,
+by wykurzyć kogoś z nory.
+
+779
+01:02:49,949 --> 01:02:51,951
+Jedna bomba, jedno zdjęcie.
+
+780
+01:02:52,118 --> 01:02:54,120
+I cały świat
+szuka Zimowego Żołnierza.
+
+781
+01:02:54,287 --> 01:02:56,122
+Ktoś go wrobił, żeby go znaleźć?
+
+782
+01:02:56,289 --> 01:02:58,333
+Steve,
+polowaliśmy na gościa 2 lata i nic.
+
+783
+01:02:58,500 --> 01:03:00,668
+Nie wysadziliśmy ONZ.
+A to zwraca uwagę.
+
+784
+01:03:00,835 --> 01:03:03,129
+Ale ten, co go wrobił,
+nie miał gwarancji, że go złapie.
+
+785
+01:03:03,296 --> 01:03:05,131
+Tylko że złapiemy go my.
+
+786
+01:03:11,304 --> 01:03:12,138
+Zgadza się.
+
+787
+01:03:15,016 --> 01:03:16,476
+Powiedz, Bucky.
+
+788
+01:03:16,768 --> 01:03:19,145
+Niejedno w życiu widziałeś, co?
+
+789
+01:03:20,480 --> 01:03:22,524
+Nie chcę o tym rozmawiać.
+
+790
+01:03:23,274 --> 01:03:27,737
+Obawiasz się, że jak otworzysz usta,
+ten koszmar powróci?
+
+791
+01:03:31,491 --> 01:03:32,450
+Nie obawiaj się.
+
+792
+01:03:33,284 --> 01:03:34,577
+PRZESYŁKA DOSTARCZONA
+
+793
+01:03:35,662 --> 01:03:38,248
+Wystarczy, że omówimy jeden z nich.
+
+794
+01:04:02,188 --> 01:04:04,149
+Ej, chcę wiedzieć, co robi Barnes.
+
+795
+01:04:04,941 --> 01:04:07,527
+Friday, wiesz już coś o tej awarii?
+
+796
+01:04:08,862 --> 01:04:10,947
+Jest na poziomie dwa, skrzydło E.
+
+797
+01:04:14,367 --> 01:04:15,869
+Co tu się dzieje?
+
+798
+01:04:16,035 --> 01:04:17,662
+Porozmawiajmy o twoim domu.
+
+799
+01:04:17,829 --> 01:04:20,874
+Ale nie tym w Rumunii.
+I oczywiście nie na Brooklynie.
+
+800
+01:04:21,875 --> 01:04:25,670
+Chodzi mi o twój prawdziwy dom.
+
+801
+01:04:31,551 --> 01:04:32,719
+Tęsknota
+
+802
+01:04:33,470 --> 01:04:34,512
+Nie.
+
+803
+01:04:35,972 --> 01:04:36,681
+Zardzewiały
+
+804
+01:04:37,015 --> 01:04:37,682
+Przestań.
+
+805
+01:04:38,516 --> 01:04:39,476
+Siedemnaście
+
+806
+01:04:41,811 --> 01:04:42,812
+Przestań.
+
+807
+01:04:45,231 --> 01:04:45,732
+Świt
+
+808
+01:04:52,405 --> 01:04:52,989
+Piec
+
+809
+01:04:56,075 --> 01:04:56,910
+Dziewięć
+
+810
+01:05:00,079 --> 01:05:01,247
+Dobroduszny
+
+811
+01:05:04,751 --> 01:05:06,336
+Powrót do ojczyzny
+
+812
+01:05:07,086 --> 01:05:07,921
+Jeden
+
+813
+01:05:09,547 --> 01:05:10,423
+Wagon towarowy
+
+814
+01:05:27,107 --> 01:05:28,191
+Żołnierzu?
+
+815
+01:05:31,194 --> 01:05:32,445
+Gotów na rozkazy.
+
+816
+01:05:33,279 --> 01:05:39,119
+Raport z misji.
+16 grudnia, 1991.
+
+817
+01:05:49,295 --> 01:05:50,630
+Pomocy!
+
+818
+01:05:51,297 --> 01:05:52,298
+Ratunku.
+
+819
+01:05:55,385 --> 01:05:56,386
+Wstawaj.
+
+820
+01:05:59,722 --> 01:06:01,599
+Kim jesteś? I czego chcesz?
+
+821
+01:06:02,976 --> 01:06:05,061
+Zobaczyć upadek imperium.
+
+822
+01:06:37,093 --> 01:06:38,094
+Ty!
+
+823
+01:06:44,851 --> 01:06:46,227
+Ewakuować cywilów.
+
+824
+01:06:46,394 --> 01:06:48,646
+Kordon wokół budynków
+i helikoptery.
+
+825
+01:06:48,813 --> 01:06:50,315
+Mam nadzieję, że idziesz się przebrać.
+
+826
+01:06:50,482 --> 01:06:52,901
+To świetny garnitur.
+Trzyczęściowy, dwa guziki.
+
+827
+01:06:53,067 --> 01:06:54,694
+Miałem się nie angażować.
+
+828
+01:06:55,195 --> 01:06:56,654
+Chodźcie za mną.
+
+829
+01:07:13,379 --> 01:07:14,380
+<i>Jesteśmy.</i>
+
+830
+01:07:46,955 --> 01:07:48,957
+Nie poznajesz mnie?
+
+831
+01:08:42,051 --> 01:08:43,303
+W mordę.
+
+832
+01:10:20,525 --> 01:10:22,735
+<i>Znowu pytał, czy przyjdziesz.</i>
+
+833
+01:10:22,902 --> 01:10:24,696
+<i>Powiedziałam, że nie wiem.</i>
+
+834
+01:10:24,863 --> 01:10:27,699
+<i>Nie masz pojęcia, jaką zrobił minę.
+Postaraj się.</i>
+
+835
+01:10:28,324 --> 01:10:30,118
+<i>Idę spać.</i>
+
+836
+01:10:30,285 --> 01:10:31,661
+<i>Kocham cię.</i>
+
+837
+01:10:35,623 --> 01:10:37,542
+<i>James Barnes podejrzany</i>
+
+838
+01:10:37,584 --> 01:10:39,544
+<i>o wysadzenie budynku ONZ
+w Wiedniu...</i>
+
+839
+01:10:39,711 --> 01:10:41,171
+<i>... uciekł dziś z aresztu.</i>
+
+840
+01:10:41,463 --> 01:10:44,382
+<i>Na wolność wydostali się także
+Steve Rogers</i>
+
+841
+01:10:44,549 --> 01:10:45,467
+<i>i Sam Wilson.</i>
+
+842
+01:10:49,679 --> 01:10:51,890
+Moskwa
+
+843
+01:11:09,491 --> 01:11:10,575
+Kapitanie!
+
+844
+01:11:23,213 --> 01:11:24,297
+Steve.
+
+845
+01:11:25,465 --> 01:11:27,717
+Którym Buckym teraz jesteś?
+
+846
+01:11:29,302 --> 01:11:31,387
+Twoja mama miała na imię Sarah.
+
+847
+01:11:35,517 --> 01:11:38,770
+A ty wypychałeś buty gazetami.
+
+848
+01:11:40,188 --> 01:11:43,274
+- Tego nie było w muzeum.
+- I co, już czysty?
+
+849
+01:11:43,650 --> 01:11:44,943
+Narozrabiałem?
+
+850
+01:11:45,110 --> 01:11:45,944
+Raczej.
+
+851
+01:11:46,111 --> 01:11:47,904
+Wiedziałem, że tak będzie.
+
+852
+01:11:48,071 --> 01:11:50,365
+Nadal jestem zaprogramowany
+przez Hydrę.
+
+853
+01:11:50,532 --> 01:11:52,492
+Wystarczyło, że facet znał parę słów.
+
+854
+01:11:52,659 --> 01:11:54,285
+- Kto to jest?
+- Nie znam go.
+
+855
+01:11:54,452 --> 01:11:56,454
+Wszystkie ofiary, zamach, areszt.
+
+856
+01:11:56,621 --> 01:11:58,957
+Chodziło mu o to,
+by dotrzeć do ciebie.
+
+857
+01:11:59,124 --> 01:12:00,917
+W tej sytuacji „nie znam go”, to mało.
+
+858
+01:12:04,671 --> 01:12:07,298
+Pytał o Syberię.
+
+859
+01:12:09,968 --> 01:12:11,678
+Gdzie mnie trzymali.
+
+860
+01:12:13,471 --> 01:12:15,223
+Chciał wiedzieć, gdzie to było.
+
+861
+01:12:15,390 --> 01:12:17,725
+Po co mu taka informacja?
+
+862
+01:12:19,769 --> 01:12:22,730
+Nie jestem jedynym
+Zimowym Żołnierzem.
+
+863
+01:13:15,784 --> 01:13:17,410
+Boli!
+
+864
+01:13:55,031 --> 01:13:56,199
+Bardzo dobrze.
+
+865
+01:14:07,377 --> 01:14:08,753
+Wyprowadź mnie stąd.
+
+866
+01:14:22,809 --> 01:14:23,935
+Co to za jedni?
+
+867
+01:14:24,102 --> 01:14:25,687
+Elitarny szwadron śmierci.
+
+868
+01:14:25,854 --> 01:14:27,939
+Najskuteczniejszy w dziejach Hydry.
+
+869
+01:14:28,106 --> 01:14:29,399
+Przed podaniem serum.
+
+870
+01:14:29,566 --> 01:14:31,985
+- Wszyscy są tacy jak ty?
+- Gorsi.
+
+871
+01:14:32,569 --> 01:14:34,404
+A ten lekarz, będą go słuchać?
+
+872
+01:14:35,321 --> 01:14:36,739
+Na ogół tak.
+
+873
+01:14:36,906 --> 01:14:38,741
+Mówił, że chce obalić imperium.
+
+874
+01:14:38,908 --> 01:14:40,618
+Z nimi może mu się udać.
+
+875
+01:14:40,785 --> 01:14:43,163
+Znają po 30 języków,
+umieją wtopić się w tło,
+
+876
+01:14:43,329 --> 01:14:45,457
+zinfiltrować, niszczyć cele.
+
+877
+01:14:45,623 --> 01:14:48,710
+Obalą rząd w jedną noc
+zanim się ktoś zorientuje.
+
+878
+01:14:51,421 --> 01:14:53,465
+Tydzień temu sprawa byłaby prostsza.
+
+879
+01:14:54,048 --> 01:14:56,092
+- Zadzwońmy do Tony'ego.
+- Nie uwierzy.
+
+880
+01:14:56,259 --> 01:14:59,179
+- A nawet jeśli...
+- Ma ręce związane przez Protokół.
+
+881
+01:15:00,597 --> 01:15:01,598
+To jesteśmy sami.
+
+882
+01:15:03,016 --> 01:15:03,850
+Zobaczy się.
+
+883
+01:15:05,894 --> 01:15:07,520
+Znam jednego gościa.
+
+884
+01:15:08,438 --> 01:15:11,524
+Rozumiem, że nie macie pojęcia,
+gdzie teraz są.
+
+885
+01:15:11,691 --> 01:15:12,400
+Chwilowo.
+
+886
+01:15:12,567 --> 01:15:16,112
+Siły specjalne pilnują granic.
+Patrole latają całą dobę.
+
+887
+01:15:16,279 --> 01:15:17,697
+Jeden sygnał i są moi.
+
+888
+01:15:17,864 --> 01:15:19,657
+Nie kapujesz.
+Odsuwam cię.
+
+889
+01:15:19,824 --> 01:15:22,202
+Brakuje ci obiektywizmu.
+
+890
+01:15:22,368 --> 01:15:23,870
+Śledztwo przejmą siły specjalne.
+
+891
+01:15:24,037 --> 01:15:26,498
+A jeśli dojdzie do wymiany ognia?
+Zabijecie Rogersa?
+
+892
+01:15:26,664 --> 01:15:27,999
+Jeśli nas sprowokują.
+
+893
+01:15:28,166 --> 01:15:31,461
+Barnes zostałby zlikwidowany
+w Rumunii, gdyby nie Rogers.
+
+894
+01:15:31,628 --> 01:15:35,423
+Zginęłoby mniej ludzi.
+
+895
+01:15:36,424 --> 01:15:38,301
+Znajdź błąd w tym rozumowaniu.
+
+896
+01:15:38,468 --> 01:15:41,137
+Nie gniewaj się,
+ale twoja armia tu nie wystarczy.
+
+897
+01:15:41,304 --> 01:15:42,514
+Daj nam to załatwić.
+
+898
+01:15:42,680 --> 01:15:44,599
+I niby nie skończy się
+tak jak ostatnio?
+
+899
+01:15:44,766 --> 01:15:47,644
+Teraz nie wystąpię
+w mokasynach i koszuli.
+
+900
+01:15:48,770 --> 01:15:50,730
+Góra trzy doby. Daję głowę.
+
+901
+01:15:50,897 --> 01:15:52,732
+Półtorej doby.
+
+902
+01:15:54,275 --> 01:15:55,568
+Barnes.
+
+903
+01:15:57,070 --> 01:15:58,404
+Rogers.
+
+904
+01:15:59,114 --> 01:16:00,031
+Wilson.
+
+905
+01:16:00,198 --> 01:16:02,200
+Dziękuję, sir.
+
+906
+01:16:05,662 --> 01:16:07,580
+Drętwieje mi lewa ręka, to normalne?
+
+907
+01:16:11,000 --> 01:16:13,336
+- Trzymasz się?
+- Jak zawsze.
+
+908
+01:16:17,423 --> 01:16:19,676
+Półtorej doby.
+
+909
+01:16:19,843 --> 01:16:21,886
+Mamy spore braki kadrowe.
+
+910
+01:16:22,053 --> 01:16:23,221
+Oj, tak.
+
+911
+01:16:23,388 --> 01:16:26,433
+Przydałby się Hulk.
+Jakieś szanse?
+
+912
+01:16:28,309 --> 01:16:30,937
+Myślisz, że byłby po naszej stronie?
+
+913
+01:16:31,104 --> 01:16:32,063
+Nie.
+
+914
+01:16:32,230 --> 01:16:33,523
+Ale mam pomysł.
+
+915
+01:16:33,690 --> 01:16:36,109
+Ja też. Gdzie jest twój?
+
+916
+01:16:36,276 --> 01:16:38,069
+Na dole.
+
+917
+01:16:38,236 --> 01:16:39,404
+A twój gdzie?
+
+918
+01:17:01,384 --> 01:17:02,760
+Cześć.
+
+919
+01:17:02,927 --> 01:17:04,095
+Hej.
+
+920
+01:17:06,222 --> 01:17:07,974
+Co tam w szkole?
+
+921
+01:17:08,141 --> 01:17:09,392
+W porządku.
+
+922
+01:17:09,559 --> 01:17:11,853
+Ktoś zajechał konkretną bryką.
+
+923
+01:17:15,356 --> 01:17:16,149
+Panie Parker.
+
+924
+01:17:19,319 --> 01:17:21,362
+Co pan tutaj...
+
+925
+01:17:21,529 --> 01:17:23,323
+Cześć, jestem Peter.
+
+926
+01:17:23,490 --> 01:17:24,741
+Tony.
+
+927
+01:17:25,158 --> 01:17:26,785
+Co cię sprowadza?
+
+928
+01:17:26,951 --> 01:17:30,038
+Chciałem cię poznać.
+Napisałem ci przecież maila.
+
+929
+01:17:30,246 --> 01:17:31,831
+- Tak, tak.
+- No.
+
+930
+01:17:32,540 --> 01:17:34,125
+- Na temat...
+- Nie mówiłeś o stypendium.
+
+931
+01:17:34,292 --> 01:17:35,752
+- O stypendium.
+- Z Fundacji.
+
+932
+01:17:35,919 --> 01:17:36,836
+- Właśnie.
+- No.
+
+933
+01:17:37,003 --> 01:17:39,088
+- Pamiętasz, poprosiłeś.
+- Tak.
+
+934
+01:17:39,255 --> 01:17:41,758
+Zgodziłem się. Wszystko gra.
+
+935
+01:17:42,467 --> 01:17:44,427
+Nic mi nie powiedziałeś.
+Co jest?
+
+936
+01:17:44,594 --> 01:17:45,678
+Ukrywasz coś przede mną?
+
+937
+01:17:45,845 --> 01:17:49,641
+Chciałem ci zrobić niespodziankę.
+Pomyślałem, że ci powiem...
+
+938
+01:17:50,892 --> 01:17:52,894
+- O co prosiłem?
+- Zaraz wyłuszczę.
+
+939
+01:17:53,061 --> 01:17:54,437
+Jasne, łuszcz.
+
+940
+01:17:54,604 --> 01:17:57,232
+Trudno mi uwierzyć,
+że to twoja ciocia.
+
+941
+01:17:57,398 --> 01:17:59,734
+Różne chodzą ciocie po świecie.
+
+942
+01:18:00,110 --> 01:18:02,278
+Ale keks jest jedyny w swoim rodzaju.
+
+943
+01:18:02,445 --> 01:18:03,822
+- Mogę ci przerwać?
+- Wal.
+
+944
+01:18:03,988 --> 01:18:07,784
+To stypendium pieniężne?
+
+945
+01:18:07,951 --> 01:18:10,370
+- Tak, konkretna sumka.
+- No proszę.
+
+946
+01:18:10,537 --> 01:18:12,163
+Pamiętaj, z kim rozmawiasz.
+
+947
+01:18:12,330 --> 01:18:14,415
+- Mogę z nim pogadać?
+- Oczywiście.
+
+948
+01:18:20,296 --> 01:18:23,591
+Ale jadłem gorsze.
+
+949
+01:18:24,884 --> 01:18:27,679
+No proszę, co my tu mamy.
+Styl retro?
+
+950
+01:18:27,846 --> 01:18:29,556
+Lombard? Komis?
+
+951
+01:18:29,722 --> 01:18:31,641
+- Śmietnik.
+- Jesteś nurkiem?
+
+952
+01:18:31,808 --> 01:18:32,934
+Nie, tylko...
+
+953
+01:18:33,101 --> 01:18:36,229
+Nie prosiłem o żadne stypendium.
+
+954
+01:18:36,771 --> 01:18:37,897
+- Ja mówię!
+- Okej.
+
+955
+01:18:38,064 --> 01:18:40,567
+Małe pytanko z gatunku retorycznych.
+
+956
+01:18:41,901 --> 01:18:43,862
+To jesteś ty, nie?
+
+957
+01:18:44,362 --> 01:18:45,155
+Nie.
+
+958
+01:18:45,321 --> 01:18:46,948
+- Czemu?
+- Tak.
+
+959
+01:18:47,866 --> 01:18:49,492
+Nieźle zasuwasz.
+
+960
+01:18:49,659 --> 01:18:52,787
+Rany, jak ty to robisz?
+Jakieś półtorej tony, 60 na godzinę.
+
+961
+01:18:52,954 --> 01:18:55,707
+Niełatwa rzecz.
+Niesamowity talent.
+
+962
+01:18:55,874 --> 01:18:59,377
+To jakieś filmiki z YouTube'a, tak?
+Znalazłeś gdzieś w sieci?
+
+963
+01:18:59,544 --> 01:19:01,671
+Tylko wiesz, to często są fejki.
+
+964
+01:19:03,047 --> 01:19:05,133
+- Widziałeś to nagranie.
+- Tak.
+
+965
+01:19:05,300 --> 01:19:07,093
+Jak to UFO nad Phoenix.
+
+966
+01:19:07,260 --> 01:19:08,094
+Dokładnie!
+
+967
+01:19:08,470 --> 01:19:09,804
+A to co?
+
+968
+01:19:19,022 --> 01:19:20,857
+Ty jesteś ten Spiderek.
+
+969
+01:19:21,024 --> 01:19:22,901
+Pająk-Stróż.
+Jesteś Spider-Boy?
+
+970
+01:19:25,737 --> 01:19:27,322
+Spider-Man.
+
+971
+01:19:27,697 --> 01:19:29,532
+Nie w tych rajstopkach.
+
+972
+01:19:30,074 --> 01:19:31,993
+To nie rajstopki.
+
+973
+01:19:33,411 --> 01:19:36,581
+A taki miałem dobry dzień, panie Stark.
+
+974
+01:19:36,748 --> 01:19:39,918
+Nie spóźniłem się,
+odtwarzacz DVD sam wpadł mi w ręce
+
+975
+01:19:40,543 --> 01:19:43,171
+i zaliczyłem klasówę z matmy.
+
+976
+01:19:43,880 --> 01:19:45,507
+Ktoś jeszcze wie? Ktokolwiek?
+
+977
+01:19:47,008 --> 01:19:48,134
+Nikt nie wie.
+
+978
+01:19:48,510 --> 01:19:50,512
+Nawet ta twoja ponętna ciocia?
+
+979
+01:19:50,678 --> 01:19:51,971
+Nie. Nie.
+
+980
+01:19:52,138 --> 01:19:54,724
+Odpada, dostałaby świra.
+
+981
+01:19:54,891 --> 01:19:56,601
+A jak ona świruje, to ja też.
+
+982
+01:19:56,768 --> 01:19:58,895
+Wiesz, co jest super?
+Ta twoja sieć.
+
+983
+01:20:00,105 --> 01:20:04,025
+Wytrzymałość na rozciąganie
+nieziemska. Kto ją wyprodukował?
+
+984
+01:20:04,317 --> 01:20:05,527
+Ja.
+
+985
+01:20:06,611 --> 01:20:08,196
+I łazisz po ścianach. Jak?
+
+986
+01:20:08,363 --> 01:20:09,614
+Jakieś przyssawki?
+
+987
+01:20:09,781 --> 01:20:11,074
+Długa historia. Kiedyś...
+
+988
+01:20:11,699 --> 01:20:13,910
+Jejciu! Ty coś w tym widzisz?
+
+989
+01:20:14,077 --> 01:20:15,078
+Tak, widzę.
+
+990
+01:20:15,245 --> 01:20:16,412
+Jestem ślepy.
+
+991
+01:20:17,372 --> 01:20:18,957
+Widzę doskonale.
+
+992
+01:20:19,124 --> 01:20:19,958
+Jasne?
+
+993
+01:20:20,125 --> 01:20:22,377
+Kiedy stało mi się to, co się stało,
+
+994
+01:20:22,544 --> 01:20:24,838
+totalnie wyostrzyły mi się zmysły.
+
+995
+01:20:25,380 --> 01:20:29,676
+I tak dostaję za dużo danych,
+tak łatwiej mi się skupić.
+
+996
+01:20:29,843 --> 01:20:32,178
+Potrzebujesz modernizacji.
+
+997
+01:20:32,345 --> 01:20:34,764
+Totalnej. Wszystkiego.
+
+998
+01:20:34,931 --> 01:20:35,974
+A od tego masz mnie.
+
+999
+01:20:38,810 --> 01:20:39,978
+Dlaczego to robisz?
+
+1000
+01:20:41,312 --> 01:20:43,982
+Co cię napędza?
+Dlaczego co rano wstajesz z wyrka?
+
+1001
+01:20:45,191 --> 01:20:46,401
+Bo...
+
+1002
+01:20:50,447 --> 01:20:54,159
+Bo całe życie byłem sobą. I nagle,
+pół roku temu, dostałem tych mocy.
+
+1003
+01:20:55,869 --> 01:20:58,246
+Sporo czytam, lubię komputery.
+
+1004
+01:20:59,456 --> 01:21:03,751
+Pograłbym w futbol, ale dawniej
+nie umiałem, to i teraz nie będę.
+
+1005
+01:21:03,918 --> 01:21:05,503
+- To nie byłoby fair.
+- Tak.
+
+1006
+01:21:05,670 --> 01:21:08,131
+Ale nie mogę się wygadać,
+więc siedzę cicho.
+
+1007
+01:21:12,302 --> 01:21:16,598
+Jeśli możesz robić to co ja,
+a nie robisz nic,
+
+1008
+01:21:18,850 --> 01:21:20,935
+to kiedy dzieje się coś złego,
+
+1009
+01:21:21,895 --> 01:21:23,563
+wtedy jest to twoja wina.
+
+1010
+01:21:28,193 --> 01:21:30,779
+Bronić słabszych, te sprawy?
+
+1011
+01:21:30,945 --> 01:21:33,156
+Chcesz naprawić świat i tak dalej?
+
+1012
+01:21:33,323 --> 01:21:35,867
+Tak, chcę bronić słabszych.
+
+1013
+01:21:36,951 --> 01:21:38,536
+No właśnie.
+
+1014
+01:21:45,794 --> 01:21:47,962
+Chcę tutaj usiąść, zabieraj nogę.
+
+1015
+01:21:56,888 --> 01:21:59,557
+- Masz paszport?
+- Nie mam nawet prawka.
+
+1016
+01:21:59,724 --> 01:22:01,101
+- Byłeś kiedyś w Niemczech?
+- Nie.
+
+1017
+01:22:01,267 --> 01:22:02,310
+Spodoba ci się.
+
+1018
+01:22:02,477 --> 01:22:04,395
+- Nie mogę jechać.
+- Dlaczego?
+
+1019
+01:22:06,856 --> 01:22:08,108
+Mam zadane.
+
+1020
+01:22:08,733 --> 01:22:10,652
+Udam, że tego nie słyszałem.
+
+1021
+01:22:10,819 --> 01:22:12,821
+Poważnie.
+Szkoły nie mogę odpuścić.
+
+1022
+01:22:12,987 --> 01:22:13,988
+Może być ostro.
+
+1023
+01:22:14,155 --> 01:22:16,032
+Powiem cioci Lasce,
+że jedziemy na wycieczkę.
+
+1024
+01:22:18,868 --> 01:22:20,703
+Nie mów cioci May.
+
+1025
+01:22:21,496 --> 01:22:22,664
+Okej, Spider-Manie.
+
+1026
+01:22:26,251 --> 01:22:27,460
+Wyplącz mnie.
+
+1027
+01:22:27,627 --> 01:22:28,753
+Przepraszam, już.
+
+1028
+01:22:41,599 --> 01:22:42,851
+Co się dzieje?
+
+1029
+01:22:43,017 --> 01:22:44,436
+Zostań tu, proszę.
+
+1030
+01:22:51,067 --> 01:22:52,569
+Wypadałoby zapukać.
+
+1031
+01:22:52,902 --> 01:22:56,156
+O, matko!
+Co ty tutaj robisz?
+
+1032
+01:22:56,322 --> 01:22:57,866
+Sprawiam zawód dzieciom.
+
+1033
+01:23:02,162 --> 01:23:03,913
+Mieliśmy pójść do aqua parku.
+
+1034
+01:23:04,414 --> 01:23:06,207
+Steve potrzebuje pomocy.
+
+1035
+01:23:06,666 --> 01:23:07,542
+Clint!
+
+1036
+01:23:09,377 --> 01:23:10,795
+Nie powinieneś tu przychodzić.
+
+1037
+01:23:13,089 --> 01:23:14,382
+Mówisz?
+
+1038
+01:23:14,841 --> 01:23:17,886
+Wycofuję się na - ile?
+5 minut i wszystko się wali.
+
+1039
+01:23:18,052 --> 01:23:20,305
+Rozważ konsekwencje swoich czynów.
+
+1040
+01:23:20,472 --> 01:23:21,514
+Dobra, rozważone.
+
+1041
+01:23:22,849 --> 01:23:24,350
+Spadamy stąd.
+
+1042
+01:23:28,813 --> 01:23:30,106
+Tędy.
+
+1043
+01:23:30,565 --> 01:23:32,484
+Narobiłam już dość problemów.
+
+1044
+01:23:37,030 --> 01:23:38,531
+Pomóż mi, Wando.
+
+1045
+01:23:38,698 --> 01:23:40,408
+Strzelać fochy, to w gimnazjum.
+
+1046
+01:23:40,575 --> 01:23:42,702
+Chcesz spłacić dług,
+to rusz zadeczek.
+
+1047
+01:23:43,787 --> 01:23:44,746
+Cholera.
+
+1048
+01:23:51,211 --> 01:23:52,962
+Było się rozciągać.
+
+1049
+01:24:06,559 --> 01:24:09,062
+Clint, nie możesz ze mną wygrać.
+
+1050
+01:24:09,229 --> 01:24:11,064
+Wiem, że nie mogę.
+
+1051
+01:24:11,648 --> 01:24:13,233
+Ale ona tak.
+
+1052
+01:24:14,692 --> 01:24:17,821
+Vision, dość tego. Puść go.
+
+1053
+01:24:18,696 --> 01:24:19,697
+Odchodzę.
+
+1054
+01:24:19,864 --> 01:24:21,032
+Nie pozwalam.
+
+1055
+01:24:25,995 --> 01:24:27,413
+Nie gniewaj się.
+
+1056
+01:24:30,917 --> 01:24:32,752
+Jeśli to zrobisz,
+
+1057
+01:24:33,211 --> 01:24:36,214
+oni już zawsze będą się ciebie bali.
+
+1058
+01:24:37,590 --> 01:24:41,094
+Nie kontroluję ich strachu,
+tylko swój własny.
+
+1059
+01:24:56,401 --> 01:24:59,028
+Idziemy, musimy jeszcze coś załatwić.
+
+1060
+01:24:59,571 --> 01:25:01,322
+To tylko kwestia czasu.
+
+1061
+01:25:01,489 --> 01:25:05,952
+Satelity analizują ludność pod kątem
+biometrycznym i behawioralnym.
+
+1062
+01:25:10,123 --> 01:25:12,667
+Przesuń się albo ja cię przesunę.
+
+1063
+01:25:13,960 --> 01:25:16,629
+Choć lubię takie zabawy...
+
+1064
+01:25:16,796 --> 01:25:18,965
+Naprawdę wierzysz, że go znajdziesz?
+
+1065
+01:25:19,466 --> 01:25:21,134
+Środków mi nie brakuje.
+
+1066
+01:25:21,301 --> 01:25:23,595
+Świat szukał Barnesa 70 lat,
+
+1067
+01:25:23,761 --> 01:25:26,264
+ty się pewnie uwiniesz w góra 35.
+
+1068
+01:25:27,474 --> 01:25:29,142
+Wiesz, gdzie są?
+
+1069
+01:25:29,309 --> 01:25:31,394
+Wiem, kto wie.
+
+1070
+01:25:34,063 --> 01:25:36,608
+Daleko nim nie uciekniecie.
+
+1071
+01:25:36,775 --> 01:25:37,817
+Nie rzuca się w oczy.
+
+1072
+01:25:38,401 --> 01:25:41,154
+Niestety w przeciwieństwie
+do właściciela.
+
+1073
+01:25:42,989 --> 01:25:44,491
+Przesuń fotel, co?
+
+1074
+01:25:44,657 --> 01:25:45,533
+Nie.
+
+1075
+01:25:45,992 --> 01:25:47,118
+Mam u ciebie dług.
+
+1076
+01:25:47,702 --> 01:25:49,287
+Rośnie i rośnie.
+
+1077
+01:25:52,415 --> 01:25:54,209
+A jeszcze on chciał mnie zabić.
+
+1078
+01:25:55,084 --> 01:25:57,796
+Przepraszam. Dług jeszcze urósł.
+
+1079
+01:26:01,132 --> 01:26:03,384
+Szukają cię.
+
+1080
+01:26:03,551 --> 01:26:04,344
+Wiem.
+
+1081
+01:26:07,222 --> 01:26:08,598
+Dzięki, Sharon.
+
+1082
+01:26:24,155 --> 01:26:26,324
+- To...
+- Najwyższy czas.
+
+1083
+01:26:26,491 --> 01:26:27,242
+Żebyś wiedział.
+
+1084
+01:26:31,830 --> 01:26:33,998
+- To ja lecę.
+- Na razie.
+
+1085
+01:26:58,481 --> 01:26:59,732
+Kapitanie.
+
+1086
+01:27:00,108 --> 01:27:02,026
+Nie ściągałbym cię,
+gdybym miał wybór.
+
+1087
+01:27:02,193 --> 01:27:03,570
+Robisz mi przysługę.
+
+1088
+01:27:03,736 --> 01:27:06,072
+A zresztą chcę spłacić dług.
+
+1089
+01:27:06,239 --> 01:27:07,782
+Dziękuję za pomoc.
+
+1090
+01:27:07,949 --> 01:27:09,492
+Trzeba czasem ruszyć tyłek.
+
+1091
+01:27:10,034 --> 01:27:11,661
+A gdzie nasz nowy rekrut?
+
+1092
+01:27:11,828 --> 01:27:13,413
+Zwarty i gotowy.
+
+1093
+01:27:14,205 --> 01:27:15,415
+Dać mu kawy
+
+1094
+01:27:16,749 --> 01:27:17,917
+i da radę.
+
+1095
+01:27:21,254 --> 01:27:22,755
+Jaka to strefa czasowa?
+
+1096
+01:27:22,922 --> 01:27:24,757
+Dawaj, idź.
+
+1097
+01:27:27,886 --> 01:27:28,803
+Kapitan Ameryka!
+
+1098
+01:27:28,970 --> 01:27:29,804
+Panie Lang.
+
+1099
+01:27:30,972 --> 01:27:31,973
+Co za zaszczyt.
+
+1100
+01:27:32,432 --> 01:27:34,142
+Zaraz puszczę pańską dłoń.
+
+1101
+01:27:34,309 --> 01:27:35,560
+Rany, ale numer!
+
+1102
+01:27:35,727 --> 01:27:38,354
+Kapitan Ameryka.
+Ty jesteś też ekstra.
+
+1103
+01:27:42,108 --> 01:27:43,109
+Kurczę.
+
+1104
+01:27:43,276 --> 01:27:47,238
+Słuchaj, wiem,
+że znasz furę super ludzi,
+
+1105
+01:27:48,198 --> 01:27:50,033
+więc dzięki, że o mnie pomyślałeś.
+
+1106
+01:27:50,200 --> 01:27:52,076
+- Się masz!
+- Jak leci, Tic-Tac?
+
+1107
+01:27:52,243 --> 01:27:54,746
+Miło cię widzieć.
+Przepraszam, że wtedy...
+
+1108
+01:27:54,913 --> 01:27:58,166
+Chciałeś się wykazać,
+ale nigdy więcej.
+
+1109
+01:27:58,500 --> 01:28:00,585
+Powiedzieli, z kim będziemy walczyć?
+
+1110
+01:28:00,877 --> 01:28:03,963
+Wspominali o szwadronie świrów.
+
+1111
+01:28:04,297 --> 01:28:06,257
+Akcja nie jest do końca legalna.
+
+1112
+01:28:06,424 --> 01:28:08,384
+Przyłącz się do nas,
+a złamiesz prawo.
+
+1113
+01:28:08,927 --> 01:28:10,345
+To dla mnie nic nowego.
+
+1114
+01:28:10,512 --> 01:28:11,471
+Znikajmy stąd.
+
+1115
+01:28:11,638 --> 01:28:13,431
+Skołowałem helikopter.
+
+1116
+01:28:17,977 --> 01:28:19,771
+Zarządzili ewakuację.
+
+1117
+01:28:19,938 --> 01:28:21,022
+Stark.
+
+1118
+01:28:21,189 --> 01:28:21,898
+Stark?
+
+1119
+01:28:23,566 --> 01:28:25,151
+Ruszamy.
+
+1120
+01:28:45,672 --> 01:28:47,799
+<i>Na lotnisku
+zawsze się spotyka znajomych.</i>
+
+1121
+01:28:47,966 --> 01:28:49,634
+- Dziwne, nie?
+<i>- Bardzo.</i>
+
+1122
+01:28:49,801 --> 01:28:51,136
+Posłuchaj, Tony.
+
+1123
+01:28:51,302 --> 01:28:54,264
+To doktor, ten psychiatra,
+to on za tym stoi.
+
+1124
+01:28:57,475 --> 01:28:58,560
+<i>Kapitanie.</i>
+
+1125
+01:28:58,726 --> 01:28:59,561
+Wasza Wysokość.
+
+1126
+01:29:00,228 --> 01:29:01,229
+Dobra...
+
+1127
+01:29:01,646 --> 01:29:03,690
+Ross dał mi 36 godzin na złapanie was.
+
+1128
+01:29:03,857 --> 01:29:06,776
+24 godziny temu.
+Pomóż koledze, co?
+
+1129
+01:29:06,943 --> 01:29:08,278
+Gonisz niewłaściwą osobę.
+
+1130
+01:29:08,445 --> 01:29:10,488
+Nie myślisz trzeźwo.
+
+1131
+01:29:11,156 --> 01:29:13,074
+Twój kolega zabił kupę ludzi.
+
+1132
+01:29:13,241 --> 01:29:16,077
+Takich jak on jest jeszcze pięcioro.
+
+1133
+01:29:16,244 --> 01:29:18,705
+Nie mogę dopuścić,
+by dotarł do nich ten lekarz.
+
+1134
+01:29:18,872 --> 01:29:19,789
+Steve...
+
+1135
+01:29:20,999 --> 01:29:23,001
+wiesz, do czego to prowadzi.
+
+1136
+01:29:23,168 --> 01:29:25,545
+Naprawdę wolisz rozwiązanie siłowe?
+
+1137
+01:29:29,507 --> 01:29:31,509
+Znudziło mi się to.
+
+1138
+01:29:31,676 --> 01:29:32,677
+Siusiumajtek!
+
+1139
+01:29:38,558 --> 01:29:39,559
+Dobra robota.
+
+1140
+01:29:39,726 --> 01:29:40,393
+Dzięki.
+
+1141
+01:29:40,560 --> 01:29:42,395
+Lądowanie mogło być lepsze.
+
+1142
+01:29:42,562 --> 01:29:44,397
+Nowy strój.
+To nic, panie Stark.
+
+1143
+01:29:44,564 --> 01:29:45,690
+Jest super. Dziękuję.
+
+1144
+01:29:45,857 --> 01:29:47,525
+Nie mówmy o tym teraz.
+
+1145
+01:29:47,692 --> 01:29:48,777
+Jasne. Kapitanie.
+
+1146
+01:29:49,903 --> 01:29:51,279
+Jestem Spider-Man. Twój fan.
+
+1147
+01:29:51,446 --> 01:29:52,322
+Nie teraz.
+
+1148
+01:29:53,031 --> 01:29:54,324
+- Cześć wam.
+- Brawo.
+
+1149
+01:29:54,783 --> 01:29:55,700
+Nie próżnowałeś.
+
+1150
+01:29:55,867 --> 01:29:57,994
+A ty nie pomyślałeś.
+
+1151
+01:29:58,203 --> 01:29:59,037
+Ściągnąłeś Clinta.
+
+1152
+01:29:59,204 --> 01:30:02,874
+„Uwolniłeś” Wandę, choć tego
+nie chciała. Z bezpiecznej kryjówki.
+
+1153
+01:30:03,041 --> 01:30:04,292
+Próbuję...
+
+1154
+01:30:05,585 --> 01:30:08,671
+Próbuję nie dopuścić
+do podziału Avengers.
+
+1155
+01:30:09,130 --> 01:30:11,382
+To twój podpis nas podzielił.
+
+1156
+01:30:12,383 --> 01:30:13,551
+Koniec.
+
+1157
+01:30:14,260 --> 01:30:18,098
+Oddajesz Barnesa i idziesz z nami.
+Póki to my,
+
+1158
+01:30:18,556 --> 01:30:19,933
+a nie banda komandosów,
+
+1159
+01:30:20,100 --> 01:30:22,769
+którzy potrafią
+być nieprzyjemni.
+
+1160
+01:30:24,729 --> 01:30:25,939
+No, weź.
+
+1161
+01:30:27,023 --> 01:30:28,650
+<i>Mamy go.</i>
+
+1162
+01:30:29,901 --> 01:30:32,070
+Quinjet w hangarze piątym,
+pas północny.
+
+1163
+01:30:36,157 --> 01:30:36,866
+Teraz, Lang.
+
+1164
+01:30:38,535 --> 01:30:39,327
+Ej, coś...
+
+1165
+01:30:40,703 --> 01:30:41,663
+Co to było?
+
+1166
+01:30:41,830 --> 01:30:43,915
+<i>Twoja tarcza, Kapitanie.</i>
+
+1167
+01:30:44,082 --> 01:30:45,083
+Super.
+
+1168
+01:30:45,250 --> 01:30:47,919
+Dwie osoby na parkingu.
+Jedna to Maximoff. Złapię ją.
+
+1169
+01:30:48,086 --> 01:30:49,504
+<i>Rhodey, weź kapitana.</i>
+
+1170
+01:30:49,671 --> 01:30:51,714
+<i>Wilson i Barnes są w terminalu.</i>
+
+1171
+01:30:51,881 --> 01:30:52,841
+<i>Barnes jest mój.</i>
+
+1172
+01:30:54,342 --> 01:30:55,677
+Co mam robić?
+
+1173
+01:30:55,844 --> 01:30:57,762
+Mówiłem: trzymaj dystans,
+łap ich w sieć.
+
+1174
+01:30:57,929 --> 01:30:59,139
+Tak jest.
+
+1175
+01:31:04,018 --> 01:31:05,520
+<i>Z drogi, kapitanie.</i>
+
+1176
+01:31:05,687 --> 01:31:07,439
+<i>Nie będę powtarzać.</i>
+
+1177
+01:31:09,607 --> 01:31:11,234
+<i>Nie chcę ci zrobić krzywdy.</i>
+
+1178
+01:31:11,818 --> 01:31:13,236
+Nie martw się tym.
+
+1179
+01:31:25,457 --> 01:31:26,791
+Co to jest?
+
+1180
+01:31:26,958 --> 01:31:29,043
+Pełno teraz różnych gadżetów.
+
+1181
+01:31:35,592 --> 01:31:36,968
+Masz metalową rękę?
+
+1182
+01:31:37,135 --> 01:31:38,678
+Grubo, bracie.
+
+1183
+01:31:40,430 --> 01:31:41,848
+Możesz zachować milczenie!
+
+1184
+01:31:56,571 --> 01:31:57,864
+<i>Wybacz. Nie zabije cię to, ale...</i>
+
+1185
+01:31:58,031 --> 01:31:59,282
+łaskotki to nie są.
+
+1186
+01:32:04,662 --> 01:32:06,581
+<i>Zrobiłaś Visionowi przykrość.</i>
+
+1187
+01:32:06,748 --> 01:32:08,124
+Uwięziłeś mnie w pokoju.
+
+1188
+01:32:08,291 --> 01:32:09,709
+<i>Przesadzasz.</i>
+
+1189
+01:32:09,876 --> 01:32:12,212
+<i>To było dla twojego dobra.</i>
+
+1190
+01:32:12,378 --> 01:32:13,713
+<i>- Cześć, Clint.
+</i>- Się masz.
+
+1191
+01:32:13,880 --> 01:32:15,590
+<i>Emerytura to nie dla ciebie, co?</i>
+
+1192
+01:32:15,757 --> 01:32:17,217
+<i>Znudził ci się golf?</i>
+
+1193
+01:32:17,383 --> 01:32:19,761
+Trafiałem za każdym razem.
+
+1194
+01:32:20,678 --> 01:32:21,888
+Nie umiem spudłować.
+
+1195
+01:32:24,516 --> 01:32:25,809
+<i>Właśnie się nauczyłeś.</i>
+
+1196
+01:32:25,975 --> 01:32:26,935
+Obejrzałeś się.
+
+1197
+01:32:37,529 --> 01:32:39,239
+<i>Liczne uszkodzenia.</i>
+
+1198
+01:32:39,405 --> 01:32:41,074
+Tak. Też je czuję.
+
+1199
+01:32:48,915 --> 01:32:49,958
+Boże!
+
+1200
+01:32:51,251 --> 01:32:52,877
+Ty, zgubiłeś coś!
+
+1201
+01:33:04,973 --> 01:33:07,725
+- Te skrzydła są z karbonu?
+- Sam to wytwarzasz?
+
+1202
+01:33:07,892 --> 01:33:11,020
+Jasne, lekkie i wytrzymałe.
+Fajna rzecz.
+
+1203
+01:33:11,187 --> 01:33:12,772
+To chyba twój pierwszy raz.
+
+1204
+01:33:12,939 --> 01:33:14,399
+Zazwyczaj tyle nie gadamy.
+
+1205
+01:33:14,566 --> 01:33:15,608
+Już nie będę.
+
+1206
+01:33:20,822 --> 01:33:24,159
+To ekstra zabawa,
+ale mam inne zadanie,
+
+1207
+01:33:24,325 --> 01:33:27,245
+a chcę się wykazać,
+więc przepraszam.
+
+1208
+01:33:30,790 --> 01:33:32,959
+Nie mogłeś wcześniej?
+
+1209
+01:33:33,460 --> 01:33:34,711
+Nienawidzę cię.
+
+1210
+01:33:41,217 --> 01:33:42,218
+<i>Świetnie.</i>
+
+1211
+01:33:42,385 --> 01:33:43,928
+<i>Kapitanie, uwaga!</i>
+
+1212
+01:33:45,513 --> 01:33:46,890
+<i>Rzuć nią w to.</i>
+
+1213
+01:33:47,474 --> 01:33:48,516
+<i>Teraz!</i>
+
+1214
+01:33:52,020 --> 01:33:53,313
+<i>No, ludzie!</i>
+
+1215
+01:33:56,191 --> 01:33:59,068
+<i>Myślałem, że to cysterna z wodą.</i>
+
+1216
+01:33:59,778 --> 01:34:01,112
+<i>Przepraszam.</i>
+
+1217
+01:34:03,114 --> 01:34:04,574
+<i>Teraz to się wkurzyłem.</i>
+
+1218
+01:34:05,408 --> 01:34:06,743
+Taki był plan?
+
+1219
+01:34:06,910 --> 01:34:09,746
+<i>Plan zakładał delikatne podejście.
+Zmieniamy go?</i>
+
+1220
+01:34:12,248 --> 01:34:13,082
+Nasz transport.
+
+1221
+01:34:15,543 --> 01:34:16,544
+Szybko!
+
+1222
+01:34:25,512 --> 01:34:26,679
+Kapitanie...
+
+1223
+01:34:27,639 --> 01:34:30,642
+Wiem, sądzisz,
+że postępujesz słusznie.
+
+1224
+01:34:31,434 --> 01:34:33,269
+Ale dla dobra ogółu...
+
+1225
+01:34:33,436 --> 01:34:35,772
+musisz się poddać.
+
+1226
+01:34:52,872 --> 01:34:54,499
+Co robimy?
+
+1227
+01:34:55,500 --> 01:34:57,210
+Walczymy.
+
+1228
+01:34:58,545 --> 01:35:00,171
+Zapowiada się świetnie.
+
+1229
+01:35:06,761 --> 01:35:08,263
+Nie zatrzymają się.
+
+1230
+01:35:08,429 --> 01:35:09,264
+My też nie.
+
+1231
+01:35:40,503 --> 01:35:41,629
+Ale dalej mnie lubisz?
+
+1232
+01:35:41,796 --> 01:35:43,339
+Zależy, jak mocno przywalisz.
+
+1233
+01:35:52,056 --> 01:35:54,100
+Nie walczyłeś na maksa.
+
+1234
+01:35:58,396 --> 01:35:59,731
+Nie zabiłem twojego ojca.
+
+1235
+01:35:59,898 --> 01:36:02,025
+<i>To czemu uciekasz?</i>
+
+1236
+01:36:19,793 --> 01:36:21,878
+Ta tarcza łamie prawa fizyki.
+
+1237
+01:36:22,045 --> 01:36:23,797
+Wielu spraw jeszcze nie rozumiesz.
+
+1238
+01:36:23,963 --> 01:36:25,673
+Pan Stark mówił, że tak powiesz.
+
+1239
+01:36:35,141 --> 01:36:37,185
+I żeby celować w nogi.
+
+1240
+01:36:48,947 --> 01:36:50,281
+Clint, zdejmij go, co?
+
+1241
+01:36:50,448 --> 01:36:51,616
+Trzymasz się?
+
+1242
+01:36:51,783 --> 01:36:53,201
+<i>Tak. Wszystko gra.</i>
+
+1243
+01:36:53,368 --> 01:36:55,411
+<i>Dobrze jest. Ognia!</i>
+
+1244
+01:37:17,142 --> 01:37:18,518
+Co jeszcze mówił Stark?
+
+1245
+01:37:18,685 --> 01:37:21,312
+Że nie masz racji.
+Ale myślisz, że masz.
+
+1246
+01:37:21,980 --> 01:37:23,440
+Przez to jesteś groźny.
+
+1247
+01:37:28,361 --> 01:37:29,904
+Miał rację.
+
+1248
+01:37:34,868 --> 01:37:37,036
+Nie brak ci ikry. Skąd jesteś?
+
+1249
+01:37:38,079 --> 01:37:38,913
+Z Queensu.
+
+1250
+01:37:40,582 --> 01:37:42,083
+Ja z Brooklynu.
+
+1251
+01:37:47,589 --> 01:37:48,423
+<i>Friday?</i>
+
+1252
+01:37:48,590 --> 01:37:50,884
+<i>- Awaria systemów uzbrojenia.
+</i>- Co?
+
+1253
+01:37:51,050 --> 01:37:53,595
+<i>Najwyższy czas na
+solidny przegląd.</i>
+
+1254
+01:37:53,761 --> 01:37:55,096
+Co to za głos?
+
+1255
+01:37:55,263 --> 01:37:58,975
+<i>Sumienie.
+Ostatnio tak mało rozmawiamy.</i>
+
+1256
+01:37:59,142 --> 01:38:01,561
+- Friday?
+<i>- Włączam układ gaśniczy.</i>
+
+1257
+01:38:05,732 --> 01:38:06,733
+<i>O matko!</i>
+
+1258
+01:38:15,992 --> 01:38:18,119
+Czas na nas.
+Pewnie jest już na Syberii.
+
+1259
+01:38:18,411 --> 01:38:19,662
+Trzeba oczyścić niebo.
+
+1260
+01:38:19,829 --> 01:38:21,581
+Zajmę się Visionem, leć do samolotu.
+
+1261
+01:38:21,748 --> 01:38:23,416
+Nie. Wy do samolotu!
+
+1262
+01:38:23,583 --> 01:38:24,417
+<i>Obaj!</i>
+
+1263
+01:38:26,961 --> 01:38:28,254
+<i>Reszta z nas tu zostanie.</i>
+
+1264
+01:38:28,421 --> 01:38:29,589
+To niestety racja.
+
+1265
+01:38:29,756 --> 01:38:32,842
+<i>Jeśli mamy wygrać,
+kilku z nas musi przegrać.</i>
+
+1266
+01:38:33,009 --> 01:38:35,094
+<i>To nie jest prawdziwa wojna, Steve.</i>
+
+1267
+01:38:35,261 --> 01:38:36,763
+Zgoda. Jakiś plan?
+
+1268
+01:38:36,930 --> 01:38:39,140
+Trzeba ich czymś zająć. Czymś dużym.
+
+1269
+01:38:40,809 --> 01:38:42,435
+<i>Chyba mam coś takiego.</i>
+
+1270
+01:38:42,602 --> 01:38:43,978
+<i>Ale tylko na moment.</i>
+
+1271
+01:38:44,312 --> 01:38:46,314
+<i>Jak dam znak, śmigajcie.</i>
+
+1272
+01:38:46,481 --> 01:38:47,816
+<i>Jeśli mnie rozerwie...</i>
+
+1273
+01:38:47,982 --> 01:38:49,109
+<i>zostawcie mnie.</i>
+
+1274
+01:38:49,275 --> 01:38:50,151
+Rozerwie?
+
+1275
+01:38:50,318 --> 01:38:51,778
+Jesteś tego pewien, Scott?
+
+1276
+01:38:51,945 --> 01:38:53,321
+<i>W kółko to robię.</i>
+
+1277
+01:38:53,488 --> 01:38:55,323
+<i>Znaczy raz zrobiłem.
+W laboratorium.</i>
+
+1278
+01:38:55,490 --> 01:38:57,117
+<i>I zemdlałem.</i>
+
+1279
+01:38:57,283 --> 01:38:59,202
+<i>Rządzę, rządzę, rządzę.</i>
+
+1280
+01:39:15,218 --> 01:39:16,845
+Rany!
+
+1281
+01:39:20,974 --> 01:39:23,017
+Mały zrobił się duży.
+Jest duży.
+
+1282
+01:39:25,019 --> 01:39:26,146
+To chyba nasz sygnał.
+
+1283
+01:39:26,312 --> 01:39:27,814
+Brawo, Tic-Tac!
+
+1284
+01:39:29,649 --> 01:39:31,151
+Oddawaj mojego Rhodeya.
+
+1285
+01:39:34,821 --> 01:39:35,989
+Załatwię to.
+
+1286
+01:39:58,678 --> 01:40:03,016
+Czy ktoś z naszych ukrywa
+jakieś fajne moce?
+
+1287
+01:40:03,183 --> 01:40:04,309
+Oczekuję propozycji.
+
+1288
+01:40:12,400 --> 01:40:14,027
+<i>Chcesz ich dopaść...</i>
+
+1289
+01:40:14,194 --> 01:40:15,987
+<i>musisz minąć mnie.</i>
+
+1290
+01:40:42,388 --> 01:40:43,848
+My się jeszcze nie znamy.
+
+1291
+01:40:46,392 --> 01:40:47,227
+Jestem Clint.
+
+1292
+01:40:47,393 --> 01:40:48,103
+<i>No to co?</i>
+
+1293
+01:41:15,922 --> 01:41:16,881
+Spadaj!
+
+1294
+01:41:31,813 --> 01:41:33,606
+<i>Coś mi wleciało do środka!</i>
+
+1295
+01:41:57,797 --> 01:41:58,631
+Nie poddasz się?
+
+1296
+01:41:59,466 --> 01:42:00,467
+Wiesz, że nie mogę.
+
+1297
+01:42:01,426 --> 01:42:02,552
+Pożałuję tego.
+
+1298
+01:42:06,473 --> 01:42:07,474
+Idźcie.
+
+1299
+01:42:13,146 --> 01:42:17,317
+Znacie taki stary film
+<i>Imperium kontratakuje?</i>
+
+1300
+01:42:17,484 --> 01:42:18,818
+<i>Tony, ile on ma lat?</i>
+
+1301
+01:42:18,985 --> 01:42:21,154
+Nie wylegitymowałem go.
+Stary nie jest.
+
+1302
+01:42:23,239 --> 01:42:26,326
+<i>I na takiej śnieżnej planecie...</i>
+
+1303
+01:42:27,619 --> 01:42:29,120
+<i>są takie chodzące maszyny?</i>
+
+1304
+01:42:31,456 --> 01:42:32,499
+Chłopak ma łeb.
+
+1305
+01:42:32,665 --> 01:42:33,666
+W górę, Tony. W górę.
+
+1306
+01:42:42,175 --> 01:42:43,176
+Udało się!
+
+1307
+01:42:43,760 --> 01:42:45,345
+Ale super!
+
+1308
+01:43:00,026 --> 01:43:03,113
+Ma ktoś batonik?
+
+1309
+01:43:08,618 --> 01:43:09,619
+Nic ci nie jest?
+
+1310
+01:43:11,704 --> 01:43:14,833
+Jestem z tobą.
+To ja.
+
+1311
+01:43:14,999 --> 01:43:16,042
+- Cześć.
+- Hej.
+
+1312
+01:43:16,209 --> 01:43:17,460
+- Spękałem.
+- Widzę.
+
+1313
+01:43:17,627 --> 01:43:19,212
+Koniec na dziś.
+
+1314
+01:43:19,379 --> 01:43:21,381
+- Nic mi nie jest.
+- Spisałeś się. Leż.
+
+1315
+01:43:21,548 --> 01:43:22,715
+Wszystko gra.
+Złapię go.
+
+1316
+01:43:22,882 --> 01:43:23,883
+Oj, bo powiem cioci!
+
+1317
+01:43:24,050 --> 01:43:25,218
+- Weź...
+- Koniec!
+
+1318
+01:43:25,385 --> 01:43:26,469
+Czekaj.
+
+1319
+01:43:26,636 --> 01:43:29,639
+Chwileczkę. Mogę walczyć.
+Mogę...
+
+1320
+01:43:31,808 --> 01:43:34,060
+Nie mogę. Koniec.
+
+1321
+01:43:50,243 --> 01:43:52,495
+Mówiłam, że pomogę ci go znaleźć,
+nie złapać.
+
+1322
+01:43:53,037 --> 01:43:54,581
+To nie to samo.
+
+1323
+01:44:01,337 --> 01:44:02,255
+Przepraszam.
+
+1324
+01:44:03,047 --> 01:44:04,090
+Ja też.
+
+1325
+01:44:05,049 --> 01:44:06,050
+Mówiłem.
+
+1326
+01:44:06,551 --> 01:44:08,219
+Katastrofa.
+
+1327
+01:44:21,149 --> 01:44:22,984
+Vision, mam go na ogonie.
+
+1328
+01:44:27,739 --> 01:44:28,740
+<i>Vision? Słyszysz?</i>
+
+1329
+01:44:28,907 --> 01:44:30,909
+<i>Rozwal mu silnik,
+zrób z niego szybowiec.</i>
+
+1330
+01:44:46,090 --> 01:44:47,217
+<i>Rhodey!</i>
+
+1331
+01:44:48,968 --> 01:44:50,804
+Straciłem moc, spadam.
+
+1332
+01:44:58,978 --> 01:44:59,646
+Rhodes!
+
+1333
+01:45:12,742 --> 01:45:14,202
+Zbadaj go.
+
+1334
+01:45:14,369 --> 01:45:15,620
+<i>Jest tętno.</i>
+
+1335
+01:45:15,787 --> 01:45:17,789
+<i>Wzywam pogotowie.</i>
+
+1336
+01:45:22,961 --> 01:45:23,878
+Przepraszam.
+
+1337
+01:45:45,733 --> 01:45:47,402
+Tu pokój 201...
+
+1338
+01:45:48,778 --> 01:45:50,405
+<i>Znów bekon i czarna kawa?</i>
+
+1339
+01:45:51,823 --> 01:45:53,324
+Dobrze mnie pani zna.
+
+1340
+01:45:54,951 --> 01:45:56,744
+Halo? Pańskie śniadanie.
+
+1341
+01:45:57,787 --> 01:45:58,788
+Mogę wejść?
+
+1342
+01:46:23,813 --> 01:46:25,523
+Co będzie z twoimi przyjaciółmi?
+
+1343
+01:46:34,032 --> 01:46:35,450
+Co będzie,
+
+1344
+01:46:36,284 --> 01:46:37,911
+to będzie.
+
+1345
+01:46:40,914 --> 01:46:42,832
+Nie jestem tego wart.
+
+1346
+01:46:50,256 --> 01:46:51,966
+Wszystko, co robiłeś...
+
+1347
+01:46:52,926 --> 01:46:54,427
+Nie byłeś sobą.
+
+1348
+01:46:55,261 --> 01:46:57,055
+Nie miałeś wyboru.
+
+1349
+01:46:58,223 --> 01:46:59,849
+Wiem.
+
+1350
+01:47:02,435 --> 01:47:04,771
+Ale to robiłem.
+
+1351
+01:47:18,868 --> 01:47:20,995
+Jak do tego doszło?
+
+1352
+01:47:21,204 --> 01:47:23,206
+Byłem rozkojarzony.
+
+1353
+01:47:25,500 --> 01:47:27,627
+To niemożliwe.
+
+1354
+01:47:29,045 --> 01:47:30,713
+Też tak myślałem.
+
+1355
+01:47:47,313 --> 01:47:50,316
+Zmiażdżone kręgi od L4 do S1.
+
+1356
+01:47:50,483 --> 01:47:53,194
+Poprzerywany rdzeń kręgowy.
+
+1357
+01:47:53,361 --> 01:47:55,989
+Będzie sparaliżowany.
+
+1358
+01:47:59,325 --> 01:48:00,869
+Steve nie zrezygnuje.
+
+1359
+01:48:01,661 --> 01:48:04,038
+Ty też nie.
+Skończymy jak Rhodey lub gorzej.
+
+1360
+01:48:04,205 --> 01:48:05,373
+Dałaś im uciec.
+
+1361
+01:48:05,540 --> 01:48:06,583
+Źle to rozegraliśmy.
+
+1362
+01:48:06,749 --> 01:48:08,001
+My?
+
+1363
+01:48:08,501 --> 01:48:10,670
+Bycie podwójnym agentem
+weszło ci w krew.
+
+1364
+01:48:11,171 --> 01:48:12,881
+Druga natura.
+
+1365
+01:48:14,340 --> 01:48:17,010
+Nie możesz przestać
+polerować swojego ego
+
+1366
+01:48:17,177 --> 01:48:19,220
+ani na jedną chwilę?
+
+1367
+01:48:23,516 --> 01:48:25,685
+T'Challa powiedział wszystko Rossowi.
+
+1368
+01:48:27,020 --> 01:48:28,688
+Szukają cię.
+
+1369
+01:48:29,689 --> 01:48:33,026
+Ale to nie ja muszę się martwić
+o swoją skórę.
+
+1370
+01:48:41,034 --> 01:48:42,368
+Co to jest, Friday?
+
+1371
+01:48:42,535 --> 01:48:44,913
+<i>Wiadomość od berlińskiej policji.</i>
+
+1372
+01:48:47,957 --> 01:48:49,751
+Odpalaj helikopter.
+
+1373
+01:48:55,423 --> 01:48:59,052
+<i>Psychiatrę wezwano
+zaraz po złapaniu Barnesa.</i>
+
+1374
+01:48:59,219 --> 01:49:02,972
+<i>ONZ-owski doktor Theo Broussard
+wyruszył z Genewy.</i>
+
+1375
+01:49:03,139 --> 01:49:04,808
+<i>Spotkał się z nim ten człowiek.</i>
+
+1376
+01:49:04,974 --> 01:49:07,143
+- Zidentyfikowałaś go?
+- <i>A wyglądam na blondynkę?</i>
+
+1377
+01:49:07,477 --> 01:49:09,395
+Wyobrażam sobie, że jesteś ruda.
+
+1378
+01:49:09,562 --> 01:49:12,232
+<i>- Chyba zaszła jakaś pomyłka.
+</i>- Bywa.
+
+1379
+01:49:12,398 --> 01:49:15,235
+<i>Fałszywy doktor
+to pułkownik Helmut Zemo.</i>
+
+1380
+01:49:16,319 --> 01:49:18,488
+<i>Wywiad Sokowii.</i>
+
+1381
+01:49:19,572 --> 01:49:21,574
+<i>Dowodził jednostką Echo Scorpion,</i>
+
+1382
+01:49:21,741 --> 01:49:24,160
+<i>tajnym szwadronem śmierci.</i>
+
+1383
+01:49:26,287 --> 01:49:27,789
+Co z prawdziwym Broussardem?
+
+1384
+01:49:27,956 --> 01:49:29,833
+<i>Leży martwy
+w wannie w berlińskim hotelu.</i>
+
+1385
+01:49:29,999 --> 01:49:32,752
+<i>Policja znalazła też perukę i maskę</i>
+
+1386
+01:49:32,919 --> 01:49:36,923
+<i>pozwalającą upodobnić się
+do Jamesa Barnesa.</i>
+
+1387
+01:49:37,966 --> 01:49:39,759
+Niech go szlag.
+
+1388
+01:49:41,761 --> 01:49:43,763
+- Wyślij to Rossowi.
+<i>- Tak jest.</i>
+
+1389
+01:51:17,357 --> 01:51:21,903
+<i>Tu więzienie Raft.
+Może pan lądować, panie Stark.</i>
+
+1390
+01:51:54,269 --> 01:51:56,354
+Dostałeś pliki?
+
+1391
+01:51:56,521 --> 01:51:59,732
+Niech satelity zaczną
+namierzać tego Zemo.
+
+1392
+01:51:59,899 --> 01:52:04,237
+Miałbym cię dalej słuchać
+po tej wpadce w Lipsku?
+
+1393
+01:52:04,404 --> 01:52:06,865
+Ciesz się, że tu nie siedzisz.
+
+1394
+01:52:37,562 --> 01:52:40,190
+Proszę państwa, Wróż Tony!
+
+1395
+01:52:40,356 --> 01:52:42,776
+Wróż jest z nami!
+
+1396
+01:52:42,942 --> 01:52:44,277
+Widzi przyszłość!
+
+1397
+01:52:45,278 --> 01:52:48,448
+Powie wam, co dla was dobre,
+czy tego chcecie czy nie.
+
+1398
+01:52:49,032 --> 01:52:50,033
+Odczep się, Barton.
+
+1399
+01:52:50,200 --> 01:52:52,744
+<i>Nie wiedziałem, że was tu wsadzą.</i>
+
+1400
+01:52:53,620 --> 01:52:55,955
+Ale że wsadzą, to wiedziałeś.
+
+1401
+01:52:56,122 --> 01:52:59,292
+Nie do jakiejś supertajnej
+pływającej ciupy.
+
+1402
+01:52:59,459 --> 01:53:01,920
+To miejsce dla wariatów.
+Dla...
+
+1403
+01:53:02,086 --> 01:53:03,296
+Przestępców?
+
+1404
+01:53:04,464 --> 01:53:06,299
+Przestępców, Tony.
+
+1405
+01:53:06,800 --> 01:53:09,135
+Tak się to nazywa.
+
+1406
+01:53:10,428 --> 01:53:11,554
+Prawda?
+
+1407
+01:53:12,096 --> 01:53:13,807
+Kiedyś mnie tak nie nazywano.
+
+1408
+01:53:14,307 --> 01:53:15,809
+Ani Sama czy Wandy.
+
+1409
+01:53:15,975 --> 01:53:17,560
+A tu proszę.
+
+1410
+01:53:17,727 --> 01:53:19,395
+- Złamaliście prawo.
+- Jasne.
+
+1411
+01:53:19,562 --> 01:53:20,647
+Nikt cię nie zmusił.
+
+1412
+01:53:21,981 --> 01:53:23,566
+Wiedziałeś, co robisz.
+
+1413
+01:53:25,110 --> 01:53:27,487
+Jesteś już duży,
+masz żonę i dzieci.
+
+1414
+01:53:27,654 --> 01:53:30,824
+Trzeba było o nich myśleć,
+nim złamałeś zasady gry.
+
+1415
+01:53:31,825 --> 01:53:33,827
+Patrzcie mu na ręce.
+
+1416
+01:53:35,120 --> 01:53:37,247
+Może mieć nóż.
+
+1417
+01:53:38,748 --> 01:53:41,960
+Hank Pym zawsze mówił,
+że Starkom nie można ufać.
+
+1418
+01:53:42,794 --> 01:53:44,170
+A ty to kto?
+
+1419
+01:53:44,963 --> 01:53:46,673
+No wiesz...
+
+1420
+01:53:48,133 --> 01:53:49,175
+Jak Rhodes?
+
+1421
+01:53:49,342 --> 01:53:52,178
+Leci jutro do szpitala Columbia.
+
+1422
+01:53:52,345 --> 01:53:53,513
+Trzymaj kciuki.
+
+1423
+01:53:55,098 --> 01:53:56,683
+Macie wszystko? Karmią was?
+
+1424
+01:53:58,768 --> 01:54:00,353
+Dobry glina, tak?
+
+1425
+01:54:00,979 --> 01:54:02,772
+Muszę wiedzieć, gdzie jest Steve.
+
+1426
+01:54:02,939 --> 01:54:04,524
+Zawołaj lepiej złego glinę,
+
+1427
+01:54:04,691 --> 01:54:06,693
+bo ode mnie po dobroci
+
+1428
+01:54:06,860 --> 01:54:08,820
+nic nie wyciągniesz.
+
+1429
+01:54:08,987 --> 01:54:10,989
+Właśnie wyłączyłem im dźwięk.
+
+1430
+01:54:11,156 --> 01:54:14,117
+Za pół minuty kapną się,
+że to nie awaria.
+
+1431
+01:54:14,993 --> 01:54:16,035
+Co jest?
+
+1432
+01:54:16,202 --> 01:54:17,704
+Zróbcie coś!
+
+1433
+01:54:18,788 --> 01:54:19,456
+Popatrz.
+
+1434
+01:54:20,832 --> 01:54:22,208
+To jest facet,
+
+1435
+01:54:22,375 --> 01:54:24,544
+który miał przesłuchać Barnesa.
+
+1436
+01:54:26,129 --> 01:54:28,673
+Popełniłem błąd.
+Nie miałem racji.
+
+1437
+01:54:28,840 --> 01:54:30,300
+Coś nowego.
+
+1438
+01:54:30,467 --> 01:54:32,010
+Steve zniknął,
+
+1439
+01:54:32,177 --> 01:54:33,720
+potrzebna mu pomoc.
+
+1440
+01:54:34,721 --> 01:54:36,347
+Nie znamy się.
+Nie musisz...
+
+1441
+01:54:36,514 --> 01:54:38,892
+Daj spokój.
+
+1442
+01:54:46,649 --> 01:54:48,234
+Powiem ci,
+
+1443
+01:54:48,401 --> 01:54:51,571
+ale musisz lecieć sam
+i jako przyjaciel.
+
+1444
+01:54:53,072 --> 01:54:54,115
+Spoko.
+
+1445
+01:54:57,160 --> 01:54:58,077
+Stark?
+
+1446
+01:54:58,703 --> 01:55:00,371
+Powiedział coś o Rogersie?
+
+1447
+01:55:00,538 --> 01:55:01,539
+Nie. Spławił mnie.
+
+1448
+01:55:01,706 --> 01:55:05,585
+Wracam do bazy, dzwoń jakby co.
+
+1449
+01:55:05,752 --> 01:55:07,378
+Dam cię na hold. Lubię jak mruga.
+
+1450
+01:56:16,990 --> 01:56:20,827
+Pamiętasz, jak musieliśmy wracać
+z plaży ciężarówką?
+
+1451
+01:56:20,994 --> 01:56:24,330
+Bo pieniądze na bilet wydałeś
+na hot dogi?
+
+1452
+01:56:24,497 --> 01:56:27,667
+Przegrałeś je na strzelnicy,
+żeby trafić misia dla tej rudej.
+
+1453
+01:56:28,293 --> 01:56:29,294
+Jak ona miała na imię?
+
+1454
+01:56:29,461 --> 01:56:31,296
+Dolores. Mówiłeś na nią Dot.
+
+1455
+01:56:31,754 --> 01:56:33,506
+Musi mieć ze sto lat.
+
+1456
+01:56:33,673 --> 01:56:34,799
+Tak jak my.
+
+1457
+01:56:44,517 --> 01:56:46,644
+Jest tu najwyżej parę godzin.
+
+1458
+01:56:46,811 --> 01:56:49,272
+Zdążył ich obudzić.
+
+1459
+01:57:30,980 --> 01:57:31,981
+Gotów?
+
+1460
+01:57:32,148 --> 01:57:33,149
+Tak.
+
+1461
+01:57:46,746 --> 01:57:48,748
+Coście tacy spięci?
+
+1462
+01:57:50,083 --> 01:57:51,251
+Ciężki dzień.
+
+1463
+01:57:52,043 --> 01:57:53,878
+Spocznij. Nie gonię cię.
+
+1464
+01:57:54,045 --> 01:57:55,255
+To co tu robisz?
+
+1465
+01:57:56,339 --> 01:57:59,050
+Może jednak miałeś rację.
+
+1466
+01:57:59,217 --> 01:58:00,093
+Kto wie.
+
+1467
+01:58:01,761 --> 01:58:04,597
+Ross nic nie wie. Niech tak zostanie.
+
+1468
+01:58:05,682 --> 01:58:07,684
+Bo będę się musiał aresztować.
+
+1469
+01:58:08,935 --> 01:58:10,562
+Masa papierkowej roboty.
+
+1470
+01:58:14,274 --> 01:58:15,692
+Miło cię widzieć, Tony.
+
+1471
+01:58:15,859 --> 01:58:16,693
+Ciebie też.
+
+1472
+01:58:18,361 --> 01:58:22,282
+Ty, mutant, uspokój się.
+Zawarliśmy rozejm. Odłóż to.
+
+1473
+01:58:42,218 --> 01:58:43,553
+<i>Termowizja coś pokazuje.</i>
+
+1474
+01:58:43,720 --> 01:58:45,138
+Ilu?
+
+1475
+01:58:47,223 --> 01:58:48,099
+<i>Jeden.</i>
+
+1476
+01:59:06,743 --> 01:59:10,622
+<i>Pocieszę cię,
+że zmarli we śnie.</i>
+
+1477
+01:59:17,670 --> 01:59:20,715
+<i>Myślałeś, że chcę,
+żeby było was więcej?</i>
+
+1478
+01:59:21,883 --> 01:59:23,635
+Co jest grane?
+
+1479
+01:59:24,385 --> 01:59:26,179
+<i>Jestem im wdzięczny.</i>
+
+1480
+01:59:27,305 --> 01:59:28,848
+<i>Sprowadzili was tu.</i>
+
+1481
+01:59:33,520 --> 01:59:35,230
+<i>Ależ kapitanie.</i>
+
+1482
+01:59:35,396 --> 01:59:39,859
+<i>Ta ściana miała wytrzymać
+ogień z dysz rakiet UR-100.</i>
+
+1483
+01:59:40,026 --> 01:59:41,861
+<i>Założę się, że ją rozwalę.</i>
+
+1484
+01:59:42,028 --> 01:59:43,738
+<i>Nie wątpię, panie Stark.</i>
+
+1485
+01:59:44,239 --> 01:59:45,740
+<i>Ale to by trwało.</i>
+
+1486
+01:59:46,241 --> 01:59:47,867
+<i>I dalej nic by pan nie wiedział.</i>
+
+1487
+01:59:48,034 --> 01:59:50,578
+Zabiłeś niewinnych ludzi,
+by nas tu ściągnąć?
+
+1488
+01:59:57,335 --> 02:00:00,922
+Przez ponad rok myślałem tylko o tobie.
+
+1489
+02:00:01,589 --> 02:00:03,424
+Zgłębiałem cię.
+
+1490
+02:00:03,883 --> 02:00:05,343
+Śledziłem.
+
+1491
+02:00:05,885 --> 02:00:07,720
+A teraz, z bliska,
+
+1492
+02:00:07,887 --> 02:00:09,931
+widzę,
+
+1493
+02:00:12,058 --> 02:00:14,561
+że w tych niebieskich oczach
+jest nieco zieleni.
+
+1494
+02:00:16,938 --> 02:00:19,441
+Mała wada, a cieszy.
+
+1495
+02:00:20,024 --> 02:00:21,568
+Jesteś z Sokowii.
+
+1496
+02:00:22,735 --> 02:00:24,279
+O to tu chodzi?
+
+1497
+02:00:24,446 --> 02:00:27,949
+Sokowia upadła,
+nim obróciliście ją w gruzy.
+
+1498
+02:00:28,116 --> 02:00:29,117
+Nie.
+
+1499
+02:00:30,535 --> 02:00:33,538
+Chodzi o to, że dałem słowo.
+
+1500
+02:00:36,708 --> 02:00:37,917
+Straciłeś kogoś?
+
+1501
+02:00:41,754 --> 02:00:43,798
+Straciłem wszystkich.
+
+1502
+02:00:45,633 --> 02:00:47,594
+I ty też stracisz.
+
+1503
+02:00:53,558 --> 02:00:57,145
+Imperium zburzone przez najeźdźców
+może się odrodzić.
+
+1504
+02:00:58,271 --> 02:01:00,440
+Ale jeśli runie pod własnym ciężarem,
+
+1505
+02:01:01,983 --> 02:01:03,485
+to koniec.
+
+1506
+02:01:04,736 --> 02:01:05,653
+Na wieki.
+
+1507
+02:01:14,454 --> 02:01:16,164
+Znam tę drogę.
+
+1508
+02:01:18,458 --> 02:01:19,584
+Co to?
+
+1509
+02:01:42,774 --> 02:01:44,359
+<i>Ratuj moją żonę.</i>
+
+1510
+02:01:45,485 --> 02:01:47,821
+<i>Błagam.</i>
+
+1511
+02:01:53,368 --> 02:01:54,536
+<i>Sierżant Barnes?</i>
+
+1512
+02:01:56,204 --> 02:01:57,539
+<i>Howard!</i>
+
+1513
+02:02:05,046 --> 02:02:06,214
+<i>Howard!</i>
+
+1514
+02:02:43,585 --> 02:02:45,211
+Nie, Tony.
+
+1515
+02:02:54,387 --> 02:02:55,680
+Wiedziałeś?
+
+1516
+02:02:58,057 --> 02:02:59,350
+Nie że to on.
+
+1517
+02:02:59,517 --> 02:03:02,020
+Nie chrzań, Rogers.
+Wiedziałeś?
+
+1518
+02:03:06,107 --> 02:03:06,900
+Tak.
+
+1519
+02:04:03,832 --> 02:04:05,208
+Uciekaj!
+
+1520
+02:04:16,636 --> 02:04:17,470
+Nie był sobą, Tony.
+
+1521
+02:04:17,637 --> 02:04:19,514
+- Hydra go kontrolowała!
+- Z drogi!
+
+1522
+02:04:19,681 --> 02:04:20,682
+Nie był sobą!
+
+1523
+02:04:29,691 --> 02:04:31,151
+<i>Awaria lewej dyszy.</i>
+
+1524
+02:04:31,985 --> 02:04:34,028
+<i>Układ lotu uszkodzony.</i>
+
+1525
+02:04:34,821 --> 02:04:35,697
+Cholera.
+
+1526
+02:04:49,502 --> 02:04:51,254
+Nie podda się. Leć.
+
+1527
+02:05:14,277 --> 02:05:15,278
+No, jazda.
+
+1528
+02:05:15,445 --> 02:05:17,071
+<i>Celownik padł, szefie.</i>
+
+1529
+02:05:17,238 --> 02:05:18,072
+Odpalę na oko.
+
+1530
+02:05:36,800 --> 02:05:38,384
+Pamiętasz ich chociaż?
+
+1531
+02:05:38,551 --> 02:05:40,386
+Wszystkich ich pamiętam.
+
+1532
+02:06:03,159 --> 02:06:05,120
+To niczego już nie zmieni.
+
+1533
+02:06:05,286 --> 02:06:06,788
+Wszystko jedno.
+
+1534
+02:06:07,413 --> 02:06:08,832
+Zabił moją mamę.
+
+1535
+02:07:10,185 --> 02:07:13,521
+<i>Nie widziałeś, jaką miał minę.
+Postaraj się.</i>
+
+1536
+02:07:13,688 --> 02:07:15,565
+<i>Idę spać.</i>
+
+1537
+02:07:15,732 --> 02:07:17,358
+<i>Kocham cię.</i>
+
+1538
+02:07:25,408 --> 02:07:27,911
+Zabiłbym niewłaściwego człowieka.
+
+1539
+02:07:28,912 --> 02:07:30,914
+Ale nie niewinnego.
+
+1540
+02:07:31,080 --> 02:07:32,040
+O to ci chodziło.
+
+1541
+02:07:32,165 --> 02:07:33,166
+WIADOMOŚĆ USUNIĘTA
+
+1542
+02:07:33,708 --> 02:07:36,211
+Żeby się pozabijali.
+
+1543
+02:07:40,173 --> 02:07:43,218
+Ojciec mieszkał za miastem.
+
+1544
+02:07:43,760 --> 02:07:46,095
+Myślałem, że tam będziemy bezpieczni.
+
+1545
+02:07:46,679 --> 02:07:48,556
+Syn był zachwycony.
+
+1546
+02:07:48,723 --> 02:07:51,559
+Widział z samochodu Iron Mana.
+
+1547
+02:07:52,602 --> 02:07:55,855
+Powiedziałem żonie: „Spokojnie.
+
+1548
+02:07:56,022 --> 02:07:59,901
+Walki toczą się w mieście.
+Nic nam tu nie grozi”.
+
+1549
+02:08:02,237 --> 02:08:04,656
+Gdy opadł kurz
+
+1550
+02:08:05,490 --> 02:08:07,867
+i ucichły krzyki,
+
+1551
+02:08:08,535 --> 02:08:12,539
+dwa dni kopałem,
+nim znalazłem ciała.
+
+1552
+02:08:14,874 --> 02:08:16,376
+Ojciec
+
+1553
+02:08:17,210 --> 02:08:20,755
+wciąż trzymał moją żonę
+i synka w ramionach.
+
+1554
+02:08:25,218 --> 02:08:27,220
+A Avengers?
+
+1555
+02:08:28,221 --> 02:08:30,056
+Wrócili do domu.
+
+1556
+02:08:31,933 --> 02:08:34,185
+Wiedziałem, że ich nie zabiję.
+
+1557
+02:08:34,352 --> 02:08:36,855
+Silniejsi ode mnie nie dali rady.
+
+1558
+02:08:39,065 --> 02:08:41,401
+<i>Ale mogłem napuścić
+ich na siebie...</i>
+
+1559
+02:08:45,864 --> 02:08:48,575
+Współczuję ci śmierci ojca.
+
+1560
+02:08:49,075 --> 02:08:50,910
+To był porządny człowiek.
+
+1561
+02:08:52,745 --> 02:08:54,289
+Wychował wiernego syna.
+
+1562
+02:08:58,918 --> 02:09:00,795
+Zemsta odebrała ci rozum.
+
+1563
+02:09:03,423 --> 02:09:05,758
+Tak jak i im.
+
+1564
+02:09:09,762 --> 02:09:11,931
+Nie pozwolę, by odebrała go mnie.
+
+1565
+02:09:15,560 --> 02:09:17,812
+Sprawiedliwości stanie się zadość.
+
+1566
+02:09:21,232 --> 02:09:23,067
+Powiedz to umarłym.
+
+1567
+02:09:27,572 --> 02:09:30,283
+Czekają na ciebie żywi.
+
+1568
+02:09:33,119 --> 02:09:35,497
+<i>Nie pokonasz go wręcz.</i>
+
+1569
+02:09:36,748 --> 02:09:37,916
+Analiza stylu walki.
+
+1570
+02:09:38,166 --> 02:09:39,334
+<i>Skanowanie.</i>
+
+1571
+02:09:44,088 --> 02:09:45,173
+<i>Kontratak opracowany.</i>
+
+1572
+02:09:47,258 --> 02:09:48,259
+Spuśćmy mu manto.
+
+1573
+02:10:01,940 --> 02:10:03,316
+Jest moim przyjacielem.
+
+1574
+02:10:04,109 --> 02:10:05,151
+Jak ja kiedyś.
+
+1575
+02:10:11,991 --> 02:10:14,202
+<i>Nie wstawaj. Ostrzegam.</i>
+
+1576
+02:10:28,550 --> 02:10:30,885
+Mogę tak cały dzień.
+
+1577
+02:11:37,076 --> 02:11:39,454
+To nie twoja tarcza.
+
+1578
+02:11:41,039 --> 02:11:42,624
+Nie zasługujesz na nią.
+
+1579
+02:11:42,791 --> 02:11:44,793
+Zrobił ją mój ojciec!
+
+1580
+02:12:20,578 --> 02:12:24,124
+Dwa posiłki.
+Dwa wyjścia do toalety.
+
+1581
+02:12:26,584 --> 02:12:28,711
+Podniesiesz głos - prąd.
+
+1582
+02:12:29,420 --> 02:12:31,548
+Dotkniesz szkła - prąd.
+
+1583
+02:12:31,714 --> 02:12:33,758
+Zaczniesz kombinować, wkraczam ja.
+
+1584
+02:12:33,925 --> 02:12:36,261
+Proszę, zacznij kombinować.
+
+1585
+02:12:38,304 --> 02:12:39,806
+Jak się czujesz?
+
+1586
+02:12:40,640 --> 02:12:43,101
+Tyle czasu, tyle starań
+
+1587
+02:12:45,979 --> 02:12:50,316
+i kompletna porażka?
+
+1588
+02:12:54,154 --> 02:12:55,447
+Czyżby?
+
+1589
+02:13:21,681 --> 02:13:22,974
+- To tylko test.
+- Tak.
+
+1590
+02:13:23,141 --> 02:13:25,185
+Czekam na informacje,
+mów, co myślisz.
+
+1591
+02:13:25,351 --> 02:13:28,021
+Amortyzacja? Ruch poprzeczny?
+
+1592
+02:13:28,646 --> 02:13:29,647
+Uchwyt na kubek?
+
+1593
+02:13:29,814 --> 02:13:31,524
+Przydałaby się klima.
+
+1594
+02:13:35,195 --> 02:13:36,488
+Pomogę ci.
+
+1595
+02:13:36,654 --> 02:13:38,323
+Nie. Ja sam.
+
+1596
+02:13:54,380 --> 02:13:55,715
+138.
+
+1597
+02:13:56,508 --> 02:14:01,054
+138 misji.
+Tyle odbyłem, Tony.
+
+1598
+02:14:01,221 --> 02:14:04,224
+W każdej mogłem polec,
+ale latałem.
+
+1599
+02:14:06,309 --> 02:14:07,852
+Trzeba było walczyć.
+
+1600
+02:14:08,394 --> 02:14:10,021
+Tak samo jest z Protokołem.
+
+1601
+02:14:10,563 --> 02:14:14,067
+Podpisałem, bo tak należało.
+
+1602
+02:14:15,985 --> 02:14:18,071
+To nie jest fajne.
+
+1603
+02:14:19,364 --> 02:14:21,157
+Dostałem łupnia.
+
+1604
+02:14:23,243 --> 02:14:24,911
+Ale nie zmieniłem zdania.
+
+1605
+02:14:26,496 --> 02:14:27,914
+Jeszcze.
+
+1606
+02:14:38,383 --> 02:14:39,759
+- W porządku?
+- Tak.
+
+1607
+02:14:43,054 --> 02:14:46,015
+Pan Tony Srark?
+
+1608
+02:14:46,182 --> 02:14:50,437
+Tak, to Tony Srark.
+Dobrze pan trafił.
+
+1609
+02:14:50,603 --> 02:14:52,355
+Dziękuję.
+
+1610
+02:14:52,522 --> 02:14:54,399
+Nigdy ci już nie odpuszczę.
+
+1611
+02:14:54,566 --> 02:14:57,777
+„Stolik dla pana Srarka.
+Koło ubikacji.”
+
+1612
+02:15:04,367 --> 02:15:05,285
+<i>Tony...</i>
+
+1613
+02:15:06,453 --> 02:15:08,413
+<i>Dobrze, że wróciłeś do bazy.</i>
+
+1614
+02:15:08,580 --> 02:15:11,624
+<i>Nie powinieneś siedzieć
+sam w domu.</i>
+
+1615
+02:15:11,791 --> 02:15:13,251
+<i>Każdy musi mieć rodzinę.</i>
+
+1616
+02:15:14,586 --> 02:15:18,465
+<i>Twoją są Avengers.
+Może bardziej niż moją.</i>
+
+1617
+02:15:19,132 --> 02:15:21,718
+<i>Jestem sam, odkąd skończyłem 18 lat.</i>
+
+1618
+02:15:22,469 --> 02:15:27,140
+<i>Nigdzie nie czułem się u siebie,
+nawet w wojsku.</i>
+
+1619
+02:15:28,767 --> 02:15:31,936
+<i>Ale wierzę w ludzi.</i>
+
+1620
+02:15:32,103 --> 02:15:33,313
+<i>W jednostki.</i>
+
+1621
+02:15:34,272 --> 02:15:37,317
+<i>I muszę powiedzieć,
+że rzadko</i>
+
+1622
+02:15:37,484 --> 02:15:39,068
+<i>mnie zawodzą.</i>
+
+1623
+02:15:41,112 --> 02:15:43,615
+<i>Dlatego ja nie mogę
+zawieść ich.</i>
+
+1624
+02:15:47,494 --> 02:15:50,914
+<i>Zamki można wymienić,
+ale może lepiej nie.</i>
+
+1625
+02:15:52,832 --> 02:15:54,959
+<i>Wiem, że cię zraniłem, Tony.</i>
+
+1626
+02:15:55,126 --> 02:15:58,087
+<i>Myślałem, że nie mówiąc
+ci o rodzicach,</i>
+
+1627
+02:15:58,254 --> 02:16:00,632
+<i>oszczędzę ci bólu,</i>
+
+1628
+02:16:00,799 --> 02:16:03,426
+<i>ale tak naprawdę
+sam chciałem go uniknąć.</i>
+
+1629
+02:16:03,968 --> 02:16:05,929
+<i>Przepraszam cię.</i>
+
+1630
+02:16:06,095 --> 02:16:08,348
+<i>Mam nadzieję, że kiedyś zrozumiesz.</i>
+
+1631
+02:16:09,182 --> 02:16:12,519
+<i>Chciałbym się móc z tobą zgodzić
+co do Protokołu.</i>
+
+1632
+02:16:12,685 --> 02:16:15,814
+<i>Wiem, że robisz to, co uważasz
+za słuszne. Inaczej się nie da.</i>
+
+1633
+02:16:15,980 --> 02:16:17,190
+<i>Inaczej się nie powinno.</i>
+
+1634
+02:16:17,357 --> 02:16:22,112
+<i>Sekretarz Ross na linii.
+Włamanie do więzienia Raft.</i>
+
+1635
+02:16:23,029 --> 02:16:24,864
+Połącz.
+
+1636
+02:16:26,199 --> 02:16:27,367
+<i>Tony, mamy problem.</i>
+
+1637
+02:16:27,534 --> 02:16:29,536
+- Chwileczkę.
+<i>- Nie rób tego.</i>
+
+1638
+02:16:32,372 --> 02:16:33,790
+<i>Bez względu na wszystko</i>
+
+1639
+02:16:34,874 --> 02:16:36,209
+<i>obiecuję ci,</i>
+
+1640
+02:16:36,376 --> 02:16:38,044
+<i>że jeśli będziemy ci potrzebni,</i>
+
+1641
+02:16:38,795 --> 02:16:41,464
+<i>jeśli ja będę potrzebny,</i>
+
+1642
+02:16:45,176 --> 02:16:46,386
+<i>możesz na mnie liczyć.</i>
+
+1643
+02:18:29,531 --> 02:18:33,576
+KAPITAN AMERYKA
+WOJNA BOHATERÓW
+
+1644
+02:18:45,797 --> 02:18:46,798
+Jesteś pewien?
+
+1645
+02:18:48,883 --> 02:18:50,677
+Nie ufam sam sobie.
+
+1646
+02:18:53,555 --> 02:18:56,182
+Dopóki nie wymyślą,
+jak mi to usunąć z głowy,
+
+1647
+02:18:56,349 --> 02:18:58,768
+sen będzie najlepszym rozwiązaniem.
+
+1648
+02:18:59,519 --> 02:19:01,020
+Dla wszystkich.
+
+1649
+02:19:23,251 --> 02:19:24,461
+Dziękuję.
+
+1650
+02:19:27,172 --> 02:19:29,007
+Twój kolega i mój ojciec
+
+1651
+02:19:30,133 --> 02:19:32,010
+obaj byli ofiarami.
+
+1652
+02:19:33,470 --> 02:19:36,848
+Jeśli mogę jednemu z nich pomóc...
+
+1653
+02:19:39,642 --> 02:19:42,395
+Gdy dowiedzą się, gdzie jest,
+
+1654
+02:19:42,562 --> 02:19:44,731
+przyjdą po niego.
+
+1655
+02:19:46,483 --> 02:19:48,151
+Niech spróbują.
+
+1656
+02:26:30,678 --> 02:26:32,096
+Kto cię tak urządził?
+
+1657
+02:26:32,263 --> 02:26:33,431
+Taki jeden.
+
+1658
+02:26:33,598 --> 02:26:35,183
+Rany, ale swędzi.
+
+1659
+02:26:35,350 --> 02:26:36,601
+Jak ma na imię?
+
+1660
+02:26:37,185 --> 02:26:38,228
+Steve.
+
+1661
+02:26:38,394 --> 02:26:40,396
+Steve? Z dwunastego piętra?
+
+1662
+02:26:40,563 --> 02:26:42,482
+- Ten z wadą zgryzu?
+- Nie, nie.
+
+1663
+02:26:42,649 --> 02:26:45,193
+Nie znasz go.
+Z Brooklynu.
+
+1664
+02:26:50,198 --> 02:26:51,991
+Mam nadzieję, że mu oddałeś.
+
+1665
+02:26:52,158 --> 02:26:54,536
+I to porządnie.
+
+1666
+02:26:55,203 --> 02:26:58,498
+Był z nim taki olbrzym. Gigant.
+
+1667
+02:27:00,792 --> 02:27:03,128
+Od razu lepiej. Dziękuję.
+
+1668
+02:27:03,294 --> 02:27:05,839
+Dobra, twardzielu.
+
+1669
+02:27:07,966 --> 02:27:10,301
+Kocham cię, ciociu.
+Możesz zamknąć drzwi?
+
+1670
+02:27:26,359 --> 02:27:29,487
+Spider-Man powróci
+
