@@ -17,7 +17,7 @@ jak nasz sprzymierzeniec.
 
 5
 00:00:50,633 --> 00:00:53,761
-Jest gotów objąć dowódzftwo
+Jest gotów objąć dowództwo
 
 6
 00:00:53,928 --> 00:00:59,392
@@ -42,7 +42,7 @@ Rozkaz ewakuacji potwierdzony.
 
 11
 00:02:02,455 --> 00:02:03,998
-Jest bardzo żźle?
+Jest bardzo źle?
 
 12
 00:02:04,165 --> 00:02:07,293
