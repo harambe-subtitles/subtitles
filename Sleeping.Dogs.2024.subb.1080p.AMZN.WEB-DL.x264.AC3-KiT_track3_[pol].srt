@@ -1,0 +1,5008 @@
+1
+00:01:20,332 --> 00:01:23,377
+DRZWI WEJŚCIOWE
+
+2
+00:01:23,461 --> 00:01:26,338
+NAZYWASZ SIĘ ROY FREEMAN
+MIESZKAM 213 E MUNSON AVE
+
+3
+00:01:26,422 --> 00:01:27,923
+URODZONY 23 MARCA 1964
+
+4
+00:01:28,007 --> 00:01:30,509
+NIE PIJ ALKOHOLU
+ŚMIECI WYSTAWIAJ W ŚRODY
+
+5
+00:01:30,593 --> 00:01:32,303
+ZABIERAJ KOMÓRKĘ
+JEST DOBRZE
+
+6
+00:01:35,056 --> 00:01:38,100
+POLICJA HRABSTWA WASZYNGTON
+POCHWAŁA KOMISARZA POLICJI
+
+7
+00:01:40,061 --> 00:01:44,482
+KUCHNIA, ŁAZIENKA
+
+8
+00:02:28,234 --> 00:02:29,610
+ZAMROŻONE POSIŁKI
+
+9
+00:02:33,447 --> 00:02:35,449
+WYJMIJ Z PUDEŁKA - WSADŹ DO MIKROFALI
+
+10
+00:02:35,533 --> 00:02:37,785
+PODGRZEWAJ CZTERY I PÓŁ MIN -
+FOLIA GORĄCA
+
+11
+00:03:16,157 --> 00:03:19,368
+MASZ ALZHEIMERA
+TWOIM LEKARZEM JEST DR MEHTA
+
+12
+00:03:34,842 --> 00:03:36,802
+Wymień trzy rzeczy w tym pokoju.
+
+13
+00:03:36,886 --> 00:03:39,513
+Krzesło, taśma, zegar.
+
+14
+00:03:42,975 --> 00:03:44,643
+Trzy rzeczy, których tu nie ma.
+
+15
+00:03:44,727 --> 00:03:46,645
+Butelki whiskey,
+samolotu, konia wyścigowego.
+
+16
+00:03:49,064 --> 00:03:51,108
+- Dzisiejsza data?
+- Czwartek.
+
+17
+00:03:51,650 --> 00:03:53,277
+Data, nie dzień tygodnia.
+
+18
+00:03:58,741 --> 00:04:00,034
+Wrzesień...
+
+19
+00:04:02,661 --> 00:04:04,288
+A może rok?
+
+20
+00:04:08,709 --> 00:04:10,252
+Miasto urodzenia?
+
+21
+00:04:13,797 --> 00:04:16,008
+Pamiętasz imię matki?
+
+22
+00:04:23,098 --> 00:04:24,558
+A ojca?
+
+23
+00:04:41,492 --> 00:04:47,623
+KSIĘGA LUSTER
+
+24
+00:05:09,353 --> 00:05:11,063
+To eksperymentalna procedura.
+
+25
+00:05:11,146 --> 00:05:14,233
+Elektrody przekażą impulsy
+do określonych miejsc w twoim mózgu.
+
+26
+00:05:16,819 --> 00:05:19,238
+Powinny rozwinąć się
+nowe szlaki neuronowe,
+
+27
+00:05:19,321 --> 00:05:21,782
+chociaż ich skuteczność może
+okazać się mniej przewidywalna,
+
+28
+00:05:21,865 --> 00:05:24,576
+zważywszy na twoją historię
+nadużywania środków odurzających,
+
+29
+00:05:24,660 --> 00:05:27,413
+które są powszechnym czynnikiem
+wywołującym Alzheimera.
+
+30
+00:05:45,556 --> 00:05:48,767
+- Halo?
+- Czy to Roy Freeman?
+
+31
+00:05:54,940 --> 00:05:56,525
+Halo?
+
+32
+00:05:56,608 --> 00:05:58,861
+- Tak.
+- Nazywam się Emily Dietz.
+
+33
+00:05:58,944 --> 00:06:00,696
+Pracuję dla Clean Hands Project.
+
+34
+00:06:02,573 --> 00:06:04,575
+- Clean Hands Project?
+- Tak.
+
+35
+00:06:05,743 --> 00:06:10,622
+Zajmujemy się interesami więźniów
+pozbawionych praw obywatelskich.
+
+36
+00:06:10,706 --> 00:06:13,208
+- Dobra.
+- Znalazłby pan parę minut na rozmowę?
+
+37
+00:06:15,336 --> 00:06:16,503
+Tak.
+
+38
+00:06:17,171 --> 00:06:18,547
+O co chodzi?
+
+39
+00:06:19,340 --> 00:06:21,550
+O sprawę,
+którą pan kiedyś prowadził.
+
+40
+00:06:44,907 --> 00:06:46,050
+Pan Freeman?
+
+41
+00:06:46,596 --> 00:06:47,972
+Pani Dietz.
+
+42
+00:06:48,702 --> 00:06:50,130
+Cześć. Jestem Emily.
+
+43
+00:06:51,038 --> 00:06:53,582
+- Jestem wdzięczna za spotkanie.
+- Nie ma za co.
+
+44
+00:06:54,583 --> 00:06:56,960
+Wspomniała pani
+o jakiejś mojej starej sprawie.
+
+45
+00:06:57,544 --> 00:06:59,505
+Tak. Dotyczy Isaaca Samuela.
+
+46
+00:07:03,634 --> 00:07:05,302
+Isaac Samuel...
+
+47
+00:07:06,053 --> 00:07:08,555
+Przepraszam, ale ja nie...
+
+48
+00:07:08,639 --> 00:07:11,975
+Oczywiście. Pewnie nie pamięta pan
+wszystkich prowadzonych dochodzeń.
+
+49
+00:07:12,059 --> 00:07:13,852
+Można to tak ująć.
+
+50
+00:07:16,772 --> 00:07:20,484
+Został skazany za morderstwo
+Josepha Wiedera dziesięć lat temu.
+
+51
+00:07:20,567 --> 00:07:23,320
+Ma zostać stracony
+pod koniec przyszłego miesiąca.
+
+52
+00:07:23,404 --> 00:07:26,407
+Staramy się u gubernatora o odroczenie,
+ale nie wygląda to dobrze.
+
+53
+00:07:26,490 --> 00:07:27,593
+Dobra.
+
+54
+00:07:28,992 --> 00:07:30,199
+Nie poznaję go.
+
+55
+00:07:30,786 --> 00:07:32,371
+Co to ma wspólnego ze mną?
+
+56
+00:07:32,454 --> 00:07:34,706
+Pan Samuel chce rozmawiać
+z detektywami,
+
+57
+00:07:34,790 --> 00:07:37,418
+którzy go przesłuchiwali
+w dniu, w którym się przyznał.
+
+58
+00:07:37,501 --> 00:07:41,547
+- Ja go przesłuchiwałem?
+- Nadal szukam pana partnera.
+
+59
+00:07:43,215 --> 00:07:44,758
+O czym chce rozmawiać?
+
+60
+00:07:44,842 --> 00:07:46,635
+Niestety nie powiedział.
+
+61
+00:07:46,718 --> 00:07:49,213
+Sam musi pan go o to zapytać.
+
+62
+00:10:16,785 --> 00:10:18,412
+Isaac Samuel?
+
+63
+00:10:21,915 --> 00:10:22,958
+Tak.
+
+64
+00:10:27,629 --> 00:10:29,965
+Jestem Roy Freeman.
+Kiedyś byłem detektywem.
+
+65
+00:10:31,216 --> 00:10:33,468
+Podobno chciałeś się ze mną widzieć.
+To prawda?
+
+66
+00:10:34,094 --> 00:10:35,137
+Tak.
+
+67
+00:10:37,306 --> 00:10:38,473
+Dobra.
+
+68
+00:10:39,641 --> 00:10:41,310
+No więc jestem.
+
+69
+00:10:43,478 --> 00:10:44,646
+Jak leci?
+
+70
+00:10:44,730 --> 00:10:46,346
+Cóż, no wiesz...
+
+71
+00:10:47,441 --> 00:10:51,403
+Mam szczęście, Roy. Dziesięć lat,
+trzy gorące posiłki dziennie i prycza.
+
+72
+00:10:51,486 --> 00:10:53,297
+Członek klubu czytelników
+skazanych na śmierć.
+
+73
+00:10:53,322 --> 00:10:56,116
+Więzienie ma moje ciało,
+ale Allah moją duszę.
+
+74
+00:10:56,199 --> 00:10:58,619
+Co cię, kurwa, obchodzi,
+jak mi leci?
+
+75
+00:10:59,703 --> 00:11:00,954
+Rozumiem.
+
+76
+00:11:02,789 --> 00:11:07,527
+No więc ta pani... Emily Dietz
+z Clean Hands Project
+
+77
+00:11:07,611 --> 00:11:10,005
+powiedziała,
+że chciałeś ze mną rozmawiać.
+
+78
+00:11:10,088 --> 00:11:11,923
+- To chciałeś mi powiedzieć?
+- Nie.
+
+79
+00:11:12,007 --> 00:11:14,251
+Jesteś tu, bo chcę wiedzieć,
+jakie to uczucie wiedzieć,
+
+80
+00:11:14,276 --> 00:11:16,136
+że niewinny człowiek
+zostanie uśmiercony.
+
+81
+00:11:16,845 --> 00:11:17,888
+Jasne.
+
+82
+00:11:18,722 --> 00:11:22,493
+A ty... jesteś
+tym niewinnym człowiekiem.
+
+83
+00:11:23,185 --> 00:11:25,170
+Tak. Nie zrozum mnie źle, Roy.
+
+84
+00:11:25,771 --> 00:11:28,273
+Robiłem złe rzeczy,
+podejmowałem złe decyzje,
+
+85
+00:11:28,357 --> 00:11:30,400
+ale nie zabiłem Jo Wiedera.
+
+86
+00:11:31,193 --> 00:11:34,446
+Rozumiem. Przyznałeś się.
+
+87
+00:11:35,072 --> 00:11:37,908
+Podczas przesłuchania przyznałeś się.
+
+88
+00:11:38,533 --> 00:11:43,497
+A teraz, po takim czasie,
+nagle mówisz mi, że było inaczej?
+
+89
+00:11:43,580 --> 00:11:48,125
+Żadne nagle. Siedzę tu
+od dziesięciu pieprzonych lat.
+
+90
+00:11:48,210 --> 00:11:50,462
+Nic do roboty
+tylko odtwarzać to gówno w głowie.
+
+91
+00:11:51,088 --> 00:11:54,007
+- Wiem, jak było naprawdę.
+- Jasne. I dlatego tu jestem.
+
+92
+00:11:55,175 --> 00:11:57,344
+No to mów, jak było naprawdę.
+
+93
+00:11:57,427 --> 00:12:02,182
+Wiem, że od tego wypadku po pijaku
+za kółkiem nie jesteś już gliną,
+
+94
+00:12:02,265 --> 00:12:04,685
+ale może chcesz oczyścić sumienie.
+
+95
+00:12:05,686 --> 00:12:06,978
+Przynajmniej mnie wysłuchaj.
+
+96
+00:12:07,642 --> 00:12:09,189
+Tym razem.
+
+97
+00:12:11,233 --> 00:12:12,484
+Słucham.
+
+98
+00:12:13,617 --> 00:12:17,739
+Tego wieczoru byłem tak nawalony,
+że nic nie pamiętałem.
+
+99
+00:12:18,615 --> 00:12:20,742
+Całą noc się nade mną wyżywaliście.
+
+100
+00:12:20,826 --> 00:12:22,135
+Kiedy już pokazaliście mi te zdjęcia,
+
+101
+00:12:22,160 --> 00:12:25,038
+byłem tak skołowany,
+iż uwierzyłem, że to moja sprawka.
+
+102
+00:12:25,122 --> 00:12:27,124
+Włamałeś się i pobiłeś go na śmierć!
+
+103
+00:12:27,207 --> 00:12:29,834
+Wszędzie są twoje odciski palców!
+
+104
+00:12:29,918 --> 00:12:31,878
+Śmiało, przyznaj się, synu.
+
+105
+00:12:32,963 --> 00:12:34,146
+Przyznaj się.
+
+106
+00:12:34,840 --> 00:12:37,592
+To twoja sprawka, i ta.
+Ty to zrobiłeś!
+
+107
+00:12:37,676 --> 00:12:40,383
+To wszystko twoja pieprzona robota!
+
+108
+00:12:40,887 --> 00:12:41,972
+Przyznaj się!
+
+109
+00:12:47,519 --> 00:12:49,646
+Po co poszedłeś do jego domu?
+
+110
+00:12:52,023 --> 00:12:54,761
+Rok przed śmiercią Wiedera
+oskarżono mnie o kradzież.
+
+111
+00:12:56,319 --> 00:13:01,116
+Byłem nieletni. Wieder zeznawał
+jako ekspert prokuratora.
+
+112
+00:13:01,575 --> 00:13:04,119
+Sędziemu powiedziałem,
+że tego wieczoru byłem tak naćpany,
+
+113
+00:13:04,202 --> 00:13:05,287
+że nie myślałem logicznie,
+
+114
+00:13:05,370 --> 00:13:07,122
+ale Wieder zeznał,
+że wiedziałem, co robię.
+
+115
+00:13:07,748 --> 00:13:09,541
+Dlatego sądzili mnie jak dorosłego.
+
+116
+00:13:09,624 --> 00:13:13,211
+Wiesz, co to znaczy mieć 18 lat
+i być suką jakiegoś skinheada?
+
+117
+00:13:14,880 --> 00:13:16,423
+Zacznijmy od początku.
+
+118
+00:13:16,506 --> 00:13:18,967
+Wieder zeznaje przeciwko tobie
+i zostajesz skazany.
+
+119
+00:13:19,050 --> 00:13:21,511
+Idziesz do jego domu.
+Jest późna noc, jesteś wściekły.
+
+120
+00:13:21,595 --> 00:13:24,266
+- Nie lubisz go...
+- Nie jestem zabójcą!
+
+121
+00:13:26,683 --> 00:13:30,687
+Chciałem tylko odzyskać syna.
+Myślałem, że Wieder mi pomoże.
+
+122
+00:13:33,565 --> 00:13:35,442
+Tak, poszedłem do jego domu.
+
+123
+00:13:36,610 --> 00:13:39,659
+Poczekałem, aż jego nadzorca odjedzie
+i poszedłem od tyłu.
+
+124
+00:13:48,830 --> 00:13:51,416
+Udało mi się nawet wejść do środka.
+
+125
+00:13:54,795 --> 00:13:57,589
+Ale wtedy ktoś inny się zjawił.
+
+126
+00:13:58,173 --> 00:14:01,176
+No proszę. Już w domu?
+
+127
+00:14:05,597 --> 00:14:07,415
+Wtedy się zaczęło.
+
+128
+00:14:12,979 --> 00:14:16,316
+Spanikowałem i wyszedłem,
+nim zauważyłem, kto to był.
+
+129
+00:14:17,400 --> 00:14:18,901
+Dobra.
+
+130
+00:14:19,528 --> 00:14:22,864
+Nie dotknąłeś go, ale nie wiesz...
+
+131
+00:14:22,948 --> 00:14:24,680
+Mówię prawdę!
+
+132
+00:14:30,205 --> 00:14:31,400
+W porządku, Isaac.
+
+133
+00:14:36,837 --> 00:14:38,129
+Myślisz, że kłamię.
+
+134
+00:14:42,217 --> 00:14:46,137
+No to zapytaj Richarda Finna.
+On ci powie.
+
+135
+00:14:48,765 --> 00:14:51,043
+Musisz mi przypomnieć...
+
+136
+00:14:51,977 --> 00:14:53,478
+Kim jest Richard Finn?
+
+137
+00:14:54,020 --> 00:14:55,738
+Był u mnie parę miesięcy temu.
+
+138
+00:14:56,356 --> 00:14:58,316
+Piszę jakąś książkę
+o tym morderstwie.
+
+139
+00:14:59,407 --> 00:15:00,658
+- Książkę?
+- Tak.
+
+140
+00:15:03,446 --> 00:15:07,741
+Posłuchaj, chyba nie będę w stanie
+zaangażować się...
+
+141
+00:15:07,826 --> 00:15:09,661
+Już jesteś zaangażowany, Roy.
+
+142
+00:15:09,744 --> 00:15:10,829
+To twoja sprawa.
+
+143
+00:15:10,912 --> 00:15:13,415
+Byłeś tam, kiedy podpisałem
+to przyznanie się do winy!
+
+144
+00:15:15,125 --> 00:15:18,812
+Napraw to! Zapłaciłem za swój czyn,
+kiedy miałem 18 lat!
+
+145
+00:15:19,337 --> 00:15:22,007
+Napraw to, inaczej po mnie!
+
+146
+00:15:48,992 --> 00:15:51,827
+Lekarstwa mogą wspomóc
+regenerację synaps,
+
+147
+00:15:51,912 --> 00:15:54,039
+ale musisz utrzymywać
+aktywność mózgu.
+
+148
+00:15:54,122 --> 00:15:55,790
+Książki, puzzle, cokolwiek,
+
+149
+00:15:55,874 --> 00:15:58,376
+co będzie stymulować twój mózg.
+
+150
+00:16:10,597 --> 00:16:12,223
+To twoja sprawka! Przyznaj się!
+
+151
+00:16:12,307 --> 00:16:14,142
+Ty to zrobiłeś!
+
+152
+00:16:14,225 --> 00:16:16,311
+Zapytaj Richarda Finna.
+
+153
+00:17:16,663 --> 00:17:18,039
+Hej!
+
+154
+00:17:22,585 --> 00:17:23,628
+Roy?
+
+155
+00:17:24,713 --> 00:17:25,922
+Tak.
+
+156
+00:17:27,007 --> 00:17:28,800
+Co ty tu do cholery robisz?
+
+157
+00:17:31,469 --> 00:17:34,014
+- Byłem w okolicy.
+- Wejdź.
+
+158
+00:17:38,143 --> 00:17:39,436
+Cześć.
+
+159
+00:17:42,230 --> 00:17:43,606
+Wejdź, wejdź.
+
+160
+00:17:45,025 --> 00:17:46,109
+Wchodź!
+
+161
+00:17:48,194 --> 00:17:51,314
+Nie pamiętam,
+kiedy ostatni raz widziałem twoją twarz.
+
+162
+00:17:53,408 --> 00:17:54,451
+Proszę.
+
+163
+00:17:57,245 --> 00:18:00,623
+Kiedy to mogło być?
+Pewnie jakieś dziesięć lat temu,
+
+164
+00:18:01,166 --> 00:18:04,252
+kiedy te skurwiele odebrali ci odznakę.
+
+165
+00:18:04,794 --> 00:18:06,171
+Pewnie tak.
+
+166
+00:18:10,967 --> 00:18:14,106
+Mam nadzieję,
+że dalej tego nie roztrząsasz?
+
+167
+00:18:14,888 --> 00:18:17,807
+Wtedy każdy pił w robocie.
+
+168
+00:18:17,891 --> 00:18:21,394
+Taki wypadek
+mógł się przytrafić każdemu z nas.
+
+169
+00:18:23,271 --> 00:18:24,898
+- Zdrówka.
+- Zdrówka.
+
+170
+00:18:30,737 --> 00:18:33,156
+Co jest? Jesteś na odwyku?
+
+171
+00:18:33,823 --> 00:18:35,255
+Tak.
+
+172
+00:18:35,825 --> 00:18:38,912
+Lekarz zabronił mi pić,
+kiedy biorę leki.
+
+173
+00:18:39,579 --> 00:18:40,752
+Jesteś chory?
+
+174
+00:18:41,289 --> 00:18:44,084
+Nie. Biorę udział
+w takich testach klinicznych.
+
+175
+00:18:44,793 --> 00:18:46,086
+Mam Alzheimera,
+
+176
+00:18:46,169 --> 00:18:50,757
+więc potraktowali moją głowę
+takimi pieprzonymi impulsami.
+
+177
+00:18:51,382 --> 00:18:54,302
+- To ma stymulować moją pamięć.
+- Jezu, Roy.
+
+178
+00:18:54,385 --> 00:18:57,138
+Gdybyś nie wypowiedział
+mojego imienia,
+
+179
+00:18:57,222 --> 00:18:58,681
+nie wiedziałbym, że to ty.
+
+180
+00:18:59,766 --> 00:19:01,035
+Czyli ty...
+
+181
+00:19:02,102 --> 00:19:04,354
+nie masz wspomnień o nas
+na służbie?
+
+182
+00:19:04,896 --> 00:19:05,980
+Nie.
+
+183
+00:19:06,815 --> 00:19:11,236
+Czytałem akta dawnych spraw
+i wszystko jest dla mnie nowością.
+
+184
+00:19:12,112 --> 00:19:13,395
+Nie chodzi tylko o pracę.
+
+185
+00:19:13,478 --> 00:19:15,875
+Całe moje życie
+to jedna wielka czarna dziura.
+
+186
+00:19:16,574 --> 00:19:17,784
+Jasna cholera.
+
+187
+00:19:22,497 --> 00:19:23,957
+Pamiętasz Kat?
+
+188
+00:19:25,371 --> 00:19:26,413
+Moją żonę?
+
+189
+00:19:31,798 --> 00:19:33,416
+W każdym razie ona...
+
+190
+00:19:34,676 --> 00:19:36,261
+odeszła w zeszłym roku.
+
+191
+00:19:36,928 --> 00:19:38,638
+- Rak.
+- Przykro mi.
+
+192
+00:19:38,721 --> 00:19:40,833
+Tak... pieprzony rak.
+
+193
+00:19:42,851 --> 00:19:44,660
+Wydziałowy fundusz zdrowia
+
+194
+00:19:45,562 --> 00:19:47,438
+nie chciał opłacić
+rachunków za szpital.
+
+195
+00:19:48,148 --> 00:19:49,566
+Musiałem sam to rozwiązać.
+
+196
+00:19:50,233 --> 00:19:52,360
+Ale nie przyszedłeś tego słuchać.
+
+197
+00:19:53,736 --> 00:19:55,113
+Co cię tu sprowadza?
+
+198
+00:19:56,406 --> 00:19:57,949
+Dobra...
+
+199
+00:19:58,783 --> 00:20:00,827
+Pamiętasz Isaaca Samuela?
+
+200
+00:20:01,452 --> 00:20:03,163
+Został skazany za morderstwo.
+
+201
+00:20:03,246 --> 00:20:06,708
+To się wydarzyło w Waterford College?
+Jakiś profesor?
+
+202
+00:20:07,667 --> 00:20:10,211
+Rozmawiałeś z panią z grupy interesu.
+
+203
+00:20:11,629 --> 00:20:13,131
+Ja nie oddzwoniłem.
+
+204
+00:20:13,214 --> 00:20:16,009
+Cóż, ja odebrałem telefon.
+
+205
+00:20:16,092 --> 00:20:20,054
+Powiedziała, że Isaac
+chce ze mną rozmawiać, więc...
+
+206
+00:20:22,515 --> 00:20:24,517
+Rozmawiałeś z Samuelem?
+
+207
+00:20:24,601 --> 00:20:27,217
+Tak. Pojechałem
+do więzienia stanowego,
+
+208
+00:20:27,979 --> 00:20:29,689
+rozmawialiśmy i...
+
+209
+00:20:32,317 --> 00:20:33,610
+powiedział, że tego nie zrobił.
+
+210
+00:20:34,110 --> 00:20:37,071
+Daj spokój, Roy.
+Każdy z celi śmierci tak mówi.
+
+211
+00:20:37,155 --> 00:20:38,323
+Wiem, wiem...
+
+212
+00:20:38,406 --> 00:20:40,992
+ale muszę przyznać,
+Jimmy, był...
+
+213
+00:20:42,493 --> 00:20:43,620
+przekonujący.
+
+214
+00:20:44,412 --> 00:20:47,665
+Wspomniał o innym gościu,
+który go odwiedził...
+
+215
+00:20:52,253 --> 00:20:53,588
+Finn.
+
+216
+00:20:54,297 --> 00:20:55,673
+Richard Finn.
+
+217
+00:20:56,507 --> 00:20:58,509
+Mówi ci coś to nazwisko?
+
+218
+00:21:00,929 --> 00:21:04,182
+To było tak dawno temu,
+nie pamiętam.
+
+219
+00:21:04,265 --> 00:21:05,683
+Przeczytałem akta.
+
+220
+00:21:06,309 --> 00:21:08,686
+Kiedy sprawdzaliśmy tamten dom,
+
+221
+00:21:09,687 --> 00:21:13,733
+wszędzie były odciski Finna,
+w całym domu.
+
+222
+00:21:14,400 --> 00:21:15,443
+No i?
+
+223
+00:21:16,402 --> 00:21:18,529
+Były tam. Kogo to obchodzi?
+
+224
+00:21:18,613 --> 00:21:21,574
+Richard Finn powiedział,
+że tego wieczoru nie było go w domu.
+
+225
+00:21:21,658 --> 00:21:23,576
+To jest w jego zeznaniu.
+
+226
+00:21:23,660 --> 00:21:25,161
+Ale my to odpuściliśmy.
+
+227
+00:21:25,787 --> 00:21:29,849
+Nie sprawdziliśmy, gdzie wtedy był
+i uważam to za dziwne.
+
+228
+00:21:30,375 --> 00:21:31,751
+Czy to nie dziwne?
+
+229
+00:21:33,878 --> 00:21:35,088
+Do czego zmierzasz?
+
+230
+00:21:35,880 --> 00:21:36,923
+Nie wiem.
+
+231
+00:21:37,632 --> 00:21:41,511
+Pomyślałem, że może pojedziemy
+do niego i z nim porozmawiamy.
+
+232
+00:21:43,721 --> 00:21:45,014
+Po co?
+
+233
+00:21:45,098 --> 00:21:48,851
+Nie wiem. To takie przeczucie.
+Tylko one mi dzisiaj zostały.
+
+234
+00:21:48,935 --> 00:21:53,398
+Poza tym lekarz każe mi utrzymywać mózg
+w stanie aktywności, więc co mi tam.
+
+235
+00:21:56,317 --> 00:21:57,450
+Pewnie, Roy.
+
+236
+00:21:58,903 --> 00:22:00,102
+Zajmę się tym.
+
+237
+00:22:00,738 --> 00:22:02,532
+Mam jeszcze
+kilku przyjaciół w policji.
+
+238
+00:22:05,910 --> 00:22:07,120
+Świetnie.
+
+239
+00:22:09,372 --> 00:22:10,498
+Odezwę się, Roy.
+
+240
+00:22:46,701 --> 00:22:49,495
+MIEJSCOWY POLICJANT WALCZY Z ŻYCIEM
+PO WYPADKU SAMOCHODOWYM
+
+241
+00:23:36,250 --> 00:23:38,252
+- Tak?
+- Znalazłem twojego chłopca.
+
+242
+00:23:38,336 --> 00:23:40,421
+Znalazłem Richarda Finna.
+
+243
+00:23:42,590 --> 00:23:45,468
+Gospodyni go znalazła,
+kiedy wpuszczała inkasenta gazowni.
+
+244
+00:23:46,094 --> 00:23:47,303
+Przyczyna zgonu?
+
+245
+00:23:50,473 --> 00:23:52,579
+Przedawkowanie. Fentanyl.
+
+246
+00:23:56,854 --> 00:23:59,899
+- Tylko jedna dziurka po igle.
+- Co?
+
+247
+00:24:00,608 --> 00:24:02,193
+Nie był ćpunem.
+
+248
+00:24:02,276 --> 00:24:03,486
+Brak śladów dalszych ukłuć.
+
+249
+00:24:03,569 --> 00:24:05,905
+Więc był żółtodziobem.
+Nie wiedział, co robi.
+
+250
+00:24:17,959 --> 00:24:20,920
+- Dobrze się czujesz, Roy?
+- Był tam.
+
+251
+00:24:21,963 --> 00:24:24,923
+- Na miejscu zbrodni.
+- Tak, już to mówiłeś.
+
+252
+00:24:25,007 --> 00:24:27,510
+Nie, nie chodzi tylko o odciski.
+On tam był.
+
+253
+00:24:28,594 --> 00:24:30,096
+Tego ranka, kiedy my tam byliśmy.
+
+254
+00:24:30,179 --> 00:24:33,015
+Przypominasz sobie,
+że widziałeś go na miejscu zbrodni?
+
+255
+00:24:34,350 --> 00:24:37,256
+Jego odciski były w całym domu.
+
+256
+00:24:37,895 --> 00:24:40,305
+Następnego ranka zjawia się
+na miejscu zbrodni.
+
+257
+00:24:41,023 --> 00:24:42,358
+Rozmawialiśmy z nim.
+
+258
+00:24:42,442 --> 00:24:46,404
+Twierdził, że podczas morderstwa
+był w swoim domu, sam.
+
+259
+00:24:46,487 --> 00:24:47,572
+Nie sprawdziliśmy tego.
+
+260
+00:24:47,655 --> 00:24:50,403
+Nie rozmawialiśmy
+z jego znajomymi, sąsiadami...
+
+261
+00:24:50,486 --> 00:24:53,661
+Odciski Samuela były w całym domu.
+
+262
+00:24:53,744 --> 00:24:56,414
+Miał motyw i przyznał się.
+
+263
+00:24:57,790 --> 00:25:00,751
+- To nie ma sensu.
+- To już teraz nieważne.
+
+264
+00:25:00,835 --> 00:25:03,921
+- Martwi nie mówią.
+- Możliwe.
+
+265
+00:25:04,797 --> 00:25:06,716
+Ale zostawiają po sobie smród.
+
+266
+00:25:24,025 --> 00:25:25,359
+Pani Finn?
+
+267
+00:25:26,402 --> 00:25:28,400
+Nazywam się Roy Freeman.
+
+268
+00:25:29,405 --> 00:25:31,282
+Wiem, że to nieodpowiedni moment,
+
+269
+00:25:31,365 --> 00:25:34,368
+ale czy mógłbym pani zadać
+kilka pytań o mężu?
+
+270
+00:25:36,287 --> 00:25:39,957
+- Ja jestem jej mężem, Eddie.
+- Proszę wybaczyć, Eddie.
+
+271
+00:25:41,375 --> 00:25:43,586
+Czy jest tu druga pani Finn?
+
+272
+00:25:43,669 --> 00:25:47,464
+Nie. Ona i Richard
+za bardzo się dogadywali.
+
+273
+00:25:47,548 --> 00:25:51,302
+Może ja mogę pomóc?
+Był moim bratem.
+
+274
+00:25:52,178 --> 00:25:56,474
+Zajmuje się sprawą, którą pański brat
+był szczególnie zainteresowany.
+
+275
+00:25:56,557 --> 00:25:58,893
+Ostatnio odwiedził więźnia
+osadzonego w celi śmierci
+
+276
+00:25:58,976 --> 00:26:02,355
+i wspomniał,
+że pisze książkę na ten temat.
+
+277
+00:26:02,438 --> 00:26:07,068
+- Może wie pan coś o tym?
+- Wrócę z ciotką Judy.
+
+278
+00:26:07,735 --> 00:26:08,861
+Dobrze.
+
+279
+00:26:12,949 --> 00:26:15,243
+Tu mam samochód.
+
+280
+00:26:20,873 --> 00:26:23,544
+Proszę. Znalazłem ją
+w jego mieszkaniu.
+
+281
+00:26:24,126 --> 00:26:27,797
+Tytuł brzmi Księga Luster.
+Dla mnie całkowicie bezsensowny.
+
+282
+00:26:27,880 --> 00:26:29,257
+Księga Luster...
+
+283
+00:26:30,216 --> 00:26:35,596
+Isaac Samuel, ten z celi śmierci,
+twierdzi, że jest o morderstwie Wiedera.
+
+284
+00:26:35,680 --> 00:26:37,369
+Cóż, gdyby Richard tu był,
+
+285
+00:26:37,452 --> 00:26:40,017
+pewnie określiłby to
+pamiętnikiem zbrodni.
+
+286
+00:26:40,101 --> 00:26:43,203
+- Czytał ją pan?
+- Z obrzydzeniem.
+
+287
+00:26:43,771 --> 00:26:46,482
+Moim zdaniem
+to prymitywna autokreacja.
+
+288
+00:26:46,566 --> 00:26:48,944
+O dziewczynie w college'u,
+na punkcie której miał obsesję.
+
+289
+00:26:49,527 --> 00:26:51,612
+Nie byliście sobie bliscy.
+
+290
+00:26:51,696 --> 00:26:53,447
+O zmarłych źle się nie mówi,
+
+291
+00:26:53,531 --> 00:26:56,784
+ale Richard nie był osobą,
+do której ktoś chciałby się zbliżyć.
+
+292
+00:26:58,244 --> 00:27:00,997
+- Od dawna brał?
+- Narkotyki?
+
+293
+00:27:01,080 --> 00:27:04,542
+Nie. Nie pamiętam, by kiedykolwiek
+interesował się narkotykami.
+
+294
+00:27:04,625 --> 00:27:06,386
+To raczej nie była jego bajka.
+
+295
+00:27:07,044 --> 00:27:10,131
+Ale w przypadku Richarda
+pozory mogły mylić.
+
+296
+00:27:11,007 --> 00:27:14,051
+Zawsze był w nie najlepszej formie,
+nawet jak byliśmy dzieciakami.
+
+297
+00:27:14,135 --> 00:27:19,389
+Ale w ostatnim roku, ostatnich latach
+nawet, coś było nie tak.
+
+298
+00:27:19,473 --> 00:27:21,559
+- Co się zmieniło?
+- Nie wiem...
+
+299
+00:27:21,642 --> 00:27:25,479
+Był... pobudzony, wręcz paranoicznie.
+
+300
+00:27:26,814 --> 00:27:28,899
+Ta książka jest tego dowodem.
+
+301
+00:27:29,900 --> 00:27:32,528
+Na pana miejscu
+nie marnowałbym na nią czasu.
+
+302
+00:27:35,239 --> 00:27:37,366
+- Daje mi ją pan?
+- Z radością.
+
+303
+00:28:05,019 --> 00:28:09,273
+Pamięć bywa przewrotna.
+Coś sobie przypomnimy, czegoś nie.
+
+304
+00:28:10,316 --> 00:28:12,568
+Rzadkie chwile pozostawiające
+ślad na zawsze.
+
+305
+00:28:13,486 --> 00:28:14,904
+W przeciwieństwie do banałów.
+
+306
+00:28:17,782 --> 00:28:21,754
+Cierpienia tak bolesne,
+że aż zakopane w naszych zakamarkach.
+
+307
+00:28:22,411 --> 00:28:24,789
+Zapomniane, póki czas ich nie odkopie.
+
+308
+00:28:26,957 --> 00:28:30,753
+Ale niezależnie od pamięci,
+dobrej, złej, nijakiej,
+
+309
+00:28:30,836 --> 00:28:33,005
+nigdy nie wraca w całości.
+
+310
+00:28:33,673 --> 00:28:35,675
+Jest wydzielana w częściach,
+
+311
+00:28:35,758 --> 00:28:38,803
+jak elementy układanki,
+którą dopiero z czasem da się złożyć.
+
+312
+00:28:42,056 --> 00:28:44,517
+Kiedy dostaniemy kolejne puzzle?
+
+313
+00:28:45,434 --> 00:28:46,769
+To wielka niewiadoma.
+
+314
+00:28:49,063 --> 00:28:51,982
+Za miesiąc, rok, po dekadzie.
+
+315
+00:28:52,566 --> 00:28:53,693
+Richard Finn.
+
+316
+00:28:54,193 --> 00:28:57,238
+Tak jak to było w przypadku
+morderstwa Josepha Wiedera.
+
+317
+00:29:00,574 --> 00:29:03,494
+Dziesięć lat nierozumienia,
+co się stało.
+
+318
+00:29:08,040 --> 00:29:11,460
+Lub złego zrozumienia,
+po tym, co wiem teraz.
+
+319
+00:29:16,882 --> 00:29:18,217
+I to wszystko przez nią.
+
+320
+00:29:20,553 --> 00:29:21,951
+Laurę Baines.
+
+321
+00:29:24,223 --> 00:29:28,232
+Była rzadkim jednorożcem,
+która wiedziała wszystko o wszystkim.
+
+322
+00:29:28,728 --> 00:29:31,664
+Nikt nie potrafił lepiej chromatycznie
+kontrapunktować od Rachmaninoffa.
+
+323
+00:29:31,689 --> 00:29:35,151
+Licencjaty
+z historii sztuki i neuronauki.
+
+324
+00:29:35,234 --> 00:29:38,195
+Pomiędzy niskimi poziomami kortyzolu
+a ich predyspozycją...
+
+325
+00:29:38,279 --> 00:29:39,530
+Magister matematyki.
+
+326
+00:29:39,613 --> 00:29:43,284
+Piękno, jakie nam Odlyzko
+pokazał, to dystrybucję...
+
+327
+00:29:43,367 --> 00:29:44,660
+Znajomość pięciu języków.
+
+328
+00:29:52,001 --> 00:29:54,217
+Doskonale wiedziała, kim jest.
+
+329
+00:29:56,589 --> 00:29:58,682
+Szkoda tylko,
+że ja wtedy nie wiedziałem.
+
+330
+00:30:07,725 --> 00:30:09,101
+Jak poncz?
+
+331
+00:30:11,103 --> 00:30:13,814
+Po tym, jak tyle czasu się czaiłaś,
+
+332
+00:30:13,898 --> 00:30:18,861
+by mnie zagadać, myślę, że mogłaś
+wymyślić lepszy tekst niż "Jak poncz?".
+
+333
+00:30:20,029 --> 00:30:21,322
+Nie czaiłam się.
+
+334
+00:30:21,405 --> 00:30:23,657
+I łypałaś na mnie wzrokiem.
+
+335
+00:30:23,741 --> 00:30:27,328
+Czaiłam się i łypałam?
+Czuję się jak seryjny zabójca.
+
+336
+00:30:27,411 --> 00:30:29,413
+Cóż, znam cię na wylot.
+
+337
+00:30:32,792 --> 00:30:34,752
+- Jestem Richard.
+- Wiem.
+
+338
+00:30:36,045 --> 00:30:37,129
+Jest na piersi.
+
+339
+00:30:38,631 --> 00:30:39,882
+No tak.
+
+340
+00:30:39,965 --> 00:30:43,803
+A ty bezimienna, spowita tajemniczością.
+To niesprawiedliwe.
+
+341
+00:30:43,886 --> 00:30:47,848
+A co jest w imieniu? Co po imieniu?
+"Róża, choć nazwisko zmieni..."
+
+342
+00:30:47,932 --> 00:30:50,309
+Świetnie!
+Kolejna miłośniczka Szekspira.
+
+343
+00:30:51,769 --> 00:30:55,856
+To o czym jest twoja rozprawa?
+Nie! Niech zgadnę.
+
+344
+00:30:55,940 --> 00:30:57,339
+- Dobra.
+- Dobra.
+
+345
+00:30:57,900 --> 00:31:00,694
+- Prawdopodobnie jest kontrowersyjna.
+- Prawdopodobnie.
+
+346
+00:31:00,778 --> 00:31:06,366
+Wiem. Wpływ cross-gender
+na Sen Nocy Letniej.
+
+347
+00:31:06,450 --> 00:31:07,785
+Blisko.
+
+348
+00:31:07,868 --> 00:31:11,372
+"Ponowne utrwalanie pamięci na drodze
+terapii przyśpieszonej rozdzielczości".
+
+349
+00:31:11,455 --> 00:31:13,833
+Jedno z jego mniej znanych dzieł.
+
+350
+00:31:18,963 --> 00:31:21,241
+Wydział psychologii.
+Jestem Laura.
+
+351
+00:31:22,633 --> 00:31:26,178
+Lubisz wkręcać się
+na imprezy innych wydziałów?
+
+352
+00:31:26,262 --> 00:31:30,307
+Nie, przyszłam tu ze znajomym, a raczej
+kolegą z pracy, profesorem Wiederem.
+
+353
+00:31:32,601 --> 00:31:35,855
+Pomagam mu w badaniach,
+a on zarządza moją rozprawą.
+
+354
+00:31:35,938 --> 00:31:40,025
+Jasne, o "Odbudowie pamięci
+poprzez przyśpieszoną rekoncyliację..."
+
+355
+00:31:40,109 --> 00:31:43,028
+"Ponowne utrwalanie pamięci..."
+Zgadza się.
+
+356
+00:31:43,112 --> 00:31:45,489
+Przepraszam,
+trochę się wyżywam na tobie.
+
+357
+00:31:45,573 --> 00:31:46,999
+Trudny tytuł do ogarnięcia.
+
+358
+00:31:50,786 --> 00:31:51,996
+Ile masz życzeń?
+
+359
+00:31:55,124 --> 00:31:57,126
+Należał do mojej babci.
+
+360
+00:31:57,209 --> 00:31:59,794
+Przepraszam. Przeczytałem gdzieś, że...
+
+361
+00:31:59,879 --> 00:32:02,923
+jeśli kobieta bawi się biżuterią,
+to flirtuje z tobą.
+
+362
+00:32:03,007 --> 00:32:04,221
+Naprawdę?
+
+363
+00:32:05,801 --> 00:32:08,012
+Nie wierz we wszystko,
+co przeczytasz.
+
+364
+00:32:09,638 --> 00:32:10,764
+Dobra.
+
+365
+00:32:33,078 --> 00:32:34,121
+Duś mnie!
+
+366
+00:32:35,247 --> 00:32:37,033
+- Co?
+- Duś!
+
+367
+00:32:39,168 --> 00:32:40,294
+Mocniej!
+
+368
+00:33:07,321 --> 00:33:10,783
+Od tamtej chwili
+byliśmy praktycznie nierozłączni.
+
+369
+00:33:14,286 --> 00:33:16,816
+Przez wiele miesięcy
+wszystko robiliśmy wspólnie.
+
+370
+00:33:20,167 --> 00:33:23,072
+Dzięki niej stałem się
+najlepszą swoją wersją.
+
+371
+00:33:28,092 --> 00:33:30,260
+No i... co myślisz?
+
+372
+00:33:32,638 --> 00:33:33,931
+Co myślę?
+
+373
+00:33:34,014 --> 00:33:37,184
+Myślę, że jesteś
+zajebiście genialny, Richard.
+
+374
+00:33:37,267 --> 00:33:39,561
+Inni powinni poznać twoją twórczość.
+
+375
+00:33:40,229 --> 00:33:43,975
+Powinieneś wysłać to do Harpers,
+The Atlantic, do wszystkich wielkich.
+
+376
+00:33:44,900 --> 00:33:48,863
+Jakbym doświadczał świata
+po raz pierwszy, jej oczami.
+
+377
+00:33:49,405 --> 00:33:50,948
+Masz olbrzymi talent.
+
+378
+00:33:53,242 --> 00:33:54,868
+Dzięki.
+Przepraszam.
+
+379
+00:34:00,060 --> 00:34:01,144
+Cześć, mamo.
+
+380
+00:34:01,229 --> 00:34:03,481
+Ale nie wszystko
+wyglądało tak różowo.
+
+381
+00:34:05,212 --> 00:34:08,716
+Po kilku miesiącach naszej znajomości
+mój ojciec zmarł na zawał.
+
+382
+00:34:09,383 --> 00:34:11,725
+Moją matkę nie było stać
+na moje czesne.
+
+383
+00:34:12,386 --> 00:34:14,145
+Laura chciała pomóc.
+
+384
+00:34:14,888 --> 00:34:18,058
+I tak właśnie poznałem
+profesora Josepha Wiedera.
+
+385
+00:34:22,146 --> 00:34:24,231
+Laura? Witam.
+
+386
+00:34:24,314 --> 00:34:27,233
+- Przepraszam za spóźnienie.
+- Nie ma problemu.
+
+387
+00:34:27,317 --> 00:34:28,737
+- Cześć.
+- Cześć.
+
+388
+00:34:31,238 --> 00:34:34,699
+Właśnie skończyłem rozmowę
+ze znajomym z Waszyngtonu.
+
+389
+00:34:36,243 --> 00:34:39,038
+- Ty pewnie jesteś Richard.
+- Laura wiele mi o tobie opowiadała.
+
+390
+00:34:39,955 --> 00:34:42,958
+- Pewnie same kłamstwa.
+- Banialuki i półprawdy.
+
+391
+00:34:43,042 --> 00:34:44,543
+Z nimi mogę żyć.
+
+392
+00:34:44,626 --> 00:34:47,645
+- Macie ochotę na martini?
+- Pewnie.
+
+393
+00:34:51,884 --> 00:34:54,915
+Laura powiedziała mi,
+że chcesz być powieściopisarzem.
+
+394
+00:34:55,262 --> 00:34:57,347
+Bardziej chodzi
+o pamiętniki literackie.
+
+395
+00:34:58,015 --> 00:35:00,684
+Tak? Nie znam.
+
+396
+00:35:00,768 --> 00:35:04,063
+Tradycyjny pamiętnik
+to historia czyjegoś życia.
+
+397
+00:35:04,146 --> 00:35:09,026
+Gatunek, którego nie interesuje prawda,
+wyobraźnia, pamięć, styl.
+
+398
+00:35:09,109 --> 00:35:11,779
+Czyli pamiętniki literackie
+zawierają element fikcyjny?
+
+399
+00:35:11,862 --> 00:35:13,861
+Nie nazwałbym go fikcyjnym.
+
+400
+00:35:14,740 --> 00:35:16,408
+Przepraszam.
+
+401
+00:35:16,492 --> 00:35:20,871
+Autor opowiada prawdę
+zawartą w historii, tak jak on ją widzi.
+
+402
+00:35:20,954 --> 00:35:23,332
+A oni, tak jak oni,
+widzą tę prawdę.
+
+403
+00:35:23,415 --> 00:35:26,001
+Percepcja i osobiste doświadczenia
+odgrywają tu rolę.
+
+404
+00:35:27,002 --> 00:35:28,045
+Dobra.
+
+405
+00:35:32,800 --> 00:35:34,927
+- Więcej wina?
+- Poproszę.
+
+406
+00:35:39,598 --> 00:35:44,353
+Wiecie co?
+Za dziesięć lat, wspominając tę kolację,
+
+407
+00:35:44,436 --> 00:35:48,147
+będziemy pamiętać
+jedynie Chateau Léoville Barton.
+
+408
+00:35:48,232 --> 00:35:49,407
+Raczej wątpię.
+
+409
+00:35:50,025 --> 00:35:52,111
+Umysł wymienia wspomnienia
+cały czas.
+
+410
+00:35:52,694 --> 00:35:57,074
+Ma taki wrodzony system.
+Szczególnie, kiedy się za dużo wypije.
+
+411
+00:36:04,623 --> 00:36:07,459
+Pokaż mu. Śmiało.
+
+412
+00:36:08,710 --> 00:36:11,797
+- To nie sztuczka imprezowa.
+- O czym ona mówi?
+
+413
+00:36:11,880 --> 00:36:13,757
+To pomaga zrozumieć to,
+nad czym pracujemy.
+
+414
+00:36:16,468 --> 00:36:18,842
+Dobrze. Wybierz wspomnienie.
+
+415
+00:36:19,429 --> 00:36:21,098
+Z dzieciństwa, jakiekolwiek.
+
+416
+00:36:21,181 --> 00:36:23,142
+Przedmiot, chwile, osoby...
+
+417
+00:36:23,684 --> 00:36:25,477
+To, co możesz łatwo
+sobie przypomnieć.
+
+418
+00:36:29,106 --> 00:36:30,663
+Dobrze.
+
+419
+00:36:32,317 --> 00:36:36,937
+Pamiętam, że mieliśmy
+taki zielony włochaty dywanik i...
+
+420
+00:36:38,824 --> 00:36:41,493
+cztery złote rybki nazwane
+po członkach zespołu KISS.
+
+421
+00:36:42,870 --> 00:36:47,040
+To dobre wspomnienia.
+A coś, o czym chciałbyś zapomnieć?
+
+422
+00:36:50,169 --> 00:36:51,670
+Czy rodzice kiedyś cię uderzyli?
+
+423
+00:36:56,341 --> 00:36:58,177
+- Nie.
+- Nigdy się nie zgubiłeś?
+
+424
+00:36:58,260 --> 00:37:01,430
+W galerii handlowej
+lub dużym sklepie?
+
+425
+00:37:04,600 --> 00:37:06,217
+Rzeczywiście był taki raz,
+
+426
+00:37:06,300 --> 00:37:09,077
+kiedy poszliśmy
+do sklepu z zabawkami i...
+
+427
+00:37:10,564 --> 00:37:12,304
+nie mogłem odnaleźć swojej mamy.
+
+428
+00:37:13,609 --> 00:37:14,651
+Bałeś się?
+
+429
+00:37:16,904 --> 00:37:19,191
+Nigdy nie zastanawiałem się
+nad tym, ale...
+
+430
+00:37:20,490 --> 00:37:22,993
+Tak. Wszędzie jej szukałem.
+
+431
+00:37:23,076 --> 00:37:24,703
+I w końcu ją znalazłeś.
+
+432
+00:37:26,538 --> 00:37:28,995
+Na zewnątrz, na papierosie.
+
+433
+00:37:33,629 --> 00:37:34,922
+To szalone.
+
+434
+00:37:35,672 --> 00:37:37,174
+Zapomniałem o tym wydarzeniu.
+
+435
+00:37:40,719 --> 00:37:43,680
+Sercem naszych badań...
+
+436
+00:37:44,681 --> 00:37:46,016
+badań Joe,
+
+437
+00:37:46,558 --> 00:37:50,229
+jest teza, iż większość ludzi
+doświadcza traumy,
+
+438
+00:37:50,312 --> 00:37:54,608
+ale umysł blokuje te wspomnienia
+i nigdy się nie ujawniają.
+
+439
+00:37:54,691 --> 00:37:58,612
+Twoja trauma tamtego dnia
+była wynikiem tego,
+
+440
+00:37:58,695 --> 00:38:00,948
+że twoja mama cię zostawiła.
+
+441
+00:38:01,031 --> 00:38:04,576
+Byłeś dzieckiem, bezbronnym, i ten fakt,
+że matka mogłaby wyrządzić ci krzywdę,
+
+442
+00:38:04,660 --> 00:38:06,870
+był zbyt traumatyczny,
+aby go przetworzyć.
+
+443
+00:38:07,454 --> 00:38:09,373
+Usunąłeś go więc z pamięci.
+
+444
+00:38:10,123 --> 00:38:12,084
+Ale skutki tej traumy
+
+445
+00:38:12,167 --> 00:38:14,586
+nadal utrzymują się
+w twojej podświadomości
+
+446
+00:38:14,670 --> 00:38:17,256
+i stają się
+częścią twojej osobowości.
+
+447
+00:38:20,425 --> 00:38:22,635
+Rany, to jest...
+
+448
+00:38:22,719 --> 00:38:25,180
+- Terapia przy kolacji.
+- Zdrowie.
+
+449
+00:38:33,605 --> 00:38:34,690
+Richard...
+
+450
+00:38:35,357 --> 00:38:38,485
+Pozwolisz ze mną?
+Chcę ci coś pokazać.
+
+451
+00:38:40,487 --> 00:38:41,822
+Dobra.
+
+452
+00:38:56,003 --> 00:38:59,310
+No proszę, to się nazywa dużo książek.
+
+453
+00:38:59,798 --> 00:39:03,093
+Dostaniesz 500 tygodniowo
+za ich uporządkowanie.
+
+454
+00:39:03,802 --> 00:39:07,097
+Sklasyfikujesz je elektronicznie,
+kiedy znajdziesz czas,
+
+455
+00:39:07,180 --> 00:39:11,084
+aż nie skończysz,
+co, moim zdaniem, szybko nie nastąpi.
+
+456
+00:39:12,894 --> 00:39:15,724
+Naprawdę nie wiem, co powiedzieć.
+
+457
+00:39:16,148 --> 00:39:18,567
+Laura powiedziała mi
+o twoim ojcu,
+
+458
+00:39:18,650 --> 00:39:20,777
+i sytuacji, w której się znalazłeś.
+
+459
+00:39:22,612 --> 00:39:24,990
+Tak więc powiedz, że się zgadzasz.
+
+460
+00:39:27,235 --> 00:39:28,277
+Dziękuję.
+
+461
+00:39:31,955 --> 00:39:33,999
+Praca dla Wiedera była bajką.
+
+462
+00:39:36,585 --> 00:39:38,504
+Otworzyły się nowe światy.
+
+463
+00:39:39,755 --> 00:39:42,424
+Byłem kuratorem kolekcji
+największych myślicieli świata.
+
+464
+00:39:48,972 --> 00:39:50,974
+Po skatalogowaniu każdych
+dwóch kolejnych pozycji
+
+465
+00:39:52,726 --> 00:39:54,144
+czytałem następną.
+
+466
+00:39:58,732 --> 00:40:01,109
+Jednak cały ten czas
+spędzony u Wiedera
+
+467
+00:40:01,193 --> 00:40:03,852
+ujawnił coś,
+czego się nie spodziewałem.
+
+468
+00:40:08,033 --> 00:40:09,368
+Więcej książek?
+
+469
+00:40:09,451 --> 00:40:13,789
+Tak. Profesor chce, bym je oddał
+do antykwariatu, ale tu są dobre tytuły.
+
+470
+00:40:17,918 --> 00:40:20,128
+O co chodzi z tymi pałkami?
+
+471
+00:40:20,962 --> 00:40:23,182
+Są jego ojca.
+Pewnie je kolekcjonował.
+
+472
+00:40:25,050 --> 00:40:27,338
+Są nawet podpisane.
+Willie McCovey...
+
+473
+00:40:28,220 --> 00:40:32,933
+Al Kaline, Ted Williams.
+Chcesz dokończyć? Muszę pracować.
+
+474
+00:40:34,017 --> 00:40:35,685
+Jasne, dzięki.
+
+475
+00:40:52,119 --> 00:40:53,370
+Śmiech.
+
+476
+00:40:53,453 --> 00:40:55,080
+Dłoń na ramieniu.
+
+477
+00:40:56,706 --> 00:40:58,494
+Jedno było pewne.
+
+478
+00:41:04,798 --> 00:41:07,967
+Cześć, to ja. Niestety muszę
+wycofać się z dzisiejszej kolacji.
+
+479
+00:41:08,051 --> 00:41:11,763
+Utknęłam w biurze, pomagając Joe.
+Widzimy się, jak wrócę do domu.
+
+480
+00:41:13,432 --> 00:41:17,727
+Laura Baines była kimś więcej
+niż asystentką Josepha Wiedera.
+
+481
+00:41:36,163 --> 00:41:37,372
+Mamy dużo roboty.
+
+482
+00:41:40,417 --> 00:41:42,586
+Nie musisz oddać tej pracy jutro?
+
+483
+00:41:44,212 --> 00:41:46,590
+Muszę ogarnąć
+mnóstwo notatek o pacjentach.
+
+484
+00:41:47,507 --> 00:41:49,217
+Wszystkich nie rozpatrzę.
+
+485
+00:41:56,683 --> 00:41:58,768
+- Boże...
+- Lubisz to?
+
+486
+00:41:58,852 --> 00:42:01,313
+Wiesz, że lubię.
+
+487
+00:42:06,818 --> 00:42:10,697
+Mimo spędzonego razem czasu,
+w ogóle nie znałem Laury Baines.
+
+488
+00:42:24,169 --> 00:42:26,171
+A kiedy znalazłem ten manuskrypt,
+
+489
+00:42:27,964 --> 00:42:29,925
+okazało się, że nie ja jeden.
+
+490
+00:42:30,008 --> 00:42:31,247
+Jesteś głodny?
+
+491
+00:42:31,760 --> 00:42:34,601
+Cześć. Nie wiedziałem,
+że jesteś w domu.
+
+492
+00:42:36,097 --> 00:42:37,390
+Co tam masz?
+
+493
+00:42:38,280 --> 00:42:42,312
+Nie wiem. Teraz to znalazłem.
+Utkwiło za książkami.
+
+494
+00:42:44,439 --> 00:42:45,531
+EFEKT LUSTRA
+
+495
+00:42:45,615 --> 00:42:47,108
+Laura, taka gorliwa.
+
+496
+00:42:50,153 --> 00:42:52,697
+Chodź, zanim lunch ostygnie.
+
+497
+00:43:04,042 --> 00:43:06,044
+Lubisz gotować, Richard?
+
+498
+00:43:07,754 --> 00:43:08,838
+Nie potrafię.
+
+499
+00:43:09,673 --> 00:43:11,299
+Powinieneś się nauczyć.
+
+500
+00:43:11,383 --> 00:43:14,094
+Może będziesz w tym dobry,
+może nie.
+
+501
+00:43:15,428 --> 00:43:16,638
+Eksperymentuj.
+
+502
+00:43:18,390 --> 00:43:20,976
+Laura lubi mężczyzn, którzy gotują.
+
+503
+00:43:23,562 --> 00:43:25,564
+Jak wam się układa?
+
+504
+00:43:27,649 --> 00:43:30,219
+- Jesteśmy tylko przyjaciółmi.
+- Nie żartuj.
+
+505
+00:43:31,111 --> 00:43:33,280
+Odniosłem wrażenie,
+że to coś więcej.
+
+506
+00:43:33,363 --> 00:43:34,656
+Powiedziała ci to?
+
+507
+00:43:35,240 --> 00:43:37,284
+Laura nie musi mi niczego mówić.
+
+508
+00:43:37,367 --> 00:43:38,868
+Potrafię wyczuć rzeczy.
+
+509
+00:43:38,952 --> 00:43:40,996
+Znam ją już od dłuższego czasu.
+
+510
+00:43:42,372 --> 00:43:45,000
+Jasne. Nigdy bym nie śmiał...
+
+511
+00:43:45,083 --> 00:43:49,087
+Wprowadziła cię do mego życia,
+by mi pomóc, a nie komplikować sprawy.
+
+512
+00:43:49,170 --> 00:43:51,673
+Po to tu jestem. By pomóc.
+
+513
+00:43:51,756 --> 00:43:53,216
+I dobrze.
+
+514
+00:43:53,852 --> 00:43:55,260
+I mając to na uwadze,
+
+515
+00:43:56,261 --> 00:43:59,556
+uważam, a są to moje przemyślenia,
+
+516
+00:44:01,057 --> 00:44:04,519
+chyba byłoby lepiej,
+gdybyście przestali się widywać.
+
+517
+00:44:05,604 --> 00:44:07,022
+Słucham?
+
+518
+00:44:08,773 --> 00:44:12,652
+Nikt nie lubi, kiedy sprawy
+stają się nadmiernie skomplikowane.
+
+519
+00:44:16,281 --> 00:44:19,034
+Wyjeżdżam z miasta na spotkanie
+w sprawie mojej książki.
+
+520
+00:44:20,243 --> 00:44:21,656
+Zakładam, że jak wrócę,
+
+521
+00:44:22,120 --> 00:44:24,802
+będziesz miał wszystko
+poukładane na nowo.
+
+522
+00:44:27,208 --> 00:44:28,710
+Smacznego.
+
+523
+00:44:31,880 --> 00:44:33,381
+Przekroczył granicę.
+
+524
+00:44:33,923 --> 00:44:35,925
+Ale niczego nie poukładałem.
+
+525
+00:44:37,218 --> 00:44:38,511
+Ona zrobiła to za mnie.
+
+526
+00:44:38,595 --> 00:44:39,638
+Skarbie!?
+
+527
+00:44:41,473 --> 00:44:42,599
+Jesteś!?
+
+528
+00:44:46,811 --> 00:44:49,189
+Przyniosłem ci parę rzeczy
+z Bamboo House.
+
+529
+00:44:50,357 --> 00:44:52,067
+Kluseczki, które lubisz.
+
+530
+00:44:55,487 --> 00:44:56,529
+Skarbie?
+
+531
+00:45:00,700 --> 00:45:01,951
+Odeszła.
+
+532
+00:45:02,744 --> 00:45:06,081
+A następnego dnia...
+to się wydarzyło.
+
+533
+00:45:09,376 --> 00:45:11,920
+Profesora Josepha Wiedera
+znaleziono martwego.
+
+534
+00:45:12,545 --> 00:45:13,922
+Pobito go na śmierć.
+
+535
+00:45:14,631 --> 00:45:16,883
+Jakiś ćpun przyznał się do zbrodni.
+
+536
+00:45:25,809 --> 00:45:28,478
+Społeczność Waterford College
+strawiło tę tragedię,
+
+537
+00:45:28,561 --> 00:45:31,398
+a ja stałem się
+powieściopisarzem bez żadnej reputacji,
+
+538
+00:45:32,357 --> 00:45:33,942
+harującym w zapomnieniu.
+
+539
+00:45:40,198 --> 00:45:41,783
+A Laura Baines?
+
+540
+00:45:41,866 --> 00:45:43,910
+Dowiedziałem się,
+że tydzień przed morderstwem
+
+541
+00:45:43,993 --> 00:45:46,371
+spotkała się z Suzan Avery,
+osobą kontaktową Wiedera
+
+542
+00:45:46,454 --> 00:45:49,499
+w Departamencie Obrony, roszcząc sobie
+prawo własności do prac Wiedera.
+
+543
+00:45:49,582 --> 00:45:51,292
+To tak nie działa.
+
+544
+00:45:51,376 --> 00:45:54,295
+Rząd USA zlecił te studium,
+a grant jest na profesora Wiedera.
+
+545
+00:45:54,379 --> 00:45:55,755
+Ale ja to napisałam.
+
+546
+00:45:57,006 --> 00:46:01,386
+Panno Baines, nie wiem,
+jaki ma pani układ z Dr Wiederem,
+
+547
+00:46:01,469 --> 00:46:04,723
+ale radzę, by pani poruszyła ten temat
+z uczelnią albo bezpośrednio z nim.
+
+548
+00:46:04,806 --> 00:46:08,518
+Litości. To moja praca,
+a on tylko się pod nią podpisał.
+
+549
+00:46:08,601 --> 00:46:09,644
+Przykro mi.
+
+550
+00:46:09,728 --> 00:46:11,896
+Tyle ma pani do powiedzenia?
+To jakieś bzdury!
+
+551
+00:46:12,480 --> 00:46:14,065
+Nie może wam to ujść na sucho!
+
+552
+00:46:15,316 --> 00:46:17,610
+Po morderstwie... rozpłynęła się.
+
+553
+00:46:19,529 --> 00:46:22,007
+Jakby zniknęła z powierzchni Ziemi.
+
+554
+00:46:24,075 --> 00:46:25,912
+Do dnia, kiedy znów ją widziałem.
+
+555
+00:46:27,579 --> 00:46:29,456
+"Do dnia, kiedy znów ją widziałem...".
+
+556
+00:46:34,252 --> 00:46:35,908
+Gdzie ją znów widziałeś?
+
+557
+00:46:37,672 --> 00:46:39,048
+Sukinsyn!
+
+558
+00:46:54,898 --> 00:46:56,399
+Pewnie nie żyje.
+
+559
+00:46:57,233 --> 00:46:59,982
+Jej numer ubezpieczenia społecznego
+jest nadal aktywny.
+
+560
+00:47:00,570 --> 00:47:03,198
+Nie ma adresu, nie ma jej
+w mediach społecznościowych.
+
+561
+00:47:03,782 --> 00:47:07,327
+Nie ma adresu służbowego, nic.
+Tylko jedno stare zdjęcie z liceum.
+
+562
+00:47:07,410 --> 00:47:09,537
+To co? Jest osobą prywatną.
+
+563
+00:47:09,621 --> 00:47:12,123
+To samo tyczy się Wayne Devereaux,
+nadzorcy Wiedera.
+
+564
+00:47:12,957 --> 00:47:15,168
+Brak numeru telefonu,
+historii zatrudnienia,
+
+565
+00:47:15,251 --> 00:47:18,046
+a jak szukasz
+po starym adresie zamieszkania - nic.
+
+566
+00:47:18,129 --> 00:47:22,175
+To tak, jakby każdy z życia Wiedera
+w tamtym czasie był pieprzonym duchem.
+
+567
+00:47:22,967 --> 00:47:24,093
+Wiesz co?
+
+568
+00:47:24,677 --> 00:47:27,222
+Przez ciebie chciałbym być
+pieprzonym duchem.
+
+569
+00:47:28,014 --> 00:47:31,768
+Odnalazłem jedynie byłą żonę Finna.
+
+570
+00:47:31,851 --> 00:47:33,478
+Porozmawiam z nią.
+
+571
+00:47:35,063 --> 00:47:36,481
+I niby co ona ci powie?
+
+572
+00:47:36,564 --> 00:47:37,713
+Nie wiem.
+
+573
+00:47:38,316 --> 00:47:39,984
+Może coś wie.
+
+574
+00:47:40,068 --> 00:47:42,066
+Rozumiesz? Finn mógł coś odkryć.
+
+575
+00:47:42,654 --> 00:47:46,241
+- Strasznie dużo niewiadomych.
+- Wiem.
+
+576
+00:47:46,324 --> 00:47:50,787
+Ale jeśli Isaac Samuel jest niewinny
+i zapuszkowaliśmy nie tego, co trzeba,
+
+577
+00:47:50,870 --> 00:47:54,332
+to mamy teraz szansę,
+by to naprawić.
+
+578
+00:47:54,415 --> 00:47:57,418
+- Przyznał się.
+- Wiem, że się przyznał.
+
+579
+00:47:57,502 --> 00:48:00,421
+Przyznał, że był w tym domu
+tego wieczoru, zgoda.
+
+580
+00:48:00,505 --> 00:48:03,291
+Ale powiedział też,
+że zanim mógł coś zrobić,
+
+581
+00:48:03,925 --> 00:48:06,261
+ktoś inny wszedł do domu.
+
+582
+00:48:06,344 --> 00:48:07,637
+Kto?
+
+583
+00:48:07,720 --> 00:48:09,264
+Kto wszedł, Roy?
+
+584
+00:48:11,224 --> 00:48:15,820
+- Nie wiem.
+- Nie wiesz i ja też nie wiem.
+
+585
+00:48:19,774 --> 00:48:21,234
+Idę się odlać.
+
+586
+00:48:55,310 --> 00:48:56,352
+Co jest?
+
+587
+00:48:57,937 --> 00:48:59,063
+Przepraszam.
+
+588
+00:49:04,152 --> 00:49:09,143
+Halucynacje są częstym produktem
+ubocznym tej procedury.
+
+589
+00:49:09,824 --> 00:49:12,619
+Widziałem ją tylko na zdjęciach.
+
+590
+00:49:12,702 --> 00:49:17,357
+To wskazuje, że coś sobie przypomniałeś,
+nawet jeśli to nie była ona.
+
+591
+00:49:17,874 --> 00:49:20,501
+To samo tyczy się skrawków wspomnień,
+o których mówiłeś.
+
+592
+00:49:21,502 --> 00:49:25,465
+Oznacza to, że twoje ścieżki neuronowe
+zaczynają się reaktywować.
+
+593
+00:49:26,424 --> 00:49:30,553
+- Czyli nie oszalałem do końca.
+- Wręcz przeciwnie.
+
+594
+00:49:31,179 --> 00:49:33,181
+Jesteś czymś,
+co nazywamy dobrym rezultatem.
+
+595
+00:49:33,848 --> 00:49:35,444
+Leczenie jest skuteczne.
+
+596
+00:50:19,811 --> 00:50:21,312
+Pani Finn?
+
+597
+00:50:21,396 --> 00:50:23,898
+- Przepraszam, że przeszkadzam...
+- Jest pan tym gliną?
+
+598
+00:50:25,233 --> 00:50:27,110
+Tak. Roy Freeman. Dzwoniłem.
+
+599
+00:50:27,986 --> 00:50:29,988
+Tak naprawdę to...
+
+600
+00:50:30,947 --> 00:50:33,825
+przeszedłem na emeryturę,
+nie jestem już w policji.
+
+601
+00:50:33,908 --> 00:50:36,494
+To dobrze.
+Nigdy nie lubiłam glin.
+
+602
+00:50:45,294 --> 00:50:46,796
+To bez sensu.
+
+603
+00:50:46,879 --> 00:50:51,092
+O Richardzie różnie można było mówić.
+Paranoik. Miewał urojenia.
+
+604
+00:50:51,968 --> 00:50:53,636
+Prawdziwy mizantrop.
+
+605
+00:50:54,679 --> 00:50:56,305
+Ale nie był ćpunem.
+
+606
+00:50:57,475 --> 00:51:01,853
+Uważa pani, że jego śmierć
+była może przypadkowa?
+
+607
+00:51:01,936 --> 00:51:05,773
+Pewnie ta zdzira Elizabeth Westlake
+miała coś z tym wspólnego.
+
+608
+00:51:10,852 --> 00:51:13,072
+Przepraszam,
+nie wiem, kto to jest.
+
+609
+00:51:13,156 --> 00:51:16,075
+Tak, do niedawna
+ja też nie wiedziałam.
+
+610
+00:51:17,013 --> 00:51:18,453
+Prawdziwa dziwka.
+
+611
+00:51:20,621 --> 00:51:24,625
+Strasznie się pokłócili parę tygodni
+przed wyprowadzką Richarda.
+
+612
+00:51:26,919 --> 00:51:28,228
+Elizabeth...
+
+613
+00:51:28,880 --> 00:51:30,298
+Westlake.
+
+614
+00:51:33,968 --> 00:51:35,676
+Zaczął znowu pić.
+
+615
+00:51:36,971 --> 00:51:41,100
+Pewnej nocy wrócił do domu,
+wrzeszcząc przez telefon, pijany.
+
+616
+00:51:41,851 --> 00:51:43,770
+Nie, nie!
+
+617
+00:51:44,479 --> 00:51:46,580
+To ty mnie posłuchaj.
+
+618
+00:51:47,106 --> 00:51:48,608
+Tylko nie kłam!
+
+619
+00:51:48,691 --> 00:51:50,151
+Pewnie myślał, że śpię.
+
+620
+00:51:50,234 --> 00:51:52,601
+Dobra, wiem, co zrobiłaś, jasne?
+
+621
+00:51:53,071 --> 00:51:54,781
+Nie ujdzie ci to na sucho.
+
+622
+00:51:56,920 --> 00:51:59,660
+Pytała go pani,
+o co się pokłócili?
+
+623
+00:52:01,454 --> 00:52:05,208
+Unikałam rozmów z Richardem,
+kiedy był w takim stanie.
+
+624
+00:52:06,209 --> 00:52:07,251
+Jasne.
+
+625
+00:52:11,964 --> 00:52:13,925
+Poczekałam więc, aż zasnął.
+
+626
+00:52:18,679 --> 00:52:20,598
+Następnego dnia
+zadzwoniłam na ten numer.
+
+627
+00:52:21,182 --> 00:52:22,642
+Odezwała się jej poczta głosowa.
+
+628
+00:52:23,518 --> 00:52:24,936
+Co jeszcze pani o niej wie?
+
+629
+00:52:25,019 --> 00:52:27,687
+Co robi, jak byli powiązani?
+
+630
+00:52:27,772 --> 00:52:28,945
+Nic.
+
+631
+00:52:29,028 --> 00:52:32,110
+Nic?
+Nazwała ją pani prawdziwą suką.
+
+632
+00:52:32,193 --> 00:52:35,530
+Wiem tyle, że nigdy wcześniej
+z nikim tak nie rozmawiał.
+
+633
+00:52:37,031 --> 00:52:38,366
+Nawet ze mną.
+
+634
+00:52:39,617 --> 00:52:41,035
+Jeśli o mnie chodzi,
+
+635
+00:52:42,078 --> 00:52:43,329
+to ona go zabiła.
+
+636
+00:53:26,706 --> 00:53:28,207
+Dr Elizabeth Westlake.
+
+637
+00:53:45,600 --> 00:53:46,865
+Panno Westlake.
+
+638
+00:53:49,520 --> 00:53:50,563
+Pan Freeman?
+
+639
+00:53:55,401 --> 00:53:59,447
+Znamy się?
+Proszę wybaczyć, mam pewną dolegliwość.
+
+640
+00:54:00,239 --> 00:54:02,950
+- Zapominam wiele rzeczy.
+- Przykro mi.
+
+641
+00:54:03,753 --> 00:54:05,286
+Spotkaliśmy się dawno temu.
+
+642
+00:54:05,369 --> 00:54:07,997
+Po przeczytaniu artykułu
+o pańskim wypadku.
+
+643
+00:54:10,708 --> 00:54:12,168
+Mogę zapytać, gdzie?
+
+644
+00:54:13,336 --> 00:54:14,937
+- Gdzie się spotkaliśmy?
+- Chciałabym porozmawiać
+
+645
+00:54:14,962 --> 00:54:17,006
+- ale śpieszę się do biura.
+- Nie ma sprawy.
+
+646
+00:54:17,089 --> 00:54:20,426
+Chciałem tylko porozmawiać
+o Richardzie Finnie.
+
+647
+00:54:26,098 --> 00:54:27,767
+Chciałabym o nim zapomnieć.
+
+648
+00:54:28,434 --> 00:54:29,477
+A dlaczego?
+
+649
+00:54:29,561 --> 00:54:31,685
+Był pan kiedyś prześladowany?
+
+650
+00:54:32,813 --> 00:54:35,441
+Ciągle musiał oglądać się za siebie?
+
+651
+00:54:37,193 --> 00:54:38,569
+Cóż, wie pani...
+
+652
+00:54:39,820 --> 00:54:41,280
+on sobie ubzdurał,
+
+653
+00:54:42,531 --> 00:54:45,618
+że miała pani coś wspólnego
+z morderstwem Josepha Wiedera.
+
+654
+00:54:48,704 --> 00:54:49,997
+A więc rozmawiał pan z nim?
+
+655
+00:54:51,666 --> 00:54:52,875
+Nie rozmawiałem.
+
+656
+00:54:53,876 --> 00:54:55,628
+Próbowałem, ale on odszedł.
+
+657
+00:54:59,257 --> 00:55:00,576
+- Rozumiem.
+- Właśnie.
+
+658
+00:55:01,092 --> 00:55:02,260
+Ale coś zostawił.
+
+659
+00:55:03,052 --> 00:55:04,220
+Pamiętnik.
+
+660
+00:55:04,303 --> 00:55:08,099
+Chciałbym, aby pani powiedziała mi,
+co o nim sądzi.
+
+661
+00:55:08,933 --> 00:55:11,369
+Ciężko pracowałam nad tym,
+by zapomnieć o tym okresie w życiu,
+
+662
+00:55:11,394 --> 00:55:13,895
+o śmierci profesora Wiedera,
+i wolałabym do tego nie wracać.
+
+663
+00:55:13,980 --> 00:55:15,314
+Całkowicie rozumiem.
+
+664
+00:55:16,857 --> 00:55:18,442
+Ale czy pani wie...
+
+665
+00:55:19,193 --> 00:55:21,320
+w celi śmierci siedzi człowiek
+
+666
+00:55:21,404 --> 00:55:24,532
+skazany za morderstwo Wiedera i termin
+wykonania wyroku szybko się zbliża.
+
+667
+00:55:27,201 --> 00:55:31,664
+Zatem gdyby pani mogła...
+chociaż zerknąć okiem?
+
+668
+00:55:35,501 --> 00:55:36,961
+Jeśli znajdę wolną chwilę.
+
+669
+00:55:37,545 --> 00:55:39,797
+Dziękuję. Bardzo dziękuję.
+
+670
+00:55:39,880 --> 00:55:42,758
+- W porządku.
+- Wspaniałego dnia życzę!
+
+671
+00:55:43,592 --> 00:55:45,219
+Uważaj na siebie, Roy.
+
+672
+00:56:33,309 --> 00:56:35,927
+WPŁYNĘŁY WYNIKI TWOICH POSZUKIWAŃ!
+
+673
+00:57:18,229 --> 00:57:19,438
+To tu.
+
+674
+00:58:39,143 --> 00:58:40,269
+Pan Devereaux?
+
+675
+00:58:49,570 --> 00:58:50,863
+Pan Devereaux?
+
+676
+00:59:04,460 --> 00:59:07,171
+Minęło trochę czasu.
+Z początku pana nie poznałem.
+
+677
+00:59:07,254 --> 00:59:10,424
+W moim zeznaniu nic się nie zmieniło.
+Nie zdążyłem go przekazać, bo...
+
+678
+00:59:11,842 --> 00:59:13,052
+już mieliście sprawcę.
+
+679
+00:59:13,135 --> 00:59:15,804
+Jeśli nie ma pan nic przeciwko,
+chciałbym teraz je usłyszeć.
+
+680
+00:59:15,888 --> 00:59:17,681
+Tak? Dlaczego?
+
+681
+00:59:18,224 --> 00:59:19,808
+Sprawdzam parę rzeczy.
+
+682
+00:59:20,851 --> 00:59:23,556
+Chcę mieć pewność,
+że niczego nie przegapiliśmy.
+
+683
+00:59:26,065 --> 00:59:27,107
+Dobra.
+
+684
+00:59:30,194 --> 00:59:33,739
+Profesor Wieder znalazł mnie,
+kiedy byłem wrakiem człowieka.
+
+685
+00:59:34,323 --> 00:59:37,997
+Pomógł mi stanąć ponownie na nogi.
+Załatwił mi pracę w konserwacji.
+
+686
+00:59:38,536 --> 00:59:40,829
+Pamiętam, jakby to było wczoraj.
+
+687
+00:59:41,705 --> 00:59:43,207
+Był niczym celebryta.
+
+688
+00:59:43,874 --> 00:59:45,248
+Wszyscy go kochali.
+
+689
+00:59:49,838 --> 00:59:51,423
+Zajmował się różnymi rzeczami.
+
+690
+00:59:52,466 --> 00:59:55,094
+Nie wiem, czym konkretnie,
+ale ciągle go ktoś odwiedzał.
+
+691
+00:59:57,346 --> 00:59:58,556
+Ważni ludzie.
+
+692
+00:59:59,223 --> 01:00:00,349
+Z rządu.
+
+693
+01:00:00,933 --> 01:00:02,314
+Ministerstwa Obrony.
+
+694
+01:00:02,851 --> 01:00:05,563
+Prowadził dla nich badania
+na swoim wydziale na uczelni.
+
+695
+01:00:06,230 --> 01:00:09,483
+Na pacjentach z urazami.
+Testował lek, który sam opracował.
+
+696
+01:00:10,192 --> 01:00:11,735
+Chyba byłem idealnym kandydatem.
+
+697
+01:00:13,237 --> 01:00:17,491
+Byłem jednym z pierwszych w Iraku.
+Robiłem swoje, póki nie zarobiłem kulki.
+
+698
+01:00:17,575 --> 01:00:20,119
+Konsekwencje poznałem dopiero w domu.
+
+699
+01:00:20,202 --> 01:00:21,487
+Nie mogłem się wyleczyć.
+
+700
+01:00:22,162 --> 01:00:24,873
+Wieder znalazł mnie i stwierdził,
+że pasuję do profilu jego badań.
+
+701
+01:00:26,667 --> 01:00:28,085
+Jakiego rodzaju badań?
+
+702
+01:00:28,168 --> 01:00:29,331
+Wayne?
+
+703
+01:00:30,129 --> 01:00:31,590
+A co, jeśli powiem ci,
+
+704
+01:00:32,256 --> 01:00:34,842
+że dzięki lekom i sugestiom
+
+705
+01:00:34,925 --> 01:00:38,367
+mógłbyś zastąpić swoją pamięć
+o traumie z Iraku
+
+706
+01:00:39,013 --> 01:00:40,514
+lepszymi wspomnieniami.
+
+707
+01:00:41,140 --> 01:00:46,037
+A może nawet wymazać pamięć
+o tej traumie całkowicie.
+
+708
+01:00:49,940 --> 01:00:51,734
+Powiedziałbym: wchodzę w to.
+
+709
+01:00:52,693 --> 01:00:55,696
+Aktywując przeciwległe strony mózgu,
+
+710
+01:00:56,363 --> 01:01:01,452
+możemy uwolnić przeżycia emocjonalne
+uwięzione w naszym systemie nerwowym.
+
+711
+01:01:01,535 --> 01:01:05,164
+Ale zanim zmusimy
+te złe wspomnienia do odejścia,
+
+712
+01:01:06,248 --> 01:01:09,043
+musimy w pełni się z nimi zmierzyć.
+
+713
+01:01:09,126 --> 01:01:11,006
+Oddychaj...
+
+714
+01:01:16,508 --> 01:01:19,553
+Powiedział, że to skuteczne
+w przypadku zespołu stresu pourazowego,
+
+715
+01:01:19,637 --> 01:01:21,055
+ale to była tylko część leczenia.
+
+716
+01:01:23,307 --> 01:01:24,600
+Jedną rano
+
+717
+01:01:26,310 --> 01:01:27,603
+i jedną przed snem.
+
+718
+01:01:28,854 --> 01:01:31,106
+Reszta to lek, który opracował.
+
+719
+01:01:32,441 --> 01:01:34,577
+Powiedział, że wyczyści mi pamięć.
+
+720
+01:01:36,111 --> 01:01:39,579
+Wspomniał pan jednak Irak.
+Znaczy, że leczenie było nieskuteczne?
+
+721
+01:01:40,616 --> 01:01:42,451
+Przez jakiś czas działało.
+
+722
+01:01:42,534 --> 01:01:45,245
+Szczegóły zaczęły zanikać,
+nie miałem już ataków paniki.
+
+723
+01:01:45,329 --> 01:01:46,747
+Ale te tabletki...
+
+724
+01:01:48,165 --> 01:01:50,876
+Skutki uboczne
+były naprawdę parszywe.
+
+725
+01:01:53,212 --> 01:01:55,381
+Nie rozpoznawałem siebie.
+
+726
+01:01:55,464 --> 01:01:58,759
+Traciłem przytomność. Nie wiedziałem,
+gdzie jestem i jak się tam dostałem.
+
+727
+01:01:59,468 --> 01:02:01,512
+Przestałeś brać leki?
+
+728
+01:02:03,806 --> 01:02:05,808
+Tak. Wbrew zaleceniom profesora.
+
+729
+01:02:07,393 --> 01:02:10,222
+- Gdzie ma pan samochód?
+- Przyjechałem taksówką.
+
+730
+01:02:12,231 --> 01:02:15,192
+Muszę dostarczyć ścinki do miasta.
+Mogę pana podwieźć.
+
+731
+01:02:16,568 --> 01:02:19,405
+- Na pewno?
+- Na pewno. Miejsce jest wolne.
+
+732
+01:02:26,870 --> 01:02:29,039
+Wie pan coś na temat Laury Baines?
+
+733
+01:02:29,123 --> 01:02:32,626
+Rany. Myślę sobie, że nikt
+tak naprawdę nie znał Laury Baines.
+
+734
+01:02:33,168 --> 01:02:36,129
+- Miała romans z Wiederem, tak?
+- Tego nie wiem.
+
+735
+01:02:36,213 --> 01:02:38,549
+Mówił, że jest laborantką,
+niczym więcej.
+
+736
+01:02:38,632 --> 01:02:41,844
+Może chciała z nim mieć romans,
+ale ja nic nie widziałem.
+
+737
+01:02:42,761 --> 01:02:44,520
+Nie żebym nie widział innych.
+
+738
+01:02:45,681 --> 01:02:49,093
+Od czasu do czasu wpadałem do domu,
+by naprawić to i owo.
+
+739
+01:02:58,819 --> 01:03:00,589
+Kobiet było dużo.
+
+740
+01:03:01,155 --> 01:03:02,716
+Nawet je nagrywał.
+
+741
+01:03:04,116 --> 01:03:05,284
+Nagrywał?
+
+742
+01:03:07,453 --> 01:03:10,414
+Miał starą kamerę video.
+
+743
+01:03:13,542 --> 01:03:16,524
+Pewnie lubił odtwarzać
+swoje historyczne wyczyny.
+
+744
+01:03:17,963 --> 01:03:20,424
+Czy Laura Baines
+kiedykolwiek go przyłapała?
+
+745
+01:03:20,507 --> 01:03:23,385
+Nie. Słyszałem wymianę zdań
+pomiędzy nimi jedynie,
+
+746
+01:03:23,469 --> 01:03:25,804
+kiedy przygotowywali
+jakieś opracowanie.
+
+747
+01:03:25,888 --> 01:03:28,891
+Ale w dniu jego zabójstwa,
+ona i Finn
+
+748
+01:03:28,974 --> 01:03:32,770
+przyszli do domu
+i słychać było jakąś kłótnię.
+
+749
+01:03:32,853 --> 01:03:36,607
+Musimy przeprowadzić racjonalną
+rozmowę bez tych oskarżeń.
+
+750
+01:03:36,690 --> 01:03:37,733
+Kłamiesz!
+
+751
+01:03:37,816 --> 01:03:39,985
+- Nie kłamie!
+- To teraz chcesz go bronić?
+
+752
+01:03:41,111 --> 01:03:42,237
+O co się kłócili?
+
+753
+01:03:42,321 --> 01:03:44,948
+Żebym wiedział,
+ale Finn był naprawdę wkurzony.
+
+754
+01:03:45,032 --> 01:03:47,783
+Walić was! Zasługujecie na siebie!
+
+755
+01:03:47,868 --> 01:03:51,955
+Wyszedł. Ja poszedłem na front,
+by zapytać go, o co poszło.
+
+756
+01:03:52,039 --> 01:03:54,428
+Ale już go nie było.
+
+757
+01:03:55,250 --> 01:03:56,784
+Albo w ogóle nie wyszedł.
+
+758
+01:03:59,797 --> 01:04:03,300
+Według jego zeznania
+był w domu, sam,
+
+759
+01:04:03,383 --> 01:04:05,344
+podczas popełnionego morderstwa.
+
+760
+01:04:05,427 --> 01:04:07,721
+Cóż, powiedziałem panu,
+co widziałem.
+
+761
+01:04:08,347 --> 01:04:10,474
+A Laura? Widział pan, jak wychodziła?
+
+762
+01:04:10,557 --> 01:04:12,017
+Tak, wsiadła do taksówki.
+
+763
+01:04:13,685 --> 01:04:14,937
+A pan gdzie poszedł?
+
+764
+01:04:15,020 --> 01:04:17,606
+Do knajpy. "Old Warren".
+
+765
+01:04:18,732 --> 01:04:21,291
+Tamtejsza barmanka, Diane,
+
+766
+01:04:22,402 --> 01:04:24,650
+nawet ona była
+jedną z dziewczyn profesora.
+
+767
+01:04:27,115 --> 01:04:30,577
+To dobry człowiek.
+Zagubił się, po prostu.
+
+768
+01:04:32,037 --> 01:04:34,289
+Każdemu z nas
+to może się przytrafić.
+
+769
+01:04:34,373 --> 01:04:36,068
+A Biblia mówi:
+
+770
+01:04:37,709 --> 01:04:39,753
+"Nie sądźcie, a nie będziecie sądzeni".
+
+771
+01:04:43,423 --> 01:04:44,716
+Dzięki za podwózkę.
+
+772
+01:05:13,036 --> 01:05:14,913
+Tak... To ja.
+
+773
+01:05:16,123 --> 01:05:17,499
+Jest już w domu.
+
+774
+01:06:02,419 --> 01:06:03,795
+Diane Lynch...
+
+775
+01:07:09,319 --> 01:07:12,572
+Bardzo, bardzo ciekawa lektura.
+
+776
+01:07:15,200 --> 01:07:16,868
+Nie zaprosisz mnie do środka?
+
+777
+01:07:28,088 --> 01:07:30,640
+- Napije się pani wody?
+- A może whisky?
+
+778
+01:07:31,925 --> 01:07:34,064
+Niestety nie mam.
+
+779
+01:07:34,469 --> 01:07:35,637
+Lekarze...
+
+780
+01:07:36,179 --> 01:07:38,140
+Nie pamiętam,
+kiedy ostatni raz piłem.
+
+781
+01:07:38,223 --> 01:07:40,380
+To pewnie jeden z plusów
+twojej dolegliwości.
+
+782
+01:07:41,059 --> 01:07:42,477
+Nie pamiętasz złych czasów.
+
+783
+01:07:43,061 --> 01:07:44,521
+Dobrych też nie pamiętam.
+
+784
+01:07:45,355 --> 01:07:46,481
+To przykre.
+
+785
+01:07:50,652 --> 01:07:53,780
+Musi ci być ciężko.
+Nie pamiętasz przyjaciół,
+
+786
+01:07:53,864 --> 01:07:55,699
+rodziny, doświadczeń.
+
+787
+01:07:56,575 --> 01:07:58,326
+Żadnego kontekstu,
+dla tego kim jesteś.
+
+788
+01:07:58,410 --> 01:08:02,718
+Swojego miejsca na świecie.
+Nie mogę sobie tego wyobrazić.
+
+789
+01:08:03,248 --> 01:08:05,494
+Czuć się tak zagubionym...
+
+790
+01:08:07,335 --> 01:08:08,396
+tak samotnym.
+
+791
+01:08:10,005 --> 01:08:12,132
+Co pani sądzi o książce Finna?
+
+792
+01:08:15,801 --> 01:08:19,723
+Jest to... stek bzdur.
+
+793
+01:08:25,645 --> 01:08:29,539
+Czyli... nie byliście kochankami?
+
+794
+01:08:30,067 --> 01:08:32,486
+Nie. To była tylko
+jego drobna fantazja.
+
+795
+01:08:34,154 --> 01:08:36,198
+Ludzie ciągle zmyślają.
+
+796
+01:08:36,823 --> 01:08:38,492
+Kłamią, by siebie chronić.
+
+797
+01:08:38,575 --> 01:08:41,495
+Fabrykują historie
+i je wyolbrzymiają,
+
+798
+01:08:42,329 --> 01:08:44,676
+bo rzeczywistość jest zbyt bolesna.
+
+799
+01:08:47,375 --> 01:08:48,794
+Rozmawiałem z Waynem Devereaux.
+
+800
+01:08:49,544 --> 01:08:51,630
+Potwierdził wiele z tych rzeczy.
+
+801
+01:08:51,713 --> 01:08:55,092
+Kolejny wiarygodny świadek.
+Ale to ma sens.
+
+802
+01:08:55,175 --> 01:08:57,383
+Wielu weteranów cierpiących
+na stres traumatyczny
+
+803
+01:08:57,467 --> 01:08:58,678
+szuka dróg ucieczki.
+
+804
+01:08:58,762 --> 01:09:01,098
+W grach video, pornografii.
+
+805
+01:09:01,181 --> 01:09:04,935
+Czy wymyślił też badania,
+którymi zajmował się Wieder?
+
+806
+01:09:05,018 --> 01:09:09,147
+Nie. Wayne brał w nich udział,
+ale jeśli dobrze pamiętam,
+
+807
+01:09:09,231 --> 01:09:12,400
+nie reagował pozytywnie na procedury.
+
+808
+01:09:13,276 --> 01:09:15,195
+Czuł się urażony tym,
+jak na niego wpływały.
+
+809
+01:09:15,278 --> 01:09:17,745
+Miał skłonność
+do napadów wściekłości, agresji.
+
+810
+01:09:18,365 --> 01:09:20,158
+Dużo pani o nim wie.
+
+811
+01:09:20,242 --> 01:09:22,327
+Transkrybowałam notatki
+Wiedera o pacjentach.
+
+812
+01:09:23,036 --> 01:09:24,287
+Wszystkie.
+
+813
+01:09:24,371 --> 01:09:27,082
+Czasami żałowałam tego,
+czego się dowiedziałam.
+
+814
+01:09:28,166 --> 01:09:31,163
+Powiedział, że Wieder zamierzał
+opublikować swoje wyniki...
+
+815
+01:09:31,246 --> 01:09:32,295
+Na tym to polega.
+
+816
+01:09:32,379 --> 01:09:35,549
+Pracujesz latami
+i publikujesz wyniki, ale...
+
+817
+01:09:36,133 --> 01:09:37,717
+zmarł, zanim były gotowe.
+
+818
+01:09:41,054 --> 01:09:43,431
+Uważa pani,
+że zasługiwała na większe uznanie?
+
+819
+01:09:44,975 --> 01:09:47,451
+W tym temacie
+też nie zdążyliśmy się porozumieć.
+
+820
+01:09:51,273 --> 01:09:54,818
+Lek pozwalający ludziom zapomnieć
+o przeżytej traumie.
+
+821
+01:09:56,862 --> 01:09:59,447
+Można by sporo na nim zarobić.
+
+822
+01:10:01,074 --> 01:10:03,326
+Teraz myślisz,
+że ktoś zabił go dla pieniędzy.
+
+823
+01:10:05,036 --> 01:10:07,164
+Ma pan kłopoty z pamięcią,
+panie Freeman,
+
+824
+01:10:07,247 --> 01:10:09,583
+ale wyobraźnię ma pan niezłą.
+
+825
+01:10:12,210 --> 01:10:15,714
+Ludzie zabijają... z różnych powodów.
+
+826
+01:10:18,675 --> 01:10:20,552
+Próbuję dotrzeć do Susan Avery.
+
+827
+01:10:21,219 --> 01:10:24,472
+- Jego osobą kontaktową w D.O.
+- Wiem, kim jest Susan Avery.
+
+828
+01:10:24,556 --> 01:10:26,808
+Od dekad współpracowała z Wiederem.
+
+829
+01:10:26,892 --> 01:10:30,353
+A więc wie pani też,
+że przejęła jego wydział w Waterford.
+
+830
+01:10:34,774 --> 01:10:38,358
+Wiesz co?
+Ta rozmowa byłaby dużo lepsza
+
+831
+01:10:39,279 --> 01:10:40,363
+przy whisky.
+
+832
+01:10:45,702 --> 01:10:47,704
+Uwielbiałeś dobrego drinka, Roy.
+
+833
+01:10:53,793 --> 01:10:57,631
+No to decyduj.
+Masz pięć sekund, by rzucić broń.
+
+834
+01:10:59,799 --> 01:11:02,677
+Jeden... Dwa...
+
+835
+01:11:04,179 --> 01:11:05,222
+Trzy...
+
+836
+01:11:12,437 --> 01:11:14,105
+Ktoś jeszcze chce się sprawdzić?
+
+837
+01:12:54,289 --> 01:12:55,999
+Tu 911. Słucham?
+
+838
+01:12:56,082 --> 01:12:58,168
+Chcę zgłosić strzelaninę.
+
+839
+01:12:59,502 --> 01:13:01,629
+Panie Freeman,
+odczytam panu pańskie prawa.
+
+840
+01:13:02,339 --> 01:13:03,965
+Ma pan prawo do milczenia.
+
+841
+01:13:04,632 --> 01:13:08,470
+Wszystko, co pan zezna, może być użyte
+przeciwko niemu w sądzie.
+
+842
+01:13:09,262 --> 01:13:10,879
+Prawo do adwokata z urzędu,
+
+843
+01:13:11,402 --> 01:13:14,476
+jeśli nie ma środków
+na wynajęcie własnego.
+
+844
+01:13:26,071 --> 01:13:27,238
+Skończyliśmy?
+
+845
+01:13:28,656 --> 01:13:29,908
+Sprawa zamknięta.
+
+846
+01:13:30,658 --> 01:13:32,202
+Kolejna odhaczona.
+
+847
+01:13:32,744 --> 01:13:34,079
+Chodźmy to uczcić.
+
+848
+01:13:34,919 --> 01:13:36,087
+Ja stawiam.
+
+849
+01:13:37,123 --> 01:13:38,291
+Dobra.
+
+850
+01:13:38,958 --> 01:13:40,085
+Zaraz przyjdę.
+
+851
+01:13:42,170 --> 01:13:43,546
+Czekam w samochodzie.
+
+852
+01:13:48,760 --> 01:13:49,973
+Prawo do adwokata z urzędu,
+
+853
+01:13:50,056 --> 01:13:52,013
+jeśli nie ma środków
+na wynajęcie własnego.
+
+854
+01:13:52,597 --> 01:13:54,710
+Zrozumiał pan prawa,
+które odczytałam?
+
+855
+01:14:06,236 --> 01:14:08,196
+Szczęściarz z ciebie.
+
+856
+01:14:10,031 --> 01:14:13,410
+Kamery monitoringu nagrały,
+jak chciał cię rozjechać.
+
+857
+01:14:13,493 --> 01:14:15,995
+Będzie sporo papierkowej roboty, ale...
+
+858
+01:14:17,247 --> 01:14:19,013
+udowodnią obronę własną.
+
+859
+01:14:21,751 --> 01:14:22,919
+Dzięki, że przyszedłeś.
+
+860
+01:14:23,002 --> 01:14:24,398
+Nie ma sprawy.
+
+861
+01:14:25,255 --> 01:14:27,257
+Zrobiłbyś to samo dla mnie.
+
+862
+01:14:29,926 --> 01:14:34,597
+Znaleźli dwie fiolki fentanylu
+w wozie Devereaux.
+
+863
+01:14:34,681 --> 01:14:36,766
+To samo gówno zabiło Finna.
+
+864
+01:14:37,976 --> 01:14:39,602
+Uznali to za zabójstwo.
+
+865
+01:14:41,104 --> 01:14:42,147
+Co?
+
+866
+01:14:43,934 --> 01:14:45,693
+Devereaux zabił Finna?
+
+867
+01:14:46,734 --> 01:14:47,891
+Po co?
+
+868
+01:14:49,654 --> 01:14:51,698
+Żeby nie wskazał go,
+jako mordercę Wiedera?
+
+869
+01:14:52,323 --> 01:14:54,579
+Oczywiście. To ma sens.
+
+870
+01:14:54,662 --> 01:14:56,953
+Nie. To wcale nie ma sensu.
+
+871
+01:14:58,705 --> 01:15:00,748
+W swojej cholernej książce Finn
+
+872
+01:15:00,832 --> 01:15:04,919
+wskazuje 100% na Elizabeth Westlake,
+nie na Devereaux.
+
+873
+01:15:08,631 --> 01:15:09,966
+Coś tu nie gra.
+
+874
+01:15:10,967 --> 01:15:12,427
+Tak, coś tu nie gra.
+
+875
+01:15:13,136 --> 01:15:15,013
+Coś tu nie gra z tobą, Roy.
+
+876
+01:15:17,807 --> 01:15:20,585
+Isaac Samuel popełnił ten akt.
+
+877
+01:15:21,561 --> 01:15:24,083
+Isaac Samuel przyznał się.
+
+878
+01:15:25,190 --> 01:15:30,346
+Za miesiąc sprawiedliwości
+stanie się zadość i będzie martwy.
+
+879
+01:15:31,571 --> 01:15:34,748
+A ty będziesz mógł
+o wszystkim zapomnieć.
+
+880
+01:15:48,922 --> 01:15:50,131
+Byłem dobrym gliną?
+
+881
+01:15:52,425 --> 01:15:56,179
+Dobrym gliną?
+O czym ty pieprzysz?
+
+882
+01:15:58,092 --> 01:15:59,891
+Czy wykonywałem dobrą robotę?
+
+883
+01:15:59,974 --> 01:16:02,393
+Czy też byłem kiepskim gliną,
+gównianym gliną,
+
+884
+01:16:02,477 --> 01:16:06,064
+leniwym sukinsynem,
+który tylko odbijał kartę po przyjściu.
+
+885
+01:16:06,689 --> 01:16:09,473
+Roy, byłeś jednym z najlepszych.
+
+886
+01:16:10,068 --> 01:16:11,694
+Byłeś świetnym gliną.
+
+887
+01:16:16,282 --> 01:16:18,464
+Mojego nazwiska nie ma
+na żadnym protokole.
+
+888
+01:16:19,577 --> 01:16:21,899
+- Co?
+- W aktach Wiedera.
+
+889
+01:16:22,497 --> 01:16:25,888
+Mojego nazwiska nie ma
+na żadnym oficjalnym dokumencie.
+
+890
+01:16:26,793 --> 01:16:31,005
+Ani na raporcie wewnętrznym,
+ani na zeznaniach świadków,
+
+891
+01:16:31,089 --> 01:16:34,342
+ekspertyzie sądowej,
+na przyznaniu się do winy Samuela.
+
+892
+01:16:34,842 --> 01:16:36,027
+Nigdzie.
+
+893
+01:16:37,387 --> 01:16:38,710
+Tylko twoje nazwisko.
+
+894
+01:16:40,431 --> 01:16:41,641
+Na wszystkich.
+
+895
+01:16:44,143 --> 01:16:45,979
+Co sugerujesz, Roy?
+
+896
+01:16:47,914 --> 01:16:51,391
+Przejrzałem akta naszych spraw
+z 30 lat.
+
+897
+01:16:52,235 --> 01:16:55,154
+Każdy dokument, każdy z nich,
+
+898
+01:16:56,447 --> 01:16:57,595
+wspólnie podpisaliśmy.
+
+899
+01:16:58,491 --> 01:17:00,326
+Moje nazwisko obok twojego.
+
+900
+01:17:01,411 --> 01:17:02,829
+Tylko nie w tym przypadku.
+
+901
+01:17:04,289 --> 01:17:05,464
+Dlaczego?
+
+902
+01:17:09,836 --> 01:17:11,921
+Widzę, co kombinujesz, Roy.
+
+903
+01:17:14,048 --> 01:17:15,800
+Rozmawiałeś ze wszystkimi.
+
+904
+01:17:17,218 --> 01:17:19,143
+Teraz oskarżysz mnie.
+
+905
+01:17:21,222 --> 01:17:24,475
+Prawdziwy z ciebie numer, Roy.
+
+906
+01:17:25,310 --> 01:17:28,938
+Zjawiasz się znikąd w moim domu,
+
+907
+01:17:29,022 --> 01:17:30,515
+prosisz o pomoc,
+
+908
+01:17:32,108 --> 01:17:33,526
+a teraz mnie oskarżasz?
+
+909
+01:17:37,947 --> 01:17:39,263
+Wal się, Roy.
+
+910
+01:17:40,825 --> 01:17:42,118
+Wal się.
+
+911
+01:19:29,183 --> 01:19:30,893
+Nie jestem zabójcą!
+
+912
+01:19:51,372 --> 01:19:52,999
+Jesteś w wyjątkowej formie dzisiaj.
+
+913
+01:19:54,709 --> 01:19:55,960
+Gdzie ona jest?
+
+914
+01:19:56,043 --> 01:19:58,379
+Przez jakiś czas jej nie będzie.
+
+915
+01:21:49,782 --> 01:21:51,117
+Dla mnie koniec.
+
+916
+01:21:51,617 --> 01:21:55,705
+- Nie bierz mojego wozu.
+- Oddam ci go jutro.
+
+917
+01:21:57,915 --> 01:21:59,333
+Tego, co zrobiłeś...
+
+918
+01:21:59,959 --> 01:22:01,419
+nigdy nie zapomnę.
+
+919
+01:22:06,132 --> 01:22:07,174
+Do jutra.
+
+920
+01:22:15,182 --> 01:22:16,799
+Jeszcze nie otworzyliśmy.
+
+921
+01:22:22,189 --> 01:22:25,671
+Czy nie prowadził tej knajpy
+siwowłosy gość?
+
+922
+01:22:25,776 --> 01:22:28,154
+Eric? Eric O’Toole?
+
+923
+01:22:28,237 --> 01:22:31,032
+Przeszedł na emeryturę.
+Mogę w czymś pomóc?
+
+924
+01:22:31,115 --> 01:22:32,450
+To teraz knajpa mojego ojca.
+
+925
+01:22:32,533 --> 01:22:34,827
+Szukam kobiety,
+która też tu pracowała.
+
+926
+01:22:35,453 --> 01:22:38,414
+- Ma na imię Diane.
+- Chodzi panu o Diane Lynch?
+
+927
+01:22:38,497 --> 01:22:41,042
+Dokładnie.
+Wie pan, gdzie mogę ją znaleźć?
+
+928
+01:22:41,125 --> 01:22:43,461
+Tak. W Calvary Catholic.
+
+929
+01:22:45,171 --> 01:22:47,506
+Zmarła jakieś pięć lat temu.
+
+930
+01:22:49,050 --> 01:22:50,343
+Coś takiego...
+
+931
+01:22:51,010 --> 01:22:52,428
+Cholera.
+
+932
+01:22:53,095 --> 01:22:54,305
+Była pańską znajomą?
+
+933
+01:22:56,223 --> 01:23:00,227
+Złożyła zeznania w sprawie,
+którą badam na nowo.
+
+934
+01:23:00,311 --> 01:23:01,479
+Jest pan więc gliną?
+
+935
+01:23:01,562 --> 01:23:02,939
+Byłym.
+
+936
+01:23:04,190 --> 01:23:05,274
+No to...
+
+937
+01:23:07,151 --> 01:23:10,439
+Na mój koszt.
+Mój dziadek był gliną.
+
+938
+01:23:16,452 --> 01:23:19,121
+Niedawno sobie przypomniałem, że...
+
+939
+01:23:19,789 --> 01:23:21,457
+Z przyjemnością.
+
+940
+01:23:21,540 --> 01:23:22,583
+Nie pan jeden.
+
+941
+01:23:24,460 --> 01:23:25,564
+Za Diane.
+
+942
+01:23:32,426 --> 01:23:34,720
+Mógłbym skorzystać z toalety?
+
+943
+01:23:34,804 --> 01:23:37,014
+Pewnie. Za rogiem przy szafie grającej.
+
+944
+01:23:37,098 --> 01:23:38,292
+Dzięki.
+
+945
+01:23:58,411 --> 01:23:59,480
+Halo?
+
+946
+01:23:59,564 --> 01:24:02,081
+Mówi Susan Avery. Oddzwaniam.
+
+947
+01:24:06,168 --> 01:24:08,087
+- Susan...?
+- Z Waterford College.
+
+948
+01:24:08,838 --> 01:24:10,673
+Chyba mam coś dla pana.
+
+949
+01:24:17,304 --> 01:24:20,835
+- Ne pewno nie chce pan wody...
+- Nie, nie trzeba.
+
+950
+01:24:22,435 --> 01:24:24,186
+Podobno ma pani coś dla mnie?
+
+951
+01:24:28,983 --> 01:24:33,696
+Nie wiem, gdzie jest oryginał,
+ale to jedyna kopia z tamtych czasów.
+
+952
+01:24:34,447 --> 01:24:36,739
+"EFEKT LUSTRA".
+
+953
+01:24:36,824 --> 01:24:38,576
+Wieder był bardzo dumny
+z tej pracy.
+
+954
+01:24:38,659 --> 01:24:42,079
+Uważał, że pomoże osobom cierpiącym
+na traumy. Zasługiwał na nagrodę.
+
+955
+01:24:42,163 --> 01:24:45,207
+- Nigdy nie została opublikowana?
+- Przynajmniej nie pod jego nazwiskiem.
+
+956
+01:24:46,250 --> 01:24:47,334
+Nie rozumiem?
+
+957
+01:24:48,586 --> 01:24:51,422
+Wnioskuję, że nie czytał pan
+jej książki.
+
+958
+01:24:53,049 --> 01:24:55,509
+Uzupełniła badania Wiedera
+dodatkowymi wynikami
+
+959
+01:24:55,593 --> 01:24:57,553
+uzyskanymi przez lata,
+pisząc doktorat.
+
+960
+01:24:57,636 --> 01:25:01,724
+- Czyli ukradła jego pracę.
+- To powszechne w badaniach naukowych.
+
+961
+01:25:01,807 --> 01:25:04,769
+Zresztą, kto by protestował?
+Wieder nie żyje.
+
+962
+01:25:05,603 --> 01:25:08,272
+- Wy je zleciliście.
+- To nie takie proste.
+
+963
+01:25:09,231 --> 01:25:12,522
+Przed śmiercią Wiedera
+przyszła do mnie z tym manuskryptem.
+
+964
+01:25:12,610 --> 01:25:14,777
+Tak, słyszałem,
+że nie była szczęśliwa.
+
+965
+01:25:14,862 --> 01:25:18,781
+Stwierdziła, że to jej praca,
+a Wieder ją nie docenił.
+
+966
+01:25:18,866 --> 01:25:21,494
+To jakieś bzdury!
+Nie może to wam ujść na sucho!
+
+967
+01:25:22,203 --> 01:25:23,704
+Więc jak ją opublikowała?
+
+968
+01:25:23,788 --> 01:25:27,166
+Rozesłaliśmy ją
+do wielu szpitali dla weteranów,
+
+969
+01:25:27,249 --> 01:25:29,293
+ale priorytety wydziału uległy zmianie.
+
+970
+01:25:29,376 --> 01:25:33,130
+Po kilku latach pracy tutaj
+znalazłam recenzję jej książki.
+
+971
+01:25:33,214 --> 01:25:37,319
+Więc...
+dlaczego jej nie ścigaliście?
+
+972
+01:25:37,760 --> 01:25:41,013
+Nie było powodów.
+Projekt został zamknięty.
+
+973
+01:25:45,434 --> 01:25:48,354
+- Wieder mieszkał tu gdzieś, prawda?
+- Niedaleko Chestnut.
+
+974
+01:25:48,437 --> 01:25:50,439
+Dom nadal stoi pusty.
+
+975
+01:26:26,767 --> 01:26:28,590
+Uderzenie w głowę tępym narzędziem.
+
+976
+01:26:32,314 --> 01:26:34,066
+Jest tu gdzieś?
+
+977
+01:26:34,150 --> 01:26:36,652
+Nie. Ale w garażu jest kilka pałek.
+
+978
+01:27:05,306 --> 01:27:06,515
+Jednej brakuje.
+
+979
+01:27:07,141 --> 01:27:10,186
+Nadzorca powiedział, że wszystkie
+były podpisane przez legendy,
+
+980
+01:27:10,769 --> 01:27:12,271
+więc pewnie była sporo warta.
+
+981
+01:27:14,732 --> 01:27:17,069
+- Porozmawiasz z nim?
+- Tak zrobię.
+
+982
+01:27:18,121 --> 01:27:19,774
+- Chodź.
+- Tak jest.
+
+983
+01:29:20,274 --> 01:29:21,900
+Co tam masz, Roy?
+
+984
+01:29:26,196 --> 01:29:29,992
+Nigdy nie odnalazłeś narzędzia
+zbrodni ze sprawy Wiedera, prawda?
+
+985
+01:29:31,827 --> 01:29:33,245
+Ty ją tu zakopałaś.
+
+986
+01:29:34,955 --> 01:29:36,457
+Odłóż ją z powrotem, Roy.
+
+987
+01:29:46,550 --> 01:29:49,345
+Oboje, do środka.
+
+988
+01:29:52,598 --> 01:29:55,475
+Czemu po prostu
+mnie nie posłuchałeś?
+
+989
+01:29:55,559 --> 01:29:57,770
+Nie mogłeś odpuścić, co?!
+
+990
+01:29:59,480 --> 01:30:00,647
+Co zrobiłeś, Jim?
+
+991
+01:30:00,731 --> 01:30:02,125
+Co zrobiłem?
+
+992
+01:30:03,067 --> 01:30:05,110
+Posprzątałem ten bałagan.
+
+993
+01:30:05,194 --> 01:30:08,906
+Dziesięć lat temu.
+Niczego nie pamiętasz?
+
+994
+01:30:08,989 --> 01:30:11,325
+- Co zrobiła Diane?
+- Diane?
+
+995
+01:30:11,992 --> 01:30:13,369
+Powiedziała mi, co wiesz.
+
+996
+01:30:14,661 --> 01:30:15,871
+Diane Lynch?
+
+997
+01:30:16,497 --> 01:30:17,831
+Nie zbliżaj się!
+
+998
+01:30:17,915 --> 01:30:19,500
+Z twojego ulubionego baru.
+
+999
+01:30:19,583 --> 01:30:21,585
+Była jedną z pacjentek Wiedera.
+
+1000
+01:30:21,668 --> 01:30:23,045
+Wystarczy, Laura.
+
+1001
+01:30:23,128 --> 01:30:25,672
+Powiedziałem, że ja to załatwię.
+
+1002
+01:30:33,764 --> 01:30:35,140
+Znacie się.
+
+1003
+01:30:38,644 --> 01:30:39,978
+No tak...
+
+1004
+01:30:40,062 --> 01:30:41,563
+Jesteście w tym razem.
+
+1005
+01:30:44,316 --> 01:30:46,443
+Już rozumiem...
+Rozumiem, Jimmy.
+
+1006
+01:30:47,653 --> 01:30:49,405
+Twoja żona poważnie zachorowała.
+
+1007
+01:30:49,488 --> 01:30:52,866
+Zadłużyłeś się. Ona się zjawia
+i płaci ci za zabicie Wiedera,
+
+1008
+01:30:52,950 --> 01:30:54,701
+by mogła wydać swoją książkę.
+
+1009
+01:30:54,785 --> 01:30:58,372
+A ty wrobiłeś Isaaca Samuela,
+by to wszystko ukryć.
+
+1010
+01:30:58,956 --> 01:31:02,126
+Nie, nie! Wcale mu nie zapłaciłam
+za zabicie Wiedera.
+
+1011
+01:31:03,279 --> 01:31:05,464
+Poznaliśmy się
+dopiero po twoim wypadku.
+
+1012
+01:31:07,881 --> 01:31:09,716
+Moje życie zostało zniszczone.
+
+1013
+01:31:10,509 --> 01:31:12,970
+Właśnie miałam stracić
+lata badań klinicznych.
+
+1014
+01:31:13,720 --> 01:31:17,558
+Nazwisko Laura Baines zawsze
+byłoby związane z tym wydarzeniem.
+
+1015
+01:31:18,142 --> 01:31:21,728
+Wtedy zjawił się twój partner,
+zadając mnóstwo różnych pytań.
+
+1016
+01:31:21,812 --> 01:31:23,092
+Nie wiedziałam, czego chce,
+
+1017
+01:31:23,176 --> 01:31:25,190
+ale nie odpuszczał,
+a ja się wystraszyłam.
+
+1018
+01:31:25,274 --> 01:31:26,692
+Wal się, Laura!
+
+1019
+01:31:28,986 --> 01:31:31,165
+Więc... wyjechałam.
+
+1020
+01:31:31,905 --> 01:31:34,866
+Przeprowadziłam się.
+Zmieniłam nazwisko,
+
+1021
+01:31:34,950 --> 01:31:37,554
+skończyłam badania
+i wydałam moją książkę.
+
+1022
+01:31:38,036 --> 01:31:40,330
+Miałam nadzieję,
+że go już więcej nie zobaczę.
+
+1023
+01:31:40,414 --> 01:31:43,792
+Ale parę lat temu
+Richard Finn zaczął węszyć.
+
+1024
+01:31:43,876 --> 01:31:47,087
+Jest autorką, Elizabeth Westlake.
+
+1025
+01:31:47,671 --> 01:31:49,990
+Poprzednio nazywała się Laura Baines.
+
+1026
+01:31:50,090 --> 01:31:52,342
+Przejęła prace Wiedera
+po jego śmierci.
+
+1027
+01:31:52,426 --> 01:31:54,470
+Jeśli o mnie chodzi,
+to ona go zabiła.
+
+1028
+01:31:57,514 --> 01:32:00,893
+Twój partner jakoś mnie odnalazł
+i pokazał mi ten prospekt.
+
+1029
+01:32:00,976 --> 01:32:03,020
+Tym razem chciał pieniędzy.
+
+1030
+01:32:03,103 --> 01:32:06,148
+To wszystko to czyste bzdury, Roy.
+
+1031
+01:32:06,231 --> 01:32:07,774
+Nie kłamię.
+
+1032
+01:32:07,858 --> 01:32:09,453
+Szantażował mnie.
+
+1033
+01:32:09,818 --> 01:32:12,070
+Powiedział, że jeśli mu
+nie zapłacę, to ogłosi,
+
+1034
+01:32:12,154 --> 01:32:14,202
+że moja książka nie jest moją pracą.
+
+1035
+01:32:15,866 --> 01:32:19,578
+Richarda Finna też zabiłeś. Na wypadek,
+gdyby to samo nie przyszło mu do głowy.
+
+1036
+01:32:19,661 --> 01:32:21,872
+Nikogo nie zabiłem.
+
+1037
+01:32:21,955 --> 01:32:25,334
+Zabiła Finna tak samo,
+jak zabiła Wiedera!
+
+1038
+01:32:25,417 --> 01:32:29,922
+Finn pisze książkę o morderstwie.
+Uważa, że to ty zabiłeś Wiedera.
+
+1039
+01:32:30,686 --> 01:32:32,001
+Musisz z nim porozmawiać.
+
+1040
+01:32:32,084 --> 01:32:33,627
+Cudzymi rękoma!
+
+1041
+01:32:34,301 --> 01:32:35,344
+Dobra.
+
+1042
+01:32:35,427 --> 01:32:39,306
+Mówię ci, Lauro, możesz pieprzyć się
+do woli, ale ja nie...
+
+1043
+01:32:39,389 --> 01:32:42,350
+Devereaux był już
+wyszkolonym zabójcą.
+
+1044
+01:32:42,434 --> 01:32:45,062
+Mając Finna z głowy
+kazała mu załatwić ciebie.
+
+1045
+01:32:45,145 --> 01:32:46,230
+Jest w domu.
+
+1046
+01:32:47,112 --> 01:32:49,531
+Poczekaj,
+aż wyjdzie i wtedy to załatw.
+
+1047
+01:32:52,945 --> 01:32:54,738
+To manipulantka, Roy.
+
+1048
+01:32:55,322 --> 01:32:57,533
+W tej chwili tobą manipuluje!
+
+1049
+01:32:58,075 --> 01:33:00,598
+Namawia innych,
+by odwalili za nią brudną robotę,
+
+1050
+01:33:01,119 --> 01:33:02,746
+po czym po prostu znika.
+
+1051
+01:33:03,747 --> 01:33:06,083
+Musi za to odpowiedzieć.
+
+1052
+01:33:16,218 --> 01:33:17,737
+Taka śmieszna rzecz...
+
+1053
+01:33:18,512 --> 01:33:19,638
+umysł.
+
+1054
+01:33:20,347 --> 01:33:24,560
+Z pewnymi rzeczami może żyć,
+a innych po prostu nie znosi.
+
+1055
+01:33:25,978 --> 01:33:28,459
+Tracić życie, będąc nieświadomym
+obu tych spraw,
+
+1056
+01:33:29,231 --> 01:33:32,276
+to dopiero mieć
+wyjątkowy rodzaj szczęścia.
+
+1057
+01:34:06,435 --> 01:34:08,345
+To, co zrobiłem...
+
+1058
+01:34:11,815 --> 01:34:13,567
+zrobiłem dla ciebie.
+
+1059
+01:34:54,441 --> 01:34:56,860
+Wiadomość z ostatniej chwili
+o morderstwie sprzed dekady
+
+1060
+01:34:56,943 --> 01:34:58,011
+w Waterford College.
+
+1061
+01:34:58,095 --> 01:35:00,405
+Świeże dowody
+w sprawie brutalnego zabójstwa
+
+1062
+01:35:00,489 --> 01:35:02,366
+profesora psychologii
+Josepha Wiedera
+
+1063
+01:35:02,449 --> 01:35:05,285
+uniewinniają mężczyznę
+czekającego w celi śmierci.
+
+1064
+01:35:07,287 --> 01:35:10,916
+29-letni Isaac Samuel został skazany
+ze zabójstwo z zemsty
+
+1065
+01:35:10,999 --> 01:35:15,087
+i za miesiąc miał zostać stracony
+poprzez podanie śmiertelnego zastrzyku.
+
+1066
+01:35:18,882 --> 01:35:21,593
+Ale informacje odkryte
+w następstwie podwójnego zabójstwa
+
+1067
+01:35:21,677 --> 01:35:24,388
+w ostatni wtorek
+w opuszczonym domu Wiedera
+
+1068
+01:35:24,471 --> 01:35:26,556
+rzuciły światło
+na inną wersję wydarzenia.
+
+1069
+01:35:26,640 --> 01:35:28,609
+Wymień trzy przedmioty
+będące w tym pokoju.
+
+1070
+01:35:29,184 --> 01:35:33,305
+Krzesło, lampa, zegar.
+
+1071
+01:35:33,939 --> 01:35:36,358
+I trzy, których tu nie ma.
+
+1072
+01:35:38,318 --> 01:35:41,279
+Kieliszek do wina,
+gazeta, pistolet.
+
+1073
+01:35:43,824 --> 01:35:47,003
+- Dzisiejsza data?
+- 21 października.
+
+1074
+01:35:49,079 --> 01:35:50,455
+Miejsce urodzenia?
+
+1075
+01:35:51,164 --> 01:35:52,708
+Lawrenceville, Pensylwania.
+
+1076
+01:35:54,626 --> 01:35:57,087
+- Imię matki?
+- Florence.
+
+1077
+01:35:58,380 --> 01:36:00,716
+- Ojca?
+- George.
+
+1078
+01:36:03,009 --> 01:36:04,241
+Gimnazjum?
+
+1079
+01:36:05,041 --> 01:36:06,096
+South Side.
+
+1080
+01:36:09,766 --> 01:36:10,934
+Bardzo dobrze.
+
+1081
+01:36:11,017 --> 01:36:13,228
+Leczenie wydaję się być
+bardzo skuteczne.
+
+1082
+01:36:14,062 --> 01:36:16,796
+To musi być satysfakcjonujące
+móc znów pamiętać.
+
+1083
+01:36:20,110 --> 01:36:21,403
+Tak.
+
+1084
+01:36:21,486 --> 01:36:24,281
+Były detektyw, który prowadził
+sprawę dziesięć lat temu,
+
+1085
+01:36:24,364 --> 01:36:26,032
+Roy Freeman,
+odegrał znaczącą rolę
+
+1086
+01:36:26,116 --> 01:36:29,286
+w doprowadzeniu osób odpowiedzialnych
+przed oblicze sprawiedliwości.
+
+1087
+01:36:29,369 --> 01:36:31,663
+Odkrył pokręconą intrygę
+mordu do wynajęcia
+
+1088
+01:36:31,747 --> 01:36:33,665
+mającą źródło
+w policji hrabstwa Waszyngton
+
+1089
+01:36:33,749 --> 01:36:35,667
+oraz środowisku akademickim Waterford.
+
+1090
+01:36:35,751 --> 01:36:38,044
+Pan Freeman,
+wielokrotnie odznaczony detektyw,
+
+1091
+01:36:38,128 --> 01:36:42,841
+odszedł ze służby kilka lat temu
+po wypadku samochodowym...
+
+1092
+01:38:18,311 --> 01:38:21,273
+Profesor Wieder jest lekarzem.
+Złożył przysięgę.
+
+1093
+01:38:21,356 --> 01:38:23,918
+"Chroń ich przed krzywdą
+i niesprawiedliwością".
+
+1094
+01:38:25,402 --> 01:38:27,279
+Ona też złożyła przysięgę.
+
+1095
+01:38:27,362 --> 01:38:31,157
+Oboje ją złożyliśmy.
+"I że cię nie opuszczę aż do śmierci".
+
+1096
+01:38:32,367 --> 01:38:34,411
+Przyszła do niego
+sześć miesięcy temu
+
+1097
+01:38:34,494 --> 01:38:36,955
+w sprawie jakiejś niewyleczonej traumy.
+
+1098
+01:38:37,038 --> 01:38:39,624
+Wiesz co? Po prostu ci nie wierzę.
+
+1099
+01:38:39,708 --> 01:38:41,835
+Ze względu na ojca alkoholika...
+
+1100
+01:38:42,419 --> 01:38:45,088
+niepokoiła się, że powiela
+te same schematy w waszym małżeńskie.
+
+1101
+01:38:45,797 --> 01:38:48,758
+Była bezbronna,
+więc to wykorzystał.
+
+1102
+01:38:50,135 --> 01:38:52,178
+Przykro mi, że to ja
+musiałam ci o tym powiedzieć.
+
+1103
+01:38:52,262 --> 01:38:54,639
+To po co powiedziałaś, no?
+
+1104
+01:38:54,723 --> 01:38:56,182
+Dla zwykłej zabawy?
+
+1105
+01:38:57,473 --> 01:39:00,191
+Chcesz bym uwierzył,
+że jesteś dobrą samarytanką,
+
+1106
+01:39:00,275 --> 01:39:03,206
+która uznała, że powinienem wiedzieć,
+że moja żona posuwa swojego psychologa?
+
+1107
+01:39:03,231 --> 01:39:04,274
+O to chodzi?
+
+1108
+01:39:10,864 --> 01:39:12,407
+Na wypadek,
+gdybyś potrzebował dowodu.
+
+1109
+01:39:17,287 --> 01:39:18,872
+Co na niej jest?
+
+1110
+01:39:20,457 --> 01:39:21,708
+Twoja żona.
+
+1111
+01:39:56,451 --> 01:39:57,702
+Pozwól mi odejść!
+
+1112
+01:39:58,912 --> 01:40:00,330
+Odczep się ode mnie!
+
+1113
+01:40:00,413 --> 01:40:02,981
+Otwórz drzwi, Diane!
+
+1114
+01:40:04,918 --> 01:40:06,425
+Pozwól mi odejść...
+
+1115
+01:40:29,651 --> 01:40:30,986
+Już w domu?
+
+1116
+01:40:41,871 --> 01:40:44,082
+Jest mi...
+Jest mi przykro!
+
+1117
+01:40:44,666 --> 01:40:45,834
+Nie!
+
+1118
+01:40:58,013 --> 01:40:59,753
+Nie...
+
+1119
+01:41:24,039 --> 01:41:26,221
+Rany Boskie. Roy!
+
+1120
+01:42:12,295 --> 01:42:13,630
+Miejmy to z głowy.
+
+1121
+01:44:21,633 --> 01:44:24,650
+Reżyseria
+
+1122
+01:44:26,833 --> 01:44:29,898
+Scenariusz
+
+1123
+01:44:32,435 --> 01:44:35,230
+Na podstawie powieści Księga Luster
+E.O. Chirovici
+
+1124
+01:44:37,690 --> 01:44:40,026
+Wystąpili
+
+1125
+01:46:01,524 --> 01:46:04,152
+Zdjęcia
+
+1126
+01:46:27,675 --> 01:46:30,871
+Muzyka
+
+1127
+01:46:38,186 --> 01:46:39,937
+Tekst: Piotr Kalinowski
+
