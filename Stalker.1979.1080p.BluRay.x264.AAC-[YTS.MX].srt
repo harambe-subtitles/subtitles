@@ -1,0 +1,4498 @@
+1
+00:00:23,942 --> 00:00:26,486
+MOSFILM
+
+2
+00:00:34,369 --> 00:00:37,789
+Drugi Związek Twórców
+
+3
+00:00:53,138 --> 00:00:56,224
+ALISA FREINDLICH
+
+4
+00:01:00,436 --> 00:01:03,898
+ALEKSANDR KAJDANOWSKIJ
+
+5
+00:01:06,693 --> 00:01:09,904
+ANATOLIJ SOŁONICYN
+
+6
+00:01:12,949 --> 00:01:15,910
+NIKOŁAJ GRIŃKO
+
+7
+00:01:19,205 --> 00:01:21,791
+w filmie
+
+8
+00:01:23,376 --> 00:01:25,920
+STALKER
+
+9
+00:01:32,760 --> 00:01:37,140
+Scenariusz: Arkadij i Borys STRUGACCY
+
+10
+00:01:37,974 --> 00:01:42,729
+na podst. powieści
+"Piknik na skraju drogi"
+
+11
+00:01:44,230 --> 00:01:47,859
+Film Andreja TARKOWSKIEGO
+
+12
+00:01:51,529 --> 00:01:55,533
+Zdjęcia:
+Aleksander KNIAŻINSKIJ
+
+13
+00:01:58,828 --> 00:02:02,540
+Produkcja
+Andrej TARKOWSKI
+
+14
+00:02:06,127 --> 00:02:09,631
+Muzyka:
+Eduard ARTEMIEW
+
+15
+00:02:12,383 --> 00:02:15,970
+Reżyseria:
+L. TARKOWSKA
+
+16
+00:02:17,597 --> 00:02:23,102
+Wykorzystano wiersze F.I. TIUTCZEWA
+i A.A. TARKOWSKIEGO
+
+17
+00:02:24,896 --> 00:02:29,692
+Dźwięk: W. SZARUN
+Dyrygent: E. CHACZATURIAN
+
+18
+00:02:32,195 --> 00:02:36,199
+English Subtitles by
+T. Kameneva
+
+19
+00:02:36,366 --> 00:02:39,327
+Wersja polska:
+Kraps
+<kraps@poczta.onet.pl>
+
+20
+00:02:39,494 --> 00:02:42,455
+Konsultacja językowa:
+Lenin
+
+21
+00:02:42,622 --> 00:02:49,963
+fragmenty Biblii w tłumaczeniu
+o. Augustyna Jankowskiego
+i ks. Mariana Wolniewicza
+
+22
+00:03:41,014 --> 00:03:43,516
+STALKER
+
+23
+00:03:47,270 --> 00:03:50,732
+"Co to było?
+Meteoryt?
+
+24
+00:03:51,441 --> 00:03:55,445
+Wizyta mieszkańców kosmicznej otchłani?
+
+25
+00:03:55,612 --> 00:03:59,616
+Tak, czy inaczej, nasz mały kraj
+
+26
+00:03:59,782 --> 00:04:02,744
+był świadkiem narodzin cudu -
+Strefy.
+
+27
+00:04:02,911 --> 00:04:06,915
+Natychmiast wysłaliśmy tam żołnierzy.
+
+28
+00:04:07,081 --> 00:04:09,000
+Nie powrócili.
+
+29
+00:04:09,167 --> 00:04:13,171
+Wtedy otoczyliśmy Strefę
+policyjnym kordonem...
+
+30
+00:04:13,338 --> 00:04:17,342
+Może postąpiliśmy właściwie.
+Chociaż, nie wiem..."
+
+31
+00:04:17,509 --> 00:04:22,597
+Fragment wywiadu z noblistą,
+profesorem Wallacem
+
+32
+00:10:20,371 --> 00:10:24,000
+Po co wziąłeś mój budzik?
+
+33
+00:10:25,585 --> 00:10:28,922
+Gdzie się wybierasz?
+
+34
+00:10:31,841 --> 00:10:35,970
+Obiecałeś mi, a ja ci uwierzyłam.
+
+35
+00:10:41,226 --> 00:10:45,230
+Jeżeli już nie myślisz o sobie,
+to może chociaż o nas?
+
+36
+00:10:45,396 --> 00:10:49,025
+Myślałeś o swoim dziecku?
+
+37
+00:10:49,567 --> 00:10:55,532
+Dopiero co się do ciebie przyzwyczaiła,
+a ty znowu zaczynasz!
+
+38
+00:10:57,909 --> 00:11:01,913
+Zrobiłeś ze mnie staruchę.
+Zmarnowałeś mi życie.
+
+39
+00:11:02,080 --> 00:11:06,084
+Nie tak głośno, obudzisz Smerdę.
+
+40
+00:11:06,251 --> 00:11:11,506
+Nie mogę wiecznie na ciebie czekać.
+To mnie zabija!
+
+41
+00:11:23,977 --> 00:11:27,438
+Miałeś pójść do pracy!
+
+42
+00:11:28,148 --> 00:11:32,110
+Miałeś dostać normalną posadę!
+
+43
+00:11:34,404 --> 00:11:37,407
+Niedługo wrócę.
+
+44
+00:11:38,575 --> 00:11:40,493
+Do więzienia wrócisz!
+
+45
+00:11:40,660 --> 00:11:42,579
+Tylko tym razem wsadzą cię nie na pięć,
+tylko na dziesięć lat!
+
+46
+00:11:42,745 --> 00:11:48,835
+I przez dziesięć lat nie zobaczysz
+ani swojej Strefy, ani w ogóle niczego!
+
+47
+00:11:49,002 --> 00:11:52,630
+A ja przez ten czas umrę.
+
+48
+00:11:54,215 --> 00:11:59,137
+Boże, więzienie!
+Dla mnie wszędzie więzienie.
+
+49
+00:12:01,514 --> 00:12:04,476
+- Puszczaj!
+- Nie!
+
+50
+00:12:04,642 --> 00:12:07,896
+Puść, powiedziałem!
+
+51
+00:12:16,112 --> 00:12:19,574
+Idź!
+Żebyś tam zdechł!
+
+52
+00:12:22,368 --> 00:12:26,372
+Przeklęty ten dzień,
+kiedy cię poznałam, draniu!
+
+53
+00:12:26,539 --> 00:12:30,877
+Sam Bóg cię pokarał takim dzieckiem!
+
+54
+00:12:31,753 --> 00:12:36,090
+I mnie też, przez ciebie, sukinsynu!
+
+55
+00:13:21,803 --> 00:13:24,764
+Moja droga,
+nasz świat jest beznadziejnie nudny.
+
+56
+00:13:24,931 --> 00:13:29,978
+A zatem, takie rzeczy jak telepatia,
+czy przywidzenia, czy latające spodki,
+
+57
+00:13:30,145 --> 00:13:32,063
+po prostu nie mogą istnieć.
+
+58
+00:13:32,230 --> 00:13:37,277
+Światem rządzą żelazne prawa,
+które czynią go nieznośnie nudnym.
+
+59
+00:13:37,443 --> 00:13:40,405
+Niestety, tych praw nie da się obejść.
+
+60
+00:13:40,572 --> 00:13:43,533
+Nie wiadomo jak.
+
+61
+00:13:43,700 --> 00:13:48,746
+Może pani nawet nie marzyć o UFO,
+to by było zbyt interesujące.
+
+62
+00:13:48,913 --> 00:13:52,917
+A Trójkąt Bermudzki?
+Nie zaprzeczy pan, że...
+
+63
+00:13:53,084 --> 00:13:57,088
+Zaprzeczę. Trójkąt Bermudzki nie istnieje.
+
+64
+00:13:57,255 --> 00:14:02,302
+Istnieje tylko trójkąt ABC równy
+trójkątowi A-prim, B-prim, C-prim.
+
+65
+00:14:02,469 --> 00:14:07,182
+Czy czuje pani całą
+nudę tego twierdzenia?
+
+66
+00:14:07,682 --> 00:14:10,643
+Życie w średniowieczu było ciekawsze.
+
+67
+00:14:10,810 --> 00:14:14,814
+Każdy dom miał swojego skrzata,
+a każdy kościół miał Boga.
+
+68
+00:14:14,981 --> 00:14:18,985
+Ludzie byli młodzi!
+Teraz co czwarty to starzec.
+
+69
+00:14:19,152 --> 00:14:22,113
+To takie nudne, mój aniołku.
+
+70
+00:14:22,280 --> 00:14:25,241
+Ale powiedział pan, że Strefa
+
+71
+00:14:25,408 --> 00:14:28,369
+jest dziełem wysoko rozwiniętej cywilizacji...
+
+72
+00:14:28,536 --> 00:14:32,540
+Pewnie też jest nudna,
+te wszystkie prawa, trójkąty,
+
+73
+00:14:32,707 --> 00:14:37,629
+i żadnych skrzatów,
+i żadnego Boga, to pewne.
+
+74
+00:14:37,921 --> 00:14:42,091
+Bo jeżeli Bóg też jest trójkątem,
+
+75
+00:14:43,134 --> 00:14:47,555
+to już sam nie wiem, co o tym myśleć.
+
+76
+00:14:49,390 --> 00:14:52,352
+To do mnie. Świetnie.
+
+77
+00:14:52,519 --> 00:14:55,480
+Żegnaj, droga przyjaciółko.
+
+78
+00:14:55,647 --> 00:14:59,651
+Ta dama była tak miła, że zgodziła się
+pójść z nami do Strefy.
+
+79
+00:14:59,818 --> 00:15:02,779
+Nadzwyczaj dzielna kobieta.
+Nazywa się...
+
+80
+00:15:02,946 --> 00:15:05,907
+Przepraszam, jak się pani nazywa?
+
+81
+00:15:06,074 --> 00:15:09,911
+Naprawdę jest pan stalkerem?
+
+82
+00:15:15,458 --> 00:15:19,045
+Zaraz wszystko wyjaśnię.
+
+83
+00:15:25,885 --> 00:15:29,097
+Proszę odjechać...
+
+84
+00:15:35,270 --> 00:15:37,772
+Kretyn!
+
+85
+00:15:41,526 --> 00:15:43,444
+A jednak się pan spił.
+
+86
+00:15:43,611 --> 00:15:46,573
+Ja? Co ma pan na myśli?
+
+87
+00:15:46,739 --> 00:15:50,743
+Napiłem się, jak połowa ludzkości.
+
+88
+00:15:50,910 --> 00:15:54,914
+Druga połowa się upija.
+Wliczając kobiety i dzieci.
+
+89
+00:15:55,081 --> 00:15:58,501
+Ja się tylko napiłem.
+
+90
+00:16:18,021 --> 00:16:21,733
+A niech to, porozlewali...
+
+91
+00:16:35,747 --> 00:16:39,542
+Śmiało, pij pan. Mamy czas.
+
+92
+00:16:40,960 --> 00:16:44,881
+Może po szklaneczce na drogę?
+
+93
+00:16:46,174 --> 00:16:49,052
+Co pan na to?
+
+94
+00:17:01,815 --> 00:17:02,690
+Proszę to zabrać.
+
+95
+00:17:02,857 --> 00:17:08,112
+Rozumiem. Abstynent.
+Alkoholizm to plaga ludzkości.
+
+96
+00:17:09,113 --> 00:17:13,117
+Niech będzie, napijemy się piwa.
+
+97
+00:17:13,284 --> 00:17:15,203
+On idzie z nami?
+
+98
+00:17:15,370 --> 00:17:20,291
+Spokojnie, wytrzeźwieje.
+On też musi tam iść.
+
+99
+00:17:27,882 --> 00:17:30,844
+Naprawdę jest pan profesorem?
+
+100
+00:17:31,010 --> 00:17:31,886
+Jak pan chce.
+
+101
+00:17:32,053 --> 00:17:36,975
+W takim razie przedstawię się.
+Nazywam się...
+
+102
+00:17:37,267 --> 00:17:39,185
+Nazywa się Pisarz.
+
+103
+00:17:39,352 --> 00:17:41,271
+Może być. A jak ja się nazywam?
+
+104
+00:17:41,437 --> 00:17:44,399
+Pan? Profesor.
+
+105
+00:17:45,608 --> 00:17:48,570
+Już rozumiem. Jestem pisarzem,
+
+106
+00:17:48,736 --> 00:17:51,698
+więc wszyscy, nie wiedzieć czemu,
+mówią na mnie Pisarz.
+
+107
+00:17:51,865 --> 00:17:55,869
+- A o czym pan pisze?
+- O czytelnikach.
+
+108
+00:17:56,035 --> 00:17:57,954
+Prawdę mówiąc, to nie powinno się
+pisać o niczym innym.
+
+109
+00:17:58,121 --> 00:18:02,125
+W ogóle nie powinno się o niczym pisać.
+
+110
+00:18:02,292 --> 00:18:06,004
+A kim pan jest? Chemikiem?
+
+111
+00:18:07,505 --> 00:18:09,424
+Raczej fizykiem.
+
+112
+00:18:09,591 --> 00:18:13,970
+To pewnie nudne. Poszukiwanie prawdy.
+
+113
+00:18:14,804 --> 00:18:18,808
+Ona się chowa, a pan jej wciąż szuka.
+
+114
+00:18:18,975 --> 00:18:22,979
+Szukacie w jednym miejscu -- eureka!
+Jadro składa się z protonów.
+
+115
+00:18:23,146 --> 00:18:25,064
+Szukacie w innym -- wspaniale!
+
+116
+00:18:25,231 --> 00:18:30,278
+Trójkąt ABC jest równy
+trójkątowi A-prim, B-prim, C-prim.
+
+117
+00:18:30,445 --> 00:18:33,406
+U mnie wygląda to inaczej.
+
+118
+00:18:33,573 --> 00:18:39,037
+Podczas, kiedy ja szukam prawdy,
+tyle się z nią dzieje
+
+119
+00:18:39,829 --> 00:18:41,748
+że zamiast odkryć prawdę
+
+120
+00:18:41,915 --> 00:18:47,504
+natykam się na kupę..., przepraszam...
+Nie powiem czego.
+
+121
+00:18:52,342 --> 00:18:54,260
+Szczęściarz z pana!
+
+122
+00:18:54,427 --> 00:18:57,388
+Wyobraźmy sobie starożytne naczynie
+wystawione w muzeum.
+
+123
+00:18:57,555 --> 00:19:00,517
+W swoim czasie używano go jako śmietnika,
+
+124
+00:19:00,683 --> 00:19:04,687
+ale teraz jest obiektem zachwytu
+
+125
+00:19:04,854 --> 00:19:07,816
+za jego dyskretne ornamenty
+i unikalną formę.
+
+126
+00:19:07,982 --> 00:19:10,944
+Zewsząd słychać ochy i achy.
+
+127
+00:19:11,110 --> 00:19:16,157
+A nagle okazuje się, że wcale
+nie jest takie stare,
+
+128
+00:19:16,324 --> 00:19:20,328
+że jakiś żartowniś podsunął je archeologom
+
+129
+00:19:20,495 --> 00:19:22,413
+ot tak, dla zabawy.
+
+130
+00:19:22,580 --> 00:19:26,584
+I w tajemniczy sposób podziw
+znika. Ci koneserzy...
+
+131
+00:19:26,751 --> 00:19:31,214
+To o tym przez cały czas pan rozmyśla?
+
+132
+00:19:31,965 --> 00:19:33,883
+Broń Boże!
+
+133
+00:19:34,050 --> 00:19:37,011
+Właściwie to nie myślę dużo.
+Szkodzi mi to.
+
+134
+00:19:37,178 --> 00:19:42,225
+Ciągłe myślenie o sukcesie lub porażce
+uniemożliwia pisanie.
+
+135
+00:19:42,392 --> 00:19:47,438
+Naturlich! Ale jeżeli nikt nie będzie
+mnie czytał za sto lat,
+
+136
+00:19:47,605 --> 00:19:51,484
+to po jaką cholerę mam pisać?
+
+137
+00:19:51,776 --> 00:19:56,781
+Niech pan mi powie, Profesorze,
+co pan tu robi?
+
+138
+00:19:56,990 --> 00:19:59,951
+Po co panu Strefa?
+
+139
+00:20:00,118 --> 00:20:04,455
+Ja w pewnym sensie jestem naukowcem.
+
+140
+00:20:06,374 --> 00:20:09,335
+Ale po co to panu?
+
+141
+00:20:09,502 --> 00:20:12,463
+Jest pan modnym pisarzem.
+
+142
+00:20:12,630 --> 00:20:15,592
+Kobiety pewnie za panem szaleją.
+
+143
+00:20:15,758 --> 00:20:21,097
+Straciłem natchnienie,
+profesorze. Idę o nie prosić.
+
+144
+00:20:22,015 --> 00:20:23,933
+Wypisał się pan?
+
+145
+00:20:24,100 --> 00:20:27,729
+Co?
+Tak, w pewnym sensie.
+
+146
+00:20:30,356 --> 00:20:33,902
+Słyszycie? Nasz pociąg.
+
+147
+00:20:40,783 --> 00:20:44,996
+- Zdjął pan dach samochodu?
+- Tak.
+
+148
+00:20:56,424 --> 00:20:58,802
+Luger
+
+149
+00:21:01,638 --> 00:21:06,100
+Jeżeli nie wrócę,
+pójdź do mojej żony.
+
+150
+00:21:19,364 --> 00:21:23,368
+Psiakrew, zapomniałem kupić papierosy.
+
+151
+00:21:23,535 --> 00:21:26,496
+Proszę nie wracać.
+
+152
+00:21:26,663 --> 00:21:29,624
+- Dlaczego?
+- Nie wolno.
+
+153
+00:21:29,791 --> 00:21:32,752
+- Wszyscy jesteście tacy sami.
+- Jacy?
+
+154
+00:21:32,919 --> 00:21:36,214
+Wierzycie w bzdury.
+
+155
+00:21:37,090 --> 00:21:41,427
+Chyba zachowam to na czarną godzinę.
+
+156
+00:21:42,303 --> 00:21:46,141
+Naprawdę jest pan naukowcem?
+
+157
+00:23:21,361 --> 00:23:23,905
+Padnij!
+
+158
+00:23:26,574 --> 00:23:29,619
+Nie ruszać się!
+
+159
+00:23:59,941 --> 00:24:04,279
+Proszę sprawdzić, czy nikogo nie ma.
+
+160
+00:24:06,197 --> 00:24:09,909
+Szybciej, na miłość boską!
+
+161
+00:24:14,539 --> 00:24:16,457
+Nikogo tu nie ma.
+
+162
+00:24:16,624 --> 00:24:20,378
+Niech pan idzie do wyjścia.
+
+163
+00:24:45,820 --> 00:24:49,157
+Gdzie pan miał oczy?
+
+164
+00:27:56,636 --> 00:28:01,057
+- Ma pan kanister?
+- Tak. Jest pełen.
+
+165
+00:28:15,405 --> 00:28:18,366
+Wszystko, co wam powiedziałem...
+
+166
+00:28:18,533 --> 00:28:23,288
+to kłamstwo.
+Nie obchodzi mnie natchnienie.
+
+167
+00:28:24,789 --> 00:28:29,752
+Skąd mam wiedzieć, jak
+nazwać to, czego chcę?
+
+168
+00:28:31,045 --> 00:28:36,092
+Skąd mam wiedzieć, czy tak naprawdę
+nie chcę tego, czego chcę?
+
+169
+00:28:36,259 --> 00:28:41,306
+Albo, że naprawdę nie chcę tego,
+czego nie chcę?
+
+170
+00:28:41,473 --> 00:28:43,391
+To się nam cały czas wymyka:
+
+171
+00:28:43,558 --> 00:28:45,477
+w chwili, kiedy je nazwiemy,
+ich znaczenie znika,
+
+172
+00:28:45,643 --> 00:28:50,607
+rozpływa się, rozpuszcza
+jak meduza na słońcu.
+
+173
+00:28:51,900 --> 00:28:55,904
+Moja świadomość pragnie światowego
+zwycięstwa wegetarianizmu.
+
+174
+00:28:56,070 --> 00:29:00,074
+A podświadomość woła
+o kawał soczystego mięsa.
+
+175
+00:29:00,241 --> 00:29:03,328
+A czego ja chcę?
+
+176
+00:29:04,412 --> 00:29:06,331
+Panowania nad światem.
+
+177
+00:29:06,498 --> 00:29:08,958
+Cisza!
+
+178
+00:29:11,711 --> 00:29:13,630
+Po co lokomotywa w Strefie?
+
+179
+00:29:13,796 --> 00:29:17,801
+Obsługuje strażnice.
+Dalej nie jedzie.
+
+180
+00:29:17,967 --> 00:29:22,138
+Oni nie lubią tam się zapuszczać.
+
+181
+00:29:26,309 --> 00:29:29,854
+Na miejsca!
+Wszyscy są?
+
+182
+00:29:31,523 --> 00:29:36,694
+Przyjechali strażnicy.
+Każ im wyłączyć telewizor.
+
+183
+00:30:43,470 --> 00:30:46,014
+Szybko!
+
+184
+00:31:40,819 --> 00:31:45,740
+Proszę sprawdzić, czy drezyna stoi na torach.
+
+185
+00:31:46,032 --> 00:31:48,952
+Jaka drezyna?
+
+186
+00:32:11,057 --> 00:32:15,019
+Niech pan wraca, ja to zrobię.
+
+187
+00:34:09,926 --> 00:34:12,595
+Kanister!
+
+188
+00:34:37,036 --> 00:34:39,998
+Proszę mi go dać!
+
+189
+00:34:40,165 --> 00:34:43,126
+Wyrzuć pan ten swój plecak,
+zawadza panu.
+
+190
+00:34:43,293 --> 00:34:48,339
+Wystarczy, że pan idzie bez bagażu,
+jak na przechadzkę.
+
+191
+00:34:48,506 --> 00:34:51,468
+Jeśli kogoś trafią,
+proszę nie krzyczeć, ani nie biec.
+
+192
+00:34:51,634 --> 00:34:53,553
+Kiedy kogoś zobaczą - strzelają.
+
+193
+00:34:53,720 --> 00:34:57,724
+Kiedy wszystko się uspokoi,
+trzeba przeczołgać się pod strażnicę.
+
+194
+00:34:57,891 --> 00:35:01,060
+Zabiorą was rano.
+
+195
+00:35:15,617 --> 00:35:17,535
+Nie będą nas gonić?
+
+196
+00:35:17,702 --> 00:35:21,164
+Unikają jej jak ognia.
+
+197
+00:35:22,916 --> 00:35:25,335
+Kogo?
+
+198
+00:39:44,636 --> 00:39:48,848
+No i jesteśmy... nareszcie w domu.
+
+199
+00:39:51,935 --> 00:39:54,854
+Jak tu cicho.
+
+200
+00:39:56,105 --> 00:40:01,653
+To najcichsze miejsce na świecie.
+Sami się przekonacie.
+
+201
+00:40:04,447 --> 00:40:08,451
+Tak tu pięknie.
+Ani żywego ducha.
+
+202
+00:40:08,618 --> 00:40:09,494
+A my?
+
+203
+00:40:09,661 --> 00:40:12,622
+Trzech ludzi nie może zniszczyć
+wszystkiego w jeden dzień.
+
+204
+00:40:12,789 --> 00:40:15,917
+Jak to nie? Mogą.
+
+205
+00:40:19,045 --> 00:40:24,259
+To dziwne, że nie czuć kwiatów.
+Czy może to ja...
+
+206
+00:40:25,301 --> 00:40:29,305
+- Nic pan nie czuje?
+- Czuję bagno.
+
+207
+00:40:29,472 --> 00:40:33,434
+Nie, to rzeka.
+Tam jest rzeka.
+
+208
+00:40:33,643 --> 00:40:38,898
+Tu niedaleko był klomb,
+ale Jeżozwierz go zadeptał.
+
+209
+00:40:39,899 --> 00:40:44,863
+Mimo to zapach utrzymywał się
+przez wiele lat.
+
+210
+00:40:46,156 --> 00:40:49,409
+Dlaczego to zrobił?
+
+211
+00:40:50,326 --> 00:40:52,954
+Nie wiem.
+
+212
+00:40:53,454 --> 00:40:56,416
+Też go pytałem.
+
+213
+00:40:56,583 --> 00:41:00,587
+Odpowiedział:
+"Kiedyś zrozumiesz."
+
+214
+00:41:00,753 --> 00:41:05,341
+Myślę, że po prostu znienawidził Strefę.
+
+215
+00:41:08,052 --> 00:41:11,931
+Jeżozwierz - tak się nazywał?
+
+216
+00:41:12,223 --> 00:41:15,685
+Przydomek, jak pański.
+
+217
+00:41:17,437 --> 00:41:21,441
+Przez lata zabierał ludzi do Strefy
+i nikt mu nie przeszkodził.
+
+218
+00:41:21,608 --> 00:41:26,196
+Był moim nauczycielem.
+Otworzył mi oczy.
+
+219
+00:41:28,907 --> 00:41:34,537
+Wtedy jeszcze nazywano go Nauczycielem,
+nie Jeżozwierzem.
+
+220
+00:41:36,206 --> 00:41:40,960
+Potem coś się z nim stało.
+Coś w nim pękło.
+
+221
+00:41:42,462 --> 00:41:45,423
+Według mnie, został ukarany.
+
+222
+00:41:45,590 --> 00:41:50,637
+Pomoże mi pan? Proszę przywiązać
+bandaż do muterki.
+
+223
+00:41:50,804 --> 00:41:54,516
+A ja... pójdę się przejść.
+
+224
+00:41:56,017 --> 00:41:59,270
+Muszę coś zrobić...
+
+225
+00:42:10,615 --> 00:42:13,952
+Nie rozchodźcie się.
+
+226
+00:42:19,999 --> 00:42:22,961
+Gdzie on się wybiera?
+
+227
+00:42:23,127 --> 00:42:25,046
+Pewnie chce być sam.
+
+228
+00:42:25,213 --> 00:42:30,176
+Po co? Tutaj nawet we trzech
+czuję się dziwnie
+
+229
+00:42:31,469 --> 00:42:35,557
+Przywitać ze Strefą.
+To stalker.
+
+230
+00:42:36,683 --> 00:42:39,644
+I co to niby ma znaczyć?
+
+231
+00:42:39,811 --> 00:42:43,815
+Bycie stalkerem
+to rodzaj powołania.
+
+232
+00:42:43,982 --> 00:42:47,986
+- Spodziewałem się kogoś innego.
+- Niby kogo?
+
+233
+00:42:48,153 --> 00:42:53,199
+Wie pan, skórzane spodnie, pióropusz,
+ktoś jak Sokole Oko...
+
+234
+00:42:53,366 --> 00:42:56,327
+Życie go nie rozpieszczało.
+
+235
+00:42:56,494 --> 00:43:00,498
+Kilka razy w więzieniu,
+potem ucierpiał tutaj.
+
+236
+00:43:00,665 --> 00:43:03,626
+Jego córka jest mutantem;
+"ofiara Strefy" jak to nazywają.
+
+237
+00:43:03,793 --> 00:43:07,046
+Podobno nie ma nóg.
+
+238
+00:43:10,049 --> 00:43:13,011
+A ten Jeżozwierz?
+
+239
+00:43:13,178 --> 00:43:17,140
+Co to znaczy "został ukarany"?
+
+240
+00:43:17,348 --> 00:43:20,268
+Tak się mówi?
+
+241
+00:43:21,519 --> 00:43:25,773
+Pewnego dnia Jeżozwierz wrócił stąd
+
+242
+00:43:27,775 --> 00:43:31,237
+i nagle się wzbogacił.
+
+243
+00:43:31,946 --> 00:43:33,865
+Bajecznie bogaty.
+
+244
+00:43:34,032 --> 00:43:36,993
+To ma być kara?
+
+245
+00:43:37,160 --> 00:43:40,121
+Tydzień później powiesił się.
+
+246
+00:43:40,288 --> 00:43:42,207
+Dlaczego?
+
+247
+00:43:42,373 --> 00:43:44,834
+Cicho!
+
+248
+00:43:46,544 --> 00:43:49,130
+A to co?
+
+249
+00:45:44,370 --> 00:45:49,834
+Prawdopodobnie meteoryt spadł tutaj
+około 20 lat temu.
+
+250
+00:45:50,627 --> 00:45:53,546
+Spalił osadę.
+
+251
+00:45:53,755 --> 00:45:59,469
+Szukano meteorytu, ale oczywiście
+nigdy go nie znaleziono.
+
+252
+00:46:00,011 --> 00:46:01,930
+Dlaczego "oczywiście"?
+
+253
+00:46:02,096 --> 00:46:05,558
+Ludzie zaczęli znikać.
+
+254
+00:46:06,267 --> 00:46:10,230
+Przychodzili tu i nie wracali.
+
+255
+00:46:11,481 --> 00:46:17,028
+Wtedy uznano, że ten meteoryt
+wcale nie był meteorytem.
+
+256
+00:46:19,823 --> 00:46:22,784
+Na początku...
+
+257
+00:46:23,993 --> 00:46:30,542
+otoczono to miejsce drutem kolczastym,
+żeby trzymać z dala ciekawskich.
+
+258
+00:46:32,335 --> 00:46:38,174
+Dało to początek plotkom,
+że w Strefie jest takie miejsce...
+
+259
+00:46:40,677 --> 00:46:42,595
+gdzie spełniają się życzenia.
+
+260
+00:46:42,762 --> 00:46:48,017
+Oczywiście, zaczęto strzec Strefy
+jak źrenicy oka.
+
+261
+00:46:51,104 --> 00:46:55,984
+A wiadomo to, czego ludzie
+mogą sobie życzyć?
+
+262
+00:46:56,317 --> 00:47:00,530
+Jeśli nie meteoryt, to co to było?
+
+263
+00:47:02,574 --> 00:47:05,535
+Już mówiłem - nikt nie wie.
+
+264
+00:47:05,702 --> 00:47:08,788
+A pan jak myśli?
+
+265
+00:47:09,873 --> 00:47:13,710
+Nic nie myślę.
+Jak kto woli.
+
+266
+00:47:16,129 --> 00:47:20,133
+Przesłanie dla ludzkości,
+jak twierdzi jeden z moich kolegów.
+
+267
+00:47:20,300 --> 00:47:23,219
+Albo prezent.
+
+268
+00:47:27,599 --> 00:47:30,560
+Niczego sobie prezent.
+
+269
+00:47:30,727 --> 00:47:32,645
+Dlaczego to zrobili?
+
+270
+00:47:32,812 --> 00:47:36,274
+Żeby nas uszczęśliwić.
+
+271
+00:47:39,068 --> 00:47:44,115
+Kwiaty znów kwitną, ale nie pachną,
+nie wiem dlaczego.
+
+272
+00:47:44,282 --> 00:47:50,330
+Przepraszam, że was tak zostawiłem,
+ale i tak było za wcześnie.
+
+273
+00:47:53,666 --> 00:47:56,586
+Słyszeliście?
+
+274
+00:47:56,794 --> 00:47:59,756
+Może rzeczywiście tam ktoś mieszka?
+
+275
+00:47:59,923 --> 00:48:02,258
+Kto?
+
+276
+00:48:03,051 --> 00:48:09,265
+Sam pan mi mówił o turystach, którzy
+tu przyjeżdżali na początku.
+
+277
+00:48:11,392 --> 00:48:16,356
+W Strefie nikogo nie ma
+i nikogo być nie może.
+
+278
+00:48:18,691 --> 00:48:21,528
+Czas na nas.
+
+279
+00:49:07,699 --> 00:49:10,535
+Jak wrócimy?
+
+280
+00:49:10,827 --> 00:49:14,706
+- Nie wrócimy tędy.
+- Jak to?
+
+281
+00:49:14,998 --> 00:49:18,751
+Pójdziemy jak uzgodniliśmy.
+
+282
+00:49:23,339 --> 00:49:26,301
+Będę prowadził.
+
+283
+00:49:26,468 --> 00:49:30,472
+Zboczenie z drogi może sporo kosztować.
+
+284
+00:49:30,638 --> 00:49:34,642
+Najpierw idziemy do tego słupa.
+
+285
+00:49:34,809 --> 00:49:38,438
+Pan pierwszy, Profesorze.
+
+286
+00:49:50,450 --> 00:49:53,161
+Teraz pan.
+
+287
+00:49:59,834 --> 00:50:03,588
+Proszę iść po jego śladach.
+
+288
+00:51:21,166 --> 00:51:24,127
+O mój Boże! A gdzie są...
+
+289
+00:51:24,294 --> 00:51:28,131
+I tak tu zostali?
+Ci ludzie?
+
+290
+00:51:29,507 --> 00:51:31,426
+Kto wie.
+
+291
+00:51:31,593 --> 00:51:37,474
+Pamiętam, jak zbierali się na dworcu,
+gotowi, żeby tu wrócić.
+
+292
+00:51:37,849 --> 00:51:40,810
+Byłem małym chłopcem.
+
+293
+00:51:40,977 --> 00:51:46,191
+Wtedy wszyscy myśleliśmy,
+że ktoś chce nas podbić.
+
+294
+00:51:51,404 --> 00:51:55,033
+Pan pierwszy, Profesorze.
+
+295
+00:52:01,831 --> 00:52:04,542
+Teraz pan.
+
+296
+00:54:33,024 --> 00:54:37,195
+Komnata jest tam.
+Pójdziemy tędy.
+
+297
+00:54:39,280 --> 00:54:44,619
+A pan co? Podkręca licznik?
+To na wyciągnięcie ręki.
+
+298
+00:54:45,537 --> 00:54:50,583
+Tak, ale ta ręka musiałaby być
+bardzo, bardzo długa.
+
+299
+00:54:50,750 --> 00:54:54,003
+My nie mamy takich.
+
+300
+00:55:59,569 --> 00:56:02,530
+Proszę to zostawić! Nie wolno!
+
+301
+00:56:02,697 --> 00:56:05,450
+Nie ruszać!
+
+302
+00:56:07,911 --> 00:56:10,872
+Nie ruszać, powiedziałem!
+
+303
+00:56:11,039 --> 00:56:14,250
+Co pan? Zwariował?
+
+304
+00:56:17,295 --> 00:56:21,257
+To nie miejsce na przechadzki.
+
+305
+00:56:21,466 --> 00:56:24,427
+W Strefie trzeba z szacunkiem.
+Inaczej pokarze.
+
+306
+00:56:24,594 --> 00:56:30,975
+Pokarze? Spróbuj pan jeszcze raz...
+Zapomniał języka w gębie, czy co?
+
+307
+00:56:31,893 --> 00:56:33,812
+Przecież ostrzegałem.
+
+308
+00:56:33,978 --> 00:56:36,815
+Idziemy tam?
+
+309
+00:56:37,106 --> 00:56:40,068
+Tak, w górę, a potem na lewo.
+
+310
+00:56:40,235 --> 00:56:45,281
+Tyle, że nie pójdziemy tędy.
+Pójdziemy naokoło.
+
+311
+00:56:46,491 --> 00:56:49,118
+Dlaczego?
+
+312
+00:56:49,619 --> 00:56:51,538
+Tędy się nie chodzi.
+
+313
+00:56:51,704 --> 00:56:55,708
+W Strefie im dłuższa droga,
+tym bezpieczniejsza.
+
+314
+00:56:55,875 --> 00:56:57,794
+A prosto pójść nie można?
+
+315
+00:56:57,961 --> 00:56:59,879
+Powiedział, że to niebezpieczne.
+
+316
+00:57:00,046 --> 00:57:04,050
+- A droga dookoła nie jest niebezpieczna?
+- Jest. Ale tędy się nie chodzi.
+
+317
+00:57:04,217 --> 00:57:07,178
+A co mnie to obchodzi?
+A gdybym spróbował...
+
+318
+00:57:07,345 --> 00:57:09,264
+Co pan...
+
+319
+00:57:09,430 --> 00:57:12,392
+Iść dookoła!
+Kiedy jesteśmy tak blisko.
+
+320
+00:57:12,559 --> 00:57:16,563
+Tu niebezpiecznie, tam niebezpiecznie.
+Co do diabła!
+
+321
+00:57:16,729 --> 00:57:20,441
+Jest pan zbyt lekkomyślny.
+
+322
+00:57:21,943 --> 00:57:24,904
+Mam już dość tych muterek i bandaży.
+
+323
+00:57:25,071 --> 00:57:28,783
+Jak sobie chcecie, ja idę.
+
+324
+00:57:29,242 --> 00:57:32,203
+- Pan zwariował.
+- Sam pan...
+
+325
+00:57:32,370 --> 00:57:34,789
+Mogę?
+
+326
+00:57:45,925 --> 00:57:49,345
+Wiatr się podniósł...
+
+327
+00:57:50,096 --> 00:57:53,349
+Czuje pan? Trawa...
+
+328
+00:58:01,566 --> 00:58:04,777
+No i tym bardziej.
+
+329
+00:58:05,737 --> 00:58:08,990
+Co pan ma na myśli?
+
+330
+00:58:23,463 --> 00:58:24,339
+Proszę czekać!
+
+331
+00:58:24,506 --> 00:58:27,467
+Ręce przy sobie!
+
+332
+00:58:27,634 --> 00:58:32,597
+Profesor świadkiem,
+że nie posyłałem tam pana.
+
+333
+00:58:33,890 --> 00:58:36,851
+Idziecie z własnej woli.
+
+334
+00:58:37,018 --> 00:58:39,979
+Z własnej woli. Coś jeszcze?
+
+335
+00:58:40,146 --> 00:58:43,358
+Nic. Może pan iść.
+
+336
+00:58:49,531 --> 00:58:53,076
+Niech Bóg pana strzeże.
+
+337
+00:59:06,214 --> 00:59:08,132
+Proszę posłuchać!
+
+338
+00:59:08,299 --> 00:59:11,261
+Jeżeli coś pan zauważy,
+
+339
+00:59:11,427 --> 00:59:14,389
+albo chociaż poczuje,
+
+340
+00:59:14,556 --> 00:59:17,517
+proszę natychmiast wracać, albo...
+
+341
+00:59:17,684 --> 00:59:22,063
+Tylko nie rzucaj pan we mnie prętami.
+
+342
+01:00:29,631 --> 01:00:32,717
+Stój! Ani kroku!
+
+343
+01:00:35,887 --> 01:00:39,891
+- Dlaczego pan to zrobił?
+- Dlaczego co?
+
+344
+01:00:40,058 --> 01:00:45,438
+- Dlaczego pan go zatrzymał?
+- Myślałem, że to pan...
+
+345
+01:01:24,894 --> 01:01:29,607
+Co się stało?
+Dlaczego pan mnie zatrzymał?
+
+346
+01:01:30,108 --> 01:01:30,984
+Nie zatrzymałem pana.
+
+347
+01:01:31,151 --> 01:01:33,987
+To kto? Pan?
+
+348
+01:01:38,449 --> 01:01:41,536
+Diabli wiedzą...
+
+349
+01:01:42,620 --> 01:01:45,582
+To było sprytne, panie Szekspir.
+
+350
+01:01:45,748 --> 01:01:48,710
+Strach iść naprzód,
+wstyd zawracać.
+
+351
+01:01:48,877 --> 01:01:54,966
+Więc wydał pan sobie polecenie.
+Strach przemówił panu do rozsądku.
+
+352
+01:01:55,133 --> 01:01:57,051
+- Co?
+- Przestańcie.
+
+353
+01:01:57,218 --> 01:02:03,016
+- I dlaczego wszystko mi pan wylał?
+- Przestańcie wreszcie!
+
+354
+01:02:15,987 --> 01:02:20,575
+Strefa to bardzo skomplikowany system...
+
+355
+01:02:23,286 --> 01:02:27,540
+pułapek,
+i wszystkie są śmiertelne.
+
+356
+01:02:30,585 --> 01:02:33,546
+Nie wiem, co tu się dzieje,
+kiedy nie ma ludzi,
+
+357
+01:02:33,713 --> 01:02:38,885
+ale kiedy ktoś się pojawi,
+wprawia Strefę w ruch.
+
+358
+01:02:42,055 --> 01:02:46,059
+Stare pułapki znikają
+i pojawiają się nowe.
+
+359
+01:02:46,226 --> 01:02:50,230
+Bezpieczne miejsca okazują się
+nie do przejścia.
+
+360
+01:02:50,396 --> 01:02:56,361
+Ścieżka raz jest prosta i łatwa,
+a to znowu plącze się i gubi.
+
+361
+01:02:59,781 --> 01:03:02,742
+Taka jest Strefa.
+
+362
+01:03:02,909 --> 01:03:06,871
+Może się nawet wydać kapryśna.
+
+363
+01:03:08,122 --> 01:03:13,795
+Ale przez cały czas to my
+ją tworzymy, naszą obecnością.
+
+364
+01:03:15,421 --> 01:03:21,511
+Zdarzało się, że trzeba było
+zatrzymać się w pół drogi i zawrócić.
+
+365
+01:03:21,678 --> 01:03:26,558
+Byli tacy, co zginęli
+na samym progu Komnaty.
+
+366
+01:03:26,891 --> 01:03:29,853
+Ale wszystko, co tu się dzieje
+zależy nie od Strefy, ale od nas!
+
+367
+01:03:30,019 --> 01:03:34,899
+Zatem dobrym pozwala przejść,
+a złych zabija?
+
+368
+01:03:35,233 --> 01:03:37,152
+Nie wiem.
+
+369
+01:03:37,318 --> 01:03:42,365
+Myślę, że przepuszcza tych,
+którzy stracili całą nadzieję.
+
+370
+01:03:42,532 --> 01:03:47,078
+Nie złych, czy dobrych,
+ale straceńców.
+
+371
+01:03:48,788 --> 01:03:54,836
+Ale nawet oni zginą, jeżeli nie
+będą się właściwie zachowywać.
+
+372
+01:04:02,343 --> 01:04:07,056
+Miał pan szczęście,
+został pan ostrzeżony.
+
+373
+01:04:10,685 --> 01:04:14,272
+Chyba zaczekam tu na was
+
+374
+01:04:14,856 --> 01:04:18,693
+aż wrócicie, uszczęśliwieni.
+
+375
+01:04:20,069 --> 01:04:21,988
+To niemożliwe!
+
+376
+01:04:22,155 --> 01:04:25,116
+Mam kanapki, termos...
+
+377
+01:04:25,283 --> 01:04:28,244
+Po pierwsze, beze mnie nie
+przetrwa pan tu nawet godziny.
+
+378
+01:04:28,411 --> 01:04:33,458
+- A po drugie?
+- Po drugie nie wraca się drogą,
+którą się przyszło.
+
+379
+01:04:33,625 --> 01:04:38,671
+- W każdym razie wolałbym...
+- W takim razie natychmiast wracamy.
+
+380
+01:04:38,838 --> 01:04:43,885
+Zwrócę wam pieniądze
+pomniejszone o pewną kwotę za...
+
+381
+01:04:44,052 --> 01:04:45,970
+za kłopot.
+
+382
+01:04:46,137 --> 01:04:50,016
+Namyślił się pan, Profesorze?
+
+383
+01:04:53,436 --> 01:04:58,149
+Niech będzie. Rzucaj pan tę swoją muterkę.
+
+384
+01:05:48,408 --> 01:05:51,161
+CZĘŚĆ DRUGA
+
+385
+01:05:54,455 --> 01:05:57,000
+STALKER
+
+386
+01:06:03,256 --> 01:06:06,968
+Gdzie jesteście?
+Chodźcie!
+
+387
+01:06:11,598 --> 01:06:14,767
+Zmęczyliście się?
+
+388
+01:06:28,281 --> 01:06:30,825
+O Boże!
+
+389
+01:06:34,537 --> 01:06:39,501
+Sądząc po tonie, zaraz znowu
+zacznie kazanie.
+
+390
+01:06:58,520 --> 01:07:02,524
+Niech będzie tak, jak miało być.
+
+391
+01:07:02,690 --> 01:07:05,652
+Niech uwierzą.
+
+392
+01:07:06,861 --> 01:07:09,823
+I niech się śmieją
+ze swoich namiętności.
+
+393
+01:07:09,989 --> 01:07:13,993
+Ponieważ to, co nazywają namiętnością
+tak naprawdę nie jest emocjonalną energią,
+
+394
+01:07:14,160 --> 01:07:19,207
+lecz tylko tarciem między ich duszami,
+a światem zewnętrznym.
+
+395
+01:07:19,374 --> 01:07:23,378
+I, co najważniejsze,
+niech uwierzą w siebie samych
+
+396
+01:07:23,545 --> 01:07:27,549
+Niech będą bezradni jak dzieci,
+
+397
+01:07:27,715 --> 01:07:32,762
+Bowiem słabość jest wielka,
+a siła jest niczym.
+
+398
+01:07:36,057 --> 01:07:39,018
+Kiedy człowiek się rodzi,
+jest słaby i podatny,
+
+399
+01:07:39,185 --> 01:07:43,565
+kiedy umiera,
+jest twardy i nieczuły.
+
+400
+01:07:44,399 --> 01:07:47,360
+Kiedy drzewo rośnie,
+jest delikatne i wiotkie,
+
+401
+01:07:47,527 --> 01:07:52,240
+lecz kiedy wyschnie i stwardnieje,
+umiera.
+
+402
+01:07:53,783 --> 01:07:57,787
+Twardość i siła
+to towarzysze śmierci.
+
+403
+01:07:57,954 --> 01:08:02,667
+Giętkość i słabość
+to przejawy żywotności.
+
+404
+01:08:04,210 --> 01:08:08,798
+Bo to, co zatwardziałe,
+nigdy nie wygra.
+
+405
+01:08:29,235 --> 01:08:32,780
+Chodźcie!
+Zbliżamy się.
+
+406
+01:08:33,406 --> 01:08:37,410
+Niedługo dojdziemy do suchego
+tunelu, potem będzie łatwiej.
+
+407
+01:08:37,577 --> 01:08:39,496
+Odpukać.
+
+408
+01:08:39,662 --> 01:08:44,125
+- Czy już idziemy?
+- Tak. O co chodzi?
+
+409
+01:08:44,876 --> 01:08:49,923
+Myślałem, że chciał pan nam
+tylko coś pokazać.
+
+410
+01:08:50,089 --> 01:08:53,051
+- A mój plecak?
+- Co z nim?
+
+411
+01:08:53,218 --> 01:08:57,222
+Jak to co? Zostawiłem go tam.
+Nie wiedziałem, że idziemy dalej.
+
+412
+01:08:57,388 --> 01:09:02,435
+- Nic już na to nie poradzimy.
+- Nie, musimy zawrócić.
+
+413
+01:09:02,602 --> 01:09:05,563
+- To niemożliwe!
+- Muszę odzyskać plecak!
+
+414
+01:09:05,730 --> 01:09:10,777
+Niech pan zrozumie, że tutaj nikt
+nigdy nie wrócił tą samą drogą.
+
+415
+01:09:10,944 --> 01:09:14,948
+Zostaw pan ten plecak.
+Co pan tam ma, brylanty?
+
+416
+01:09:15,114 --> 01:09:19,118
+W Komnacie dostanie pan,
+czego tylko sobie zażyczy.
+
+417
+01:09:19,285 --> 01:09:23,289
+Dostanie pan sto takich plecaków.
+
+418
+01:09:23,456 --> 01:09:25,375
+Jak daleko jeszcze?
+
+419
+01:09:25,542 --> 01:09:30,588
+200 metrów w linii prostej,
+tyle że tu nic nie jest proste.
+
+420
+01:09:30,755 --> 01:09:33,341
+Chodźmy.
+
+421
+01:09:33,883 --> 01:09:39,848
+Niech pan porzuci empirię, profesorze.
+Cuda jej nie podlegają.
+
+422
+01:09:41,182 --> 01:09:46,354
+Pamięta pan, jak św. Piotr
+o mało co nie utonął?
+
+423
+01:09:48,481 --> 01:09:51,401
+Idź, Pisarzu.
+
+424
+01:09:52,652 --> 01:09:54,571
+Gdzie?
+
+425
+01:09:54,737 --> 01:09:58,158
+Na górę, po schodach.
+
+426
+01:10:07,250 --> 01:10:10,712
+Profesorze, idzie pan?
+
+427
+01:11:59,863 --> 01:12:02,824
+Oto suchy tunel!
+
+428
+01:12:02,991 --> 01:12:05,952
+To ma być suche?
+
+429
+01:12:06,119 --> 01:12:11,833
+To taki tutejszy dowcip.
+Normalnie trzeba tędy przepłynąć.
+
+430
+01:12:39,486 --> 01:12:42,447
+Zaraz, a gdzie Profesor?
+
+431
+01:12:42,614 --> 01:12:45,575
+- Co?
+- Nie ma Profesora!
+
+432
+01:12:45,742 --> 01:12:50,497
+Jak to się stało?
+Cały czas szedł za panem.
+
+433
+01:12:50,955 --> 01:12:54,959
+Pewnie zamarudził i zgubił się.
+
+434
+01:12:55,126 --> 01:12:58,087
+Nie, nie zgubił się!
+Pewnie wrócił po plecak!
+
+435
+01:12:58,254 --> 01:13:01,090
+Nie da rady.
+
+436
+01:13:02,425 --> 01:13:03,301
+Czekamy na niego?
+
+437
+01:13:03,468 --> 01:13:10,058
+Nie możemy. Otoczenie zmienia się
+z każdą minutą. Musimy iść bez niego.
+
+438
+01:13:38,920 --> 01:13:41,881
+A co to? Jak to możliwe?
+
+439
+01:13:42,048 --> 01:13:45,009
+- Już mówiłem.
+- Co pan mówił?
+
+440
+01:13:45,176 --> 01:13:50,682
+To Strefa, nie rozumie pan?
+Proszę się nie zatrzymywać.
+
+441
+01:14:11,244 --> 01:14:13,830
+Tu jest!
+
+442
+01:14:25,842 --> 01:14:29,846
+Miło z pańskiej strony, że pan... ale...
+
+443
+01:14:30,013 --> 01:14:33,475
+Skąd pan się tu wziął?
+
+444
+01:14:34,184 --> 01:14:39,272
+Większość drogi musiałem przejść
+na czworakach.
+
+445
+01:14:41,483 --> 01:14:45,487
+Nie do wiary.
+Jak panu udało się nas wyprzedzić?
+
+446
+01:14:45,653 --> 01:14:50,408
+Jak to "wyprzedzić"?
+Wróciłem tu po plecak.
+
+447
+01:14:53,995 --> 01:14:58,291
+I skąd tu się wzięła nasza muterka?
+
+448
+01:14:59,209 --> 01:15:02,921
+O mój Boże...
+to pułapka!
+
+449
+01:15:07,550 --> 01:15:12,263
+Jeżozwierz specjalnie powiesił tu muterkę.
+
+450
+01:15:14,849 --> 01:15:18,937
+Dlaczego Strefa nas przepuściła?
+
+451
+01:15:25,276 --> 01:15:29,614
+Boże, nie zrobię ani kroku dopóki...
+
+452
+01:15:31,533 --> 01:15:34,911
+Nie podoba mi się to.
+
+453
+01:15:38,832 --> 01:15:42,335
+Wystarczy. Odpoczywamy.
+
+454
+01:15:55,515 --> 01:16:00,562
+Na wszelki wypadek trzymajcie się
+z daleka od tej muterki.
+
+455
+01:16:00,728 --> 01:16:05,733
+A już myślałem, że Profesor
+nie da sobie rady.
+
+456
+01:16:09,070 --> 01:16:13,074
+Nigdy nie wiem, jakich ludzi biorę ze sobą.
+
+457
+01:16:13,241 --> 01:16:18,288
+To się okazuje dopiero tu, na miejscu,
+kiedy jest już za późno.
+
+458
+01:16:18,454 --> 01:16:24,085
+Najważniejsze, że worek z majtkami
+profesora nietknięty.
+
+459
+01:16:24,711 --> 01:16:29,757
+Nie wtykaj nosa w cudze
+majtki, dopóki nie zrozumiesz.
+
+460
+01:16:29,924 --> 01:16:34,137
+A co tu rozumieć?
+Dwumian Newtona?
+
+461
+01:16:37,223 --> 01:16:40,185
+Też mi psychologiczna głębia!
+
+462
+01:16:40,351 --> 01:16:42,270
+Miał przechlapane w instytucie.
+
+463
+01:16:42,437 --> 01:16:45,398
+Nie chcieli dać mu pieniędzy na wyprawę.
+
+464
+01:16:45,565 --> 01:16:51,279
+Więc zapakował plecak pełen
+termometrów i innego złomu...
+
+465
+01:16:52,864 --> 01:16:55,825
+żeby zbadać Strefę na własną rękę...
+
+466
+01:16:55,992 --> 01:17:01,039
+i poddać te wszystkie cuda
+testom arytmetycznym.
+
+467
+01:17:01,206 --> 01:17:05,210
+Nikt na świecie nie słyszał
+jeszcze o Strefie.
+
+468
+01:17:05,376 --> 01:17:08,338
+To będzie prawdziwa sensacja!
+
+469
+01:17:08,505 --> 01:17:13,343
+Telewizja, wiwatujące tłumy,
+laurowe wieńce.
+
+470
+01:17:14,761 --> 01:17:18,973
+I oto nasz Profesor,
+cały w bieli,
+
+471
+01:17:19,974 --> 01:17:24,062
+i powiada:
+"Mene, tekel, fares."
+
+472
+01:17:25,188 --> 01:17:28,149
+Wszyscy się gapią
+
+473
+01:17:28,316 --> 01:17:32,403
+wszyscy krzyczą:
+"Dać mu Nobla!"
+
+474
+01:17:35,615 --> 01:17:41,496
+Nie dość, że grafoman, to jeszcze
+niedzielny psychoanalityk.
+
+475
+01:17:41,871 --> 01:17:47,627
+Nadajesz się tylko do pisania
+po ścianach w kiblu, gaduło.
+
+476
+01:17:49,170 --> 01:17:52,757
+Kiepskie. Zbyt rozlazłe.
+
+477
+01:17:54,384 --> 01:17:57,345
+Nie wiecie, jak to się robi.
+
+478
+01:17:57,512 --> 01:18:01,516
+Nieważne. Ja dostanę nagrodę Nobla.
+
+479
+01:18:01,683 --> 01:18:05,687
+A pan?
+Chce pan obdarzyć ludzkość
+
+480
+01:18:05,854 --> 01:18:10,316
+perłami swojego kupionego natchnienia?
+
+481
+01:18:11,067 --> 01:18:15,071
+Mam gdzieś ludzkość.
+Z całej ludzkości
+
+482
+01:18:15,238 --> 01:18:20,118
+obchodzi mnie tylko jeden
+człowiek - ja sam.
+
+483
+01:18:20,451 --> 01:18:26,541
+Nieważne, czy jestem cokolwiek wart,
+czy jestem takim samym zerem jak reszta.
+
+484
+01:18:26,708 --> 01:18:30,712
+A jeśli okaże się,
+że pan tak naprawdę...
+
+485
+01:18:30,879 --> 01:18:36,593
+Wiesz pan co, panie Einstein,
+nie chcę się z panem kłócić.
+
+486
+01:18:38,178 --> 01:18:42,932
+Z kłótni rodzi się prawda,
+niech ją diabli!
+
+487
+01:18:45,477 --> 01:18:48,938
+Słuchaj, Sokole Oko...
+
+488
+01:18:51,733 --> 01:18:55,737
+Przyprowadziłeś tu wielu ludzi.
+
+489
+01:18:57,989 --> 01:19:00,950
+Nie tylu, ilu bym chciał.
+
+490
+01:19:01,117 --> 01:19:06,414
+Nie o to chodzi. Po co oni tu szli?
+Czego chcieli?
+
+491
+01:19:07,373 --> 01:19:09,292
+Chyba szczęścia.
+
+492
+01:19:09,459 --> 01:19:13,213
+Tak, ale jakiego szczęścia?
+
+493
+01:19:15,715 --> 01:19:19,719
+Ludzie nie lubią mówić o swoich
+najskrytszych myślach.
+
+494
+01:19:19,886 --> 01:19:23,890
+Zresztą, ani to pański, ani mój interes.
+
+495
+01:19:24,057 --> 01:19:27,018
+W każdy razie - miał pan szczęście.
+
+496
+01:19:27,185 --> 01:19:31,189
+Jeśli o mnie chodzi, to w całym życiu
+nie widziałem ani jednego szczęśliwego człowieka.
+
+497
+01:19:31,356 --> 01:19:33,274
+Ani ja.
+
+498
+01:19:33,441 --> 01:19:37,445
+Wychodzą z Komnaty,
+a ja prowadzę ich z powrotem,
+
+499
+01:19:37,612 --> 01:19:41,616
+i więcej nigdy się nie spotykamy.
+
+500
+01:19:41,783 --> 01:19:45,787
+Życzenia nie spełniają się tak od razu.
+
+501
+01:19:45,954 --> 01:19:50,708
+I nigdy nie chciał pan sam
+czegoś zażyczyć?
+
+502
+01:19:56,381 --> 01:20:00,093
+Jest dobrze tak, jak jest.
+
+503
+01:20:51,644 --> 01:20:54,981
+Słuchaj, Profesorze.
+
+504
+01:20:56,858 --> 01:21:01,070
+Wracając do kupionego natchnienia.
+
+505
+01:21:02,071 --> 01:21:05,033
+Załóżmy, że wszedłem do Komnaty
+
+506
+01:21:05,200 --> 01:21:10,079
+i wracam do tej naszej mieściny
+jako geniusz.
+
+507
+01:21:16,669 --> 01:21:21,382
+Człowiek pisze, kiedy cierpi,
+kiedy wątpi.
+
+508
+01:21:22,926 --> 01:21:26,930
+Musi cały czas udowadniać
+sobie i innym,
+
+509
+01:21:27,096 --> 01:21:30,266
+że jest coś wart.
+
+510
+01:21:32,310 --> 01:21:36,815
+A jeśli byłbym pewien
+swojego geniuszu?
+
+511
+01:21:37,524 --> 01:21:41,236
+Po co wtedy miałbym pisać?
+
+512
+01:21:41,694 --> 01:21:44,781
+Na jaką cholerę?
+
+513
+01:21:46,908 --> 01:21:51,621
+To oczywiste, że istniejemy po to, żeby...
+
+514
+01:21:53,164 --> 01:21:58,002
+Bądź pan tak łaskaw i zostaw mnie w spokoju.
+
+515
+01:21:58,378 --> 01:22:03,007
+Muszę się zdrzemnąć,
+nie spałem całą noc.
+
+516
+01:22:03,591 --> 01:22:06,553
+Zachowaj pan swoje kompleksy dla siebie.
+
+517
+01:22:06,719 --> 01:22:11,599
+W każdym razie,
+cała ta pańska technologia...
+
+518
+01:22:15,061 --> 01:22:18,815
+te wszystkie piece, koła...
+
+519
+01:22:20,275 --> 01:22:23,153
+i inny szmelc
+
+520
+01:22:24,445 --> 01:22:29,492
+zostały wymyślone po to,
+żeby mniej pracować i więcej jeść.
+
+521
+01:22:29,659 --> 01:22:33,621
+To tylko rusztowania,
+protezy.
+
+522
+01:22:34,873 --> 01:22:39,460
+Przeznaczeniem ludzkości jest tworzyć...
+
+523
+01:22:41,129 --> 01:22:44,090
+dzieła sztuki.
+
+524
+01:22:45,300 --> 01:22:51,639
+W przeciwieństwie do innych działań
+ludzkich, to jest niesamolubne.
+
+525
+01:22:53,641 --> 01:22:58,271
+Wielkie iluzje!
+Obrazy absolutnej prawdy!
+
+526
+01:22:59,898 --> 01:23:03,735
+Słucha mnie pan, Profesorze?
+
+527
+01:23:05,111 --> 01:23:08,072
+O czym pan mówi?
+
+528
+01:23:08,239 --> 01:23:13,745
+Ludzie wciąż umierają z głodu.
+Z choinki się pan urwał?
+
+529
+01:23:21,794 --> 01:23:25,924
+I to ma być nasza elita umysłowa!
+
+530
+01:23:27,008 --> 01:23:31,012
+Nie potraficie nawet myśleć abstrakcyjnie.
+
+531
+01:23:31,179 --> 01:23:36,142
+Niech pan sobie daruje wykład
+o sensie życia.
+
+532
+01:23:40,563 --> 01:23:43,525
+Albo o tym, jak myśleć.
+
+533
+01:23:43,691 --> 01:23:48,905
+To bez sensu. Może i z pana profesor,
+ale ciemny.
+
+534
+01:24:39,998 --> 01:24:44,294
+Nastąpiło wielkie trzęsienie ziemi.
+
+535
+01:24:46,254 --> 01:24:50,258
+i słońce stało się czarne jak włosiany wór.
+
+536
+01:24:50,425 --> 01:24:54,429
+a cały księżyc stał się jak krew...
+
+537
+01:24:54,596 --> 01:24:58,600
+I gwiazdy spadły z nieba na ziemię,
+
+538
+01:24:58,766 --> 01:25:02,770
+tak jak drzewo figowe wstrząsane silnym wiatrem
+
+539
+01:25:02,937 --> 01:25:06,941
+zrzuca na ziemię niedojrzałe owoce.
+
+540
+01:25:07,108 --> 01:25:11,112
+Niebo zostało usunięte jak księga,
+która się zwija,
+
+541
+01:25:11,279 --> 01:25:17,160
+a każda góra i każda wyspa
+zostały ruszone ze swoich miejsc.
+
+542
+01:25:21,706 --> 01:25:26,211
+A królowie ziemscy, wielmoże i wodzowie
+
+543
+01:25:27,962 --> 01:25:30,965
+bogacze i możni
+
+544
+01:25:32,133 --> 01:25:35,845
+i każdy niewolnik i wolny,
+
+545
+01:25:38,389 --> 01:25:41,351
+ukryli się w jaskiniach
+i w skalistych górach;
+
+546
+01:25:41,518 --> 01:25:46,272
+I mówią do gór i do skał:
+"Padnijcie na nas
+
+547
+01:25:46,731 --> 01:25:50,735
+i ukryjcie nas przed obliczem
+Zasiadającego na tronie,
+
+548
+01:25:50,902 --> 01:25:53,863
+i przed gniewem Baranka,
+
+549
+01:25:54,030 --> 01:25:58,034
+bo nadszedł Wielki Dzień Jego gniewu,
+
+550
+01:25:58,201 --> 01:26:01,788
+a któż zdoła się ostać?"
+
+551
+01:29:03,803 --> 01:29:06,764
+Tego właśnie dnia dwóch...
+
+552
+01:29:06,931 --> 01:29:09,934
+dwóch z nich...
+
+553
+01:29:11,102 --> 01:29:16,149
+szło do miasteczka, które leżało
+60 stadiów od...
+
+554
+01:29:16,316 --> 01:29:18,234
+a zwało się...
+
+555
+01:29:18,401 --> 01:29:22,405
+Rozmawiali z sobą o tym
+wszystkim, co zaszło.
+
+556
+01:29:22,572 --> 01:29:25,533
+Kiedy tak rozmawiali i rozprawiali...
+
+557
+01:29:25,700 --> 01:29:30,747
+On sam zbliżył się do nich
+i zaczął podróżować z nimi.
+
+558
+01:29:30,914 --> 01:29:35,877
+Lecz oczy ich był zasłonięte
+i nie poznali Go.
+
+559
+01:29:36,127 --> 01:29:41,174
+Rzekł do nich: "Cóż to za rozmowy
+prowadzicie ze sobą w drodze...
+
+560
+01:29:41,341 --> 01:29:45,220
+i dlaczego jesteście smutni?"
+
+561
+01:29:45,512 --> 01:29:49,224
+A jeden z nich imieniem...
+
+562
+01:30:01,152 --> 01:30:04,322
+Obudziliście się?
+
+563
+01:30:09,494 --> 01:30:14,332
+Rozmawialiście o sensie...
+naszego... życia
+
+564
+01:30:15,750 --> 01:30:19,504
+o niesamolubności sztuki...
+
+565
+01:30:22,006 --> 01:30:25,635
+Weźmy na przykład muzykę.
+
+566
+01:30:30,348 --> 01:30:34,352
+Najmniej, jak to możliwe
+jest związana z rzeczywistością,
+
+567
+01:30:34,519 --> 01:30:38,523
+a jeżeli już, to raczej
+mechanicznie, niż z samej istoty,
+
+568
+01:30:38,690 --> 01:30:43,903
+sam dźwięk, pozbawiony...
+jakichkolwiek odniesień.
+
+569
+01:30:47,031 --> 01:30:52,495
+A jednak muzyka, jakimś cudem,
+trafia prosto do serca.
+
+570
+01:30:56,416 --> 01:31:01,462
+Co jest w nas takiego, co reaguje
+na zharmonizowany hałas,
+
+571
+01:31:01,629 --> 01:31:05,633
+sprawiając, że dostarcza
+nam on przyjemności tak wielkiej,
+
+572
+01:31:05,800 --> 01:31:09,804
+że nami wstrząsa i łączy razem?
+
+573
+01:31:09,971 --> 01:31:15,101
+Po co to wszystko?
+I, co ważniejsze, dla kogo to?
+
+574
+01:31:17,270 --> 01:31:21,274
+Można by rzec,
+"Dla nikogo. I bez powodu."
+
+575
+01:31:21,441 --> 01:31:24,402
+Niesamolubnie.
+
+576
+01:31:24,569 --> 01:31:26,905
+Nie.
+
+577
+01:31:27,697 --> 01:31:30,909
+Nie wydaje mi się.
+
+578
+01:31:31,868 --> 01:31:35,872
+Ostatecznie, wszystko ma jakiś sens.
+
+579
+01:31:36,039 --> 01:31:39,209
+Sens i przyczynę.
+
+580
+01:32:09,405 --> 01:32:12,742
+Czy musimy tędy iść?
+
+581
+01:32:15,662 --> 01:32:19,791
+Niestety tak.
+Nie ma innej drogi.
+
+582
+01:32:35,473 --> 01:32:39,978
+Strasznie tu ciemno, prawda Profesorze?
+
+583
+01:32:43,815 --> 01:32:47,694
+Jakoś mi się tam nie spieszy.
+
+584
+01:32:47,986 --> 01:32:51,990
+A nasz Indianin nie chodzi na ochotnika.
+
+585
+01:32:52,157 --> 01:32:56,244
+Będziemy ciągnąć zapałki.
+Zgoda?
+
+586
+01:32:57,370 --> 01:33:01,374
+Do tego przydałby się ochotnik.
+
+587
+01:33:03,626 --> 01:33:06,588
+Macie zapałki?
+
+588
+01:33:13,011 --> 01:33:15,638
+Dziękuję.
+
+589
+01:33:26,566 --> 01:33:30,153
+Długa zapałka przegrywa.
+
+590
+01:33:31,779 --> 01:33:34,741
+Proszę wybrać.
+
+591
+01:33:40,121 --> 01:33:44,125
+Długa.
+Tym razem się nie udało.
+
+592
+01:33:58,890 --> 01:34:02,894
+Może przynajmniej rzuci pan muterkę?
+
+593
+01:34:03,061 --> 01:34:06,773
+Oczywiście. Proszę bardzo.
+
+594
+01:34:42,684 --> 01:34:45,520
+Jeszcze raz?
+
+595
+01:34:53,111 --> 01:34:56,197
+W porządku, idę.
+
+596
+01:36:43,638 --> 01:36:47,058
+Szybciej, Profesorze!
+
+597
+01:40:55,974 --> 01:40:58,393
+Tu...
+
+598
+01:41:00,145 --> 01:41:02,981
+Tu są drzwi!
+
+599
+01:41:19,956 --> 01:41:24,502
+Proszę tam iść!
+Otworzyć drzwi i wejść!
+
+600
+01:41:33,511 --> 01:41:37,515
+Znowu ja?
+Znowu mam iść pierwszy?
+
+601
+01:41:37,682 --> 01:41:40,643
+Wyciągnął pan długą.
+
+602
+01:41:40,810 --> 01:41:44,689
+Naprzód! Tu nie wolno czekać.
+
+603
+01:41:48,109 --> 01:41:52,113
+Co pan tam ma?
+Tu nie wolno z bronią!
+
+604
+01:41:52,280 --> 01:41:55,241
+Zgubi pan siebie,
+i nas też!
+
+605
+01:41:55,408 --> 01:41:58,369
+Pamięta pan czołgi?
+
+606
+01:41:58,536 --> 01:42:03,583
+- Proszę, niech pan to wyrzuci.
+- Nie rozumie pan?
+
+607
+01:42:03,750 --> 01:42:09,172
+Jeśli coś się stanie,
+mogę panu pomóc, ale nie tak...
+
+608
+01:42:10,006 --> 01:42:14,344
+Błagam!
+Do kogo pan będzie strzelał?
+
+609
+01:42:29,818 --> 01:42:33,947
+Niech pan idzie, mamy mało czasu!
+
+610
+01:42:36,074 --> 01:42:38,952
+Tu jest woda!
+
+611
+01:42:39,202 --> 01:42:43,498
+Trzeba zejść trzymając się poręczy.
+
+612
+01:43:28,209 --> 01:43:33,882
+Tylko proszę nie odchodzić!
+Niech pan zaczeka tam na nas!
+
+613
+01:43:46,978 --> 01:43:49,939
+Mam nadzieję, że pan niczego takiego nie ma.
+
+614
+01:43:50,106 --> 01:43:53,067
+- Czego?
+- Pistoletu.
+
+615
+01:43:53,234 --> 01:43:56,196
+Nie. W ostateczności użyję fiolki.
+
+616
+01:43:56,362 --> 01:44:01,409
+- Jakiej fiolki?
+- Wszczepionej fiolki. Z trucizną
+
+617
+01:44:01,576 --> 01:44:05,538
+Boże! Przyszedł pan tu umrzeć?
+
+618
+01:44:10,960 --> 01:44:14,964
+Nie, to tak na wszelki wypadek.
+
+619
+01:44:41,199 --> 01:44:43,117
+Pisarzu! Niech pan wraca!
+
+620
+01:44:43,284 --> 01:44:45,203
+Z powrotem! Chce pan zginąć?
+
+621
+01:44:45,370 --> 01:44:50,667
+Mówiłem, żeby czekać przy wyjściu!
+Stop! Ani kroku!
+
+622
+01:45:36,462 --> 01:45:38,381
+To pańska wina.
+
+623
+01:45:38,548 --> 01:45:43,386
+- Dlaczego?
+- Pan powinien był iść pierwszy.
+
+624
+01:45:43,761 --> 01:45:47,849
+Ze strachu poszedł w złą stronę.
+
+625
+01:47:33,246 --> 01:47:36,958
+Jeszcze jeden eksperyment.
+
+626
+01:47:38,459 --> 01:47:42,922
+Eksperymenty, fakty,
+najwyższa prawda.
+
+627
+01:47:45,758 --> 01:47:50,805
+Nie ma czegoś takiego jak fakty.
+Zwłaszcza tutaj.
+
+628
+01:47:50,972 --> 01:47:56,019
+To wszystko jest czyimś
+idiotycznym wynalazkiem.
+
+629
+01:47:56,186 --> 01:47:59,397
+Nie czujecie tego?
+
+630
+01:48:00,356 --> 01:48:05,403
+Ale wy oczywiście musicie
+dowiedzieć się, kto wynalazł.
+
+631
+01:48:05,570 --> 01:48:08,156
+I po co.
+
+632
+01:48:08,698 --> 01:48:11,659
+I na co wam ta wiedza?
+
+633
+01:48:11,826 --> 01:48:15,914
+Czyje sumienie to obciąży? Moje?
+
+634
+01:48:17,040 --> 01:48:21,044
+Nie mam sumienia.
+Mam tylko nerwy.
+
+635
+01:48:21,211 --> 01:48:24,172
+Jedna kanalia mnie zwymyśla
+i cierpię.
+
+636
+01:48:24,339 --> 01:48:28,343
+Inna mnie pochwali,
+znowu cierpię.
+
+637
+01:48:28,510 --> 01:48:33,807
+Włóż w to serce i duszę,
+oni pożrą i serce i duszę.
+
+638
+01:48:35,809 --> 01:48:39,813
+Wyrzuć brudy z duszy -
+zeżrą i brudy.
+
+639
+01:48:39,979 --> 01:48:43,441
+Wszyscy tacy oczytani.
+
+640
+01:48:44,150 --> 01:48:47,612
+Wszyscy głodni wrażeń.
+
+641
+01:48:48,321 --> 01:48:52,325
+I wszyscy kłębią się dookoła,
+dziennikarze,
+
+642
+01:48:52,492 --> 01:48:57,163
+redaktorzy, krytycy,
+niewydarzone babska.
+
+643
+01:48:58,748 --> 01:49:03,086
+I wszyscy krzyczą:
+jeszcze, jeszcze!
+
+644
+01:49:05,004 --> 01:49:10,009
+Co ze mnie za pisarz,
+kiedy nienawidzę pisania?
+
+645
+01:49:12,303 --> 01:49:17,350
+To dla mnie ciągła męka,
+bolesne, poniżające zajęcie,
+
+646
+01:49:17,517 --> 01:49:21,229
+jak wyciskanie hemoroidów.
+
+647
+01:49:22,730 --> 01:49:26,734
+Kiedyś myślałem, że moje książki
+komuś pomogą.
+
+648
+01:49:26,901 --> 01:49:29,863
+Nikt mnie nie potrzebuje!
+
+649
+01:49:30,029 --> 01:49:35,577
+W dwa dni po mojej śmierci zaczną
+pożerać kogoś innego.
+
+650
+01:49:37,328 --> 01:49:41,332
+Chciałem ich zmienić,
+ale to oni zmienili mnie.
+
+651
+01:49:41,499 --> 01:49:46,337
+Uczynili mnie na swój obraz
+i podobieństwo.
+
+652
+01:49:49,841 --> 01:49:54,888
+Kiedyś przyszłość była
+kontynuacją teraźniejszości,
+
+653
+01:49:55,054 --> 01:49:59,058
+zmiany wyłaniały się zza horyzontu.
+
+654
+01:49:59,225 --> 01:50:03,980
+Teraz przyszłość i teraźniejszość to jedno.
+
+655
+01:50:09,652 --> 01:50:12,614
+Czy są na to gotowi?
+
+656
+01:50:12,780 --> 01:50:17,452
+Oni nie chcą nic wiedzieć!
+Oni tylko żrą!
+
+657
+01:50:31,549 --> 01:50:34,511
+Rany, ale z pana szczęściarz!
+
+658
+01:50:34,677 --> 01:50:39,766
+Mój Boże, teraz...
+Teraz będzie pan żył sto lat!
+
+659
+01:50:53,446 --> 01:50:57,283
+Tak, ale czemu nie wiecznie?
+
+660
+01:51:00,745 --> 01:51:03,748
+Jak Żyd-tułacz.
+
+661
+01:51:42,453 --> 01:51:46,457
+Pan jest na pewno wspaniałym człowiekiem.
+
+662
+01:51:46,624 --> 01:51:49,586
+Prawie w to nie wątpiłem.
+
+663
+01:51:49,752 --> 01:51:54,799
+Wyobrażam sobie, jaka to musiała
+być dla pana tortura.
+
+664
+01:51:54,966 --> 01:51:57,927
+To okropne!
+To najstraszniejsze miejsce w strefie!
+
+665
+01:51:58,094 --> 01:52:01,055
+Nazywana jest "wyżymaczką",
+ale nazwa nie oddaje całej grozy.
+
+666
+01:52:01,222 --> 01:52:04,684
+Tylu ludzi tu zginęło!
+
+667
+01:52:08,521 --> 01:52:12,942
+Jeżozwierz wysłał tu brata na śmierć.
+
+668
+01:52:14,777 --> 01:52:19,532
+To był taki wrażliwy chłopiec,
+taki zdolny.
+
+669
+01:52:19,991 --> 01:52:22,869
+Posłuchajcie.
+
+670
+01:52:23,119 --> 01:52:28,082
+Lato już przeminęło,
+Tak bez słowa, po prostu.
+
+671
+01:52:28,333 --> 01:52:33,338
+Słońce wciąż grzeje mocno,
+Jednak tego za mało.
+
+672
+01:52:33,546 --> 01:52:36,508
+To, co spełnić się mogło,
+
+673
+01:52:36,674 --> 01:52:41,721
+Jak liść pięciopalczasty,
+na dłoń moją spłynęło,
+
+674
+01:52:41,888 --> 01:52:44,849
+Jednak tego za mało.
+
+675
+01:52:45,016 --> 01:52:50,063
+Zła nikt nie zapomniał
+Po tym, jak się skończyło,
+
+676
+01:52:50,230 --> 01:52:55,276
+Cały świat tonął w światłach,
+Jednak tego za mało.
+
+677
+01:52:55,443 --> 01:53:00,281
+Życie mnie rozpieszczało,
+Dbało i zabawiało.
+
+678
+01:53:01,699 --> 01:53:06,704
+Byłem szczerze szczęśliwy,
+Jednak tego za mało.
+
+679
+01:53:06,913 --> 01:53:11,960
+Żaden liść nie pożółkły,
+Żadna kość nie złamana.
+
+680
+01:53:12,126 --> 01:53:17,340
+Dni, jak kryształ przejrzyste
+Jednak tego za mało.
+
+681
+01:53:19,425 --> 01:53:22,387
+Dobre, prawda? To jego wiersz.
+
+682
+01:53:22,554 --> 01:53:26,558
+Czym się tak podniecasz?
+O co tyle zachodu?
+
+683
+01:53:26,724 --> 01:53:29,686
+- Ja tylko...
+- Patrzeć na ciebie nie mogę!
+
+684
+01:53:29,853 --> 01:53:33,857
+Nie wyobrażacie sobie, jaka to dla mnie radość
+Nie wszyscy docierają aż tutaj.
+
+685
+01:53:34,023 --> 01:53:38,027
+Zrobiliśce wszystko jak trzeba.
+Jesteście dobrymi, szlachetnymi ludźmi.
+
+686
+01:53:38,194 --> 01:53:39,070
+Jestem dumny, że nie myliłem się co do was.
+
+687
+01:53:39,237 --> 01:53:43,241
+Patrzcie tylko! Cieszy się, żeśmy
+tu doszli cali i zdrowi!
+
+688
+01:53:43,408 --> 01:53:48,371
+Przeznaczenie! Strefa!
+Dobrzy ludzie, powiada!
+
+689
+01:53:48,621 --> 01:53:51,583
+Myślisz, że nie widziałem, jak podsuwasz
+mi dwie długie zapałki?
+
+690
+01:53:51,749 --> 01:53:53,668
+- Nie, pan nie rozumie...
+- No jasne, jak miałbym rozumieć?
+
+691
+01:53:53,835 --> 01:53:57,297
+Profesorze, bez urazy,
+
+692
+01:53:58,006 --> 01:54:02,010
+- ale ten gnojek wybrał sobie
+pana na swojego ulubieńca.
+- Dlaczego pan tak mówi?
+
+693
+01:54:02,177 --> 01:54:06,181
+A mnie, człowieka drugiej kategorii,
+wrzucił na tę rurę!
+
+694
+01:54:06,347 --> 01:54:09,934
+Wyżymaczka! Co za nazwa!
+
+695
+01:54:10,518 --> 01:54:15,565
+Jakim prawem decydujesz, kto ma żyć,
+a kogo do wyżymaczki?
+
+696
+01:54:15,732 --> 01:54:17,650
+Sam pan to wylosował!
+
+697
+01:54:17,817 --> 01:54:21,529
+Co? Jedną z dwóch długich?
+
+698
+01:54:21,988 --> 01:54:23,907
+Zapałki nic nie znaczą.
+
+699
+01:54:24,073 --> 01:54:27,035
+Strefa przepuściła pana wtedy,
+pod muterką,
+
+700
+01:54:27,202 --> 01:54:32,081
+było jasne, że tylko pan przetrwa wyżymaczkę.
+
+701
+01:54:32,415 --> 01:54:35,376
+- A my po prostu szliśmy za panem.
+- Patrzcie no...
+
+702
+01:54:35,543 --> 01:54:40,882
+Nawet pan sobie nie wyobraża,
+ile tu kosztuje błąd.
+
+703
+01:54:41,799 --> 01:54:43,718
+A ktoś musiał iść przodem!
+
+704
+01:54:43,885 --> 01:54:47,555
+Tak? Nie, to nie klinika!
+
+705
+01:54:49,098 --> 01:54:53,770
+A może wy byście chodzili
+zawsze przodem?
+
+706
+01:55:00,568 --> 01:55:03,404
+Nie dotykać!
+
+707
+01:55:23,508 --> 01:55:26,469
+Poproszę z laboratorium dziewiątym.
+
+708
+01:55:26,636 --> 01:55:29,389
+Chwileczkę.
+
+709
+01:55:34,978 --> 01:55:37,939
+- Słucham?
+- Mam nadzieję, że nie przeszkadzam.
+
+710
+01:55:38,106 --> 01:55:42,110
+- Czego chcesz?
+- Tylko parę słów.
+
+711
+01:55:42,277 --> 01:55:45,238
+Ty to schowałeś. Ja znalazłem.
+
+712
+01:55:45,405 --> 01:55:50,451
+W starym budynku. Bunkier czwarty.
+Słyszysz mnie?
+
+713
+01:55:50,618 --> 01:55:53,580
+Natychmiast powiadomię służbę bezpieczeństwa.
+
+714
+01:55:53,746 --> 01:55:57,333
+Zrób to.
+Donieś na mnie.
+
+715
+01:55:58,960 --> 01:56:02,964
+Możesz napuścić wszystkich na mnie,
+ale już za późno.
+
+716
+01:56:03,131 --> 01:56:07,719
+Jestem o rzut kamieniem
+od tego miejsca.
+
+717
+01:56:09,387 --> 01:56:12,348
+Wiesz, że to oznacza koniec twojej kariery?
+
+718
+01:56:12,515 --> 01:56:13,391
+Więc ciesz się!
+
+719
+01:56:13,558 --> 01:56:18,313
+Wiesz, co się stanie,
+jeżeli się ośmielisz?
+
+720
+01:56:19,814 --> 01:56:22,775
+Znowu próbujesz mnie straszyć?
+
+721
+01:56:22,942 --> 01:56:27,655
+Całe życie czegoś się bałem.
+Nawet ciebie.
+
+722
+01:56:29,199 --> 01:56:33,203
+Ale teraz niczego się nie boję,
+możesz być tego pewien.
+
+723
+01:56:33,369 --> 01:56:36,331
+Boże, jaki tam z ciebie Herostrates.
+
+724
+01:56:36,498 --> 01:56:39,459
+Po prostu zawsze chciałeś się
+na mnie odegrać za to,
+
+725
+01:56:39,626 --> 01:56:43,630
+że dwadzieścia lat temu
+przespałem się z twoją żoną.
+
+726
+01:56:43,796 --> 01:56:47,801
+A teraz cieszysz się z tego,
+że wreszcie wyrównałeś rachunek.
+
+727
+01:56:47,967 --> 01:56:52,180
+Cóż, idź i rób swoje...
+łajdactwo.
+
+728
+01:56:53,181 --> 01:56:56,142
+Nie waż się odkładać słuchawki!
+
+729
+01:56:56,309 --> 01:57:00,313
+Więzienie to nie jest najgorsze,
+co cię czeka.
+
+730
+01:57:00,480 --> 01:57:03,441
+Najgorsze jest to, że sam sobie
+tego nigdy nie wybaczysz.
+
+731
+01:57:03,608 --> 01:57:08,738
+Już widzę, jak wisisz na szelkach
+w swojej celi.
+
+732
+01:57:10,907 --> 01:57:14,494
+Co pan robi, Profesorze?
+
+733
+01:57:16,120 --> 01:57:22,210
+Czy zdajecie sobie sprawę, co się stanie,
+kiedy wszyscy uwierzą w tę Komnatę?
+
+734
+01:57:22,377 --> 01:57:25,839
+Wszyscy tu przybiegną.
+
+735
+01:57:26,548 --> 01:57:30,093
+To tylko kwestia czasu.
+
+736
+01:57:30,718 --> 01:57:33,680
+Jeśli nie dziś, to jutro!
+I to wcale nie dziesiątki, tysiące!
+
+737
+01:57:33,847 --> 01:57:38,893
+Niedoszli cesarze,
+wielcy inkwizytorzy, führerzy,
+
+738
+01:57:39,060 --> 01:57:43,064
+Samozwańczy dobroczyńcy ludzkości!
+
+739
+01:57:43,231 --> 01:57:48,278
+I przybędą tu nie po pieniądze,
+czy natchnienie, tylko żeby zmienić świat!
+
+740
+01:57:48,444 --> 01:57:50,363
+Nigdy nie zabieram tu takich ludzi.
+Myśli pan, że tego nie rozumiem?
+
+741
+01:57:50,530 --> 01:57:53,491
+Nic pan nie rozumie.
+
+742
+01:57:53,658 --> 01:57:56,619
+Nie jest pan jedynym stalkerem na Ziemi.
+
+743
+01:57:56,786 --> 01:57:58,705
+Żaden stalker nie wie,
+
+744
+01:57:58,872 --> 01:58:02,876
+co przynoszą ci, których tu sprowadza
+i co stąd zabierają.
+
+745
+01:58:03,042 --> 01:58:06,004
+A liczba nieumotywowanych zbrodni wzrasta!
+
+746
+01:58:06,171 --> 01:58:08,089
+Czy to nie pańska robota?
+
+747
+01:58:08,256 --> 01:58:13,303
+A zamachy stanu, albo mafia
+przejmująca władzę,
+
+748
+01:58:13,470 --> 01:58:15,388
+to nie wasi klienci?
+
+749
+01:58:15,555 --> 01:58:19,559
+Albo lasery, czy te wszystkie super-mikroby,
+
+750
+01:58:19,726 --> 01:58:24,022
+cały brud trzymany dotąd w sejfach?
+
+751
+01:58:24,939 --> 01:58:27,901
+Powstrzymaj pan tę swoją socjologiczną sraczkę.
+
+752
+01:58:28,067 --> 01:58:29,986
+Pan naprawdę wierzy w te bajki?
+
+753
+01:58:30,153 --> 01:58:34,991
+W dobre nie!
+Ale w te złe - jak najbardziej!
+
+754
+01:58:35,366 --> 01:58:37,285
+Gadanie!
+
+755
+01:58:37,452 --> 01:58:42,499
+Człowiek nie jest zdolny do takiej
+nienawiści, albo miłości...
+
+756
+01:58:42,665 --> 01:58:46,669
+która obejmowałaby całą ludzkość.
+
+757
+01:58:46,836 --> 01:58:50,840
+Pieniądze, kobieta,
+może pragnienie zemsty,
+
+758
+01:58:51,007 --> 01:58:55,011
+Niech mojego szefa rozjedzie samochód,
+to rozumiem.
+
+759
+01:58:55,178 --> 01:58:58,139
+Ale władza nad światem!
+Powszechna sprawiedliwość!
+
+760
+01:58:58,306 --> 01:59:00,225
+Królestwo Boże na ziemi!
+
+761
+01:59:00,391 --> 01:59:05,814
+To nie są życzenia,
+to ideologia, działanie, pomysły.
+
+762
+01:59:07,690 --> 01:59:12,737
+Podświadome współczucie nie dojrzało
+jeszcze do spełnienia
+
+763
+01:59:12,904 --> 01:59:15,865
+jako szczere,
+instynktowne pragnienie.
+
+764
+01:59:16,032 --> 01:59:20,787
+Niemożliwe jest szczęście kosztem drugiego.
+
+765
+01:59:21,246 --> 01:59:26,709
+Widzę, że chce pan obsypać
+ludzkość dobrymi uczynkami.
+
+766
+01:59:29,587 --> 01:59:33,591
+Ja tam się nie martwię
+ani o pana, ani o siebie,
+
+767
+01:59:33,758 --> 01:59:36,719
+a już na pewno nie o ludzkość.
+
+768
+01:59:36,886 --> 01:59:40,473
+Bo nic pan nie osiągnie.
+
+769
+01:59:41,057 --> 01:59:45,895
+Co najwyżej dostanie pan tego swojego Nobla,
+
+770
+01:59:46,271 --> 01:59:51,317
+choć raczej będzie to coś
+ni w pięć, ni w dziewięć,
+
+771
+01:59:51,484 --> 01:59:56,573
+coś zupełnie nieoczekiwanego.
+Jak ten telefon...
+
+772
+01:59:57,740 --> 02:00:02,495
+Marzysz o jednej rzeczy,
+a dostajesz drugą.
+
+773
+02:00:03,997 --> 02:00:06,875
+Po co pan...?
+
+774
+02:00:19,637 --> 02:00:23,391
+Telefon... elektryczność...
+
+775
+02:00:27,979 --> 02:00:30,940
+Patrzcie, doskonałe pigułki nasenne.
+
+776
+02:00:31,107 --> 02:00:35,945
+Dziś już takich nie robią.
+Skąd tu ich tyle?
+
+777
+02:00:39,449 --> 02:00:42,410
+Chodźmy dalej.
+
+778
+02:00:42,577 --> 02:00:47,415
+Niedługo wieczór,
+będziemy wracać po ciemku.
+
+779
+02:00:54,047 --> 02:00:58,051
+Tak, przy okazji - doskonale rozumiem,
+
+780
+02:00:58,218 --> 02:01:02,222
+że całe to recytowanie wierszy
+i chodzenie naokoło
+
+781
+02:01:02,388 --> 02:01:05,350
+to rodzaj prośby o wybaczenie.
+
+782
+02:01:05,517 --> 02:01:11,648
+Mogę pana zrozumieć.
+Trudne dzieciństwo, niewłaściwe otoczenie...
+
+783
+02:01:12,816 --> 02:01:17,779
+Ale proszę się nie łudzić,
+nie przebaczę panu.
+
+784
+02:01:20,114 --> 02:01:23,535
+Niech pan przestanie.
+
+785
+02:02:15,378 --> 02:02:19,674
+Profesorze, niech pan tu podejdzie.
+
+786
+02:02:51,873 --> 02:02:55,585
+Zaczekajmy. Bez pośpiechu.
+
+787
+02:02:56,044 --> 02:02:59,464
+Mnie się nie śpieszy.
+
+788
+02:03:48,179 --> 02:03:52,267
+Wiem, że to się wam nie spodoba.
+
+789
+02:03:53,393 --> 02:03:57,522
+Ale i tak muszę wam powiedzieć...
+
+790
+02:04:02,777 --> 02:04:05,738
+Jesteśmy teraz...
+
+791
+02:04:05,905 --> 02:04:08,575
+na progu.
+
+792
+02:04:15,290 --> 02:04:19,711
+To najważniejszy moment waszego życia
+
+793
+02:04:23,631 --> 02:04:26,593
+Trzeba wam wiedzieć...
+
+794
+02:04:26,759 --> 02:04:31,639
+że tu spełnią się wasze najskrytsze marzenia.
+
+795
+02:04:34,058 --> 02:04:38,605
+Te najszczersze.
+Zrodzone z cierpienia.
+
+796
+02:05:08,468 --> 02:05:11,888
+Nie trzeba nic mówić.
+
+797
+02:05:14,724 --> 02:05:17,685
+Wystarczy tylko...
+
+798
+02:05:17,852 --> 02:05:24,067
+skoncentrować się i spróbować
+przypomnieć sobie całe swoje życie.
+
+799
+02:05:26,194 --> 02:05:31,783
+Kiedy człowiek rozmyśla o przeszłości,
+staje się lepszy.
+
+800
+02:05:32,450 --> 02:05:35,870
+I co najważniejsze...
+
+801
+02:06:07,902 --> 02:06:10,989
+Najważniejsze...
+
+802
+02:06:14,159 --> 02:06:16,744
+wierzyć!
+
+803
+02:06:25,628 --> 02:06:28,840
+Możecie już wejść.
+
+804
+02:06:32,927 --> 02:06:36,264
+Kto będzie pierwszy?
+
+805
+02:06:40,226 --> 02:06:42,896
+Może pan?
+
+806
+02:06:43,354 --> 02:06:46,566
+Ja? Nie, nie chcę.
+
+807
+02:06:47,525 --> 02:06:52,739
+Rozumiem, że pan się waha,
+ale to zaraz przejdzie.
+
+808
+02:06:53,781 --> 02:06:56,451
+Wątpię...
+
+809
+02:06:56,910 --> 02:06:59,871
+czy to przejdzie.
+
+810
+02:07:00,038 --> 02:07:04,876
+Jeżeli zacznę przypominać sobie swoje życie,
+
+811
+02:07:05,251 --> 02:07:09,255
+to małe szanse, żebym stał się lepszym.
+
+812
+02:07:09,422 --> 02:07:15,220
+Poza tym, czy nie widzicie, jak
+haniebne jest to wszystko?
+
+813
+02:07:31,319 --> 02:07:35,198
+Upokarzanie się, jęki, modły?
+
+814
+02:07:37,575 --> 02:07:41,287
+Co złego jest w modlitwie?
+
+815
+02:07:42,789 --> 02:07:45,750
+Przemawia przez pana duma.
+
+816
+02:07:45,917 --> 02:07:52,507
+Proszę się uspokoić. Nie jest pan
+jeszcze gotowy. To się często zdarza.
+
+817
+02:07:54,259 --> 02:07:56,928
+Może pan?
+
+818
+02:08:03,643 --> 02:08:06,229
+Tak, ja.
+
+819
+02:08:16,156 --> 02:08:22,036
+Proszę państwa, oto przed nami
+najnowszy wynalazek Profesora!
+
+820
+02:08:22,412 --> 02:08:26,416
+Przyrząd do badania ludzkiej duszy!
+Duszometr!
+
+821
+02:08:26,583 --> 02:08:29,544
+To tylko bomba.
+
+822
+02:08:29,711 --> 02:08:32,005
+Co?
+
+823
+02:08:32,839 --> 02:08:34,757
+Pan chyba żartuje.
+
+824
+02:08:34,924 --> 02:08:39,220
+Nie, to bomba.
+Dwadzieścia kiloton.
+
+825
+02:08:41,181 --> 02:08:43,641
+Po co?
+
+826
+02:08:53,693 --> 02:08:57,822
+Skonstruowałem ją z przyjaciółmi.
+
+827
+02:08:58,907 --> 02:09:02,494
+Z moimi byłymi kolegami.
+
+828
+02:09:07,248 --> 02:09:12,462
+To miejsce nigdy nikomu
+nie przyniesie szczęścia.
+
+829
+02:09:15,590 --> 02:09:20,011
+a jeśli wpadnie w niewłaściwe ręce...
+
+830
+02:09:22,889 --> 02:09:26,893
+Choć nie jestem już taki pewien.
+
+831
+02:09:27,060 --> 02:09:30,939
+Wtedy doszliśmy do wniosku...
+
+832
+02:09:31,231 --> 02:09:35,235
+że jednak nie powinniśmy
+niszczyć Strefy.
+
+833
+02:09:35,401 --> 02:09:40,698
+Nawet jeśli to cud,
+to wciąż jednak część przyrody,
+
+834
+02:09:41,658 --> 02:09:45,995
+a zatem, w pewnym sensie - nadzieja.
+
+835
+02:09:46,871 --> 02:09:50,875
+Schowali tę bombę, a ja ją znalazłem.
+
+836
+02:09:51,042 --> 02:09:55,255
+W starym budynku, bunkier czwarty.
+
+837
+02:09:59,384 --> 02:10:03,096
+Pewnie jest taka zasada...
+
+838
+02:10:04,597 --> 02:10:07,559
+nigdy nie rób niczego,
+co nie może być cofnięte.
+
+839
+02:10:07,725 --> 02:10:13,148
+Ja to wszystko rozumiem,
+nie jestem jakimś maniakiem.
+
+840
+02:10:13,982 --> 02:10:19,279
+Ale dopóki ta zaraza jest
+dostępna dla byle łotra,
+
+841
+02:10:22,323 --> 02:10:26,119
+nie zaznam snu ani spokoju.
+
+842
+02:10:31,708 --> 02:10:37,130
+A może moja podświadomość
+nie pozwoli mi tego zrobić?
+
+843
+02:10:41,092 --> 02:10:45,763
+Biedny człowiek, wynalazł
+sobie problem.
+
+844
+02:11:08,203 --> 02:11:11,414
+Niech pan to odda!
+
+845
+02:11:23,843 --> 02:11:27,055
+Niech pan to odda!
+
+846
+02:11:31,142 --> 02:11:35,271
+Jesteśmy cywilizowanymi ludźmi...
+
+847
+02:11:40,527 --> 02:11:45,073
+- O co chodzi?
+- Pieprzony hipokryta...
+
+848
+02:11:45,740 --> 02:11:49,702
+Dlaczego?
+Co ja panu zrobiłem?
+
+849
+02:11:50,954 --> 02:11:55,166
+On chce zniszczyć pańską nadzieję!
+
+850
+02:12:18,064 --> 02:12:22,068
+To jedyne, co zostało ludziom na świecie!
+
+851
+02:12:22,235 --> 02:12:27,031
+To jedyne miejsce,
+do którego mogą przyjść,
+
+852
+02:12:27,448 --> 02:12:31,578
+kiedy stracili już całą nadzieję.
+
+853
+02:12:32,662 --> 02:12:34,581
+Wy samiście tu przyszli!
+
+854
+02:12:34,747 --> 02:12:37,709
+Dlaczego chcecie zniszczyć nadzieję?
+
+855
+02:12:37,876 --> 02:12:40,712
+Zamknij się!
+
+856
+02:12:43,089 --> 02:12:46,050
+Przejrzałem cię na wylot!
+
+857
+02:12:46,217 --> 02:12:49,179
+Nie obchodzą cię ludzie!
+
+858
+02:12:49,345 --> 02:12:53,683
+Ty zarabiasz na naszym nieszczęściu!
+
+859
+02:12:55,602 --> 02:12:56,478
+I wcale nie chodzi o pieniądze.
+
+860
+02:12:56,644 --> 02:13:00,648
+Ty się tu dobrze bawisz.
+Jesteś tu jak Bóg Wszechmogący.
+
+861
+02:13:00,815 --> 02:13:05,862
+Ty, dwulicowa gnida, decydujesz
+kto przeżyje, a kto zginie.
+
+862
+02:13:06,029 --> 02:13:08,990
+On się zastanawia!
+
+863
+02:13:09,157 --> 02:13:13,161
+Teraz rozumiem, dlaczego stalkerzy
+nigdy nie wchodzą do Komnaty.
+
+864
+02:13:13,328 --> 02:13:19,334
+Bo i po co? Upajacie się swoją władzą,
+tajemnicą i autorytetem!
+
+865
+02:13:19,584 --> 02:13:21,503
+Czego jeszcze można chcieć?
+
+866
+02:13:21,669 --> 02:13:25,882
+To nieprawda!
+Pan... pan się myli!
+
+867
+02:13:30,011 --> 02:13:31,930
+Stalkerowi nie wolno wchodzić do Komnaty.
+
+868
+02:13:32,096 --> 02:13:37,143
+Stalkerowi nie wolno nawet wejść do Strefy
+dla własnych celów.
+
+869
+02:13:37,310 --> 02:13:40,855
+Pamiętacie Jeżozwierza?
+
+870
+02:13:42,524 --> 02:13:44,442
+Ma pan rację, jestem gnidą.
+
+871
+02:13:44,609 --> 02:13:49,656
+Nic dobrego nie zrobiłem i nic
+dobrego zrobić nie potrafię.
+
+872
+02:13:49,823 --> 02:13:52,784
+Własnej żonie nie mogłem nic dać.
+
+873
+02:13:52,951 --> 02:13:57,997
+Nie mam żadnych przyjaciół.
+Nie zabierajcie mi jeszcze tego!
+
+874
+02:13:58,164 --> 02:14:02,752
+Wszystko mi już zabrali tam, za drutami.
+
+875
+02:14:06,506 --> 02:14:12,303
+Wszystko, co mam, jest tutaj.
+Rozumiecie! Tutaj! W Strefie!
+
+876
+02:14:12,762 --> 02:14:19,352
+Moje szczęście, moja wolność,
+szacunek do samego siebie, wszystko tutaj!
+
+877
+02:14:20,061 --> 02:14:23,022
+Przyprowadzam tu takich jak ja,
+zrozpaczonych i cierpiących.
+
+878
+02:14:23,189 --> 02:14:27,610
+Ludzi, którzy nie mają innej nadziei.
+
+879
+02:14:28,403 --> 02:14:31,364
+A ja mogę im pomóc!
+
+880
+02:14:31,531 --> 02:14:36,536
+Nikt inny im nie pomoże,
+tylko ja, gnida, mogę!
+
+881
+02:14:37,787 --> 02:14:40,748
+To mi daje takie szczęście,
+że aż chcę płakać.
+
+882
+02:14:40,915 --> 02:14:45,461
+I to wszystko.
+Niczego więcej nie chcę.
+
+883
+02:15:05,940 --> 02:15:08,902
+Nie wiem. Może
+
+884
+02:15:09,068 --> 02:15:13,072
+W każdym razie, przepraszam, ale...
+
+885
+02:15:13,239 --> 02:15:17,035
+Jesteś tylko Bożym błaznem.
+
+886
+02:15:17,410 --> 02:15:21,539
+Nie masz pojęcia, o co tu chodzi.
+
+887
+02:15:23,666 --> 02:15:27,670
+Jak myślisz, dlaczego
+Jeżozwierz się powiesił?
+
+888
+02:15:27,837 --> 02:15:30,798
+Przyszedł do Strefy w złej wierze.
+
+889
+02:15:30,965 --> 02:15:33,927
+Z chciwości doprowadził do
+śmierci brata w wyżymaczce.
+
+890
+02:15:34,093 --> 02:15:38,097
+To wiem.
+Ale dlaczego się powiesił?
+
+891
+02:15:38,264 --> 02:15:42,268
+Dlaczego nie wrócił i nie poprosił
+o wskrzeszenie brata?
+
+892
+02:15:42,435 --> 02:15:45,396
+Kiedy go naszły wyrzuty sumienia.
+
+893
+02:15:45,563 --> 02:15:49,567
+Chciał... sam nie wiem.
+Powiesił się tydzień później.
+
+894
+02:15:49,734 --> 02:15:53,738
+Bo zdał sobie sprawę, że nie
+każde życzenie tu się spełnia,
+
+895
+02:15:53,905 --> 02:15:57,450
+a tylko te najskrytsze.
+
+896
+02:16:04,332 --> 02:16:08,461
+Nie to, co wypowiadasz na głos...
+
+897
+02:16:14,759 --> 02:16:18,763
+Spełnia się tylko to pragnienie,
+które leży w twojej naturze,
+
+898
+02:16:18,930 --> 02:16:21,891
+w głębi twojej duszy,
+o którym nic nie wiesz.
+
+899
+02:16:22,058 --> 02:16:26,062
+Ale ono tam jest,
+kieruje twoim życiem.
+
+900
+02:16:26,229 --> 02:16:29,190
+Nic nie zrozumiałeś, Indianinie.
+
+901
+02:16:29,357 --> 02:16:31,276
+To nie chciwość sprowadziła tu Jeżozwierza.
+
+902
+02:16:31,442 --> 02:16:35,446
+Czołgał się w tym błocie,
+błagając o życie brata.
+
+903
+02:16:35,613 --> 02:16:40,660
+Ale dostał tylko pieniądze,
+i nic innego dostać nie mógł,
+
+904
+02:16:40,827 --> 02:16:44,831
+bo przypadło Jeżozwierzowi,
+co Jeżozwierzowe!
+
+905
+02:16:44,998 --> 02:16:49,419
+A sumienie, żal - to tylko wynalazki.
+
+906
+02:16:50,211 --> 02:16:54,048
+Zrozumiał to i powiesił się.
+
+907
+02:16:56,468 --> 02:17:00,472
+Nie wejdę do tej twojej Komnaty.
+
+908
+02:17:00,638 --> 02:17:05,685
+Nie chcę unieszczęśliwiać
+nikogo swoją niegodziwością.
+
+909
+02:17:05,852 --> 02:17:07,770
+Nawet ciebie.
+
+910
+02:17:07,937 --> 02:17:11,941
+A potem wieszać się, jak Jeżozwierz.
+
+911
+02:17:12,108 --> 02:17:18,198
+Już prędzej zapiję się na śmierć
+w moim domu, w ciszy i spokoju.
+
+912
+02:17:19,407 --> 02:17:23,828
+Nie znasz się na ludziach, Sokole Oko
+
+913
+02:17:25,663 --> 02:17:30,668
+skoro zabierasz do Strefy
+ludzi takich jak ja.
+
+914
+02:17:36,090 --> 02:17:39,052
+I jeszcze jedno...
+
+915
+02:17:39,219 --> 02:17:44,265
+Dlaczego myślicie, że ten cud
+naprawdę istnieje?
+
+916
+02:17:44,432 --> 02:17:50,230
+Kto wam powiedział, że tu
+naprawdę spełniają się życzenia?
+
+917
+02:17:51,731 --> 02:17:57,821
+Czy ktoś z was widział choć jednego
+człowieka uszczęśliwionego tutaj?
+
+918
+02:17:57,987 --> 02:18:01,074
+Może Jeżozwierz?
+
+919
+02:18:04,244 --> 02:18:09,290
+A tak właściwie, to kto
+opowiedział wam o Strefie,
+
+920
+02:18:09,457 --> 02:18:13,169
+o Jeżozwierzu, o Komnacie.
+
+921
+02:18:14,671 --> 02:18:17,215
+On sam.
+
+922
+02:19:20,361 --> 02:19:24,365
+W takim razie nic już nie rozumiem.
+
+923
+02:19:24,532 --> 02:19:27,952
+Po co tu przychodzić?
+
+924
+02:20:50,034 --> 02:20:52,996
+Jak tu cicho...
+
+925
+02:20:53,163 --> 02:20:55,874
+Słyszycie?
+
+926
+02:21:00,461 --> 02:21:05,383
+A, niech tam... a gdyby tak
+wszystko rzucić,
+
+927
+02:21:05,675 --> 02:21:10,472
+zabrać żonę, Smerdę,
+i przenieść się tutaj.
+
+928
+02:21:14,017 --> 02:21:16,686
+Na stałe.
+
+929
+02:21:17,145 --> 02:21:21,816
+Nikogo tu nie ma.
+Nikt ich nie skrzywdzi.
+
+930
+02:25:36,779 --> 02:25:39,449
+Wróciłeś.
+
+931
+02:25:45,121 --> 02:25:48,082
+Skąd go wziąłeś?
+
+932
+02:25:48,249 --> 02:25:53,505
+Przywiązał się do mnie.
+Nie mogłem go tam zostawić.
+
+933
+02:26:10,146 --> 02:26:14,025
+To co, idziemy?
+Smerda czeka.
+
+934
+02:26:19,531 --> 02:26:22,116
+Idziesz?
+
+935
+02:26:35,171 --> 02:26:39,008
+Czy ktoś nie potrzebuje psa?
+
+936
+02:26:40,385 --> 02:26:43,721
+Sam mam w domu pięć.
+
+937
+02:26:52,897 --> 02:26:55,859
+Więc lubi pan psy?
+
+938
+02:26:56,025 --> 02:26:57,944
+Co?
+
+939
+02:26:58,111 --> 02:27:00,822
+To dobrze.
+
+940
+02:27:05,410 --> 02:27:08,163
+No chodźmy.
+
+941
+02:30:09,969 --> 02:30:13,973
+Nie masz pojęcia, jaki
+jestem zmęczony!
+
+942
+02:30:14,140 --> 02:30:17,101
+Bóg jeden wie!
+
+943
+02:30:18,311 --> 02:30:22,315
+Tak zwani intelektualiści,
+pisarz i naukowiec!
+
+944
+02:30:22,482 --> 02:30:24,400
+Nie denerwuj się.
+
+945
+02:30:24,567 --> 02:30:27,946
+Oni w nic nie wierzą!
+
+946
+02:30:29,781 --> 02:30:34,619
+Ich narządy wiary zanikły,
+z braku używania.
+
+947
+02:30:36,037 --> 02:30:40,041
+Przestań. Chodź
+Połóż się do łóżka. Nie leż tutaj...
+
+948
+02:30:40,208 --> 02:30:44,796
+Tu jest wilgotno...
+Nie można tak leżeć.
+
+949
+02:30:48,550 --> 02:30:51,302
+Zdejmij to.
+
+950
+02:32:01,539 --> 02:32:03,458
+Boże, co za ludzie...
+
+951
+02:32:03,625 --> 02:32:07,504
+Uspokój się, to nie ich wina.
+
+952
+02:32:07,795 --> 02:32:10,757
+Powinieneś ich żałować,
+a nie się złościć.
+
+953
+02:32:10,924 --> 02:32:15,011
+Widziałaś ich? Mieli puste oczy.
+
+954
+02:32:25,522 --> 02:32:31,236
+Jedyne, o czym myślą, to żeby się
+jak najdrożej sprzedać!
+
+955
+02:32:32,821 --> 02:32:36,783
+Żeby zarobić na każdej emocji!
+
+956
+02:32:38,034 --> 02:32:44,082
+Wiedzą, że zostali "stworzeni
+dla wyższych celów", "powołani"!
+
+957
+02:32:45,333 --> 02:32:49,212
+W końcu "żyje się tylko raz"!
+
+958
+02:32:49,504 --> 02:32:53,508
+Jak tacy ludzie mogą w cokolwiek wierzyć?
+
+959
+02:32:53,675 --> 02:32:57,137
+Przestań, uspokój się.
+
+960
+02:32:57,846 --> 02:33:01,724
+Spróbuj zasnąć, dobrze?
+Śpij.
+
+961
+02:33:06,187 --> 02:33:10,942
+I nikt nie wierzy.
+Nie tylko ci dwaj. Nikt!
+
+962
+02:33:12,443 --> 02:33:15,905
+Kogo mam tam zabierać?
+
+963
+02:33:18,700 --> 02:33:20,618
+O Boże...
+
+964
+02:33:20,785 --> 02:33:24,038
+A najgorsze jest...
+
+965
+02:33:24,956 --> 02:33:26,875
+że nikt tego nie potrzebuje.
+
+966
+02:33:27,041 --> 02:33:32,088
+Nikt nie potrzebuje Komnaty.
+Cała moja praca na darmo.
+
+967
+02:33:32,255 --> 02:33:35,717
+Nie mów tak. Przestań.
+
+968
+02:33:41,639 --> 02:33:45,602
+Nikogo więcej tam nie zabiorę.
+
+969
+02:33:46,853 --> 02:33:50,648
+Chcesz żebym z tobą poszła?
+
+970
+02:33:52,066 --> 02:33:53,985
+Gdzie?
+
+971
+02:33:54,152 --> 02:33:58,239
+Myślisz, że nie mam o co prosić?
+
+972
+02:34:01,451 --> 02:34:03,912
+Nie...
+
+973
+02:34:06,664 --> 02:34:10,502
+- Nie wolno.
+- Dlaczego nie?
+
+974
+02:34:12,921 --> 02:34:15,590
+Nie, nie.
+
+975
+02:34:19,177 --> 02:34:23,139
+A jeśli tobie też się nie uda?
+
+976
+02:34:58,800 --> 02:35:02,512
+Moja matka była przeciwna.
+
+977
+02:35:04,013 --> 02:35:08,268
+Pewnie zauważyliście,
+że jest inny.
+
+978
+02:35:11,312 --> 02:35:14,274
+Był pośmiewiskiem w sąsiedztwie.
+
+979
+02:35:14,440 --> 02:35:19,154
+Był taki niezdarny, wyglądał tak żałośnie.
+
+980
+02:35:19,654 --> 02:35:22,615
+Moja matka mówiła:
+"To stalker,
+
+981
+02:35:22,782 --> 02:35:25,743
+skazany, wieczny więzień!
+
+982
+02:35:25,910 --> 02:35:28,872
+Wiesz, jakie dzieci rodzą się stalkerom?"
+
+983
+02:35:29,038 --> 02:35:33,626
+A ja... ja nigdy się z nią nie kłóciłam.
+
+984
+02:35:35,295 --> 02:35:39,299
+Sama wiedziałam, że jest skazany,
+
+985
+02:35:39,465 --> 02:35:43,928
+że wieczny więzień,
+i o dzieciach też.
+
+986
+02:35:46,764 --> 02:35:48,683
+Ale co mogłam poradzić?
+
+987
+02:35:48,850 --> 02:35:53,354
+Byłam pewna, że będzie mi z nim dobrze.
+
+988
+02:35:54,063 --> 02:35:58,067
+Wiedziałam, że nie będzie lekko.
+
+989
+02:35:58,234 --> 02:36:02,489
+Ale lepsze gorzkie szczęście niż...
+
+990
+02:36:04,491 --> 02:36:07,744
+szare, nudne życie.
+
+991
+02:36:11,789 --> 02:36:16,711
+A może to wszystko wymyśliłam
+sobie później.
+
+992
+02:36:25,345 --> 02:36:31,184
+On podszedł do mnie i powiedział:
+"Chodź ze mną." I poszłam.
+
+993
+02:36:31,601 --> 02:36:35,396
+I nigdy tego nie żałowałam.
+
+994
+02:36:37,857 --> 02:36:40,318
+Nigdy.
+
+995
+02:36:42,028 --> 02:36:44,989
+Było dużo goryczy,
+
+996
+02:36:45,156 --> 02:36:47,075
+dużo strachu i dużo wstydu.
+
+997
+02:36:47,242 --> 02:36:52,831
+Ale nigdy nie żałowałam
+i nigdy nikomu nie zazdrościłam.
+
+998
+02:36:53,498 --> 02:36:58,211
+Taki nasz los, takie życie,
+tacy jesteśmy.
+
+999
+02:37:04,968 --> 02:37:10,014
+Gdyby nie te nieszczęścia,
+nie byłoby nam tak dobrze.
+
+1000
+02:37:10,181 --> 02:37:13,434
+Mogłoby być gorzej.
+
+1001
+02:37:14,352 --> 02:37:18,565
+Mogłoby w ogóle nie być szczęścia.
+
+1002
+02:37:21,651 --> 02:37:25,780
+I mogłoby nie być żadnej nadziei.
+
+1003
+02:38:14,829 --> 02:38:18,708
+Oczy twe kocham, przyjacielu,
+
+1004
+02:38:19,000 --> 02:38:22,795
+Ich jasny i namiętny blask,
+
+1005
+02:38:24,214 --> 02:38:27,175
+Gdy twe spojrzenie trafi celu,
+
+1006
+02:38:27,342 --> 02:38:30,303
+Jakby niebiosa swoich łask
+
+1007
+02:38:30,470 --> 02:38:34,474
+nadały szczodrze, choć niewielu.
+
+1008
+02:38:34,641 --> 02:38:38,645
+Lecz więcej jest do podziwiania:
+
+1009
+02:38:38,812 --> 02:38:41,773
+Gdy zamknąć oczy każe ci
+
+1010
+02:38:41,940 --> 02:38:45,527
+Miłości spalająca mania,
+
+1011
+02:38:46,110 --> 02:38:49,823
+I mimo powiek cicho brzmi,
+
+1012
+02:38:50,281 --> 02:38:54,118
+Mroczny zew twego pożądania.
+
+1013
+02:41:44,414 --> 02:41:46,875
+Koniec
+
+1014
+02:41:55,884 --> 02:41:59,804
+www.NapiProjekt.pl - nowa jakość napisów.
+Napisy zostały specjalnie dopasowane do Twojej wersji filmu.
