@@ -1,0 +1,2598 @@
+1
+00:00:51,833 --> 00:00:53,291
+Kto tu jest? Kim jestem?
+
+2
+00:00:53,666 --> 00:00:56,833
+Co się dzieje? Co to za miejsce?
+
+3
+00:00:56,916 --> 00:00:57,750
+Czym jesteś?
+
+4
+00:00:58,875 --> 00:00:59,958
+To twoja wina.
+
+5
+00:01:00,666 --> 00:01:03,125
+To bez sensu. Ja to zrobiłam?
+
+6
+00:01:03,458 --> 00:01:04,375
+Myśl trzeźwo.
+
+7
+00:01:06,125 --> 00:01:07,375
+Zrób to.
+
+8
+00:01:22,666 --> 00:01:24,791
+Wykryto nieprawidłową aktywność.
+
+9
+00:02:01,833 --> 00:02:03,125
+Awaria systemu.
+
+10
+00:02:03,208 --> 00:02:06,250
+Uruchom ponownie,
+by aktywować zasilanie rezerwowe.
+
+11
+00:02:23,291 --> 00:02:24,291
+Kurwa.
+
+12
+00:02:38,333 --> 00:02:39,666
+Awaria systemu.
+
+13
+00:02:39,750 --> 00:02:42,500
+Uruchom ponownie,
+by aktywować zasilanie rezerwowe.
+
+14
+00:02:42,583 --> 00:02:43,583
+Halo?
+
+15
+00:02:59,958 --> 00:03:00,958
+Halo?
+
+16
+00:03:11,333 --> 00:03:13,166
+Naruszenie systemu bezpieczeństwa.
+
+17
+00:03:28,500 --> 00:03:30,708
+Wykryto nieprawidłową aktywność.
+
+18
+00:03:55,208 --> 00:03:56,625
+Awaria systemu.
+
+19
+00:03:56,708 --> 00:03:59,625
+Uruchom ponownie,
+by aktywować zasilanie rezerwowe.
+
+20
+00:04:18,416 --> 00:04:19,416
+Hej.
+
+21
+00:04:44,958 --> 00:04:45,958
+Co to?
+
+22
+00:04:48,041 --> 00:04:51,375
+Uruchom ponownie,
+by aktywować zasilanie rezerwowe.
+
+23
+00:04:52,125 --> 00:04:54,125
+ZASILANIE REZERWOWE
+
+24
+00:05:01,625 --> 00:05:04,208
+Zasilanie rezerwowe aktywne.
+
+25
+00:06:17,000 --> 00:06:18,125
+Halo?
+
+26
+00:06:26,500 --> 00:06:27,500
+Jest tu kto?
+
+27
+00:07:17,958 --> 00:07:18,958
+Gdzie ja jestem?
+
+28
+00:07:48,375 --> 00:07:49,375
+Brion?
+
+29
+00:08:55,333 --> 00:08:57,875
+Niski poziom tlenu.
+
+30
+00:09:03,666 --> 00:09:04,708
+Riya.
+
+31
+00:09:06,000 --> 00:09:06,875
+Nie!
+
+32
+00:09:08,333 --> 00:09:09,291
+Riya?
+
+33
+00:09:15,416 --> 00:09:16,250
+Pas.
+
+34
+00:09:17,291 --> 00:09:19,250
+Ktoś musi coś powiedzieć.
+
+35
+00:09:20,458 --> 00:09:21,583
+A może...
+
+36
+00:09:22,833 --> 00:09:26,291
+A może: „Będziemy tu prosperować”.
+
+37
+00:09:27,333 --> 00:09:29,250
+- Co?
+- Jasne.
+
+38
+00:09:29,333 --> 00:09:31,083
+- „Będziemy tu prosperować”?
+- Nie?
+
+39
+00:09:31,208 --> 00:09:33,875
+Co to w ogóle znaczy? Jesteś królową?
+
+40
+00:09:33,958 --> 00:09:36,416
+- To ładne zdanie.
+- Czyli nudne w chuj.
+
+41
+00:09:36,500 --> 00:09:38,208
+Dobra, ludzie. Proszę.
+
+42
+00:09:38,958 --> 00:09:42,541
+Na cześć naszego przyjaciela na orbicie,
+pięć pysznych porcji
+
+43
+00:09:42,625 --> 00:09:44,333
+- gotowanej fasoli Briona.
+- Daj.
+
+44
+00:09:44,416 --> 00:09:45,250
+Stuknij.
+
+45
+00:09:46,000 --> 00:09:47,083
+Za Briona.
+
+46
+00:09:47,291 --> 00:09:48,291
+Za Briona.
+
+47
+00:09:48,375 --> 00:09:49,375
+Za Briona.
+
+48
+00:09:50,291 --> 00:09:51,416
+Clarke...
+
+49
+00:09:52,416 --> 00:09:54,125
+Masz lepszy pomysł?
+
+50
+00:09:54,208 --> 00:09:57,041
+Tak. Spytaj Riyę.
+
+51
+00:09:57,708 --> 00:09:59,916
+Możliwe, że wyjdzie jako pierwsza.
+
+52
+00:10:00,916 --> 00:10:01,791
+Tak?
+
+53
+00:10:02,625 --> 00:10:04,708
+- Na mnie nie patrz.
+- Daj spokój, Davis.
+
+54
+00:10:04,791 --> 00:10:07,375
+- A ty, kapitanie?
+- Właśnie. Dawaj.
+
+55
+00:10:07,458 --> 00:10:09,458
+Powinniśmy skupić się na misji.
+
+56
+00:10:10,375 --> 00:10:11,375
+Co za gość.
+
+57
+00:10:11,458 --> 00:10:12,833
+Kapitan Sayed Adhi.
+
+58
+00:10:12,916 --> 00:10:16,500
+Pierwszy człowiek,
+który stanął na planecie KOI-442.
+
+59
+00:10:16,583 --> 00:10:18,791
+Jego słynne pierwsze słowa to...
+
+60
+00:10:22,416 --> 00:10:23,500
+- Ludzie.
+- Pycha.
+
+61
+00:10:25,250 --> 00:10:26,916
+- Cholera.
+- Ostre.
+
+62
+00:10:27,000 --> 00:10:28,291
+A jak to będziesz ty?
+
+63
+00:10:29,833 --> 00:10:32,375
+Co powiesz? Twój „mały krok”.
+
+64
+00:10:32,750 --> 00:10:33,833
+No dawaj.
+
+65
+00:10:35,083 --> 00:10:37,208
+Myślicie, że niedługo wyjdziemy?
+
+66
+00:10:37,541 --> 00:10:38,666
+Pewnie tak.
+
+67
+00:10:39,208 --> 00:10:41,166
+Ta planeta...
+
+68
+00:10:41,500 --> 00:10:44,375
+Atmosfera jest już prawie zdatna
+do oddychania.
+
+69
+00:10:44,750 --> 00:10:50,250
+Zdziwiłbym się,
+gdyby inni odkryli coś podobnego.
+
+70
+00:10:53,875 --> 00:10:55,208
+Wiem, co kombinujesz.
+
+71
+00:10:55,500 --> 00:10:57,458
+- To, co zawsze?
+- Nie.
+
+72
+00:10:57,833 --> 00:10:58,833
+Dobra jest.
+
+73
+00:10:58,916 --> 00:11:00,750
+- Unika odpowiedzi.
+- Jasne.
+
+74
+00:11:00,833 --> 00:11:03,625
+Riya.
+
+75
+00:11:03,708 --> 00:11:06,791
+Dobra.
+
+76
+00:11:06,875 --> 00:11:08,791
+Dobra. Boże, nienawidzę was.
+
+77
+00:11:08,875 --> 00:11:10,000
+Kochasz nas.
+
+78
+00:11:10,708 --> 00:11:12,958
+- Dobra.
+- Dawaj.
+
+79
+00:11:13,916 --> 00:11:14,750
+Tak.
+
+80
+00:11:16,375 --> 00:11:18,500
+Myślę.
+
+81
+00:11:21,250 --> 00:11:22,083
+A może...
+
+82
+00:11:23,625 --> 00:11:25,041
+„Tym razem nie zjebmy”?
+
+83
+00:11:28,166 --> 00:11:29,166
+No co?
+
+84
+00:11:29,958 --> 00:11:30,958
+To dołujące.
+
+85
+00:11:31,041 --> 00:11:32,708
+Oj weź. Nie mam na to ochoty.
+
+86
+00:11:32,791 --> 00:11:33,833
+Zdrówko.
+
+87
+00:12:43,291 --> 00:12:44,791
+Kim jestem?
+
+88
+00:14:35,625 --> 00:14:37,333
+„Nasycenie tlenem.
+
+89
+00:14:39,041 --> 00:14:40,291
+Ciśnienie w kabinie”.
+
+90
+00:14:58,791 --> 00:15:01,625
+Wykryto ruch w Strefie Pierwszej.
+
+91
+00:15:01,958 --> 00:15:04,000
+Śluza zewnętrzna.
+
+92
+00:15:26,375 --> 00:15:29,541
+Wykryto ruch w Strefie Pierwszej.
+
+93
+00:15:29,625 --> 00:15:31,500
+Śluza zewnętrzna.
+
+94
+00:16:10,500 --> 00:16:11,583
+Hej!
+
+95
+00:16:13,875 --> 00:16:16,541
+- Kim jesteś?
+- Riya, co jest, kurwa?
+
+96
+00:16:27,708 --> 00:16:30,000
+To ja. Brion.
+
+97
+00:16:31,083 --> 00:16:32,458
+Brion Cargyle.
+
+98
+00:16:33,458 --> 00:16:35,333
+Patrz.
+
+99
+00:16:35,958 --> 00:16:37,333
+Jestem z 7F.
+
+100
+00:16:37,416 --> 00:16:39,750
+Należymy do tej samej załogi.
+
+101
+00:16:40,875 --> 00:16:42,750
+Prowadzę obserwacje z orbity.
+
+102
+00:16:46,333 --> 00:16:48,458
+- Brion?
+- Zgadza się.
+
+103
+00:16:49,166 --> 00:16:50,000
+Brion.
+
+104
+00:16:51,416 --> 00:16:53,083
+„Gotowana fasola Briona”.
+
+105
+00:16:56,041 --> 00:16:57,291
+Gotowana fasola.
+
+106
+00:16:57,375 --> 00:16:59,458
+Tak. To ja.
+
+107
+00:17:02,625 --> 00:17:04,166
+Wezwałaś mnie na pomoc.
+
+108
+00:17:05,000 --> 00:17:06,000
+Wysłałaś SOS.
+
+109
+00:17:06,583 --> 00:17:09,500
+Powiedziałaś,
+że Clarke ma załamanie nerwowe
+
+110
+00:17:10,208 --> 00:17:11,291
+i atakuje załogę.
+
+111
+00:17:13,791 --> 00:17:15,625
+Ona ci to zrobiła?
+
+112
+00:17:17,916 --> 00:17:19,166
+Davisowi też?
+
+113
+00:17:28,000 --> 00:17:29,041
+Przepraszam.
+
+114
+00:17:36,541 --> 00:17:40,916
+Gdy się obudziłam, było już po wszystkim.
+
+115
+00:17:45,500 --> 00:17:47,833
+Jak to po wszystkim?
+
+116
+00:17:58,333 --> 00:17:59,666
+Co pamiętasz?
+
+117
+00:18:05,250 --> 00:18:09,500
+Pojedyncze chwile, obrazy.
+
+118
+00:18:12,458 --> 00:18:16,291
+Atak jakiejś kobiety. Ja...
+
+119
+00:18:16,375 --> 00:18:17,208
+Clarke?
+
+120
+00:18:19,416 --> 00:18:20,875
+Wiesz, gdzie może być?
+
+121
+00:18:24,791 --> 00:18:26,916
+Nie. Gdy się ocknęłam, byłam sama.
+
+122
+00:18:28,416 --> 00:18:29,625
+Tylko tyle pamiętasz?
+
+123
+00:18:34,625 --> 00:18:35,875
+Wybacz, ja...
+
+124
+00:18:39,250 --> 00:18:41,208
+To mnie przytłacza.
+
+125
+00:18:46,375 --> 00:18:47,791
+Nie wiem, gdzie jestem.
+
+126
+00:18:51,208 --> 00:18:52,666
+Ani kim jestem.
+
+127
+00:19:05,333 --> 00:19:06,333
+Zaczekaj.
+
+128
+00:20:05,000 --> 00:20:06,291
+M.D.S. BOT
+MOBILNA DIAGNOSTYKA I LECZENIE
+
+129
+00:20:06,375 --> 00:20:07,416
+Medbot wita.
+
+130
+00:20:07,500 --> 00:20:09,791
+- Tak.
+- Wspomniałeś o 7F.
+
+131
+00:20:11,333 --> 00:20:12,375
+Co to znaczy?
+
+132
+00:20:13,125 --> 00:20:14,250
+Misja i statek.
+
+133
+00:20:17,708 --> 00:20:18,833
+Misja i statek.
+
+134
+00:20:22,583 --> 00:20:23,541
+Chwila.
+
+135
+00:20:28,208 --> 00:20:29,833
+Nie pamiętasz Ziemi?
+
+136
+00:20:31,166 --> 00:20:32,125
+Ani trochę?
+
+137
+00:20:37,916 --> 00:20:38,833
+Nie.
+
+138
+00:20:50,083 --> 00:20:52,291
+Medbot skanuje.
+
+139
+00:20:52,583 --> 00:20:56,208
+- Proszę zachować spokój. Dziękuję.
+- Nie udało się sześć misji.
+
+140
+00:20:57,916 --> 00:20:59,541
+Siódma to ostatnia nadzieja.
+
+141
+00:21:00,166 --> 00:21:02,583
+Pół tuzina statków w całej galaktyce
+
+142
+00:21:03,250 --> 00:21:05,833
+celuje w możliwe do zamieszkania planety.
+
+143
+00:21:07,250 --> 00:21:09,291
+Misja siódma, statek F.
+
+144
+00:21:10,416 --> 00:21:11,708
+To właśnie my.
+
+145
+00:21:12,291 --> 00:21:18,250
+Mamy zaszczyt nazwać KOI-442 naszym domem.
+
+146
+00:21:21,000 --> 00:21:24,625
+Albo Ash, jak mawiał Kev.
+
+147
+00:21:28,375 --> 00:21:31,083
+Już dobrze.
+
+148
+00:21:31,166 --> 00:21:33,666
+Wiem, że to dziwne, ale zachowaj spokój.
+
+149
+00:21:34,583 --> 00:21:35,666
+W porządku?
+
+150
+00:21:36,833 --> 00:21:39,166
+Tak.
+
+151
+00:21:45,500 --> 00:21:47,625
+Jak udało ci się pozostać na orbicie?
+
+152
+00:21:48,291 --> 00:21:50,958
+Tak to działa,
+przynajmniej przez pierwszy rok.
+
+153
+00:21:51,041 --> 00:21:54,791
+Jedna osoba musi tam zostać,
+by nawiązać łączność z bazą.
+
+154
+00:21:54,875 --> 00:21:57,333
+Albo na wszelki wypadek.
+
+155
+00:21:58,833 --> 00:22:02,333
+Chyba cię widziałam. Blask na niebie.
+
+156
+00:22:02,916 --> 00:22:04,333
+To orbita?
+
+157
+00:22:04,416 --> 00:22:05,708
+Tak jest.
+
+158
+00:22:07,166 --> 00:22:08,666
+Co parę dni jestem nad wami.
+
+159
+00:22:09,291 --> 00:22:11,291
+Rozpoczynam kolejny etap.
+
+160
+00:22:11,375 --> 00:22:12,958
+Proszę zachować spokój.
+
+161
+00:22:18,583 --> 00:22:21,250
+Dziękuję za korzystanie z Medbota.
+
+162
+00:22:26,250 --> 00:22:29,583
+Miałaś ostatnio gorączkę?
+
+163
+00:22:31,000 --> 00:22:33,916
+Tak, tuż przed twoim przybyciem.
+
+164
+00:22:34,458 --> 00:22:38,083
+Znalazłam jakiś plaster w apteczce
+i go sobie przykleiłam.
+
+165
+00:22:39,375 --> 00:22:40,375
+Dobra.
+
+166
+00:22:40,750 --> 00:22:41,750
+Gotowe.
+
+167
+00:22:45,875 --> 00:22:47,041
+Coś poważnego?
+
+168
+00:22:48,166 --> 00:22:49,250
+Nie.
+
+169
+00:22:49,583 --> 00:22:53,416
+Ale masz obrzęk mózgu.
+Prawdopodobnie spowodowany uderzeniem.
+
+170
+00:22:54,166 --> 00:22:56,166
+Gorączka, utrata pamięci.
+
+171
+00:22:56,666 --> 00:22:59,333
+To skutki uboczne obrzęku.
+
+172
+00:23:01,208 --> 00:23:04,958
+Ale w końcu
+wszystko sobie przypomnę, prawda?
+
+173
+00:23:05,041 --> 00:23:07,083
+Zachowałaś pamięć techniczną.
+
+174
+00:23:07,166 --> 00:23:09,041
+Wciąż masz swoje umiejętności.
+
+175
+00:23:09,125 --> 00:23:10,666
+Nie...
+
+176
+00:23:11,416 --> 00:23:12,250
+To znaczy...
+
+177
+00:23:14,208 --> 00:23:15,041
+o mnie.
+
+178
+00:23:17,041 --> 00:23:18,041
+Kim jestem?
+
+179
+00:23:20,916 --> 00:23:22,375
+I co tu się stało?
+
+180
+00:23:27,416 --> 00:23:28,666
+Nie wiem.
+
+181
+00:23:30,125 --> 00:23:31,125
+Przykro mi.
+
+182
+00:23:50,791 --> 00:23:52,666
+Jakiś czas temu, w drodze tutaj,
+
+183
+00:23:53,041 --> 00:23:55,958
+rozmawialiśmy o tym, dlaczego tu jesteśmy.
+
+184
+00:23:57,000 --> 00:23:59,416
+Mówiłaś w taki sposób,
+
+185
+00:23:59,958 --> 00:24:02,125
+jakby nie chodziło o poświęcenie,
+
+186
+00:24:02,833 --> 00:24:05,125
+a o znalezienie odpowiedzi.
+
+187
+00:24:06,541 --> 00:24:09,708
+Jakby to, co tam było, ci nie wystarczało.
+
+188
+00:24:11,083 --> 00:24:13,875
+Nie pamiętasz, kim jesteś,
+
+189
+00:24:14,916 --> 00:24:17,500
+a jednak wciąż jesteś taka sama.
+
+190
+00:24:20,333 --> 00:24:21,250
+Odpocznij.
+
+191
+00:26:17,458 --> 00:26:18,708
+Na co tak patrzysz?
+
+192
+00:26:22,291 --> 00:26:24,666
+Nie wyobrażam sobie,
+że ona gdzieś tam jest.
+
+193
+00:26:25,291 --> 00:26:28,416
+Jeśli tak, to kończy jej się tlen.
+
+194
+00:26:29,791 --> 00:26:31,875
+Może znalazła schronienie.
+
+195
+00:26:31,958 --> 00:26:33,791
+Burze piaskowe są tu groźne.
+
+196
+00:26:38,958 --> 00:26:40,333
+Może ją znajdziemy.
+
+197
+00:26:41,291 --> 00:26:42,708
+Widziałam gdzieś drona.
+
+198
+00:26:43,333 --> 00:26:45,333
+I jak chcesz go pilotować?
+
+199
+00:26:45,708 --> 00:26:46,708
+No tak.
+
+200
+00:26:47,541 --> 00:26:48,625
+Cholera.
+
+201
+00:26:49,083 --> 00:26:50,458
+A jeśli potrzebuje pomocy?
+
+202
+00:26:50,833 --> 00:26:53,708
+Może zaraziła się czymś na zewnątrz.
+
+203
+00:26:54,708 --> 00:26:56,833
+Oszalała i wszystkich zabiła.
+
+204
+00:26:58,000 --> 00:26:59,583
+Nie myślmy o Clarke.
+
+205
+00:27:00,875 --> 00:27:03,083
+Stacja jest na zasilaniu rezerwowym.
+
+206
+00:27:03,583 --> 00:27:05,875
+Działają tylko podstawowe systemy.
+
+207
+00:27:07,083 --> 00:27:08,541
+Kończy nam się tlen.
+
+208
+00:27:10,166 --> 00:27:11,666
+To jaki jest plan?
+
+209
+00:27:11,750 --> 00:27:15,416
+Musimy jak najszybciej opuścić tę planetę.
+
+210
+00:27:15,833 --> 00:27:16,666
+Wszystko inne,
+
+211
+00:27:16,750 --> 00:27:19,666
+łącznie z próbą ustalenia,
+co tu się stało,
+
+212
+00:27:19,750 --> 00:27:21,166
+musi poczekać.
+
+213
+00:27:21,583 --> 00:27:22,791
+Nakreśl ogólny obraz.
+
+214
+00:27:23,291 --> 00:27:24,208
+Ogólny obraz?
+
+215
+00:27:24,291 --> 00:27:28,041
+Najpierw trzeba wrócić na orbitę,
+co nie będzie łatwe.
+
+216
+00:27:28,125 --> 00:27:31,250
+Pozycja nasza i satelity
+muszą się idealnie zgrać.
+
+217
+00:27:31,333 --> 00:27:33,791
+Co nastąpi za 12 godzin.
+
+218
+00:27:35,208 --> 00:27:36,250
+Wszystko gra?
+
+219
+00:27:38,041 --> 00:27:38,958
+Tak.
+
+220
+00:27:40,375 --> 00:27:41,458
+Daj mi chwilę.
+
+221
+00:27:57,083 --> 00:27:57,958
+Riya?
+
+222
+00:27:58,916 --> 00:27:59,916
+Riya?
+
+223
+00:28:04,500 --> 00:28:05,791
+Kurwa!
+
+224
+00:28:12,875 --> 00:28:14,000
+Wszystko gra?
+
+225
+00:28:15,333 --> 00:28:16,875
+Tak, w porządku.
+
+226
+00:28:18,541 --> 00:28:19,833
+Nie wydaje mi się.
+
+227
+00:28:20,125 --> 00:28:21,416
+Nic mi nie jest.
+
+228
+00:28:22,166 --> 00:28:23,541
+Jestem tylko zmęczona.
+
+229
+00:28:23,625 --> 00:28:25,041
+Nie wyspałam się.
+
+230
+00:28:27,000 --> 00:28:29,458
+Twój plaster przestaje działać.
+Jak chcesz...
+
+231
+00:28:29,541 --> 00:28:31,625
+Daj mi, kurwa, trochę spokoju.
+
+232
+00:28:40,375 --> 00:28:41,500
+Przepraszam.
+
+233
+00:28:42,958 --> 00:28:44,333
+Jestem zmęczona.
+
+234
+00:30:10,666 --> 00:30:12,000
+Co się dzieje?
+
+235
+00:30:15,375 --> 00:30:16,833
+Co jest?
+
+236
+00:30:49,125 --> 00:30:50,541
+Przepraszam za wcześniej.
+
+237
+00:30:53,208 --> 00:30:55,750
+Spoko, rozumiem.
+
+238
+00:30:57,041 --> 00:31:00,541
+Babramy się w kosmicznym gównie.
+
+239
+00:31:05,166 --> 00:31:08,666
+Wiesz, coś sobie przypomniałam.
+
+240
+00:31:10,833 --> 00:31:11,791
+Tak?
+
+241
+00:31:12,958 --> 00:31:13,875
+Co takiego?
+
+242
+00:31:20,041 --> 00:31:21,333
+Chodzi o Keva?
+
+243
+00:31:26,625 --> 00:31:27,541
+Tak.
+
+244
+00:31:29,625 --> 00:31:31,041
+Ale czy to na pewno prawda?
+
+245
+00:31:33,291 --> 00:31:35,416
+Jeśli mówisz o tym, że coś...
+
+246
+00:31:37,416 --> 00:31:40,958
+między wami było, to tak.
+
+247
+00:31:48,958 --> 00:31:51,666
+Stacja jest przystosowana
+do gorszych warunków.
+
+248
+00:31:54,000 --> 00:31:56,708
+Awaria. Krytyczny poziom tlenu.
+
+249
+00:32:05,666 --> 00:32:08,333
+Awaria. Krytyczny poziom tlenu.
+
+250
+00:32:09,208 --> 00:32:10,208
+Gdzie to jest?
+
+251
+00:32:11,041 --> 00:32:13,666
+Musi być tu jakaś dziura.
+
+252
+00:32:13,750 --> 00:32:14,916
+ODLEGŁOŚĆ OD MIEJSCA WYCIEKU TLENU: 52 M
+POZIOM TLENU - RIYA ORTIZ
+
+253
+00:32:16,333 --> 00:32:17,541
+Brion, tutaj.
+
+254
+00:32:23,791 --> 00:32:24,625
+POZIOM TLENU: 81%
+
+255
+00:32:24,708 --> 00:32:25,708
+- Otwarte?
+- Szlag.
+
+256
+00:32:25,791 --> 00:32:28,083
+Niska saturacja krwi.
+
+257
+00:32:30,791 --> 00:32:32,125
+Ile mamy czasu?
+
+258
+00:32:32,583 --> 00:32:33,416
+AKUMULATOR
+
+259
+00:32:33,500 --> 00:32:36,250
+Minuta awarii
+kosztuje nas dziesięć godzin powietrza.
+
+260
+00:32:39,541 --> 00:32:41,083
+Dobra, wchodzę.
+
+261
+00:32:41,166 --> 00:32:43,083
+Spadek ciśnienia nieunikniony.
+
+262
+00:32:43,708 --> 00:32:44,791
+Zacznę tutaj.
+
+263
+00:32:54,708 --> 00:32:56,125
+Strasznie ciasno.
+
+264
+00:32:57,416 --> 00:33:01,625
+Krytyczny poziom tlenu
+we wszystkich sektorach.
+
+265
+00:33:02,125 --> 00:33:03,416
+Ktoś tu był.
+
+266
+00:33:04,000 --> 00:33:06,875
+Pewnie próbował ręcznie naprawić system.
+
+267
+00:33:11,791 --> 00:33:13,458
+Saturacja 75%.
+
+268
+00:33:21,083 --> 00:33:22,333
+Coś słyszę.
+
+269
+00:33:30,166 --> 00:33:31,833
+Musi być tuż przed tobą.
+
+270
+00:33:32,125 --> 00:33:34,000
+Słyszę jakiś hałas z tyłu.
+
+271
+00:33:41,375 --> 00:33:42,541
+Co się dzieje?
+
+272
+00:33:44,416 --> 00:33:47,250
+Brion, muszę zdjąć sprzęt.
+
+273
+00:33:47,333 --> 00:33:48,541
+Jest za ciasno.
+
+274
+00:33:49,625 --> 00:33:50,625
+Byle szybko, Ri.
+
+275
+00:33:50,708 --> 00:33:52,958
+Wdychasz truciznę.
+
+276
+00:33:55,375 --> 00:33:56,375
+Riya?
+
+277
+00:34:27,416 --> 00:34:28,416
+Mam.
+
+278
+00:35:03,500 --> 00:35:04,583
+Dobra.
+
+279
+00:35:05,291 --> 00:35:07,833
+Więc zakładamy,
+
+280
+00:35:07,916 --> 00:35:11,666
+jeśli się nie mylę,
+Clarke weszła w kontakt
+
+281
+00:35:11,750 --> 00:35:13,750
+- z jakimś...
+- Patogenem. Tak.
+
+282
+00:35:13,833 --> 00:35:15,000
+Z zewnątrz.
+
+283
+00:35:15,083 --> 00:35:17,250
+I to wywołało załamanie?
+
+284
+00:35:20,958 --> 00:35:23,125
+Tak.
+
+285
+00:35:23,958 --> 00:35:27,125
+Dobra, więc może ta infekcja
+
+286
+00:35:28,333 --> 00:35:32,041
+ją zmienia. Jak wścieklizna.
+
+287
+00:35:32,125 --> 00:35:34,708
+Tak. Nie wiem. Może, ale...
+
+288
+00:35:37,166 --> 00:35:39,166
+Coś tu się nie zgadza.
+
+289
+00:35:39,250 --> 00:35:40,666
+I nie będzie.
+
+290
+00:35:41,166 --> 00:35:42,375
+Przez jakiś czas.
+
+291
+00:35:42,458 --> 00:35:44,833
+Wciąż brakuje nam informacji.
+
+292
+00:35:44,916 --> 00:35:45,958
+Znajdziemy je.
+
+293
+00:35:46,041 --> 00:35:48,625
+W ciągu najbliższych kilku dni, prawda?
+
+294
+00:35:52,083 --> 00:35:53,166
+Co?
+
+295
+00:35:54,041 --> 00:35:55,250
+No powiedz.
+
+296
+00:35:56,333 --> 00:35:59,083
+Właśnie straciliśmy 30% tlenu.
+
+297
+00:36:00,000 --> 00:36:03,833
+Nie mamy czasu na szukanie informacji.
+
+298
+00:36:03,916 --> 00:36:07,208
+Musimy wykorzystać okienko za pięć godzin.
+
+299
+00:36:07,541 --> 00:36:09,750
+Nie mamy żadnych odpowiedzi,
+a mnóstwo pytań.
+
+300
+00:36:09,833 --> 00:36:13,416
+Riya! Nie słuchasz mnie.
+
+301
+00:36:13,791 --> 00:36:16,250
+Jeśli dziś nie wyruszymy, zginiemy.
+
+302
+00:36:17,125 --> 00:36:18,708
+Jasne? Udusimy się.
+
+303
+00:36:19,416 --> 00:36:23,125
+A to wszystko pójdzie na marne.
+
+304
+00:36:25,208 --> 00:36:27,916
+Zostawimy tu Clarke?
+
+305
+00:36:28,000 --> 00:36:30,083
+Nie ma wyjścia, Ri.
+
+306
+00:36:30,708 --> 00:36:33,375
+Nie starczy nam czasu, rozumiesz?
+
+307
+00:36:33,458 --> 00:36:35,250
+Musimy dotrzeć do mojego lądownika,
+
+308
+00:36:35,333 --> 00:36:38,416
+a to zajmie przynajmniej 25 minut.
+
+309
+00:36:38,500 --> 00:36:41,666
+A nadal nie wiemy, co się z nią stało.
+
+310
+00:36:41,750 --> 00:36:44,125
+Nie jest warta ryzyka.
+
+311
+00:36:49,000 --> 00:36:51,750
+Dobrze.
+
+312
+00:36:51,833 --> 00:36:52,833
+Hej.
+
+313
+00:36:54,958 --> 00:36:57,958
+Riya, rozgryziemy to, obiecuję.
+
+314
+00:37:01,750 --> 00:37:02,791
+Jest okej?
+
+315
+00:37:05,083 --> 00:37:06,500
+Tak.
+
+316
+00:37:12,291 --> 00:37:15,666
+„Czasami chciałbym zamknąć oczy
+i wrócić na Ziemię.
+
+317
+00:37:17,208 --> 00:37:19,541
+Ale tutaj jest nowy początek,
+
+318
+00:37:20,291 --> 00:37:22,375
+a nie wizja cieni z przeszłości.
+
+319
+00:37:24,291 --> 00:37:25,916
+W końcu dotarliśmy do celu”.
+
+320
+00:39:41,458 --> 00:39:42,750
+Riya?
+
+321
+00:39:44,541 --> 00:39:45,666
+To boli.
+
+322
+00:40:50,500 --> 00:40:52,125
+M.D.S. BOT
+MOBILNA DIAGNOSTYKA I LECZENIE
+
+323
+00:40:52,833 --> 00:40:54,708
+DRON RPA332X
+URUCHAMIANIE
+
+324
+00:40:55,250 --> 00:40:56,541
+WYBIERZ OPCJĘ
+
+325
+00:41:00,458 --> 00:41:01,625
+ODTWÓRZ NAGRANIE
+
+326
+00:41:03,416 --> 00:41:06,916
+Wiem, że wiele tu nie ma,
+ale nie tęsknię za Ziemią.
+
+327
+00:41:08,125 --> 00:41:09,083
+Tu jest super.
+
+328
+00:41:09,541 --> 00:41:11,708
+Za pizzę odleciałbyś w sekundę.
+
+329
+00:41:12,916 --> 00:41:13,875
+Racja.
+
+330
+00:41:14,708 --> 00:41:16,916
+Chyba nie przywyknę do tego widoku.
+
+331
+00:41:17,708 --> 00:41:20,083
+A ja lubię twój widok w tym kombinezonie.
+
+332
+00:41:20,166 --> 00:41:21,125
+Bełt.
+
+333
+00:41:21,208 --> 00:41:22,375
+Już to widziałeś.
+
+334
+00:41:23,250 --> 00:41:25,666
+- Zamknij się.
+- Mamy pokój obok was.
+
+335
+00:41:25,750 --> 00:41:28,041
+- Wiem!
+- Przestańcie.
+
+336
+00:41:28,125 --> 00:41:29,541
+Te odgłosy.
+
+337
+00:41:29,625 --> 00:41:31,375
+Ludzie, skupcie się.
+
+338
+00:41:31,458 --> 00:41:32,666
+Nie panują nad sobą.
+
+339
+00:41:34,541 --> 00:41:35,541
+To okropne.
+
+340
+00:41:35,625 --> 00:41:37,750
+Chyba się zbliżamy. Musi tu być.
+
+341
+00:41:37,833 --> 00:41:40,500
+Na pewno? Bo jak nie, to robisz kolację.
+
+342
+00:41:40,583 --> 00:41:43,791
+- Wykluczone.
+- Proszę, nie.
+
+343
+00:41:43,875 --> 00:41:44,833
+Chcesz jeść śmieci?
+
+344
+00:41:44,916 --> 00:41:47,500
+Co wy gadacie? Mamy tylko fasolę i ryż.
+
+345
+00:41:47,583 --> 00:41:49,208
+Nie tknę już tego gówna.
+
+346
+00:41:49,500 --> 00:41:50,916
+Chyba jesteśmy na miejscu.
+
+347
+00:41:51,625 --> 00:41:54,625
+To właśnie tutaj
+Brion namierzył źródło emisji.
+
+348
+00:41:54,708 --> 00:41:55,625
+Serio?
+
+349
+00:41:55,791 --> 00:41:56,916
+Za skałami.
+
+350
+00:41:58,000 --> 00:41:59,708
+- Na pewno?
+- Tak.
+
+351
+00:42:00,416 --> 00:42:01,583
+Dasz wiarę?
+
+352
+00:42:01,666 --> 00:42:03,625
+- Patrzcie.
+- To jakiś odlot.
+
+353
+00:42:04,791 --> 00:42:05,833
+Boże.
+
+354
+00:42:05,916 --> 00:42:07,375
+Kevin.
+
+355
+00:42:08,041 --> 00:42:09,291
+Stary, wiedziałem.
+
+356
+00:42:09,375 --> 00:42:10,541
+Mieli rację.
+
+357
+00:42:10,916 --> 00:42:12,458
+To ręczna robota.
+
+358
+00:42:12,791 --> 00:42:14,000
+Niesamowite.
+
+359
+00:42:14,250 --> 00:42:16,291
+Wytworzyli całą atmosferę.
+
+360
+00:42:16,375 --> 00:42:17,666
+Udało im się.
+
+361
+00:42:18,291 --> 00:42:19,541
+Ile ich jest?
+
+362
+00:42:19,625 --> 00:42:20,875
+Na całej planecie?
+
+363
+00:42:20,958 --> 00:42:22,666
+Dziesiątki, setki, może więcej.
+
+364
+00:42:22,750 --> 00:42:24,791
+Przynajmniej według obserwacji Briona.
+
+365
+00:42:24,875 --> 00:42:25,708
+Sygnatury emisji
+
+366
+00:42:25,791 --> 00:42:28,250
+są nieco rozproszone,
+zanim dotrą na orbitę.
+
+367
+00:42:28,333 --> 00:42:31,083
+Tak jest. Udało nam się!
+
+368
+00:42:32,208 --> 00:42:33,583
+Tak jest!
+
+369
+00:42:33,916 --> 00:42:35,083
+Jaka głębokość?
+
+370
+00:42:35,833 --> 00:42:37,250
+Zaraz się dowiem.
+
+371
+00:42:40,541 --> 00:42:42,458
+Tylko ostrożnie.
+
+372
+00:42:42,541 --> 00:42:44,625
+Dam sobie radę.
+
+373
+00:42:49,833 --> 00:42:51,916
+Raz, dwa,
+
+374
+00:42:52,000 --> 00:42:56,125
+trzy, cztery, pięć.
+
+375
+00:43:02,583 --> 00:43:04,000
+Chwila, chyba widzę...
+
+376
+00:43:07,791 --> 00:43:08,791
+Davis!
+
+377
+00:43:11,625 --> 00:43:14,208
+Nie! Boże! Uważaj, Clarke!
+
+378
+00:43:24,125 --> 00:43:25,333
+Musimy uciekać!
+
+379
+00:43:26,208 --> 00:43:28,583
+- Uciekajmy!
+- Mój Boże!
+
+380
+00:43:41,375 --> 00:43:42,333
+Co to?
+
+381
+00:43:45,958 --> 00:43:46,791
+Wiedziałeś.
+
+382
+00:43:48,333 --> 00:43:49,708
+O czym ty gadasz?
+
+383
+00:44:01,958 --> 00:44:03,416
+Potrafisz to wyjaśnić, nie?
+
+384
+00:44:04,583 --> 00:44:07,250
+Nie miałem o tym pojęcia.
+
+385
+00:44:08,291 --> 00:44:09,291
+Nie byłem pewien.
+
+386
+00:44:10,333 --> 00:44:13,625
+Wiedziałem, że ruszyliście na misję,
+ale zerwało łączność.
+
+387
+00:44:14,125 --> 00:44:16,000
+Z całą stacją.
+
+388
+00:44:16,083 --> 00:44:18,625
+Nie wiedziałem, że Davis w ten sposób...
+
+389
+00:44:18,708 --> 00:44:20,625
+Wiedziałeś, czemu wyszliśmy.
+
+390
+00:44:22,083 --> 00:44:23,166
+Wiedziałeś.
+
+391
+00:44:23,916 --> 00:44:26,166
+Kevin mówi o tym na nagraniu.
+
+392
+00:44:29,833 --> 00:44:32,541
+Patrzyłeś, jak wracam do punktu wyjścia,
+
+393
+00:44:32,625 --> 00:44:36,125
+próbując rozszyfrować to,
+co się stało z Kevinem,
+
+394
+00:44:36,208 --> 00:44:38,541
+Clarke, Adhim i Davisem.
+
+395
+00:44:38,625 --> 00:44:40,625
+Zaczęło mi odpierdalać,
+
+396
+00:44:40,708 --> 00:44:43,458
+a ty wiedziałeś,
+że planeta jest terraformowana.
+
+397
+00:44:43,541 --> 00:44:45,958
+Pojawiło się okienko do przylotu.
+
+398
+00:44:46,041 --> 00:44:48,041
+Miałem wypełnić misję,
+
+399
+00:44:48,125 --> 00:44:50,083
+a jedynym na to sposobem
+
+400
+00:44:50,166 --> 00:44:53,750
+- było kontrolowanie sytuacji...
+- Kontrolowanie mnie!
+
+401
+00:44:53,833 --> 00:44:56,583
+Bo cię znam. Wiem, jaka jesteś.
+
+402
+00:44:58,166 --> 00:45:01,458
+Może straciłaś pamięć,
+ale nic się nie zmieniłaś.
+
+403
+00:45:02,375 --> 00:45:04,833
+Czemu nie możesz odpuścić? Choć raz.
+
+404
+00:45:05,666 --> 00:45:09,083
+Raz! Żebyśmy dotarli na górę
+i byli bezpieczni.
+
+405
+00:45:13,291 --> 00:45:14,541
+Bo to ja ich zabiłam.
+
+406
+00:45:15,916 --> 00:45:16,958
+Co?
+
+407
+00:45:18,291 --> 00:45:19,625
+Co ty...
+
+408
+00:45:20,916 --> 00:45:22,083
+Zabiłam Keva.
+
+409
+00:45:25,041 --> 00:45:28,916
+I Adhiego. I nie wiem...
+
+410
+00:45:35,750 --> 00:45:37,208
+Nie wiem czemu.
+
+411
+00:45:39,041 --> 00:45:39,875
+Nie wiem.
+
+412
+00:45:41,208 --> 00:45:42,083
+Po prostu...
+
+413
+00:45:47,500 --> 00:45:49,625
+Jeśli opuścimy stację, już się nie dowiem.
+
+414
+00:45:50,875 --> 00:45:54,916
+A muszę się dowiedzieć, Brion.
+Nie mogę odlecieć.
+
+415
+00:45:55,000 --> 00:45:56,250
+Ri.
+
+416
+00:45:57,416 --> 00:45:58,750
+Co ty mówisz?
+
+417
+00:46:00,458 --> 00:46:04,083
+Nie wiem, czemu to zrobiłam.
+
+418
+00:46:07,750 --> 00:46:08,958
+Te plastry...
+
+419
+00:46:12,500 --> 00:46:15,625
+Gdy słabną, pojawia się więcej wspomnień.
+
+420
+00:46:15,708 --> 00:46:17,833
+Zaczynam sobie wszystko przypominać.
+
+421
+00:46:17,916 --> 00:46:22,708
+Poczekajmy jeszcze dwie godziny.
+Pamięć mi wraca.
+
+422
+00:46:22,791 --> 00:46:23,833
+Nie ma mowy.
+
+423
+00:46:23,916 --> 00:46:27,625
+- Czemu nie?
+- Bo ci nie ufam! Jasne?
+
+424
+00:46:35,583 --> 00:46:36,958
+Słuchaj.
+
+425
+00:46:37,041 --> 00:46:39,875
+Ufam ci,
+
+426
+00:46:39,958 --> 00:46:44,208
+ale nie znam osoby, która to zrobiła.
+
+427
+00:46:44,291 --> 00:46:48,500
+Nie wiem, kim byś się stała,
+gdybyś przestała ich używać.
+
+428
+00:46:53,666 --> 00:46:55,875
+Więc odlecimy i...
+
+429
+00:46:57,125 --> 00:47:01,125
+A co, jeśli sobie nie przypomnę?
+
+430
+00:47:01,208 --> 00:47:02,916
+To nie będziesz pamiętać.
+
+431
+00:47:03,666 --> 00:47:05,750
+I będziesz z tym żyć.
+
+432
+00:47:09,166 --> 00:47:12,083
+Riya, posłuchaj mnie.
+
+433
+00:47:13,375 --> 00:47:16,875
+Mamy wspólny cel.
+
+434
+00:47:18,291 --> 00:47:19,291
+Jasne?
+
+435
+00:47:19,916 --> 00:47:24,166
+Nie bez powodu poświęciliśmy
+życie na Ziemi, by tu przylecieć.
+
+436
+00:47:24,916 --> 00:47:28,833
+Tu chodzi o nasz gatunek.
+
+437
+00:47:30,666 --> 00:47:33,208
+O szerszą perspektywę.
+
+438
+00:47:33,291 --> 00:47:38,083
+Odkryliśmy dowód
+na istnienie obcej inteligencji.
+
+439
+00:47:38,166 --> 00:47:42,083
+Opracowali technologię
+terraformacji planet.
+
+440
+00:47:43,875 --> 00:47:48,041
+To może zmienić los naszej egzystencji.
+
+441
+00:47:49,500 --> 00:47:54,125
+Naszym priorytetem
+musi być wypełnienie misji.
+
+442
+00:47:57,541 --> 00:47:58,750
+Rozumiesz?
+
+443
+00:48:02,041 --> 00:48:06,250
+Riya, powiedz, że rozumiesz.
+
+444
+00:48:41,875 --> 00:48:45,583
+Chcę się tylko upewnić, że wszystko gra.
+
+445
+00:48:46,000 --> 00:48:47,750
+Tak. Szykuję się.
+
+446
+00:48:48,125 --> 00:48:49,375
+Kiedy okienko?
+
+447
+00:48:49,875 --> 00:48:52,750
+Lądownik wystartuje
+za dwie godziny i 39 minut.
+
+448
+00:48:53,458 --> 00:48:54,958
+To parę kilometrów na wschód.
+
+449
+00:48:59,541 --> 00:49:00,583
+Użyłaś plastra?
+
+450
+00:49:04,416 --> 00:49:05,291
+Tak.
+
+451
+00:49:07,125 --> 00:49:08,708
+Jakieś pół godziny temu.
+
+452
+00:49:09,416 --> 00:49:10,375
+Wystarczy?
+
+453
+00:49:12,125 --> 00:49:14,125
+Mówiłaś, że są coraz mniej skuteczne.
+
+454
+00:49:20,250 --> 00:49:21,125
+No już.
+
+455
+00:49:31,750 --> 00:49:32,666
+Gotowe.
+
+456
+00:49:34,458 --> 00:49:35,625
+Jak nowa.
+
+457
+00:49:45,041 --> 00:49:46,750
+Przyjdę po ciebie, gdy już...
+
+458
+00:50:08,458 --> 00:50:09,375
+Brion, ja...
+
+459
+00:50:17,833 --> 00:50:19,000
+Adhi, nie.
+
+460
+00:50:25,791 --> 00:50:26,708
+Nie!
+
+461
+00:50:40,375 --> 00:50:41,833
+Adhi, nie.
+
+462
+00:50:43,083 --> 00:50:43,958
+Przestań!
+
+463
+00:52:26,750 --> 00:52:27,583
+Brion?
+
+464
+00:52:35,041 --> 00:52:36,041
+Brion?
+
+465
+00:52:39,125 --> 00:52:40,458
+To nie tylko Clarke.
+
+466
+00:52:41,375 --> 00:52:42,541
+Wszyscy byli zarażeni.
+
+467
+00:53:28,500 --> 00:53:29,375
+Brion.
+
+468
+00:55:19,333 --> 00:55:21,041
+Medbot wita.
+
+469
+00:55:30,791 --> 00:55:34,708
+Medbot skanuje. Proszę zachować spokój.
+
+470
+00:55:40,000 --> 00:55:43,250
+SEKCJA ZWŁOK W TOKU
+
+471
+00:55:50,083 --> 00:55:52,250
+Skan zakończony.
+
+472
+00:56:02,625 --> 00:56:04,041
+SEKCJA ZWŁOK ZAKOŃCZONA
+
+473
+00:56:04,125 --> 00:56:06,125
+PRZYCZYNA ŚMIERCI: UTONIĘCIE
+CZAS ZGONU: 18 GODZIN TEMU
+
+474
+00:56:06,541 --> 00:56:07,375
+Co?
+
+475
+00:56:08,500 --> 00:56:09,333
+Nie.
+
+476
+00:56:15,500 --> 00:56:18,333
+Nie. Musi być coś jeszcze.
+
+477
+00:56:21,458 --> 00:56:22,458
+Kurwa!
+
+478
+00:56:24,541 --> 00:56:27,291
+NIE WYKRYTO INFEKCJI
+
+479
+00:56:38,541 --> 00:56:41,208
+Możliwy wylot na orbitę.
+
+480
+00:56:42,583 --> 00:56:45,333
+Możliwy wylot na orbitę.
+
+481
+00:58:36,458 --> 00:58:37,416
+No dalej.
+
+482
+00:58:39,666 --> 00:58:40,500
+Nie.
+
+483
+00:58:42,875 --> 00:58:43,791
+Dalej.
+
+484
+00:58:45,166 --> 00:58:47,833
+Kurwa!
+
+485
+00:59:28,708 --> 00:59:30,750
+Medbot wita.
+
+486
+00:59:57,500 --> 00:59:59,666
+Skan zakończony.
+
+487
+01:00:03,916 --> 01:00:05,458
+SEKCJA ZWŁOK ZAKOŃCZONA
+
+488
+01:00:05,541 --> 01:00:08,000
+PRZYCZYNA ŚMIERCI: URAZ TĘPY
+CZAS ZGONU: 51 GODZIN TEMU
+
+489
+01:00:08,083 --> 01:00:09,041
+51 godzin temu.
+
+490
+01:00:19,416 --> 01:00:22,500
+Co się dzieje?
+
+491
+01:00:22,791 --> 01:00:25,833
+To twoja wina.
+
+492
+01:00:33,125 --> 01:00:35,291
+Wykryto nieprawidłową aktywność.
+
+493
+01:00:59,708 --> 01:01:02,041
+Wykryto nietypową formę życia.
+
+494
+01:01:03,750 --> 01:01:04,708
+Halo?
+
+495
+01:02:15,583 --> 01:02:16,625
+Czym ty jesteś?
+
+496
+01:02:27,625 --> 01:02:28,833
+Wykorzystałeś mnie.
+
+497
+01:02:29,791 --> 01:02:31,333
+Żebym ją zabiła.
+
+498
+01:02:38,875 --> 01:02:42,791
+To ty jesteś infekcją.
+
+499
+01:02:46,083 --> 01:02:47,208
+Częścią ciebie.
+
+500
+01:02:52,875 --> 01:02:58,041
+Zrozumiesz.
+
+501
+01:03:04,291 --> 01:03:05,583
+Pokażę ci.
+
+502
+01:03:23,666 --> 01:03:25,083
+Co to jest, do cholery?
+
+503
+01:03:27,500 --> 01:03:28,833
+Jak długo tu jest?
+
+504
+01:03:28,916 --> 01:03:30,333
+Może przyszło z tobą?
+
+505
+01:03:42,416 --> 01:03:43,958
+Orbita do stacji naziemnej.
+
+506
+01:03:44,041 --> 01:03:45,458
+Stacja naziemna, odbiór.
+
+507
+01:03:46,500 --> 01:03:49,125
+Przerwano transfer danych. Zgłoście się.
+
+508
+01:03:51,041 --> 01:03:52,541
+Stacja naziemna, odbiór.
+
+509
+01:03:53,333 --> 01:03:54,625
+Tu orbita.
+
+510
+01:03:56,083 --> 01:03:58,166
+Stacja naziemna, zgłoście się.
+
+511
+01:04:40,375 --> 01:04:42,166
+- Cofnij się.
+- Jest wszędzie.
+
+512
+01:04:42,250 --> 01:04:43,875
+Weź próbkę i zanieś do badania.
+
+513
+01:04:45,250 --> 01:04:48,125
+Wykryto ruch w Strefie Pierwszej.
+
+514
+01:04:48,416 --> 01:04:50,500
+Śluza zewnętrzna.
+
+515
+01:05:06,250 --> 01:05:08,000
+Co się stało z Davisem?
+
+516
+01:05:11,250 --> 01:05:13,458
+To coś połączyło się z naszym systemem.
+
+517
+01:05:13,541 --> 01:05:14,750
+I się rozprzestrzeniło.
+
+518
+01:05:14,833 --> 01:05:19,083
+Zrobiłam dziurę w ścianie,
+żeby to sprawdzić. Dotarło do śluzy
+
+519
+01:05:19,166 --> 01:05:20,625
+- i sterowni.
+- Na razie.
+
+520
+01:05:20,708 --> 01:05:22,958
+A jeśli obserwuje nas od przylotu?
+
+521
+01:05:23,041 --> 01:05:25,708
+I czeka na dobry moment,
+by nas załatwić.
+
+522
+01:05:26,041 --> 01:05:27,250
+Kiedy okno orbitalne?
+
+523
+01:05:30,833 --> 01:05:32,416
+Kolejne okienko. Kiedy?
+
+524
+01:05:37,041 --> 01:05:37,958
+Za 13 godzin.
+
+525
+01:05:38,416 --> 01:05:40,041
+Spakuję laboratorium i...
+
+526
+01:05:40,125 --> 01:05:41,333
+Nie. Odlatujemy?
+
+527
+01:05:41,416 --> 01:05:43,750
+Riya, trzymamy się procedur.
+
+528
+01:05:44,500 --> 01:05:45,958
+Pieprzyć procedury! Na to...
+
+529
+01:05:46,041 --> 01:05:49,041
+Nie! Procedury są potrzebne.
+
+530
+01:05:49,125 --> 01:05:51,750
+Musimy uciekać,
+zanim to coś się rozprzestrzeni.
+
+531
+01:05:54,500 --> 01:05:55,708
+I chronić misję.
+
+532
+01:05:55,791 --> 01:05:58,291
+Misję? To jest nasza misja.
+
+533
+01:05:59,791 --> 01:06:01,708
+Pamiętacie, czemu się zgłosiliśmy?
+
+534
+01:06:02,416 --> 01:06:03,333
+Cała grupa.
+
+535
+01:06:05,041 --> 01:06:06,875
+Tyle poświęciliśmy.
+
+536
+01:06:07,875 --> 01:06:09,500
+By w najlepszym wypadku
+
+537
+01:06:09,583 --> 01:06:12,625
+zestarzeć się lata świetlne
+od znanego nam świata.
+
+538
+01:06:18,208 --> 01:06:19,250
+To tu jest.
+
+539
+01:06:20,375 --> 01:06:21,250
+W tej chwili.
+
+540
+01:06:22,416 --> 01:06:23,583
+Rozwiązanie.
+
+541
+01:06:23,666 --> 01:06:26,125
+Technologia pozwalająca
+stworzyć nowy świat,
+
+542
+01:06:26,208 --> 01:06:28,708
+w którym powietrze nie jest trujące.
+
+543
+01:07:18,750 --> 01:07:20,625
+Technologia samoreplikująca.
+
+544
+01:07:26,125 --> 01:07:26,958
+Co robisz?
+
+545
+01:07:27,625 --> 01:07:28,458
+Adhi.
+
+546
+01:07:30,500 --> 01:07:32,125
+To może być odpowiedź.
+
+547
+01:07:36,291 --> 01:07:37,375
+Odsuń się, kurwa!
+
+548
+01:07:43,916 --> 01:07:44,791
+Adhi!
+
+549
+01:07:48,083 --> 01:07:49,125
+Adhi!
+
+550
+01:07:56,125 --> 01:07:57,125
+Nie.
+
+551
+01:08:08,250 --> 01:08:09,125
+Adhi?
+
+552
+01:08:35,333 --> 01:08:36,875
+Co, do chuja? Riya!
+
+553
+01:08:36,958 --> 01:08:37,875
+Co się dzieje?
+
+554
+01:08:38,958 --> 01:08:39,791
+Riya!
+
+555
+01:08:39,875 --> 01:08:41,041
+Co, do chuja?
+
+556
+01:08:41,125 --> 01:08:43,000
+Wykryto nieprawidłową aktywność.
+
+557
+01:08:43,083 --> 01:08:44,333
+Riya, coś ty zrobiła?
+
+558
+01:08:46,416 --> 01:08:47,625
+O kurwa!
+
+559
+01:08:53,041 --> 01:08:53,875
+Nie!
+
+560
+01:09:14,458 --> 01:09:15,416
+Adhi!
+
+561
+01:09:22,416 --> 01:09:23,333
+Kev.
+
+562
+01:09:25,125 --> 01:09:25,958
+Kevin?
+
+563
+01:09:40,750 --> 01:09:41,875
+Riya!
+
+564
+01:10:25,875 --> 01:10:26,750
+Uwaga!
+
+565
+01:10:28,916 --> 01:10:30,791
+Wykryto nieprawidłową aktywność.
+
+566
+01:10:30,875 --> 01:10:31,791
+Jesteś cała?
+
+567
+01:10:32,916 --> 01:10:34,000
+- Riya?
+- Clarke.
+
+568
+01:10:34,083 --> 01:10:36,333
+Wstawaj! Trzeba spierdalać!
+
+569
+01:10:36,416 --> 01:10:37,291
+Idź.
+
+570
+01:10:39,041 --> 01:10:39,916
+Clarke!
+
+571
+01:10:45,291 --> 01:10:47,458
+Wykryto nieprawidłową aktywność.
+
+572
+01:10:55,750 --> 01:10:56,791
+Pomóż jej.
+
+573
+01:11:06,041 --> 01:11:06,875
+Kurwa!
+
+574
+01:11:14,625 --> 01:11:15,458
+Kurwa.
+
+575
+01:11:29,916 --> 01:11:30,833
+Clarke.
+
+576
+01:11:36,708 --> 01:11:37,708
+Uciekaj.
+
+577
+01:11:38,083 --> 01:11:39,083
+Idź do lądownika.
+
+578
+01:11:41,791 --> 01:11:42,750
+Ja muszę zostać.
+
+579
+01:12:39,625 --> 01:12:40,500
+Riya.
+
+580
+01:12:43,083 --> 01:12:44,125
+To ja.
+
+581
+01:13:24,041 --> 01:13:24,916
+Kevin.
+
+582
+01:13:37,500 --> 01:13:38,708
+Ja to zrobiłam?
+
+583
+01:13:42,416 --> 01:13:43,458
+Nic się nie stało.
+
+584
+01:13:46,291 --> 01:13:47,541
+To moja wina.
+
+585
+01:13:53,833 --> 01:13:55,458
+Nic się nie stało.
+
+586
+01:14:04,958 --> 01:14:07,833
+Hej. Pamiętaj.
+
+587
+01:14:08,958 --> 01:14:10,041
+Nic się nie stało.
+
+588
+01:15:33,041 --> 01:15:35,541
+Wykryto nieprawidłową aktywność.
+
+589
+01:16:03,666 --> 01:16:06,125
+CYJANEK POTASU
+
+590
+01:16:06,791 --> 01:16:08,833
+Zabiłaś ich.
+
+591
+01:16:12,875 --> 01:16:14,333
+Jesteś sama.
+
+592
+01:16:14,416 --> 01:16:15,291
+Ja to zrobiłam?
+
+593
+01:16:15,375 --> 01:16:17,875
+- Zabiłaś ich.
+- Boję się. Wariuję.
+
+594
+01:16:18,625 --> 01:16:20,916
+- To bez sensu.
+- Nigdy nie wrócę.
+
+595
+01:16:21,000 --> 01:16:23,000
+Kłamiesz. To twoja wina!
+
+596
+01:16:23,083 --> 01:16:27,208
+To ty! Ty ich zabiłaś!
+
+597
+01:16:49,416 --> 01:16:53,041
+Wykryto nietypową aktywność pasożytniczą.
+
+598
+01:17:02,875 --> 01:17:08,666
+To nasza planeta, nasza inwestycja
+
+599
+01:17:08,916 --> 01:17:13,083
+Nie pozwolimy wam jej zabrać
+
+600
+01:17:15,625 --> 01:17:21,250
+Widzieliśmy wasze wspomnienia
+
+601
+01:17:24,416 --> 01:17:30,375
+Wy i cały wasz gatunek jesteście
+
+602
+01:17:31,041 --> 01:17:33,666
+Nieskuteczni
+
+603
+01:17:37,208 --> 01:17:41,208
+Skazani na autodestrukcję
+
+604
+01:17:45,208 --> 01:17:51,166
+Wystarczy nam jedno z was
+
+605
+01:17:53,416 --> 01:17:59,375
+Ciesz się, zostałaś wybrana
+
+606
+01:18:03,166 --> 01:18:05,500
+By dołączyć do wielu
+
+607
+01:18:30,583 --> 01:18:35,000
+Staniesz się czymś więcej
+
+608
+01:18:37,916 --> 01:18:40,208
+Nie chcę być...
+
+609
+01:18:42,916 --> 01:18:44,083
+czymś więcej.
+
+610
+01:18:49,916 --> 01:18:55,666
+Przekonasz się
+
+611
+01:18:58,333 --> 01:19:04,291
+Dołączenie do naszego gatunku
+to największy przywilej
+
+612
+01:19:16,208 --> 01:19:19,750
+Pieprzyć wasz gatunek.
+
+613
+01:20:01,833 --> 01:20:06,208
+Krytyczny poziom tlenu.
+
+614
+01:20:16,291 --> 01:20:19,666
+Niski poziom tlenu...
+
+615
+01:20:33,125 --> 01:20:35,041
+Medbot wita.
+
+616
+01:20:39,875 --> 01:20:42,416
+Medbot skanuje.
+
+617
+01:20:42,500 --> 01:20:44,166
+Proszę zachować spokój.
+
+618
+01:20:53,375 --> 01:20:55,500
+Skan zakończony.
+
+619
+01:20:57,000 --> 01:21:00,250
+WYKRYTO OBCEGO PASOŻYTA
+
+620
+01:21:00,333 --> 01:21:01,916
+USUNĄĆ PASOŻYTA?
+TAK - NIE
+
+621
+01:21:08,916 --> 01:21:10,583
+ROZPOCZYNAM OPERACJĘ
+PROSZĘ CZEKAĆ
+
+622
+01:21:17,625 --> 01:21:19,791
+Rozpoczynam kolejny etap.
+
+623
+01:21:20,083 --> 01:21:21,750
+Proszę zachować spokój.
+
+624
+01:23:01,208 --> 01:23:02,958
+OPERACJA ZAKOŃCZONA SUKCESEM
+
+625
+01:26:07,416 --> 01:26:08,708
+Pierdol się!
+
+626
+01:27:06,791 --> 01:27:08,791
+No odpal.
+
+627
+01:35:13,458 --> 01:35:15,458
+Napisy: Maria Plicner
+
+628
+01:35:15,541 --> 01:35:17,541
+Nadzór kreatywny nad tłumaczeniem
+Maciej Kowalski
+
