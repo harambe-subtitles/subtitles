@@ -1,0 +1,1351 @@
+{1}{1}23.976
+{1076}{1171}www.NapiProjekt.pl - nowa jako�� napis�w.|Napisy zosta�y specjalnie dopasowane do Twojej wersji filmu.
+{1172}{1231}Rachel! Poka�!
+{1377}{1452}- Poka�.|- Znalezione nie kradzione. Ja znalaz�am.
+{1456}{1493}W moim ogrodzie.
+{1534}{1578}Znalezione nie kradzione!
+{1745}{1781}Bruce?
+{1998}{2057}Mamo! Panie Alfredzie!
+{2607}{2659}�ni�o ci si� co�?
+{2670}{2715}Koszmar.
+{2820}{2855}Gorszy ni� to miejsce?
+{3383}{3430}Chc� walczy�.
+{3439}{3478}- Znowu?|- Dop�ki ci� nie zabij�.
+{3531}{3574}Mog� mnie zabi� przed �niadaniem?
+{3631}{3699}Jeste� w piekle, cz�owieczku.
+{3778}{3845}A ja jestem diab�em.
+{3926}{3961}Nie diab�em.
+{3965}{3998}Sparingpartnerem.
+{5040}{5071}Karcer!
+{5075}{5121}- Dlaczego?|- Dla ochrony.
+{5138}{5194}- Nie potrzebuj� jej.|- Dla ochrony tych tam!
+{5425}{5474}Tak bardzo pragniesz|zwalcza� przest�pc�w,
+{5478}{5542}�e dajesz si� zamkn��,|by walczy� z ka�dym po kolei?
+{5572}{5666}W�a�ciwie by�o ich siedmiu.
+{5670}{5725}Doliczy�em si� sze�ciu, panie Wayne.
+{5815}{5845}Sk�d pan zna moje nazwisko?
+{5849}{5922}�wiat jest zbyt ma�y,|�eby Bruce Wayne po prostu znikn��,
+{5926}{5982}nawet je�li upad� tak nisko.
+{5986}{6014}Kim pan jest?
+{6018}{6094}Nazywam si� Ducard, ale m�wi�|w imieniu Ra's Al Ghula,
+{6098}{6185}cz�owieka, kt�rego boi si�|ca�y przest�pczy �wiat.
+{6189}{6227}On mo�e ci� poprowadzi�.
+{6249}{6309}Dlaczego s�dzisz, �e tego potrzebuj�?
+{6318}{6381}Kto� taki jak ty mo�e tu by�|wy��cznie z wyboru.
+{6385}{6442}Badasz przest�pcz� bra�,
+{6446}{6505}ale pomimo swoich intencji,
+{6522}{6602}naprawd� zb��dzi�e�.
+{6639}{6730}A jak� drog� mo�e zaproponowa�|Ra's Al Ghul?
+{6734}{6830}�cie�k� cz�owieka, kt�ry dzieli|tw� nienawi�� wobec z�a
+{6834}{6911}i pragnie s�u�y� sprawiedliwo�ci.
+{6922}{6973}�cie�k� Ligi Cieni.
+{7047}{7102}- Jeste�cie m�cicielami.|- Nie.
+{7106}{7206}M�ciciel to cz�owiek zagubiony|w mroku w�asnej oceny.
+{7210}{7298}Mo�e zosta� zniszczony lub zamkni�ty.
+{7331}{7446}Ale je�li staniesz si� kim� wi�cej|ni� tylko cz�owiekiem,
+{7450}{7522}je�li po�wi�cisz si� idei
+{7526}{7586}i je�li nie b�d� w stanie|ci� powstrzyma�,
+{7595}{7654}wtedy staniesz si� czym� zupe�nie innym.
+{7694}{7731}Czym?
+{7743}{7814}Legend�, panie Wayne.
+{7846}{7885}Jutro ci� wypuszcz�.
+{7889}{7970}Je�li znudz� ci� drobni z�odzieje|i zechcesz co� osi�gn��,
+{7974}{8058}na wschodnich stokach|rosn� rzadkie b��kitne kwiaty.
+{8062}{8102}Zerwij jeden z nich.
+{8106}{8177}Je�li doniesiesz go na szczyt g�ry,
+{8181}{8251}mo�e znajdziesz to,|czego szuka�e� na pocz�tku.
+{8255}{8321}A czego szuka�em?
+{8362}{8409}Ty jeden to wiesz.
+{10019}{10106}Wracaj. Musisz wraca�.
+{11727}{11775}Ra's Al Ghul?
+{12020}{12058}Zaczekajcie.
+{12130}{12161}Czego szukasz?
+{12183}{12231}Szukam...
+{12268}{12322}metod, by walczy�|z niesprawiedliwo�ci�.
+{12331}{12382}By skierowa� l�k
+{12390}{12458}przeciwko tym,|kt�rzy �eruj� na strachliwych.
+{12978}{13052}By kontrolowa� l�k innych,
+{13072}{13154}musisz najpierw oswoi� sw�j.
+{13167}{13210}Jeste� got�w, by zacz��?
+{13232}{13294}Ledwo stoj� na nogach.
+{13298}{13354}�mier� nie czeka, a� b�dziesz got�w!
+{13358}{13434}Nie jest wyrozumia�a ani sprawiedliwa!
+{13446}{13557}I mo�esz by� pewien,|�e tu staniesz oko w oko ze �mierci�!
+{13650}{13682}Tygrys.
+{13721}{13764}Jujitsu.
+{13817}{13842}Pantera.
+{13926}{13982}Jeste� zr�czny, ale to nie taniec.
+{14113}{14150}I boisz si�.
+{14221}{14266}Ale nie mnie.
+{14349}{14409}Prosz� nam powiedzie�, panie Wayne.
+{14517}{14593}Czego pan si� boi?
+{14812}{14846}Bruce?
+{14910}{14970}Ju� dobrze.
+{14974}{15010}Nic ci nie b�dzie.
+{15016}{15071}B�dzie potrzebny ambulans,|panie Wayne?
+{15075}{15147}Nastawi� ko��, a p�niej|zabior� go na prze�wietlenie.
+{15151}{15181}Dobrze.
+{15192}{15281}- Bardzo mi przykro.|- Nic mu nie b�dzie.
+{15336}{15383}Niez�y upadek, paniczu Bruce.
+{15387}{15418}A dlaczego upadamy?
+{15426}{15500}�eby�my nauczyli si� podnosi�.
+{15874}{15918}Nietoperze?
+{15994}{16045}Wiesz, dlaczego ci� zaatakowa�y?
+{16057}{16130}- Bo si� ciebie ba�y.|- Mnie?
+{16134}{16182}Ka�de stworzenie si� boi.
+{16186}{16218}Nawet te straszne?
+{16222}{16267}Zw�aszcza te straszne.
+{16276}{16319}Poka�� ci co�.
+{16422}{16502}- Spodobaj� si� mamie?|- Tak.
+{16518}{16570}- Ju� czas wstawa�.|- Mo�e.
+{16574}{16613}Wy�a� z ��ka.
+{16690}{16741}Ty zbudowa�e� ten poci�g, tato?
+{16745}{16858}Gotham jest dobre dla naszej|rodziny, ale to miasto cierpi.
+{16862}{16946}Ludziom, kt�rzy mieli mniej|szcz�cia od nas, jest ci�ko.
+{16950}{17045}Zbudowali�my tani system transportu|publicznego, by zjednoczy� miasto.
+{17049}{17090}A w samym centrum -
+{17094}{17138}Wayne Tower.
+{17142}{17211}- Tam w�a�nie pracujesz?|- Nie, pracuj� w szpitalu.
+{17215}{17292}Firm� prowadz� lepsi ode mnie.
+{17296}{17399}- Lepsi?|- Bardziej tym zainteresowani.
+{18751}{18785}Mo�emy wyj��?
+{18842}{18878}Prosz�.
+{18892}{18941}Dobrze. Chod�my.
+{19162}{19231}- Co si� sta�o, Bruce?|- To ja
+{19235}{19286}chcia�em zaczerpn�� �wie�ego powietrza.
+{19290}{19366}Opera czasem si� d�u�y, prawda, Bruce?
+{19429}{19494}Chod�my.
+{19625}{19667}Portfel, bi�uteria. Szybko.
+{19671}{19704}Dobrze.
+{19708}{19746}Spokojnie.
+{19762}{19799}Spokojnie.
+{19818}{19853}Prosz�.
+{19919}{19987}Nic si� nie sta�o.
+{20008}{20083}Po prostu we� to i sobie id�.
+{20087}{20130}Bi�uteria!
+{20179}{20211}Thomas!
+{20505}{20538}Ju� dobrze.
+{20614}{20655}Nie b�j si�.
+{21418}{21461}Czy to twojego ojca?
+{21498}{21549}Ju� dobrze.
+{21578}{21617}Chod� tu.
+{21682}{21735}Prosz�.
+{21810}{21858}Ju� dobrze.
+{22042}{22078}Gordon.
+{22325}{22354}Dobre wie�ci.
+{22389}{22434}Z�apali�my go, synu.
+{22929}{22974}Jeste� w dobrych r�kach.
+{22978}{23018}Zadbamy o imperium.
+{23022}{23094}B�dzie na ciebie czeka�o,|kiedy doro�niesz.
+{23478}{23553}Pomy�la�em, �e przygotuj� ma�� kolacj�.
+{23677}{23727}- Dobrze.|- Alfredzie?
+{23822}{23870}- Paniczu Bruce?|- To moja wina.
+{23874}{23914}Przeze mnie wyszli z teatru.
+{23918}{23991}- Gdybym si� nie wystraszy�...|- To nie pa�ska wina.
+{24018}{24098}To on to zrobi�. On sam.
+{24110}{24146}Rozumie panicz?
+{24221}{24294}T�skni� za nimi, Alfredzie.|Tak bardzo za nimi t�skni�.
+{24298}{24346}Ja te�, paniczu Bruce.
+{24404}{24434}Ja te�.
+{24485}{24556}Nadal czujesz si� odpowiedzialny|za ich �mier�?
+{24560}{24611}Moja z�o�� przewy�sza poczucie winy.
+{24629}{24662}Chod�.
+{24774}{24839}Nauczy�e� si� zast�powa�|poczucie winy w�ciek�o�ci�.
+{24843}{24916}Naucz� ci� stawia� czo�o prawdzie.
+{24976}{25095}Potrafisz zwyci�y� sze�ciu m�czyzn.|Nauczymy ci� pokona� 600.
+{25125}{25170}Potrafisz znikn��.
+{25174}{25227}Nauczymy ci� by� niewidzialnym.
+{25266}{25307}Niewidzialnym?
+{25403}{25514}Ninja wie, �e niewidzialno��|jest kwesti� cierpliwo�ci i zr�czno�ci.
+{25825}{25866}Uwa�aj na otoczenie.
+{25942}{25995}W ninjitsu u�ywamy|wybuchowego prochu.
+{26031}{26085}- Jako broni?|- �eby odwr�ci� uwag�.
+{26089}{26145}Teatralno�� i u�uda to pot�na bro�.
+{26156}{26229}Musisz sta� si� kim� wi�cej|ni� cz�owiekiem w umy�le przeciwnika.
+{26284}{26335}- Kim on jest?|- By� rolnikiem.
+{26339}{26417}Chcia� zabra� ziemi� s�siadowi|i sta� si� morderc�.
+{26421}{26476}- Teraz jest wi�niem.|- Co z nim b�dzie?
+{26480}{26538}Sprawiedliwo�ci stanie si� zado��.
+{26542}{26637}Przest�pcy �eruj�|na pob�a�liwo�ci spo�ecze�stwa.
+{26734}{26802}�mier� twoich rodzic�w|to nie twoja wina.
+{27002}{27032}Tylko twojego ojca.
+{27533}{27601}Twoja z�o�� nie zmienia faktu,|�e on nic nie zrobi�.
+{27605}{27658}- Ten cz�owiek mia� bro�.|- Ciebie by to powstrzyma�o?
+{27677}{27706}Ja jestem wytrenowany.
+{27710}{27754}Trening jest niczym!
+{27758}{27798}Wola jest wszystkim!
+{27937}{27981}Wola dzia�ania.
+{28215}{28245}Poddaj si�.
+{28252}{28286}Nie pokona�e� mnie.
+{28290}{28355}Po�wi�ci�e� pewny grunt pod nogami|na rzecz pchni�cia.
+{28538}{28581}Potrzyj klatk� piersiow�.
+{28593}{28662}Ramiona sobie poradz�.
+{28726}{28765}Jeste� silniejszy ni� ojciec.
+{28781}{28820}Nie zna�e� mojego ojca.
+{28824}{28879}Ale znam twoj� w�ciek�o��.
+{28883}{28938}T� dusz�c� �al niesamowit� z�o��,
+{28942}{29006}p�ki pami�� o bliskich nie stanie si�
+{29010}{29058}trucizn� w twoich �y�ach.
+{29062}{29169}Pewnego dnia z�apiesz si� na tym,|�e �a�ujesz, �e w og�le istnieli.
+{29203}{29262}Oszcz�dziliby ci b�lu.
+{29334}{29415}Nie zawsze chowa�em si� w tych g�rach.
+{29454}{29503}Kiedy� mia�em �on�.
+{29526}{29572}By�a moj� wielk� mi�o�ci�.
+{29600}{29651}Odebrano mi j�.
+{29655}{29732}Tak jak ty, musia�em nauczy� si�,|�e istniej� �li,
+{29736}{29815}z kt�rymi trzeba walczy�|bez �alu i wahania.
+{29858}{29914}Twoja w�ciek�o�� daje ci wielk� moc,
+{29926}{30011}ale zniszczy ci�, je�li jej na to pozwolisz.
+{30024}{30070}Mnie prawie zniszczy�a.
+{30074}{30139}- Co j� powstrzyma�o?|- Zemsta.
+{30143}{30190}Mnie to nie pomo�e.
+{30194}{30238}Dlaczego, Bruce?
+{30242}{30306}Czemu nie pom�cisz swoich rodzic�w?
+{30398}{30481}Po przes�uchaniu wraca pan do Princeton
+{30485}{30549}czy mog� pana przekona�,|by pan tu zosta� dzie� lub dwa?
+{30553}{30606}W og�le tam nie wr�c�.
+{30610}{30659}- Nie podoba si� panu tam?|- Mo�e by�.
+{30669}{30736}Ale ja im si� nie podobam.
+{30755}{30843}- Przygotowa�em paniczowi sypialni�.|- Nie.
+{30847}{30881}Starczy m�j pok�j.
+{30885}{30946}Rezydencja Wayne'�w|jest pa�skim domem.
+{30950}{30994}To dom mojego ojca.
+{30998}{31055}- Pa�ski ojciec nie �yje.|- To mauzoleum.
+{31059}{31132}Najch�tniej zr�wna�bym|wszystko z ziemi�.
+{31136}{31234}Ten dom da� schronienie|sze�ciu pokoleniom pa�skiej rodziny.
+{31238}{31303}Co ci� to obchodzi? To nie twoja rodzina.
+{31323}{31416}Obchodzi mnie, bo pewien dobry|cz�owiek uczyni� mnie odpowiedzialnym
+{31432}{31484}za to, co by�o mu najdro�sze
+{31488}{31542}na �wiecie.
+{31589}{31674}Panna Dawes zaproponowa�a,|�e podwiezie pana na przes�uchanie.
+{31678}{31727}Pewnie chce pana od tego odwie��.
+{31731}{31814}Czy powinienem pochowa� przesz�o��|razem z rodzicami?
+{31818}{31892}Nie mog� panu poradzi�,|co zrobi� z przesz�o�ci�.
+{31896}{31993}Ale niech pan wie, �e niekt�rych|z nas obchodzi pa�ska przysz�o��.
+{32026}{32062}Nie postawi�e� na mnie krzy�yka?
+{32078}{32114}Nigdy.
+{33278}{33360}Alfred wci�� trzyma|skondensowane mleko na g�rnej p�ce.
+{33381}{33427}Nie zauwa�y�, �e ju� tam si�gasz?
+{33431}{33462}Przyzwyczai� si�.
+{33471}{33533}- Nigdy nas nie powstrzyma�.|- Fakt.
+{33537}{33582}Jak si� ma twoja mama?
+{33592}{33646}T�skni za tym miejscem.
+{33682}{33718}Ja r�wnie�.
+{33762}{33834}Ale ono jest niczym bez ludzi,|kt�rzy je stworzyli.
+{33838}{33910}- Zosta� tylko Alfred.|- I ty.
+{33914}{33999}- Ja tu nie zostan�.|- Wr�ci�e� tylko na przes�uchanie.
+{34086}{34186}Nie s�dz�, �eby istnia� spos�b,|�eby przekona� ci�, by� tam nie szed�.
+{34194}{34278}Kto� na tym przes�uchaniu
+{34294}{34346}powinien reprezentowa� moich rodzic�w.
+{34350}{34401}Wszyscy ich kochali�my.
+{34405}{34482}- To, co zrobi� Chill, jest niewybaczalne.|- To dlaczego tw�j szef go wypuszcza?
+{34515}{34593}W wi�zieniu dzieli� cel�|z Carmine'em Falcone.
+{34597}{34685}B�dzie zeznawa� w zamian|za zwolnienie warunkowe.
+{34689}{34753}Rachel, on zabi� moich rodzic�w.
+{34801}{34842}Nie mog� o tym zapomnie�.
+{34846}{34915}Prosz�, zrozum to.
+{35012}{35092}Kryzys najbardziej dotkn�� ci�ko|pracuj�cych ludzi, jak pan Chill.
+{35096}{35173}Motywem jego odra�aj�cej zbrodni|nie by�a chciwo��,
+{35181}{35221}lecz desperacja.
+{35225}{35319}Odby� ju� kar� 14 lat wi�zienia|i wsp�pracowa� z prokuratur�
+{35323}{35386}w bardzo wa�nym dochodzeniu.
+{35390}{35465}Prosimy o rozwa�enie|zwolnienia warunkowego.
+{35489}{35544}Panie Chill?
+{35630}{35670}Wysoki S�dzie.
+{35691}{35766}Codziennie �a�uj� tego, co zrobi�em.
+{35829}{35907}Jasne, by�em zdesperowany,|jak wielu ludzi wtedy,
+{35911}{35967}ale to nie zmienia faktu,|�e zrobi�em co� strasznego.
+{36054}{36166}Wiem, �e znajduje si� dzi� mi�dzy nami|cz�onek rodziny Wayne'�w.
+{36170}{36225}Czy chce on co� powiedzie�?
+{36578}{36646}Wychodzi bocznymi drzwiami!
+{36878}{36909}Bruce Wayne!
+{36977}{37006}Joe!
+{37010}{37046}Pozdrowienia od Falcone'a!
+{37294}{37380}Chod�, Bruce. Nie musimy tego ogl�da�.
+{37398}{37435}Ja musz�.
+{37558}{37606}Prokuratura nie rozumia�a,|dlaczego s�dzia
+{37610}{37654}nalega� na publiczn� spraw�.
+{37658}{37716}Falcone przekupi� go, by wypu�ci� Chilla.
+{37721}{37751}Powinienem im podzi�kowa�.
+{37755}{37867}- Nie m�wisz powa�nie.|- Rodzice zas�uguj� na sprawiedliwo��.
+{37871}{37941}To nie sprawiedliwo��, to zemsta.
+{37945}{38014}- To czasem to samo.|- To nigdy nie to samo.
+{38018}{38104}Sprawiedliwo�� to harmonia.|Zemsta tylko poprawia ci humor.
+{38108}{38187}- Dlatego mamy bezstronny system.|- On nie dzia�a.
+{38357}{38425}Obchodzi ci� sprawiedliwo��?|Zapomnij o b�lu.
+{38435}{38470}To miasto jest zepsute.
+{38474}{38541}M�wi� o kryzysie, jakby to by�a historia,
+{38545}{38581}ale jest gorzej ni� kiedykolwiek.
+{38585}{38646}Falcone zatruwa ulice narkotykami,
+{38650}{38721}codziennie rodz� si� setki|takich Joe Chill�w.
+{38725}{38786}Falcone nie zabi� twoich rodzic�w,
+{38801}{38861}ale niszczy wszystko, w co wierzyli.
+{38970}{39039}Chcesz mu za to podzi�kowa�?|Prosz� bardzo.
+{39084}{39157}Wszyscy wiemy, gdzie jest.|Nikt go nie tknie, p�ki wie,
+{39161}{39211}jak bogaci� z�ych i straszy� dobrych.
+{39215}{39318}Nie ma ju� ludzi|sprzeciwiaj�cych si� niesprawiedliwo�ci.
+{39322}{39411}Jak� Gotham ma szans�,|skoro dobrzy ludzie nic nie robi�?
+{39432}{39514}- Nie jestem z twoich "dobrych ludzi".|- Co masz na my�li?
+{39568}{39641}Przez te wszystkie lata|chcia�em go zabi�.
+{39660}{39698}Teraz nie mog�.
+{40079}{40120}Ojciec wstydzi�by si� ciebie.
+{41162}{41222}Jest pan wy�szy ni� na zdj�ciach|w brukowcach, panie Wayne.
+{41233}{41278}Bez broni? Ubli�a mi pan.
+{41354}{41445}- Starczy�o wys�a� podzi�kowania.|- Nie mam zamiaru panu dzi�kowa�.
+{41449}{41515}Nie wszyscy w Gotham si� pana boj�.
+{41519}{41558}Tylko ci, kt�rzy mnie znaj�.
+{41566}{41626}Rozejrzyj si�. Zobaczysz dw�ch radnych,
+{41634}{41702}zwi�zkowego dzia�acza,|kilku gliniarzy po s�u�bie,
+{41712}{41751}i s�dziego.
+{41755}{41858}Gdybym chcia� odstrzeli� ci|przy nich �eb, nie zawaha�bym si�.
+{41862}{41927}To w�adza, kt�rej nie mo�na kupi�.
+{41942}{41977}To si�a strachu.
+{41987}{42017}Nie boj� si� pana.
+{42021}{42067}Bo nie masz nic do stracenia.
+{42071}{42111}Nie przemy�la�e� tego.
+{42115}{42189}Nie pomy�la�e� o swojej przyjaci�ce|w prokuraturze
+{42193}{42251}ani o swoim starym lokaju.
+{42350}{42406}Ludzie z twojego �wiata
+{42410}{42467}maj� tak wiele do stracenia.
+{42471}{42575}My�lisz, �e skoro twojego tatusia|i mamusi� zastrzelono,
+{42579}{42650}znasz ju� przykr� stron� �ycia.|To nieprawda.
+{42654}{42705}Nigdy nie by�e� w desperacji.
+{42709}{42770}Ty jeste� Bruce Wayne, ksi��� Gotham.
+{42774}{42856}Wszyscy ci� znaj�|w promieniu tysi�ca mil,
+{42860}{42963}wi�c nie przychod� tu ze swoj� z�o�ci�,|pr�buj�c co� sobie udowodni�.
+{42967}{43018}Nigdy nie zrozumiesz tego �wiata.
+{43022}{43070}Zawsze boisz si� tego,
+{43074}{43133}czego nie rozumiesz.
+{43418}{43486}Musz� przyzna�, �e masz ducha walki.
+{43490}{43538}Na pewno wi�kszego ni� tw�j ojciec.
+{43542}{43645}W pudle Chill opowiada� mi o nocy,|kiedy zabi� twoich rodzic�w.
+{43649}{43702}Powiedzia�, �e tw�j ojciec b�aga� o lito��.
+{43735}{43777}B�aga�
+{43781}{43814}jak pies.
+{44122}{44165}Trzeba by�o da� lepszy napiwek.
+{44405}{44449}- Za co to?|- Za twoj� marynark�.
+{44561}{44610}Daj mi go. Bardzo �adny p�aszcz.
+{44614}{44665}Uwa�aj, je�li kto� ci� w tym zobaczy.
+{44679}{44725}- B�d� mnie szukali.|- Kto?
+{44736}{44777}Wszyscy.
+{44878}{44926}�adny p�aszcz.
+{45365}{45470}Kiedy �y�e� po�r�d przest�pc�w,|zacz��e� ich �a�owa�?
+{45474}{45562}Po raz pierwszy co� ukrad�em,|�eby nie umrze� z g�odu.
+{45567}{45698}Straci�em zdolno�� rozpoznawania,|co jest dobre, a co z�e.
+{45729}{45779}A kiedy podr�owa�em,
+{45783}{45848}pozna�em strach|poprzedzaj�cy przest�pstwo
+{45866}{45928}i dreszcz sukcesu.
+{45973}{46018}Ale nigdy nie sta�em si� jednym z nich.
+{46101}{46171}Co mnie obchodzi, jak si� nazywasz?|Jeste� przest�pc�.
+{46177}{46202}Nie jestem przest�pc�.
+{46206}{46249}Powiedz to w�a�cicielowi tego.
+{46326}{46421}Przemierzy�e� �wiat, by zrozumie�|umys� przest�pcy i pokona� strach.
+{46471}{46570}Ale przest�pca nie jest skomplikowany.
+{46574}{46654}A to, czego naprawd� si� boisz,|znajduje si� w tobie.
+{46658}{46719}Boisz si� swojej w�asnej mocy,
+{46723}{46754}swojej w�ciek�o�ci,
+{46765}{46867}tego, co ci� popycha do czynienia|dobrych lub strasznych rzeczy.
+{46871}{46954}Musisz odby� podr� wewn�trz siebie.
+{47044}{47094}Jeste� got�w.
+{47118}{47152}Wdychaj.
+{47381}{47426}Wdychaj.
+{47546}{47590}Wdychaj swoje l�ki.
+{47653}{47678}Staw im czo�a.
+{47714}{47781}By pokona� l�k,|sam musisz sta� si� l�kiem.
+{47785}{47866}Musisz zanurzy� si� w l�ku innych.
+{47901}{47983}A ludzie najbardziej boj� si� tego,|czego nie mog� zobaczy�.
+{48396}{48465}Musisz sta� si� koszmarn� my�l�.
+{48574}{48603}Zjaw�.
+{48740}{48797}Sta� si� ide�!
+{48962}{49035}Poczuj, jak przera�enie|przy�miewa twoje zmys�y.
+{49077}{49154}Poczuj jego moc przekszta�cania,
+{49177}{49230}kontrolowania.
+{49304}{49395}I wiedz, �e ta moc|mo�e nale�e� do ciebie.
+{49696}{49760}Obejmij sw�j najgorszy strach.
+{49928}{49983}Po��cz si� w jedno�� z ciemno�ci�.
+{50458}{50499}Skup si�.
+{50506}{50558}Skoncentruj.
+{50562}{50613}Opanuj swoje zmys�y.
+{51286}{51345}Nie mo�esz zostawi� �adnego �ladu.
+{51354}{51383}Nie zostawi�em.
+{51582}{51630}Imponuj�ce.
+{51857}{51898}Oczy�cili�my ci� ze strachu.
+{51926}{51965}Mo�esz poprowadzi� tych ludzi.
+{51969}{52054}Jeste� got�w,|by zosta� cz�onkiem Ligi Cieni.
+{52117}{52217}Ale najpierw musisz zademonstrowa�|swoje oddanie sprawiedliwo�ci.
+{52618}{52651}Nie.
+{52686}{52717}Nie jestem katem.
+{52730}{52818}Twoje wsp�czucie to s�abo��,|kt�rej twoi wrogowie s� pozbawieni.
+{52827}{52882}Dlatego to takie wa�ne.
+{52888}{52930}To nas od nich r�ni.
+{52934}{52991}Walczysz z przest�pcami.|To jest morderca.
+{52995}{53083}- Powinien zosta� os�dzony.|- Przez skorumpowanych biurokrat�w?
+{53087}{53147}Przest�pcy �ami� panuj�ce prawo.
+{53151}{53206}Wiesz o tym lepiej ni� ktokolwiek.
+{53227}{53290}Nie mo�esz prowadzi� tych ludzi,
+{53294}{53390}dop�ki nie b�dziesz got�w zrobi�|co konieczne, by pokona� z�o.
+{53404}{53462}A dok�d mia�bym poprowadzi�|tych ludzi?
+{53475}{53506}Do Gotham.
+{53510}{53559}Jako ukochany syn Gotham,
+{53563}{53667}jeste� idealny, by uderzy�|w samo serce przest�pczo�ci.
+{53676}{53766}- Jak?|- Czas Gotham nadszed�.
+{53770}{53850}Jak wcze�niej Konstantynopol|albo Rzym,
+{53854}{53955}to miasto sta�o si� po�ywk�|dla cierpienia i niesprawiedliwo�ci.
+{53959}{54046}Nie mo�na go ju� ocali�,|wi�c musi zgin��.
+{54050}{54174}To najwa�niejszy cel Ligi Cieni.
+{54181}{54255}D��ymy do niego od wiek�w.
+{54263}{54305}Gotham
+{54309}{54378}musi zosta� zniszczone.
+{54458}{54494}To niemo�liwe.
+{54499}{54547}Ra's Al Ghul uratowa� nas
+{54551}{54608}z najciemniejszych|zakamark�w naszych serc.
+{54612}{54718}W zamian za to prosi o odwag�,|by uczyni� co konieczne.
+{54723}{54803}Wr�c� do Gotham|i b�d� walczy� z takimi lud�mi,
+{54807}{54869}ale nie b�d� katem.
+{54873}{54910}Bruce, prosz� ci�.
+{54914}{54982}Dla twojego dobra,|ju� nie masz odwrotu.
+{55758}{55819}- Co robisz?|- To, co konieczne, przyjacielu.
+{59090}{59165}Powiem mu, �e uratowa�e� mu �ycie.
+{59614}{59675}Paniczu Wayne, d�ugo pana nie by�o.
+{59679}{59734}- To prawda.|- Wygl�da pan bardzo modnie.
+{59770}{59806}Pomijaj�c b�oto.
+{59812}{59876}Na d�ugo wraca pan do Gotham?
+{59880}{59910}Na ile b�dzie trzeba.
+{59914}{59950}Chc� pokaza� mieszka�com,
+{59954}{60036}�e Gotham nie nale�y do przest�pc�w.
+{60040}{60117}Podczas kryzysu pa�ski ojciec|o ma�o nie zbankrutowa�,
+{60121}{60150}walcz�c z n�dz�.
+{60155}{60263}Wierzy�, �e bogacze p�jd�|za jego przyk�adem i ocal� miasto.
+{60270}{60309}Zrobili to?
+{60336}{60371}W pewnym sensie.
+{60375}{60449}Ich �mier� wstrz�sn�a bogaczami|trzymaj�cymi w�adz�.
+{60497}{60570}Ludzie potrzebuj� dramatycznych|przyk�ad�w, by wyrwa� si� z apatii.
+{60574}{60614}Nie mog� tego osi�gn��|jako Bruce Wayne.
+{60618}{60655}Cz�owieka
+{60659}{60717}mo�na zignorowa�, zniszczy�.
+{60721}{60767}Ale symbol...
+{60802}{60866}Jako symbol mog� by� czysty.
+{60870}{60933}- Mog� trwa� wiecznie.|- Jaki symbol?
+{60947}{61011}Co� rozpoznawalnego,
+{61015}{61054}co� przera�aj�cego.
+{61058}{61109}Skoro bierze si� pan za podziemie,
+{61113}{61236}ten symbol ma chroni�|pa�skich bliskich przed reperkusjami?
+{61240}{61273}M�wisz o Rachel?
+{61277}{61334}W�a�ciwie m�wi�em o sobie.
+{61382}{61424}Czy m�wi�e� komu�, �e wracam?
+{61429}{61530}Nie oszacowa�bym prawnych skutk�w|pa�skiego powrotu z za�wiat�w.
+{61534}{61579}- Co?|- Nie by�o pana siedem lat.
+{61583}{61614}Uzna�e� mnie za zmar�ego?
+{61618}{61687}Nie ja. Pan Earle.|Wypuszcza akcje na gie�d�.
+{61691}{61745}Chcia� zlikwidowa� pa�skie udzia�y.
+{61750}{61806}S� warte sporo pieni�dzy.
+{61810}{61875}Wi�c to dobrze,|�e zostawi�em wszystko tobie.
+{61888}{61927}To prawda.
+{61931}{62021}Mo�e pan po�yczy� rollsa,|ale prosz� go potem zatankowa�.
+{62262}{62375}Wed�ug mnie, pan Zsaz jest r�wnie|niebezpieczny dla siebie, jak dla innych.
+{62384}{62494}Wi�zienie nie jest najlepszym miejscem|na jego rehabilitacj�.
+{62549}{62611}- Doktorze Crane?|- Panna Dawes.
+{62615}{62694}Nie uwa�a pan, �e morderca mafii|powinien siedzie� w wi�zieniu?
+{62698}{62762}Gdybym tak uwa�a�,|zeznawa�bym inaczej.
+{62766}{62840}To ju� trzeci zbir Falcone'a,|kt�rego umie�ci� pan
+{62844}{62878}w swoim szpitalu.
+{62883}{62994}Praca w mafii musi by� atrakcyjna|dla szale�c�w.
+{63031}{63079}Lub �ap�wkarzy.
+{63133}{63171}Panie Finch.
+{63179}{63222}Powinien pan wyja�ni� pannie Dawes,
+{63226}{63331}co pa�skie biuro ma mi do zarzucenia.|Je�li cokolwiek.
+{63426}{63482}- Co ty wyprawiasz?|- Co robisz, Carl?
+{63486}{63519}Chroni� ci�.
+{63579}{63649}Falcone trzyma w kieszeni p� miasta.
+{63653}{63702}- Odpu�� sobie.|- Jak mo�esz tak m�wi�?
+{63706}{63795}Bo ty obchodzisz mnie bardziej|ni� zamkni�cie Falcone'a.
+{63799}{63830}To urocze.
+{63960}{64017}Ju� to przerabiali�my.
+{64642}{64677}No i znowu nietoperz.
+{64688}{64746}Maj� gniazda gdzie� w okolicy.
+{67572}{67637}Koniec z przys�ugami.|Kto� zaczyna w�szy�.
+{67641}{67712}Podrap mnie,|to i ja ci� podrapi�, doktorku.
+{67716}{67749}Za�atwi�em towar.
+{67766}{67795}P�acimy panu za to.
+{67799}{67859}Pieni�dze a� tak mnie nie interesuj�.
+{67919}{68034}Staram si� panu nie grozi�,|panie Falcone.
+{68038}{68112}Ale wie pan, dla kogo pracuj�,|a kiedy on tu przyb�dzie...
+{68116}{68162}Przyje�d�a do Gotham?
+{68166}{68201}Tak.
+{68205}{68264}A kiedy przyjedzie, nie spodoba mu si�,
+{68268}{68390}�e zagrozi� pan naszej operacji,|�eby wyci�gn�� zbir�w z wi�zienia.
+{68414}{68494}- Kto ci zawadza?|- Jest taka dziewczyna w prokuraturze.
+{68506}{68549}- Kupimy j�.|- Nie da si�.
+{68576}{68622}Idealistka?
+{68626}{68667}Na to te� jest spos�b.
+{68676}{68747}- Nie chc� nic o tym wiedzie�.|- Powinien pan.
+{68847}{68930}Wykazujemy powa�ny wzrost|w tych sektorach.
+{68934}{69010}Nie s�dz�, �eby Thomas Wayne|zgodzi� si�, by produkcja broni
+{69014}{69066}by�a podstaw� naszych interes�w.
+{69099}{69190}To by�o 20 lat temu, Fredericks.
+{69198}{69274}My�l�, �e po 20 latach|mo�emy przesta� si� zastanawia�,
+{69278}{69346}co by zrobi� Thomas Wayne.
+{69350}{69395}Dzie� dobry, biuro pana Earle'a.
+{69399}{69478}Jest um�wiony na kolacj�|jutro wieczorem.
+{69482}{69562}Dzie� dobry. Ja do pana Earle'a.
+{69566}{69602}Nazwisko?
+{69613}{69653}Bruce Wayne.
+{69698}{69782}Thomas prawdopodobnie|nie wypu�ci�by akcji na gie�d�.
+{69786}{69884}Ale my, odpowiedzialni managerowie,|to zrobimy.
+{69901}{69938}Jessica?
+{69964}{70025}Jessica? Gdzie jeste�?
+{70029}{70131}- Oko na pi�ce i...|- Dlaczego nikt nie odbiera?
+{70147}{70223}To Wayne Enterprises, panie Earle.|Na pewno znowu zadzwoni�.
+{70231}{70291}Bruce? My�la�em, �e nie �yjesz.
+{70295}{70342}Przykro mi, �e ci� rozczarowa�em.
+{70346}{70411}- Sp�jrz na to.|- Widzia�a� si� ju� z nim?
+{70418}{70455}- Z kim?|- Z Wayne'em.
+{70463}{70513}We wszystkich wiadomo�ciach tr�bili,|�e wr�ci�.
+{70607}{70711}Zdajesz sobie spraw�,|�e nie mog� tego powstrzyma�.
+{70715}{70763}- Wchodzimy na gie�d�.|- Rozumiem.
+{70774}{70842}A ja dostan� sute wynagrodzenie|za moje udzia�y.
+{70846}{70907}Nie chc� interweniowa�.
+{70918}{70957}Szukam pracy.
+{70973}{71046}Chc� pozna� firm�,|kt�r� stworzy�a moja rodzina.
+{71054}{71096}A gdzie chcia�by� zacz��?
+{71108}{71165}Nauki Stosowane przyku�y moj� uwag�.
+{71174}{71215}Dzia� Foxa.
+{71219}{71267}Powiem mu,|�e chcesz si� z nim spotka�.
+{71289}{71355}Wygl�dasz jak on. Jak tw�j tata.
+{71374}{71438}Z rodziny Wayne'�w zosta�e� tylko ty.
+{71442}{71537}Tu jest twoje miejsce. Witaj w domu.
+{71545}{71653}Ochrona �rodowiska, projekty obronne,|produkty konsumpcyjne.
+{71665}{71730}Same prototypy. P�ki co, nie s�
+{71734}{71798}- na �adnym etapie produkcji.|- �aden z nich?
+{71822}{71866}Co ci powiedzieli o tym dziale?
+{71870}{71919}Nic nie m�wili.
+{71978}{72061}Earle mi to dok�adnie wyt�umaczy�,|zanim mnie tu przys�a�.
+{72072}{72107}To �lepa uliczka.
+{72111}{72191}Miejsce, w kt�rym nie b�d� sprawia�|zarz�dowi wi�cej k�opot�w.
+{72214}{72250}Chod�.
+{72254}{72313}- By�e� w zarz�dzie?|- Kiedy tw�j tata tu rz�dzi�.
+{72317}{72406}- Zna�e� mojego ojca?|- Pomog�em mu zbudowa� poci�g.
+{72420}{72459}Jeste�my na miejscu.
+{72547}{72586}Uprz�� z kevlaru.
+{72595}{72642}Pneumatyczna wyrzutnia|hak�w magnetycznych.
+{72646}{72702}W��kno utrzyma 130 kilogram�w.
+{72782}{72834}Poci�g twojego ojca to cudowny projekt.
+{72846}{72957}Wyrusza bezpo�rednio z Wayne Tower,|razem z wod� i zasilaniem.
+{72961}{73038}Wayne Tower sta�a si�|nieoficjalnym centrum Gotham City.
+{73043}{73106}Earle pozwoli�, �eby zardzewia�.
+{73151}{73202}Kombinezon z nomeksu,|dla oddzia��w szturmowych.
+{73207}{73273}Podw�jny przeplot kevlarowy,|wzmocnione ��czenia.
+{73281}{73338}- Wytrzyma�y?|- Powstrzyma nawet n�.
+{73342}{73395}- Odporny na kule?|- Poza bezpo�rednim strza�em.
+{73399}{73529}- Czemu go nie produkuj�?|- � ycie �o�nierza nie jest tyle warte.
+{73555}{73638}Dlaczego to pana interesuje,|panie Wayne?
+{73654}{73690}Chc� to po�yczy�.
+{73694}{73737}Bawi� si� w groto�aza.
+{73758}{73789}Groto�az?
+{73793}{73834}No... Nurkowanie w jaskiniach?
+{73865}{73929}Spodziewa si� pan ostrej strzelaniny|w tych jaskiniach?
+{73985}{74063}Wola�bym, �eby pan Earle|nie wiedzia�, �e to po�yczam...
+{74067}{74097}Panie Wayne.
+{74102}{74148}Wed�ug mnie,
+{74159}{74218}to wszystko i tak nale�y do pana.
+{74289}{74349}Dobra. Zapal.
+{74448}{74478}Urocze.
+{74546}{74589}Przynajmniej ma pan towarzystwo.
+{74634}{74730}To pewnie najni�szy fundament|po�udniowo-wschodniego skrzyd�a.
+{75029}{75129}Podczas wojny domowej|pa�ski prapradziadek pomaga�
+{75133}{75205}przy Kolei Podziemnej, potajemnie|transportuj�c niewolnik�w na p�noc.
+{75209}{75298}My�l�, �e te jaskinie mu si� przyda�y.
+{75602}{75654}Alfredzie! Chod� tu!
+{75659}{75730}Doskonale wszystko widz�,|bardzo paniczowi dzi�kuj�!
+{76210}{76274}G��wn� cz�� maski|zam�wimy w Singapurze.
+{76278}{76314}Przez podstawion� korporacj�.
+{76318}{76362}Oczywi�cie. A potem, niezale�nie,
+{76366}{76485}z�o�ymy u Chi�czyk�w zam�wienie na to.
+{76498}{76569}- Sami z�o�ymy je razem.|- Dok�adnie.
+{76573}{76670}To musz� by� du�e zam�wienia,|�eby unikn�� podejrze�.
+{76674}{76735}- Jak du�e?|- Jakie� 10000.
+{76795}{76865}Przynajmniej b�dziemy mieli zapas.
+{77275}{77325}Mo�e chcesz spr�bowa�?
+{77329}{77405}Ci�gle ci proponuj�, bo my�l�,|�e mo�e kiedy� zm�drzejesz.
+{77409}{77461}Nie ma w tym nic m�drego, Flass.
+{77465}{77546}Niepokoi nas to,|�e nie chcesz spr�bowa�, Jimbo.
+{77550}{77594}Nie jestem kapusiem.
+{77660}{77749}Poza tym, komu mia�bym kapowa�|w takim mie�cie?
+{78461}{78512}Nie odwracaj si�.
+{78526}{78600}Jeste� dobrym glin�. Jednym z niewielu.
+{78616}{78643}Czego chcesz?
+{78647}{78723}Carmine Falcone co tydzie�|sprowadza transport narkotyk�w.
+{78727}{78770}Nikt go nie aresztuje. Dlaczego?
+{78804}{78855}Zap�aci� w�a�ciwym ludziom.
+{78862}{78929}Jak mo�na go przymkn��?
+{78946}{79004}Wywieraj�c nacisk na s�dziego Fadena
+{79021}{79078}i maj�c wystarczaj�co|odwa�nego prokuratora.
+{79088}{79127}Rachel Dawes.
+{79141}{79168}Kim jeste�?
+{79178}{79217}Czekaj na m�j znak.
+{79281}{79330}Jeste� tylko jeden?
+{79340}{79374}Teraz jest nas dw�ch.
+{79425}{79463}"Nas"?
+{79838}{79880}St�j!
+{80292}{80338}Co to by�o, do diab�a?
+{80408}{80437}Jaki� wariat.
+{80519}{80586}O co chodzi tym razem? Znowu jaskinie?
+{80590}{80650}Nie. Dzi� skakanie z budynk�w.
+{80664}{80703}Skakanie z budynk�w?
+{80717}{80778}- To co� jak skoki na spadochronie?|- W pewnym sensie.
+{80807}{80874}Ma pan jakie� lekkie materia�y?
+{80878}{80942}Mam co� doskona�ego.
+{80974}{81033}To materia� zapami�tuj�cy.|Zauwa�y� pan co�?
+{81113}{81158}Normalnie jest mi�kki,
+{81168}{81219}ale je�li pu�ci si� przez niego pr�d,
+{81254}{81343}- moleku�y zmieniaj� miejsce i sztywnieje.|- Jaki kszta�t mo�e przyj��?
+{81347}{81422}Ka�dej struktury|ze sztywnym szkieletem.
+{81426}{81455}Za drogi dla armii?
+{81459}{81573}Nie pr�bowali go sprzeda� miliarderom|groto�azom skacz�cym z budynk�w.
+{81577}{81620}Panie Fox.
+{81636}{81669}Je�li jest panu niezr�cznie...
+{81673}{81750}Skoro nie chce pan mi powiedzie�,|co pan robi,
+{81754}{81801}nie b�d� musia� k�ama�,|kiedy mnie zapytaj�.
+{81843}{81905}Ale niech pan nie my�li, �e jestem idiot�.
+{81941}{81988}Zgoda.
+{82034}{82078}Co to jest?
+{82128}{82174}Tumbler?
+{82186}{82233}To nie dla pana.
+{82377}{82423}By� przeznaczony do budowy most�w.
+{82471}{82577}Podczas walki dwa pojazdy mia�y skaka�|przez rzek�, przeci�gaj�c kable.
+{82638}{82725}Tutaj jest dopalacz. Trzeba to przesun��.
+{82730}{82791}Pojazd wyskakuje bez rampy.|Nie teraz!
+{82859}{82910}Nie teraz.
+{82978}{83023}Dopalacz dezaktywowany.
+{83032}{83105}Przekl�ty most|nigdy do niczego si� nie nadawa�,
+{83109}{83150}ale to cudo dzia�a.
+{83379}{83409}No i co pan na to?
+{83439}{83487}Poprosz� czarny.
+{83502}{83559}B�d� ci� potrzebowa�|w czwartek w dokach.
+{83565}{83610}- Problemy?|- Nie chc� �adnych k�opot�w
+{83614}{83665}z ostatnim �adunkiem.
+{83703}{83791}Podobno masz na pie�ku|z kim� w prokuraturze.
+{83795}{83853}- Naprawd�?|- Podobno te� czeka s�ona nagroda
+{83857}{83922}na kogo�, kto co� z tym zrobi.
+{83926}{83973}W czym rzecz, panie Flass?
+{83984}{84014}Widzia�e� t� dziewczyn�?
+{84026}{84090}To ta s�odka ma�a|asystentka prokuratora.
+{84094}{84182}Chyba zaczyna ci si� pali� grunt|pod nogami.
+{84186}{84266}- Nawet w tym mie�cie.|- Nie doceniasz Gotham City.
+{84270}{84338}Ludzie wracaj�cy z pracy|codziennie padaj� ofiarami napad�w.
+{84342}{84405}Wypadki si� zdarzaj�.
+{84498}{84541}To kwestia grafitu.
+{84546}{84610}Nast�pne 10000 wyprodukuj�|wed�ug plan�w.
+{84614}{84676}- Przynajmniej dali nam zni�k�.|- To fakt.
+{84680}{84815}Proponuj�, �eby pan na razie uwa�a�|i nie l�dowa� na g�owie.
+{85702}{85751}Dlaczego nietoperze, paniczu Wayne?
+{85757}{85787}Bo mnie przera�aj�.
+{85818}{85873}Czas, �eby moi wrogowie|zacz�li dzieli� m�j l�k.
+{86513}{86559}Co to jest?
+{86650}{86682}Pracujcie dalej.
+{86814}{86854}Wydaje si� by� czysto.
+{86864}{86910}Mi�ki id� prosto do dealer�w?
+{86914}{86978}A kr�liki do faceta na Narrows.
+{86982}{87054}- Czym si� r�ni�?|- Niewiedza jest b�ogos�awie�stwem.
+{87058}{87134}Nie zawracaj sobie g�owy|tajemnicami z�ych ludzi.
+{87561}{87586}Steiss?
+{88418}{88457}Co?
+{88726}{88770}Lepiej to sprawdz�.
+{89071}{89119}Jest problem. Lepiej sp�ywaj.
+{89822}{89861}Gdzie jeste�?!
+{89865}{89890}Tutaj.
+{90910}{90961}Kim jeste�, do diab�a?
+{91034}{91062}Jestem Batman.
+{91262}{91309}�adny p�aszcz.
+{91350}{91387}Dzi�ki.
+{92371}{92401}St�j.
+{92452}{92511}Racja, lepiej uciekaj.
+{92726}{92770}Falcone kaza� im ci� zabi�.
+{92797}{92859}- Dlaczego?|- Potrz�sn�a� jego klatk�.
+{92950}{92987}- Co to?|- Dowody.
+{92991}{93030}- Po co?|- �eby co� si� ruszy�o.
+{93037}{93085}Kim jeste�?
+{93094}{93124}Kim� takim jak ty.
+{93128}{93177}Kim�, kto b�dzie trz�s� klatkami.
+{93299}{93383}Prosz� pani? Wszystko w porz�dku?
+{93486}{93546}- Ludzie Falcone'a?|- Czy to wa�ne?
+{93550}{93605}I tak nie uda nam si� go z tym powi�za�.
+{93610}{93661}Nie by�bym tego taki pewien.
+{93974}{94018}Co to ma by�, do diab�a?
+{94248}{94278}Odetnijcie go.
+{94781}{94816}Nietoperz chwyta szefa mafii
+{94820}{94850}To nie do przyj�cia.
+{94854}{94922}Niewa�ne, czy to rywalizuj�ce|ze sob� gangi, Anio�y Str�e
+{94926}{94973}czy Armia Zbawienia.
+{94979}{95035}Sprz�tnijcie ich z ulicy i z ok�adek.
+{95039}{95101}To by� tylko jeden facet. Lub stworzenie.
+{95105}{95170}To dupek w kostiumie.
+{95205}{95293}Ten facet dostarczy� nam na tacy|najwi�kszego gangstera w mie�cie.
+{95297}{95414}W moim mie�cie nikt nie b�dzie|bra� sprawiedliwo�ci w swoje r�ce.
+{95421}{95480}- Tego nie zatuszuj�.|- Wci�� jest s�dzia Faden.
+{95484}{95558}- Mam co� na niego.|- A co z tym nietoperzem?
+{95562}{95637}Nawet je�li przysi�gn� przed s�dem,|�e pokona� ich gigantyczny nietoperz,
+{95641}{95693}Falcone tam by�.
+{95697}{95774}Narkotyki, odciski, spis �adunku.|Wszystko mamy.
+{95784}{95821}Bierzmy si� za to.
+{95903}{95954}- Nietoperze �yj� w nocy.|- One tak.
+{95958}{96040}Ale dla bogatych playboy�w|trzecia po po�udniu to p�no.
+{96065}{96134}Obawiam si�, �e to cena|prowadzenia podw�jnego �ycia.
+{96166}{96224}Pa�skie przedstawienie zrobi�o wra�enie.
+{96257}{96330}Teatralno�� i u�uda
+{96334}{96411}to pot�na bro�, Alfredzie.|Na dobry pocz�tek.
+{96415}{96482}Je�li to s� pierwsze z wielu kontuzji,
+{96486}{96554}m�drze by by�o poszuka�|w�a�ciwego wyt�umaczenia.
+{96562}{96594}Na przyk�ad polo.
+{96598}{96638}Nie b�d� gra� w polo.
+{96644}{96732}Dziwne kontuzje,|brak �ycia towarzyskiego.
+{96736}{96771}A� si� prosi o dociekanie,
+{96775}{96877}co w�a�ciwie Bruce Wayne|robi z czasem i pieni�dzmi.
+{96881}{96919}Co robi� tacy jak ja?
+{96942}{97043}Je�d�� sportowymi samochodami.|Chodz� z gwiazdami filmowymi.
+{97059}{97097}Kupuj� rzeczy, kt�re nie s� na sprzeda�.
+{97101}{97186}Kto wie, b�dzie pan udawa�,|�e si� dobrze bawi,
+{97201}{97249}a mo�e si� to panu spodoba.
+{97314}{97349}Prosz� pana?
+{97353}{97409}- Mamy problem.|- Tak?
+{97418}{97510}Stra� Wybrze�a znalaz�a wczoraj|w nocy jeden z naszych statk�w.
+{97523}{97638}Jest ci�ko uszkodzony.|Za�oga znikn�a, chyba nie �yje.
+{97687}{97744}Statek wi�z� prototyp nowej broni,
+{97749}{97792}emiter mikrofali
+{97796}{97867}zaprojektowany z my�l�|o konfliktach pustynnych.
+{97907}{97945}Chyba kto�...
+{98050}{98086}go u�y�.
+{98186}{98293}Dzi�ki skupionym mikrofalom bro�|odparowuje ca�y zapas wody wroga.
+{98483}{98554}Wyrz�dzone szkody s� katastrofalne.
+{98558}{98630}Sama bro�...
+{98661}{98697}Zagin�a?
+{98914}{98949}Fajny samoch�d.
+{98953}{98986}Szkoda, �e nie widzia�e� drugiego.
+{99226}{99273}Policja nigdy si� na to nie odwa�y�a.
+{99277}{99332}Nie mo�na bra� sprawiedliwo�ci|we w�asne r�ce.
+{99336}{99398}Przynajmniej co� zrobi�.
+{99402}{99458}Bruce, pom� mi.
+{99462}{99566}Facet, kt�ry przebiera si� za nietoperza,|musi mie� jakie� zaburzenia.
+{99591}{99645}Wsadzi� Falcone'a za kraty.
+{99649}{99706}A teraz gliny chc� zamkn�� jego.
+{99710}{99739}S� zazdro�ni.
+{99743}{99806}Prosz� pana, sadzawka jest do ozdoby,
+{99810}{99891}a pa�skie przyjaci�ki|nie maj� kostium�w.
+{99934}{99982}C�, s� z Europy.
+{100026}{100083}Musz� pana prosi�|o opuszczenie tego miejsca.
+{100105}{100188}- Nie chodzi o pieni�dze.|- Widzi pan,
+{100202}{100245}zamierzam kupi� ten hotel
+{100288}{100394}i ustali� nowe zasady|dotycz�ce sadzawki.
+{100422}{100479}My�l�, �e Batman zas�u�y� na medal.
+{100483}{100534}I na kaftan, �eby by�o gdzie go przypi��.
+{100770}{100802}Bruce?
+{100888}{100931}Rachel?
+{100935}{100969}S�ysza�am, �e wr�ci�e�.
+{101018}{101054}Co tu robisz?
+{101072}{101178}P�ywam. Dobrze ci� widzie�.
+{101182}{101219}D�ugo ci� nie by�o.
+{101233}{101303}- Wiem. Co s�ycha�?|- To co zwykle.
+{101349}{101389}Praca robi si� coraz gorsza.
+{101393}{101458}Sama nie zmienisz �wiata.
+{101462}{101512}A mam wyb�r?
+{101528}{101570}Ty jeste� zaj�ty p�ywaniem.
+{101602}{101651}Rachel, co widzisz...
+{101658}{101698}To wszystko...
+{101732}{101829}To nie ja.
+{101839}{101902}Wewn�trz mnie...
+{101931}{101978}jest co� wi�cej.
+{101994}{102031}Chod�, Bruce!
+{102035}{102126}Mamy dla ciebie jeszcze wi�cej hoteli!
+{102151}{102186}Bruce.
+{102214}{102298}W g��bi serca by� mo�e nadal jeste�|tym wspania�ym dzieciakiem,
+{102356}{102418}ale okre�la ciebie to, co robisz,
+{102429}{102471}a nie to, co masz w �rodku.
+{102772}{102810}Doktorze Crane, dzi�kuj� za przyj�cie.
+{102814}{102883}Nie ma za co. Podci�� sobie �y�y?
+{102887}{102975}Mo�e chcia� by� uznany za|niepoczytalnego. Gdyby co� si� sta�o...
+{102979}{103050}Lepiej si� zabezpieczy� ni� �a�owa�.
+{103132}{103218}Doktorze Crane, d�u�ej tego nie znios�.|To dla mnie zbyt wiele.
+{103222}{103281}�ciany si� kurcz� i tak dalej.
+{103294}{103354}Kilka dni na tym �arciu|i b�dzie to prawda.
+{103378}{103418}- Czego chcesz?|- Chc� wiedzie�,
+{103422}{103482}jak mnie przekonasz, �ebym milcza�.
+{103486}{103538}Na temat czego? Nic nie wiesz.
+{103542}{103642}Wiem, �e nie chcesz, �eby policja|przyjrza�a si� tym narkotykom.
+{103646}{103746}Wiem o eksperymentach na pacjentach|twojego domu wariat�w.
+{103750}{103838}Nie wdaj� si� z nikim w interesy,|p�ki nie poznam brud�w z jego �ycia.
+{103852}{103922}A ci goryle, kt�rych wynaj��e�...
+{103926}{103970}Ka�dy mi�niak w mie�cie|nale�y do mnie.
+{103974}{104055}Od wielu miesi�cy|sprowadzam tw�j towar...
+{104068}{104169}Wiem, �e on planuje co� wielkiego.|Chc� mie� w tym udzia�.
+{104200}{104275}Ju� wiem, co on na to powie.
+{104285}{104318}�e powinni�my ci� zabi�.
+{104363}{104442}Nawet on mnie tutaj nie dostanie.|Nie w moim mie�cie.
+{104585}{104622}Chcia�by� zobaczy� moj� mask�?
+{104659}{104694}U�ywam jej podczas eksperyment�w.
+{104754}{104861}Pewnie nie wydaj� si� zbyt przera�aj�cy|komu� takiemu jak ty,
+{104870}{104938}ale ci wariaci tego nie znosz�.
+{104960}{105007}Odk�d to wariat rz�dzi wariatkowem?
+{105030}{105094}Krzycz� i wyj�,
+{105118}{105157}mniej wi�cej jak ty teraz.
+{105213}{105290}On nie udaje. Ten na pewno nie.
+{105294}{105355}Poprosz� s�dziego o przeniesienie go
+{105359}{105441}do zamkni�tego skrzyd�a w Arkham.|Nie mog� go tu leczy�.
+{105969}{106005}Zbli�a si� burza.
+{106115}{106187}Te �miecie podskakuj�,|bo postawi�e� si� Falcone.
+{106191}{106276}To dopiero pocz�tek.|Tw�j partner by� z nim w dokach.
+{106280}{106345}Dorabia sobie jako podrz�dny ochroniarz.
+{106354}{106445}Podzielili �adunek na dwie cz�ci.|Tylko po�owa posz�a do dealer�w.
+{106449}{106495}A co z reszt�?
+{106506}{106564}- Flass wie.|- Nic mi nie powie.
+{106579}{106617}Ze mn� porozmawia.
+{106621}{106694}Komisarz Loeb przygotowa� oddzia�,|�eby ci� z�apa�.
+{106705}{106766}- Uwa�a, �e jeste� niebezpieczny.|- A ty jak uwa�asz?
+{106808}{106866}Uwa�am, �e chcesz pom�c.
+{106986}{107042}Ale ju� nieraz si� myli�em.
+{107181}{107222}Pospiesz si�.
+{107302}{107346}Flass, musz� wy�ywi� dzieciaki.
+{107357}{107409}Falafel im nie smakuje?
+{107778}{107819}Co si� sta�o z reszt� narkotyk�w?
+{107850}{107902}Nie wiem.
+{107906}{107959}- Przysi�gam na Boga.|- Przysi�gnij na mnie!
+{108094}{108166}Nie wiem. Nigdy nie wiedzia�em.
+{108173}{108256}Zanim trafi�y do dealer�w,|jaki� facet zabiera� je na kilka dni.
+{108260}{108291}Dlaczego?
+{108307}{108393}W narkotykach by�o schowane
+{108397}{108435}- co� jeszcze.|- Co?
+{108439}{108519}Nigdy tam nie by�em.|To gdzie� na Narrows.
+{108523}{108602}- Gliny je�d�� tam tylko w grupie.|- Wygl�dam na glin�?
+{108975}{109024}Chodzi mi o ten.
+{109031}{109086}- W czym problem?|- W og�le nie powinien istnie�.
+{109090}{109182}Statek opu�ci� Singapur z 246|kontenerami, a przyjecha� z 247.
+{109186}{109243}Musi tam by� co�,|czego nie powinienem znale��.
+{109247}{109329}Nie chcemy wiedzie�,|co jest w kontenerze Falcone'a.
+{109333}{109413}Wszystko si� zmieni�o.|Prosz� go otworzy�.
+{109643}{109673}Co to ma by�?
+{110694}{110770}To ty, prawda? Wszyscy o tobie m�wi�.
+{110784}{110837}- W�a� do �rodka!|- Nie wrzeszcz na niego!
+{110841}{110892}Ch�opaki mi nie uwierz�.
+{111446}{111497}Pozb�d�cie si� �lad�w.
+{111504}{111574}- Najlepiej to wszystko spali�.|- Dobra.
+{112438}{112481}Jakie� k�opoty?
+{112498}{112554}Usi�d�. Napij si�.
+{112571}{112649}Wygl�dasz na kogo�,|kto traktuje siebie zbyt powa�nie.
+{112738}{112810}Powiniene� si� rozchmurzy�.
+{114056}{114145}Alfredzie, pom� mi.
+{114382}{114463}Pobierz krew. Pobierz krew.
+{114467}{114539}Trucizna...
+{114642}{114683}Bruce.
+{114714}{114742}Dlaczego upadamy?
+{115032}{115111}- Jak d�ugo by�em nieprzytomny?|- Dwa dni.
+{115121}{115165}Dzi� panicza urodziny.
+{115197}{115227}Sto lat.
+{115352}{115443}Do�wiadczy�em kiedy� takich efekt�w,|ale te by�y o wiele silniejsze.
+{115448}{115557}To jaka� halucynogenna bro�|w formie aerozolu.
+{115562}{115632}Chodzi� pan po niew�a�ciwych klubach,|panie Wayne.
+{115637}{115710}Wezwa�em pana Foxa,|kiedy si� panu pogorszy�o.
+{115715}{115747}Zbada�em pa�sk� krew,
+{115752}{115835}izoluj�c zwi�zki receptorowe|i katalizatory bia�kowe.
+{115840}{115882}Powinienem co� z tego zrozumie�?
+{115892}{115967}Nie. Chc� tylko, �eby pan wiedzia�,|jakie to by�o trudne.
+{115982}{116070}- W ko�cu stworzy�em antidotum.|- Mo�na zrobi� tego wi�cej?
+{116075}{116136}Zasmakowa� panu ten gaz?
+{116141}{116217}Wie pan, jak jest, panie Fox.|Szukasz lania,
+{116222}{116288}kto� ci� atakuje|halucynogenami w sprayu...
+{116292}{116374}Przynios� tyle, ile mam.|Antidotum ju� pana uodporni�o.
+{116379}{116435}Alfredzie, mi�o by�o ci� zobaczy�.
+{116440}{116479}Luciusie.
+{116588}{116652}- Nie zechce pani wej��?|- Musz� wraca�.
+{116656}{116696}- Chc� tylko to zostawi�.|- Dzi�kuj�.
+{116767}{116843}Chyba kto� zarwa� nock�.
+{116848}{116912}- Pewnie by�a dobra okazja.|- Dzi� moje urodziny.
+{116917}{117004}Przepraszam, nie przyjd� wieczorem.|Przywioz�am ci prezent.
+{117009}{117091}- Masz lepsze plany?|- Mojego szefa nie ma od dw�ch dni.
+{117096}{117184}Chyba powinnam go szuka�|na dnie rzeki.
+{117294}{117323}Rachel Dawes.
+{117338}{117424}Kto wyda� nakaz? Sprowad� Crane'a.|Nie przyjmuj odmowy.
+{117429}{117521}Wezwij doktora Lehmanna.|Potrzebujemy na jutro jego ekspertyzy.
+{117532}{117575}- Co si� sta�o?|- Chodzi o Falcone'a.
+{117580}{117639}Crane przeni�s� go do Arkham.
+{117644}{117715}Jedziesz do Arkham? To jest na Narrows.
+{117746}{117789}Mi�ej zabawy, Bruce.
+{117794}{117859}- Ja musz� bra� si� za robot�.|- B�d� ostro�na.
+{117902}{117939}Wszystkiego najlepszego.
+{118101}{118169}Znalezione nie kradzione
+{118405}{118455}Paniczu Wayne,|nied�ugo zjawi� si� go�cie.
+{118460}{118498}Zabawiaj ich, p�ki nie wr�c�.
+{118503}{118555}Opowiedz im ten tw�j dowcip.
+{119487}{119527}Weso�o ci tu?
+{119579}{119664}Bill? Czego taka gruba ryba|szuka w takim miejscu?
+{119669}{119699}Informacji.
+{119704}{119818}Wayne Enterprises 47-B, 1 -ME.
+{119850}{119885}1 -ME.
+{119890}{119979}To emiter mikrofali, kt�ry zamienia|zapasy wody wroga w par�.
+{119984}{120085}Podobno testowano ulatnianie si�|chemikali�w rozpuszczonych w wodzie.
+{120089}{120135}Czy to nie jest nielegalne?
+{120177}{120278}Potrzebuj� wszelkich informacji|na temat tego projektu.
+{120283}{120378}Chc� mie� zaraz na moim biurku|wszelkie dane, pliki i zapasowe dyski.
+{120388}{120427}Zgubi�e� go?
+{120453}{120539}Tw�j dzia� po��czy si� z Archiwum.
+{120569}{120599}Zwalniam ci�.
+{120651}{120698}Nie dosta�e� pisma?
+{120872}{120911}Strach na wr�ble.
+{120991}{121035}Strach na wr�ble.
+{121116}{121147}Jest tam.
+{121220}{121272}Panno Dawes,|co za nieoczekiwana wizyta.
+{121277}{121346}Nie mam nic do dodania,|przedstawi�em raport.
+{121351}{121404}- Mam kilka pyta�.|- Na przyk�ad?
+{121409}{121511}Czy dla 52-letniego cz�owieka|dot�d zdrowego na umy�le
+{121516}{121602}nie jest korzystne za�amanie nerwowe|tu� przed procesem?
+{121607}{121708}Jak sama pani widzi,|jego symptomy nie s� zbyt korzystne.
+{121820}{121853}- Strach na wr�ble.|- O co mu chodzi?
+{121865}{121951}Pacjenci cierpi�cy na majaki|cz�sto skupiaj� swoj� paranoj�
+{121956}{122006}na dr�czycielu z zewn�trz,
+{122011}{122087}zazwyczaj potwierdzaj�cym|archetypy Junga.
+{122093}{122150}W tym przypadku|jest to strach na wr�ble.
+{122186}{122285}- Jest pod wp�ywem lek�w?|- Psychofarmakologia to ma specjalno��.
+{122289}{122322}Zawsze jej broni�.
+{122344}{122396}Na zewn�trz by� grub� ryb�.
+{122401}{122459}Tutaj moc czerpie si� tylko z umys�u.
+{122464}{122505}Lubi pan odwrotn� sytuacj�.
+{122510}{122581}Szanuj� w�adz� umys�u nad cia�em.
+{122586}{122623}Dlatego robi� to, co robi�.
+{122627}{122744}A ja staram si�, �eby tacy dranie|trafiali za kraty, nie na terapi�.
+{122749}{122827}��dam, by m�j osobisty konsultant|mia� do niego pe�ny dost�p.
+{122832}{122911}W��cznie z badaniami krwi.|Dowiem si�, co mu dali�cie.
+{122916}{122975}- Jutro z samego rana.|- Dzi�.
+{122980}{123062}Wezwa�am ju� doktora Lehmanna|z County General.
+{123096}{123139}Jak pani sobie �yczy.
+{123272}{123318}T�dy, prosz�.
+{123323}{123385}My�l�, �e powinna pani co� zobaczy�.
+{123647}{123709}Tutaj wytwarzamy to lekarstwo.
+{123873}{123966}Mo�e powinna pani spr�bowa�.|Oczy�ci pani umys�.
+{124572}{124610}Kto wie, �e tu jeste�?
+{124636}{124674}No kto?!
+{124848}{124877}On tu jest.
+{124882}{124911}Kto?
+{124916}{124962}Batman.
+{125006}{125051}- Co robimy?|- Co zrobi�by ka�dy
+{125056}{125122}w obliczu intruza.
+{125145}{125206}- Wzywamy policj�.|- Gliny? Tutaj?
+{125220}{125286}Ju� i tak nas nie powstrzymaj�.
+{125291}{125375}Za to Batman ma talent|do przeszkadzania.
+{125380}{125456}Wyci�gnijcie go na zewn�trz,|policja go zgarnie.
+{125461}{125511}- A ona?|- Zosta�o jej ma�o czasu.
+{125516}{125562}Da�em jej skoncentrowan� dawk�.
+{125567}{125628}Jej umys� d�ugo nie wytrzyma. Id�cie.
+{125689}{125743}To, co o nim m�wi�...
+{125748}{125785}Czy on naprawd� potrafi lata�?
+{125789}{125838}S�ysza�em, �e potrafi znika�.
+{125843}{125915}Przekonamy si�.
+{125922}{125961}Prawda?
+{127096}{127147}Niech pan spr�buje w�asnego lekarstwa.
+{127307}{127351}Co tu robisz?
+{127426}{127483}Dla kogo pracujesz?
+{127590}{127646}Dla Ra's... Dla Ra's Al Ghula.
+{127651}{127767}On nie �yje. Dla kogo pracujesz?
+{127772}{127796}Crane.
+{127856}{127926}Doktora Crane'a nie ma w tej chwili,
+{127940}{127985}ale je�li chcesz|um�wi� si� na spotkanie...
+{128298}{128367}Batmanie, od�� bro� i poddaj si�.
+{128385}{128418}Jeste� otoczony.
+{128552}{128618}- Na co czekacie?|- Na wsparcie.
+{128636}{128693}- Na co?|- Tam jest Batman.
+{128698}{128749}Antyterrory�ci ju� jad�,|ale mog� pana os�ania�,
+{128754}{128791}je�li chce pan wej��.
+{128827}{128863}Antyterrory�ci s� w drodze.
+{129940}{129980}Co jej jest?
+{130045}{130135}Crane otru� j� halucynogenn� toksyn�|wywo�uj�c� panik�.
+{130184}{130273}- Zabior� j� do karetki.|- Nie mog� jej pom�c, ale ja mog�.
+{130368}{130419}Zabierz j� na d�.|Spotkamy si� w tylnej uliczce.
+{130611}{130679}Crane przemyca� toksyn�|w narkotykach Falcone'a
+{130684}{130735}i wypuszcza� j� do zbiornik�w wodnych.
+{130748}{130787}- Co planowa�?|- Nie wiem.
+{130793}{130824}Pracowa� dla Falcone'a?
+{130836}{130896}Wspomnia� kogo� o wiele gorszego.
+{130901}{130962}Musz� poda� jej antidotum,|zanim b�dzie za p�no.
+{130967}{131019}- Ile ma czasu?|- Niewiele.
+{131113}{131155}Co to jest?
+{131189}{131243}- Wsparcie.|- Co to?...
+{133270}{133347}- Co z ni�?|- �le. Musimy rusza�.
+{133392}{133427}P�jd� po samoch�d.
+{133431}{133474}Przyprowadzi�em m�j.
+{133484}{133523}Tw�j?
+{133747}{133790}Musz� sobie taki sprawi�.
+{133820}{133871}- Jest w poje�dzie.|- Marka i kolor?
+{133876}{133932}Czarny...
+{133964}{133995}czo�g.
+{134059}{134091}Spokojnie.
+{134108}{134150}Otruto ci�.
+{134216}{134247}Jest.
+{134449}{134474}Oddychaj powoli.
+{134717}{134743}Trzymaj si�.
+{135091}{135123}- Co robisz?|- Jad� skr�tem.
+{135552}{135626}Wy��cz silnik. Wysi�d� z samochodu.
+{135683}{135707}Zaufaj mi.
+{136179}{136209}Co to za facet?
+{136234}{136258}Jest na dachu.
+{136604}{136656}- W kt�r� ulic� skr�ci�?|- W �adn�.
+{136661}{136702}Lata po dachach.
+{137643}{137696}Powiedz chocia�, jak wygl�da jego w�z.
+{137769}{137803}Niewa�ne.
+{137897}{137929}Jest.
+{138191}{138228}Siedzimy mu na ogonie.
+{139006}{139046}- A- 1, odbi�r.|- Zgubi�em go.
+{139051}{139095}Zjazd numer 9 zablokowany.
+{139100}{139147}Sprawdzimy poprzednie zjazdy.
+{139218}{139247}Nie poddawaj si�.
+{139402}{139431}Jest!
+{139904}{139939}Trzymaj si�!
+{140034}{140062}Rachel!
+{140404}{140464}Paniczu Wayne, Fox to przys�a�. A.
+{140848}{140904}Wpuszczaj� to do wodoci�gu?
+{140909}{140977}Zawiadomcie Wodoci�gi.|Trzeba odizolowa� okolic�.
+{140982}{141050}Oni wpu�cili wszystko.
+{141055}{141140}- Woda w ca�ym Gotham jest ska�ona.|- I nie odczuwamy efekt�w?
+{141145}{141199}To pewnie zwi�zek|wdychany przez p�uca.
+{141445}{141485}Jak si� czujesz?
+{141552}{141587}Gdzie jeste�my?
+{141600}{141690}- Dlaczego mnie tu przywioz�e�?|- Inaczej postrada�aby� zmys�y.
+{141695}{141743}Otruto ci�.
+{141748}{141834}- To doktor Crane.|- Odpocznij. Gordon ma Crane'a.
+{141839}{141889}Sier�ant Gordon to tw�j przyjaciel?
+{141910}{141949}Nie mog� mie� przyjaci�.
+{141971}{142050}Dam ci co� na uspokojenie.|Obudzisz si� z powrotem w domu.
+{142055}{142149}Wtedy zawieziesz to Gordonowi,|i tylko jemu. Nikomu nie ufaj.
+{142154}{142195}- Co to jest?|- Antidotum.
+{142200}{142279}Jedno, �eby Gordon si� zaszczepi�,|drugie, �eby rozpocz�� produkcj�.
+{142289}{142319}Produkcj�?
+{142324}{142399}Crane by� tylko pionkiem.|Musimy si� przygotowa�.
+{143022}{143103}Kiedy wyjawi� mi pan|sw�j wielki plan ocalenia Gotham,
+{143108}{143177}nie zadzwoni�em po ludzi|w bia�ych fartuchach
+{143182}{143241}dlatego, �e m�wi� pan,|�e nie chodzi o dreszczyk emocji.
+{143246}{143318}- Bo to prawda.|- A jakby to pan nazwa�?
+{143363}{143427}- Zajebista telewizja.|- Cud, �e nikt nie zgin��.
+{143432}{143519}Nie mia�em czasu|na przestrzeganie przepis�w.
+{143524}{143598}Zaczyna pan si� gubi�|wewn�trz tego pa�skiego potwora.
+{143603}{143708}U�ywam tego potwora,|by pomaga� innym, jak m�j ojciec.
+{143713}{143750}Thomas Wayne, pomagaj�c innym,
+{143755}{143824}nie pr�bowa� nikomu|niczego udowadnia�. Nawet sobie.
+{143836}{143916}Chodzi�o o Rachel, Alfredzie.|By�a umieraj�ca.
+{143927}{143989}Jest na dole, otumaniona.|Zawie� j� do domu.
+{143997}{144083}Obu nam na niej zale�y.|Ale pan musi by� ponad to.
+{144091}{144160}Musi pan zapomnie� o uczuciach,|bo b�dzie pan tylko m�cicielem.
+{144165}{144209}Fox wci�� tu jest?
+{144214}{144253}Musimy odes�a� tych ludzi.
+{144258}{144328}To go�cie Bruce'a Wayne'a.|Musi pan dba� o nazwisko.
+{144333}{144376}Nie obchodzi mnie ono.
+{144381}{144456}To nie tylko pa�skie nazwisko,|ale i pa�skiego ojca.
+{144499}{144555}To wszystko, co po nim pozosta�o.
+{144602}{144639}Prosz� tego nie zniszczy�.
+{145007}{145058}- Pan Earle.|- Wszystkiego najlepszego.
+{145063}{145096}Dzi�ki.
+{145104}{145152}Jak ceny akcji?
+{145159}{145187}Podskoczy�y.
+{145192}{145221}Kto je kupuje?
+{145226}{145271}Fundusze i domy maklerskie.
+{145276}{145316}To szczeg�y techniczne.
+{145321}{145361}Najwa�niejsze,
+{145366}{145413}�e nasza firma|ma zabezpieczon� przysz�o��.
+{145458}{145482}�wietnie.
+{145811}{145866}Obawiam si�, �e przesadzi�a z alkoholem.
+{146004}{146046}Jaki by� plan, Crane?
+{146051}{146104}Jak chcia�e� ulotni� toksyn�?
+{146114}{146192}Strach na Wr�ble. Strach na Wr�ble.
+{146197}{146240}Dla kogo pracowa�e�, Crane?
+{146291}{146343}Ju� za p�no.
+{146358}{146408}Ju� tego nie powstrzymacie.
+{146591}{146618}Dzi�kuj�. Dzi�ki.
+{146623}{146692}I dzi�ki za ten przedmiot.
+{146729}{146758}Nie ma za co.
+{146763}{146829}- U�yje pan tego w odpowiedni spos�b.|- Ju� u�y�em.
+{146836}{146927}Ile trwa�aby produkcja na wi�ksz� skal�?
+{146941}{146967}Tygodnie. Bo co?
+{146972}{147047}Kto� planuje rozprzestrzeni� toksyn�|za pomoc� wodoci�gu.
+{147072}{147145}Wodoci�giem nie mo�na|rozprzestrzeni� gazu.
+{147168}{147201}Co?
+{147206}{147266}Chyba �e przy pomocy emitera mikrofali,|na tyle pot�nego,
+{147271}{147339}�e odparuje ca�� wod� z wodoci�gu.
+{147350}{147428}Takiego jak ten, kt�ry niedawno|zgubi� si� Wayne Enterprises.
+{147439}{147467}Zgubi� si�?
+{147472}{147555}Earle mnie zwolni�, bo o to zapyta�em.
+{147604}{147687}Musisz wraca� do Wayne Enterpises|i zaczyna� produkcj� antidotum.
+{147692}{147766}Policja b�dzie go potrzebowa�a.
+{147771}{147820}Cofni�to mi przepustk�.
+{147825}{147872}To ciebie powstrzyma?
+{147883}{147923}Raczej nie.
+{147973}{148084}- Bruce, musisz kogo� pozna�.|- Nie teraz, pani Delane.
+{148089}{148157}Dobrze to wymawiam?
+{148162}{148220}Pan Ra's Al Ghul.
+{148356}{148398}Ty nie jeste� Ra's Al Ghul.
+{148436}{148466}Widzia�em, jak on umiera.
+{148471}{148543}Czy Ra's Al Ghul|nie jest nie�miertelny?
+{148610}{148668}Czy jego metody nie s� ponadnaturalne?
+{148778}{148883}A mo�e u�ywa tanich sztuczek,|by ukry� prawdziw� to�samo��, Ra's?
+{148928}{149035}Na pewno cz�owiek, kt�ry sp�dza noce,|lataj�c po dachach Gotham,
+{149040}{149088}nie b�dzie krytykowa�|mojej podw�jnej osobowo�ci.
+{149109}{149151}Ocali�em ci �ycie.
+{149156}{149215}Ostrzega�em ci�|przed wsp�czuciem, Bruce.
+{149292}{149344}To ja jestem twoim wrogiem.
+{149366}{149425}Pozw�l odej�� tym ludziom.
+{149432}{149510}Prosz�, mo�esz im wyt�umaczy�|ca�� sytuacj�.
+{149565}{149603}S�uchajcie wszyscy.
+{149623}{149667}S�uchacie?
+{149730}{149774}Ja...
+{149786}{149887}Chc� podzi�kowa� wam za przyj�cie|i wypicie mojej gorza�y.
+{149938}{149978}Powa�nie.
+{150004}{150069}Jest co� w rodzinie Wayne'�w,
+{150074}{150159}co przyci�ga takich darmozjad�w jak wy,
+{150164}{150251}kt�rzy potem szwendaj� si�|po rezydencji. Za was, ludzie. Dzi�ki.
+{150256}{150318}- Wystarczy, Bruce.|- Jeszcze nie sko�czy�em.
+{150327}{150367}Wy wszyscy...
+{150372}{150476}Szuje. Wy hipokryci.
+{150481}{150602}Fa�szywe lizusy szczerz�ce si�|do mnie przez z�by.
+{150607}{150692}Prosz�, zostawcie mnie w spokoju.
+{150697}{150759}Wyjd�cie, prosz�.
+{150768}{150849}Przesta�cie si� u�miecha�,|to nie �art. Wyjd�cie, prosz�.
+{150854}{150906}Koniec zabawy, wynocha.
+{150911}{150988}Jab�ko upad�o bardzo daleko|od jab�oni, panie Wayne.
+{151311}{151352}Zabawne.
+{151360}{151442}Ale bezcelowe.|Nikt z nich d�ugo nie po�yje.
+{151447}{151530}Tw�j atak na szpital|zmusi� mnie do dzia�ania.
+{151535}{151586}A wi�c Crane pracowa� dla ciebie.
+{151591}{151682}Ta toksyna to derywat organicznego|zwi�zku z naszych b��kitnych kwiat�w.
+{151691}{151739}On zrobi� z niej bro�.
+{151744}{151791}On nie nale�y do Ligi Cieni?
+{151796}{151904}Oczywi�cie, �e nie. My�la�,|�e planujemy ��da� okupu za miasto.
+{151922}{152030}Ale wy naprawd�|zamierzacie zatru� ca�e miasto.
+{152035}{152131}A potem patrzy�, jak Gotham|rozrywa si� na strz�py w panice.
+{152440}{152485}Odbierzesz �ycie milionom ludzi.
+{152491}{152570}Tylko cynik m�g�by to nazwa� "�yciem".
+{152575}{152618}Zbrodnie. Rozpacz.
+{152623}{152672}Cz�owiek nie powinien tak �y�.
+{152688}{152763}Liga Cieni od tysi�cy lat|walczy przeciwko
+{152768}{152803}ludzkiemu zepsuciu.
+{152808}{152893}Zniszczyli�my Rzym. Wype�nili�my|statki zad�umionymi szczurami.
+{152898}{152931}Spalili�my Londyn.
+{152936}{153003}Kiedy cywilizacja|osi�ga szczyt dekadencji,
+{153008}{153054}wracamy, by przywr�ci� r�wnowag�.
+{153059}{153096}Gotham mo�na ocali�.
+{153128}{153192}Daj mi troch� czasu.|Tu �yj� dobrzy ludzie.
+{153197}{153240}Bronisz miasta tak zepsutego,
+{153245}{153320}�e mogli�my przenikn�� wsz�dzie.
+{153587}{153619}Czas si� zabawi�.
+{153720}{153784}Kiedy odnalaz�em ci� w wi�zieniu,|by�e� zagubiony.
+{153788}{153838}Ale ja w ciebie uwierzy�em.
+{153843}{153932}Pozbawi�em ci� strachu|i ukaza�em ci drog�.
+{153939}{153992}By�e� moim najlepszym uczniem.
+{154000}{154075}To ty powiniene� razem ze mn�|ocali� �wiat.
+{154095}{154157}Stan� tam, gdzie moje miejsce.
+{154173}{154247}Mi�dzy tob� a mieszka�cami Gotham.
+{154288}{154350}Nikt nie mo�e ocali� Gotham.
+{154431}{154542}Gdy las zamienia si� w dzicz,|musi go oczy�ci� po�ar.
+{154572}{154683}Jutro �wiat ujrzy z przera�eniem, jak|jego najwi�ksze miasto niszczy si� samo.
+{154697}{154774}Tym razem nic nie powstrzyma|powrotu do harmonii.
+{154782}{154834}- Atakowali�cie ju� Gotham?|- Oczywi�cie.
+{154840}{154904}Nasza bro� staje si�|bardziej wyrafinowana.
+{154908}{154976}Na Gotham wypr�bowali�my now�.|Ekonomi�.
+{154987}{155099}Ale nie docenili�my|pewnych obywateli Gotham,
+{155110}{155162}na przyk�ad twoich rodzic�w.
+{155260}{155343}Zgin�li z r�k jednego z wielu ludzi,|kt�rym pr�bowali pom�c.
+{155350}{155416}Sprowad� g��d,|a ka�dy zostanie przest�pc�.
+{155421}{155479}Ich �mier� popchn�a ludzi|do ratowania miasta
+{155484}{155548}i od tej pory miasto ci�gle kuleje.
+{155553}{155595}Wr�cili�my, by doko�czy� robot�.
+{155613}{155690}Tym razem �aden zb��kany idealista|nie stanie nam na drodze.
+{155695}{155780}Tak jak twojemu ojcu, brakuje ci|odwagi, by zrobi� to, co nale�y.
+{155788}{155856}Je�li kto� stanie na drodze|sprawiedliwo�ci,
+{155861}{155958}musisz p�j�� za nim|i d�gn�� go prosto w serce.
+{156079}{156183}- Powstrzymam ci�.|- Nigdy nie uwa�a�e� na otoczenie.
+{156236}{156283}Sprawiedliwo�� to r�wnowaga.
+{156288}{156339}Spali�e� m�j dom|i zostawi�e� mnie, bym umar�.
+{156404}{156455}Wyr�wnali�my rachunki.
+{156849}{156890}Dopilnujcie, �eby nikt nie wyszed�.
+{157128}{157163}Wszyscy uciekli?
+{157167}{157233}- Ilu z oddzia�u zamkni�tego?|- Wszyscy.
+{157237}{157279}Seryjni mordercy, gwa�ciciele.
+{157285}{157353}Niech podnios� mosty.|Nie mog� uciec z wyspy.
+{157357}{157391}Podnios� mosty,
+{157396}{157497}kiedy przyjad� tu wszystkie wolne|jednostki, by wy�apa� szale�c�w,
+{157502}{157544}kt�rzy biegaj� na wolno�ci.
+{158127}{158193}Mam nadziej�, �e nie jeste� stra�akiem.
+{158337}{158387}Paniczu Wayne! Paniczu Wayne!
+{158496}{158600}I po co pan robi te pompki, skoro|nie mo�e pan podnie�� cholernej k�ody?
+{159523}{159572}Co ja narobi�em, Alfredzie?
+{159597}{159643}Wszystko, co moja rodzina...
+{159648}{159693}m�j ojciec zbudowa�...
+{159751}{159844}Spu�cizna Wayne'�w|to co� wi�cej ni� ceg�y i zaprawa.
+{159849}{159902}Chcia�em ocali� Gotham.
+{159923}{159967}Zawiod�em.
+{159997}{160027}Dlaczego upadamy?
+{160104}{160187}�eby�my nauczyli si� podnosi�.
+{160247}{160298}Nie postawi�e� na mnie krzy�yka?
+{160344}{160379}Nigdy.
+{160405}{160436}Na ziemi�!
+{160441}{160510}Dr�czenie zatrzymanego! Widzia�em!
+{160515}{160564}A chcesz zobaczy� nadu�ycie si�y?
+{160569}{160614}Wariat z broni�.
+{160643}{160722}Wobec mieszka�c�w|rozw�cieczonych pokazem si�y policji
+{160727}{160808}- poluj�cej na pacjent�w...|- Zaraz podnosimy mosty.
+{160813}{160899}Jestem z prokuratury, chc� przej��.
+{161077}{161131}- Cisza!|- Flass!
+{161171}{161242}Gordon, kto� do ciebie.
+{161247}{161304}- Co pani tu robi?|- To od naszego przyjaciela.
+{161309}{161343}Zwalcza toksyn� Crane'a.
+{161348}{161383}Oby nie by�o to potrzebne.
+{161388}{161463}Nie b�dzie, chyba �e potrafi|wypu�ci� to w powietrze.
+{161491}{161549}Dobrze, ostatnie przej�cie.
+{161566}{161659}Szybko, ludzie,|za trzy minuty podnios� most!
+{161665}{161745}Lepiej niech pani opu�ci wysp�,|zanim podnios� most. Patrol!
+{161761}{161785}Szybko!
+{162428}{162471}Nie mog� znale�� mamy.
+{162717}{162758}Co ty wyprawiasz?
+{162795}{162832}Panowie,
+{162843}{162903}czas wys�a� wiadomo��.
+{162945}{162978}A brzmi ona:
+{163009}{163050}"Panika".
+{163612}{163666}Jezu. Ci�nienie szaleje.
+{163691}{163722}Tam.
+{163730}{163783}Wodoci�g biegnie tu� pod Narrows.
+{165015}{165051}M�wi komisarz Loeb.
+{165056}{165135}Niech kto� si� do mnie odezwie!
+{165608}{165656}Loeb, Loeb. Tu Gordon.
+{165664}{165695}Co tam si� dzieje, do cholery?
+{165700}{165782}Potrzebujemy posi�k�w. Jednostki|powietrzne, antyterrory�ci, szturm�wki!
+{165787}{165887}Gordon! Wszyscy s� z wami na wyspie.
+{165892}{165940}S� bezu�yteczni!
+{165948}{166043}Ju� dobrze. Nikt ci� nie skrzywdzi.
+{166064}{166103}Oczywi�cie, �e tak!
+{166108}{166179}- Crane?|- Nie. Strach na Wr�ble.
+{166222}{166255}Gordon,
+{166260}{166313}ju� nikt nam nie zosta�.
+{166351}{166391}Zosta�em sam?
+{166490}{166529}Narrows rozrywa si� na strz�py.
+{166534}{166595}To dopiero pocz�tek.|Je�li zatruj� ca�e miasto,
+{166600}{166665}t�um w panice rozniesie Gotham.
+{166670}{166715}- Jak chc� to zrobi�?|- U�yj� poci�gu.
+{166720}{166811}Kolejka jedzie wzd�u� rur|do zbiornika pod Wayne Tower.
+{166816}{166856}Je�li u�yj� maszyny na stacji Wayne,
+{166861}{166944}reakcja �a�cuchowa sprawi,|�e w ca�ym mie�cie wyparuje woda.
+{166949}{166986}Gotham spowije trucizna.
+{166991}{167067}Powstrzymam go, ale musisz mi pom�c.
+{167072}{167114}- Jak?|- Umiesz tym je�dzi�?
+{167265}{167304}Tu jeste�cie!
+{167309}{167356}Nie ma si� czego ba�
+{167361}{167402}opr�cz samego strachu!
+{167428}{167483}Chc� wam pom�c!
+{168232}{168283}Batman nas ocali. Przyjdzie.
+{168409}{168454}- Przyjdzie.|- Nie podgl�daj.
+{168662}{168742}M�wi Gordon. Przygotujcie si�|do opuszczenia mostu.
+{168884}{168934}A nie m�wi�em?
+{169055}{169093}Zaczekaj.
+{169117}{169155}Mog�e� zgin��.
+{169160}{169190}Powiedz chocia�, kim jeste�.
+{169320}{169372}Niewa�ne, kim jestem w �rodku.
+{169396}{169499}Okre�la mnie to, co robi�.
+{169508}{169539}Bruce?
+{170348}{170427}Widz�, �e moj� rad� odno�nie|teatralno�ci potraktowa�e� dos�ownie.
+{170432}{170491}- To ju� koniec.|- Dla ciebie i policji.
+{170496}{170551}Ja walcz� z reszt� Gotham.
+{170556}{170635}A teraz, wybacz,|ale mam miasto do zniszczenia.
+{170640}{170728}- Nie pobij� twoich dw�ch pionk�w?|- Jak sobie �yczysz.
+{171036}{171091}GPS aktywny.
+{172049}{172079}W��czcie go.
+{172737}{172790}Kto na to pozwoli�?
+{173044}{173093}Odleg�o�� od Wayne Tower:|Pi�� kilometr�w.
+{173268}{173330}Ro�nie ci�nienie w wodoci�gu,|wysadza rury.
+{173335}{173367}Je�li dojdzie to tutaj,
+{173372}{173443}ca�y miejski wodoci�g wybuchnie!
+{173695}{173763}Najbli�sze skrzy�owanie, skr�t w prawo.
+{174356}{174391}Nigdy si� nie nauczysz.
+{174572}{174596}Przepraszam.
+{174692}{174763}- Znam to. Nie umiesz czego� nowego?|- Mo�e to!
+{175166}{175220}Dojecha�e� do celu.
+{175540}{175569}Ewakuowa� budynek.
+{175575}{175634}G��wny zbiornik zaraz wybuchnie.
+{175848}{175900}Bro� aktywowana.
+{175999}{176023}Fajny w�z.
+{176700}{176735}Nie b�j si�, Bruce.
+{176949}{176998}Jeste� tylko facetem w pelerynie.
+{177003}{177095}Nie pokonasz niesprawiedliwo�ci|i nie zatrzymasz tego poci�gu.
+{177100}{177161}A kto m�wi� o zatrzymywaniu go?
+{177534}{177615}Nigdy si� nie nauczy�e�|uwa�a� na otoczenie!
+{177804}{177863}Potrafisz wreszcie zrobi� to,|co konieczne?
+{177871}{177925}Nie zabij� ci�.
+{178032}{178083}Ale nie musz� ci� ratowa�.
+{179886}{179959}- Spotkanie ju� si� zacz�o.|- Jakie spotkanie?
+{180062}{180131}Fox, wydaje mi si�, �e ci� zwolni�em.
+{180144}{180181}To prawda.
+{180186}{180235}Dosta�em inn� robot�.
+{180256}{180291}Twoj�.
+{180302}{180342}Na czyje polecenie?
+{180358}{180403}Batman jest na pierwszej stronie,
+{180409}{180478}ale Bruce Wayne wyl�dowa� na �smej.
+{180540}{180627}Po�ar domu pijanego miliardera
+{180642}{180666}Bruce Wayne.
+{180671}{180761}S�dzisz, �e mo�esz decydowa�,|kto rz�dzi Wayne Enterprises?
+{180766}{180831}- Jestem w�a�cicielem.|- O czym ty m�wisz?
+{180838}{180883}Tydzie� temu weszli�my na gie�d�.
+{180888}{180923}Kupi�em wi�kszo�� akcji,
+{180932}{181014}podstawiaj�c r�ne fundacje|charytatywne, sp�ki i tak dalej.
+{181019}{181095}To szczeg�y techniczne,|ale najwa�niejsze,
+{181101}{181179}�e moja firma|ma zabezpieczon� przysz�o��.
+{181189}{181222}Prawda, panie Fox?
+{181227}{181270}Prawda, panie Wayne.
+{181324}{181361}Nie dosta�e� pisma?
+{181816}{181929}- Przepraszam, �e ci nie powiedzia�em.|- To ja przepraszam.
+{181951}{182015}W dniu, kiedy zgin�� Chill,
+{182060}{182098}powiedzia�am co� strasznego.
+{182111}{182152}Ale to by�a prawda.
+{182168}{182211}By�em tylko tch�rzem z broni� w r�ku,
+{182216}{182306}a sprawiedliwo�� to co� wi�cej|ni� zemsta, wi�c dzi�kuj�.
+{182332}{182396}Nigdy nie przesta�am o tobie my�le�.
+{182432}{182470}O nas.
+{182486}{182532}Kiedy dowiedzia�am si�, �e wr�ci�e�,
+{182553}{182605}zacz�am mie� nadziej�.
+{183183}{183247}A wtedy dowiedzia�am si�,|�e nosisz mask�.
+{183276}{183343}Batman to tylko symbol, Rachel.
+{183359}{183398}Nie, to jest...
+{183427}{183467}twoja maska.
+{183515}{183599}Twoja prawdziwa twarz to ta,|kt�rej teraz boj� si� przest�pcy.
+{183620}{183667}Cz�owiek, kt�rego kocha�am...
+{183685}{183719}Ten, kt�ry zagin��...
+{183749}{183800}nigdy nie wr�ci�.
+{183908}{183972}Ale mo�e jeszcze gdzie� jest.
+{184024}{184112}Mo�e kiedy Gotham nie b�dzie|ju� potrzebowa�o Batmana,
+{184138}{184184}znowu go spotkam.
+{184450}{184519}- Dowiod�e�, �e si� myli�am.|- W czym?
+{184588}{184646}Tw�j ojciec by�by z ciebie dumny.
+{184652}{184690}Tak jak ja.
+{185338}{185382}Co teraz zrobisz?
+{185416}{185453}Odbuduj� dom.
+{185475}{185531}Takim, jaki by�, ceg�a po cegle.
+{185696}{185725}Takim, jaki by�?
+{185776}{185805}Tak, bo co?
+{185810}{185940}Pomy�la�em, �e to dobra okazja,|�eby poprawi� fundamenty.
+{185945}{186015}- W po�udniowo-wschodniej cz�ci?|- Dok�adnie tam.
+{186392}{186460}- �adny.|- Nie znalaz�em wi�cej szef�w mafii.
+{186484}{186548}- Sier�ancie...|- Teraz "poruczniku".
+{186557}{186592}Wreszcie co� si� ruszy�o.
+{186597}{186644}�ap�wkarze trz�s� si� ze strachu.
+{186649}{186682}Nadzieja na ulicach...
+{186689}{186775}- Ale?|- Stracili�my Narrows.
+{186788}{186880}I nadal nie zgarn�li�my Crane'a|ani po�owy pacjent�w z Arkham.
+{186897}{186935}Zgarniemy.
+{186941}{186980}Dawne Gotham powr�ci.
+{186985}{187044}- A co z eskalacj�?|- Z czym?
+{187049}{187152}My zaczynamy nosi� p�automaty,|oni kupuj� automaty.
+{187157}{187260}My zaczynamy nosi� kevlar,|oni kupuj� pociski przeciwpancerne.
+{187265}{187343}- No i?|- A ty nosisz mask�
+{187354}{187398}i skaczesz z dach�w.
+{187433}{187481}We�my na przyk�ad tego faceta.
+{187488}{187536}Napad z broni�, podw�jne zab�jstwo.
+{187541}{187618}Spodoba�a mu si� teatralno��,|tak jak tobie.
+{187625}{187671}Zostawia wizyt�wk�.
+{187813}{187856}Sprawdz� to.
+{187940}{187975}Nie zd��y�em ci podzi�kowa�.
+{188097}{188146}Nie musisz.
+{188394}{188478}BATMAN - POCZ�TEK
+{201138}{201292}BATMAN - POCZ�TEK
+{201297}{201324}Tekst polski:|Patrycja �ukowska
+{201329}{201356}Napisy:|RMR s.c.
+{201572}{201666}www.NapiProjekt.pl - nowa jako�� napis�w.|Napisy zosta�y specjalnie dopasowane do Twojej wersji filmu.
