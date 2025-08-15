@@ -1,0 +1,1359 @@
+{1511}{1691}HARRY POTTER|I CZARA OGNIA
+{2588}{2636}Cholerne dzieciaki.
+{3769}{3839}Stajesz się wybredny, Glizdogonie.
+{3841}{3872}O ile sobie przypominam...
+{3874}{3957}...do niedawna mieszkałeś w rynsztoku.
+{3959}{4081}A może zbrzydło ci moje towarzystwo?
+{4084}{4141}Ach, skądże, mój panie, Voldemorcie.
+{4143}{4261}Ale czy nie da się tego|załatwić bez chłopaka?
+{4263}{4381}Nie! On jest potrzebny.
+{4383}{4479}Będzie tak, jak rozkażę.
+{4484}{4538}Nie zawiodę cię, panie.
+{4540}{4645}Najpierw zbierz starych towarzyszy.
+{4647}{4690}Wyślij znak.
+{4996}{5061}Nagini mówi, że pod drzwiami
+{5063}{5159}podsłuchuje jakiś stary mugol.
+{5161}{5304}Odsuń się, trzeba powitać|niespodziewanego gościa.
+{5306}{5354}{y:i}Avada Kedavra!
+{5461}{5485}Harry.
+{5516}{5540}Harry!
+{5593}{5698}- Nic ci nie jest?|- Miałem zły sen.
+{5705}{5780}- Kiedy przyjechałaś?|- Dopiero co, a ty?
+{5789}{5857}- Wczoraj wieczorem.|- Wstawaj, Ronald.
+{5879}{5965}- Co ty tu robisz?|- Ubieraj się, szybko.
+{5975}{6050}Tylko nie zaśnij z powrotem.|Dalej, Ron!
+{6052}{6149}Śniadanie już gotowe.
+{6263}{6325}- Gdzie idziemy?|- Nie wiem.
+{6327}{6375}Tato, gdzie idziemy?
+{6385}{6460}Na umówione miejsce.|Nie zgubcie się!
+{6511}{6601}Arturze!|Najwyższa pora.
+{6615}{6723}Przepraszam, Amosie.|Niektórzy zaspali.
+{6725}{6781}To Amos Diggory.
+{6783}{6858}Mój kolega z ministerstwa.
+{6868}{6962}- A to pewnie Cedrik?|- Tak, proszę pana.
+{6964}{6988}Tędy.
+{7042}{7127}Na brodę Merlina,|ty jesteś Harry Potter!
+{7129}{7189}- Tak, proszę pana.|- Miło mi cię poznać.
+{7191}{7247}Nawzajem.
+{7303}{7359}To już blisko.
+{7426}{7472}- Zaczynamy?|- Tak.
+{7474}{7570}- Nie chcemy się spóźnić.|- Nie ma czasu.
+{7572}{7626}Zbierzcie się razem dokoła.
+{7637}{7682}Co to za kalosz?
+{7684}{7744}To nie zwykły kalosz,|tylko świstoklik.
+{7746}{7781}Prędko!
+{7783}{7823}Co to jest świstoklik?
+{7825}{7875}Gotowi? Na trzy.
+{7877}{7949}- 1, 2, 3.|- Harry!
+{8215}{8263}- Puszczamy!|- Co?
+{8266}{8290}Puszczamy!
+{8602}{8689}Ale było fajnie, co?
+{8693}{8743}Dziękuję.
+{8900}{8929}Patrzcie!
+{8946}{9068}Witajcie na|Pucharze Świata w Quidditchu.
+{9145}{9191}Nie zatrzymujcie się.
+{9223}{9247}Patrz!
+{9546}{9610}No to na razie!|Do zobaczenia na meczu.
+{9612}{9691}Na razie, Cedriku.
+{9804}{9852}Nie ma to jak w domu!
+{9903}{9927}Co?
+{10095}{10170}Wybornie.
+{10183}{10253}Zajmijcie prycze|i rozpakujcie się.
+{10279}{10352}Ron, wyłaź z kuchni.|Wszyscy są głodni.
+{10354}{10482}Zdejmij kopyta ze stołu.
+{10484}{10519}Kocham czary.
+{10978}{11015}O, rany, tato!
+{11022}{11068}Nasze miejsca są na samej górze!
+{11070}{11111}Ujmę to tak:
+{11113}{11223}Jak zacznie padać,|pierwsi się o tym dowiecie.
+{11233}{11308}My siedzimy w Loży Ministra.
+{11310}{11380}Sam Korneliusz Knot nas zaprosił.
+{11382}{11430}Nie przechwalaj się, Draco...
+{11436}{11503}...przed nimi nie musisz.
+{11545}{11636}Ciesz się... póki możesz.
+{11983}{12040}Siadajcie, siadajcie.
+{12042}{12135}Mówiłem wam,|że to doskonałe miejsca.
+{12207}{12332}To Irlandczycy.|Jest Troy, Mullet i Moran!
+{12471}{12604}Irlandia! Irlandia!
+{12606}{12654}Bułgarzy lecą!!!
+{12800}{12856}A to kto?
+{12858}{12934}To najlepszy szukający na świecie.
+{13002}{13112}Krum! Krum! Krum!
+{13446}{13482}Dobry wieczór!
+{13503}{13561}Jako Minister Magii...
+{13580}{13644}...mam zaszczyt...
+{13671}{13767}...powitać państwa...
+{13770}{13909}...na finałowym meczu|422 Pucharu Świata w Quidditchu!
+{13911}{13969}Niechaj zacznie się mecz!
+{14382}{14476}- Krum nie ma równych.|- Krum, ten łamaga?
+{14478}{14552}Potrafi latać jak wiatr.
+{14554}{14606}To więcej niż sportowiec.
+{14630}{14692}- To artysta.|- Zakochał się.
+{14724}{14796}Viktor, kocham cię.
+{14804}{14869}{y:i}A serce moje bije dla ciebie.
+{14886}{14951}Irlandczycy, zdaje się, świętują.
+{14953}{14996}Przestańcie!
+{15008}{15060}To nie Irlandczycy.
+{15076}{15154}Szybko, wychodźcie.
+{15236}{15299}Trzymajcie się razem!|Idziemy do świstoklika.
+{15316}{15396}George, zajmij się Ginny.
+{17137}{17174}{y:i}Morsmordre!
+{17801}{17835}Harry!
+{17866}{17924}- Gdzie jesteś?|- Harry!
+{17978}{18044}Szukamy cię i szukamy.
+{18067}{18106}O, rany!
+{18131}{18160}Co to jest?
+{18248}{18303}{y:i}Drętwota!
+{18322}{18385}Nie, to mój syn!
+{18409}{18484}- Ron, Harry, Hermiona. Nic wam nie jest?|- Szukaliśmy Harry'ego.
+{18486}{18548}Kto go wyczarował?|Crouch. To niemożliwe.
+{18550}{18626}Nakryliśmy cię na miejscu zbrodni.
+{18628}{18687}- Zbrodni?|- To tylko dzieci.
+{18690}{18743}- Jakiej zbrodni?|- Harry, to jest Mroczny Znak.
+{18745}{18776}To jego znak.
+{18788}{18822}Voldemorta?
+{18844}{18959}Ci ludzie w maskach...|to byli jego poplecznicy.
+{18961}{18982}Tak.
+{18992}{19016}Śmierciożercy.
+{19057}{19124}- Za mną.|- Widziałem jednego człowieka...
+{19126}{19186}...był tam.
+{19206}{19249}Idziemy!
+{19276}{19388}- Jakiego człowieka, Harry?|- Nie wiem.
+{19438}{19489}Nie widziałem jego twarzy.
+{19897}{19966}Podać coś z wózka?
+{19990}{20074}Coś z wózka?
+{20164}{20210}Podać coś z wózka, serdeńka?
+{20212}{20298}Musy-świrusy|i paczkę różdżek z likierem.
+{20336}{20416}Albo tylko musy-świrusy.
+{20418}{20476}Tylko to, dziękuję.
+{20514}{20572}Dwa ciastka dyniowe, proszę.
+{20708}{20732}Dziękuję.
+{20766}{20812}Co dla ciebie, serdeńko?
+{20833}{20884}Nie jestem głodny, dziękuję.
+{20886}{20962}Podać coś z wózka?
+{20964}{21006}To okropne!
+{21018}{21092}Ministerstwo nie wie|kto to wyczarował.
+{21094}{21164}- Nie ma żadnych środków bezpieczeństwa?|- Jest wiele.
+{21166}{21198}Tata mi powiedział...
+{21217}{21322}dlatego to takie okropne.|To stało się pod ich nosem.
+{21348}{21445}Znowu boli, prawda?
+{21447}{21474}Nic mi nie jest.
+{21543}{21602}Syriusz musi się|dowiedzieć co zaszło.
+{21604}{21678}Co widziałeś po meczu i we śnie.
+{21918}{21968}Leć, Hedwigo.
+{22918}{22964}Uwaga!
+{23130}{23190}Tego jeszcze nie widzieliśmy.
+{23740}{23857}Skoro wszyscy już są na miejscach,|chciałbym coś ogłosić.
+{23892}{23968}W tym roku zamek będzie domem|nie tylko dla was,
+{23970}{24056}ale również|dla wyjątkowych gości.
+{24058}{24121}W tym roku|Hogwart został wybrany...
+{24124}{24150}Co się stało?
+{24193}{24217}Co się stało?
+{24286}{24337}Niech jeszcze chwilę zaczekają.
+{24388}{24503}Hogwart wybrano na miejsce|legendarnego widowiska...
+{24505}{24567}Turnieju Trójmagicznego.
+{24569}{24652}Dla tych co nie wiedzą,|Turniej Trójmagiczny
+{24654}{24752}rozgrywany jest pomiędzy|trzema szkołami magii.
+{24754}{24842}Z każdej szkoły wybierany|jest jeden zawodnik.
+{24844}{24961}Niech to będzie jasne:|kto zostanie wybrany, musi grać sam.
+{24966}{25093}I wierzcie mi...|te zawody to nie przelewki.
+{25095}{25196}Ale o tym później.|Teraz powitajmy
+{25198}{25287}urocze uczennice|z Akademii Beauxbatons...
+{25289}{25364}oraz jej dyrektorkę,|Madame Maxime.
+{25700}{25724}O, do licha!
+{25926}{25990}Ale wielka baba.
+{26509}{26594}Jak również|naszych przyjaciół z północy...
+{26596}{26716}uczniów ze szkoły Durmstrang|i ich dyrektora, Igora Karkarowa.
+{27298}{27370}Patrzcie, to on!|Viktor Krum!
+{27601}{27657}- Albusie.|- Igorze.
+{28004}{28098}Profesorze Dumbledore,|moje konie pokonały daleką drogę.
+{28100}{28156}- Wymagają troski.|- Nie ma się o co obawiać, Madame Maxime.
+{28158}{28241}Zajmie się nimi|nasz gajowy, Hagrid.
+{28246}{28311}Wie pan, Monsieur Hagrid,
+{28313}{28390}że one piją|tylko whisky słodową.
+{28527}{28564}Ty idioto!
+{28678}{28734}Proszę o uwagę!
+{28780}{28844}Pragnę coś powiedzieć.
+{28878}{28918}Wieczna chwała...
+{28942}{29042}przypadnie temu,|kto wygra Turniej Trójmagiczny.
+{29044}{29125}Aby tego dokonać,|trzeba przebrnąć przez trzy próby.
+{29127}{29241}Trzy niezwykle ciężkie próby.
+{29257}{29278}Ekstra.
+{29281}{29378}Z tej racji Ministerstwo|wprowadziło nowy regulamin.
+{29380}{29425}Koniecznych wyjaśnień...
+{29428}{29509}...udzieli Dyrektor Działu|Międzynarodowej Współpracy Magicznej.
+{29511}{29564}Pan Bartemiusz Crouch.
+{29914}{29986}O, do diabła.|To Szalonooki Moody.
+{29989}{30046}Alastor Moody?|Ten auror?
+{30049}{30109}- Auror?|- Tropiciel czarnej magii.
+{30111}{30179}On jeden zapełnił pół Azkabanu.
+{30181}{30262}Podobno jest kompletnie świrnięty.
+{30519}{30578}Witaj, stary druhu.
+{30580}{30613}Głupie uczucie.
+{30615}{30639}Dziękuję.
+{30805}{30860}Jak myślicie, co on popija?
+{30862}{30940}Raczej nie sok z dyni.
+{31102}{31208}Po długich analizach,|Ministerstwo nie dopuści
+{31210}{31295}uczniów poniżej 17 roku życia
+{31297}{31391}do ubiegania się o udział w Turnieju.
+{31393}{31442}- To ostateczna decyzja.|- Niemożliwe!
+{31444}{31473}Niesprawiedliwe!
+{31529}{31553}Cisza!
+{32079}{32122}Czara Ognia.
+{32161}{32226}Kto chce startować w Turnieju...
+{32228}{32303}...niech napisze swoje imię|na kawałku pergaminu,
+{32305}{32399}i wrzuci w jej płomienie.|Rozstrzygnięcie nastąpi we czwartek.
+{32404}{32451}Nie działajcie pochopnie.
+{32473}{32544}Kto zostanie wybrany,|nie będzie mógł zrezygnować.
+{32560}{32686}Turniej Trójmagiczny|zostanie rozpoczęty.
+{33303}{33334}Alastor Moody.
+{33397}{33436}Były auror...
+{33478}{33529}utrapienie Ministerstwa...
+{33539}{33604}i wasz nowy nauczyciel|obrony przed czarną magią.
+{33606}{33709}Jestem tu na prośbę Dumbledore'a.|Koniec kropka!
+{33711}{33735}Jakieś pytania?
+{33831}{33903}Jeśli chodzi o czarną magię...
+{33905}{33973}preferuję podejście praktyczne.
+{33980}{34119}Kto powie ile jest|zaklęć niewybaczalnych?
+{34121}{34187}- Trzy.|- I czemu się tak zwą?
+{34189}{34257}Ponieważ są niewybaczalne.|Kto je rzuci...
+{34259}{34364}ten wygrywa bilet do Azkabanu.|Dobrze.
+{34366}{34439}Ministerstwo uważa,|że jesteście za młodzi, by je poznać.
+{34441}{34523}Ja uważam inaczej!|Musicie wiedzieć co na was czyha!
+{34525}{34580}I musicie być przygotowani!
+{34582}{34682}Znajdź sobie inne miejsce|na tę gumę, Finnegan!
+{34684}{34785}Niemożliwe. On widzi|co się dzieje z tyłu.
+{34787}{34857}I słyszy - jeśli o to chodzi!
+{34892}{34964}No to od czego zaczniemy?
+{34972}{35001}- Weasley!|- Tak?
+{35003}{35027}Wstań.
+{35123}{35188}- Jakie znasz klątwy?|- No...
+{35190}{35273}Tata powiedział mi o jednej...
+{35276}{35391}- Zaklęcie Imperius.|- O, tak. Twój ojciec dobrze je zna.
+{35393}{35466}Ministerstwo miało z tym kupę roboty|parę lat temu.
+{35468}{35548}Zaraz zobaczycie dlaczego.
+{35718}{35742}Witam.
+{35785}{35839}Chodź tu, ślicznotko.
+{35904}{35946}{y:i}Engorgio!
+{35965}{36013}{y:i}Imperio!
+{36102}{36174}Nie bój się.|Jest nieszkodliwa.
+{36321}{36356}A jak ugryzie?
+{36375}{36401}Jest jadowita.
+{36462}{36502}Czego się śmiejesz?
+{36543}{36577}Zdejmij ją!
+{36630}{36678}Sprytna, co?
+{36681}{36799}Co mam z nią zrobić?|Wyrzucić przez okno?
+{36801}{36836}Ma się utopić?
+{37124}{37180}Wiele czarownic i czarodziejów
+{37187}{37305}twierdziło, że wykonywali tylko|polecenia Sami-Wiecie-Kogo
+{37307}{37412}pod wpływem zaklęcia Imperius.|I w tym szkopuł.
+{37414}{37484}Skąd wiadomo kto kłamał?
+{37547}{37633}Następne.|Wstań.
+{37652}{37698}Longbottom, tak?
+{37700}{37734}Wstawaj.
+{37791}{37922}Profesor Sprout mówi,|że masz smykałkę do zielarstwa.
+{37924}{38007}Istnieje jeszcze zaklęcie Cruciatus.
+{38017}{38065}Dobrze! Chodź.
+{38099}{38138}Nic się nie bój.
+{38204}{38303}Zaklęcie tortur.|{y:i}Crucio!
+{38627}{38705}Przestań!|On cierpi.
+{39150}{39253}Może podasz nam ostatnie|niewybaczalne zaklęcie, panno Granger?
+{39294}{39318}Nie?
+{39353}{39399}{y:i}Avada Kedavra!
+{39502}{39550}Zaklęcie zabójcze.
+{39567}{39646}Przeżył je tylko jeden człowiek.
+{39652}{39702}I siedzi tu, w tej sali.
+{40468}{40549}Fantastyczny, nie?|Zupełny wariat, naturalnie.
+{40551}{40645}- Strach być z nim w jednym pokoju.|- Ale on to wszystko przeżył.
+{40647}{40741}- Patrzył niebezpieczeństwu prosto w oczy.|- Te zaklęcia są zakazane.
+{40743}{40788}Jak on mógł użyć ich w klasie?
+{40790}{40867}Widzieliście minę Neville'a?
+{40931}{40973}Neville?
+{40976}{40988}Synu...
+{41009}{41038}Nic ci nie jest?
+{41073}{41161}Zapraszam cię na herbatę.|Coś ci pokażę.
+{41852}{41893}Wrzucaj!
+{42310}{42373}Wieczna chwała.|Dobre, co?
+{42375}{42476}- Za trzy lata będziemy mieli szansę.|- Chyba ty, bo ja nie.
+{42587}{42649}Dzięki, dzięki.|No, chłopaki.
+{42657}{42709}Zrobiliśmy go dziś rano.
+{42711}{42766}Nie zadziała.
+{42793}{42853}- Nie?|- A niby czemu, Granger?
+{42855}{42975}To jest linia wiekowa.|Dumbledore sam ją nakreślił.
+{42977}{43001}I co?
+{43052}{43122}Ktoś taki jak Dumbledore
+{43124}{43213}na pewno przewidział tak naiwne oszustwo,|jak eliksir postarzający.
+{43215}{43321}Dlatego to genialny pomysł.|Bo tak naiwny.
+{43364}{43407}- Gotów, Fred?|- Gotów, George.
+{43409}{43457}Zdrówko.
+{43700}{43761}Uwaga!
+{44097}{44161}- A mówiłeś...|- Sam mówiłeś.
+{44492}{44636}- Masz za swoje.|- Chciałeś być starszy, to masz.
+{45332}{45380}Usiądźcie.
+{45463}{45537}Oto moment,|na który wszyscy czekaliśmy!
+{45539}{45601}Wybór zawodników!
+{46350}{46441}Reprezentantem Durmstrangu jest...|Viktor Krum.
+{46828}{46937}Reprezentantką Beauxbatons jest...|Fleur Delacour.
+{47187}{47271}Reprezentantem Hogwartu|jest Cedrik Diggory.
+{47502}{47601}Wybornie!|Mamy zatem troje zawodników.
+{47612}{47716}Lecz tylko jedno nazwisko|przejdzie do historii.
+{47718}{47801}Tylko jedna osoba zdobędzie|Puchar Mistrzów.
+{47804}{47867}Tę czarę zwycięstwa.
+{47876}{47939}Puchar Turnieju Trójmagiczego.
+{48670}{48702}Harry Potter.
+{48766}{48798}Harry Potter!
+{48889}{48958}Nie. Nie.
+{48969}{49033}- Harry Potter!|- Idź, Harry.
+{49852}{49889}To oszust!
+{49911}{49955}Nie skończył 17 lat.
+{50651}{50711}To jakieś grube oszustwo.
+{50720}{50809}Żądam wyjaśnień.|To wbrew wszelkim zasadom!
+{50813}{50862}Ja protestuję!
+{50864}{50915}Czy to ty umieściłeś|swoje imię w Czarze Ognia?
+{50917}{50943}Nie.
+{50945}{50984}Poprosiłeś kogoś,|żeby to za ciebie zrobił?
+{50986}{51003}Nie.
+{51005}{51076}- Jesteś pewien?|- Tak, tak.
+{51084}{51141}- Kłamie jak najęty.|- Nie kłamie!
+{51143}{51215}Czara Ognia to przedmiot magiczny|o wielkiej mocy.
+{51217}{51279}Tylko wyjątkowo biegły czarownik|mógłby ją oszukać.
+{51281}{51326}To byłoby ponad jego siły.
+{51328}{51411}Wszystko przemyślałeś, co, Szalonooki?
+{51413}{51530}Potrafię przenikać myśli czarowników, Karkarow.|Ty powinieneś o tym pamiętać.
+{51532}{51586}To nie pomaga, Alastorze!
+{51611}{51667}Ty rozstrzygnij, Barty.
+{51697}{51755}Reguł nie można naginać.
+{51781}{51869}Czara Ognia dokonuje|nieodwracalnego wyboru.
+{51905}{51976}Pan Potter nie ma wyjścia.
+{51978}{52046}Od teraz jest...
+{52079}{52145}uczestnikiem Turnieju.
+{52796}{52847}Coś tu nie gra.
+{52849}{52911}Najpierw Maska Śmierci,|a teraz to.
+{52913}{52974}Co sugerujesz, Minervo?
+{52991}{53044}Trzeba położyć temu kres.
+{53063}{53111}Nie pozwolić Potterowi uczestniczyć.
+{53113}{53175}Słyszałaś Barty'ego.|Reguły są jasne.
+{53177}{53249}Do diabła z Bartym i jego regułami.
+{53252}{53303}Od kiedy to masz wzgląd|na zarządzenia Ministerstwa?
+{53305}{53442}Nie wierzę, że to był przypadek,|niemniej jednak...
+{53444}{53617}jeżeli mamy dowiedzieć się|co za tym stoi, to...
+{53622}{53668}niech wydarzenia|biegną swoim torem.
+{53703}{53788}Mamy nic nie robić?|Wystawić go na przynętę?
+{53790}{53882}Potter to chłopiec,|a nie kawałek mięsa.
+{53884}{53934}Jestem tego zdania co Severus.
+{53967}{54030}Alastorze, miej na niego oko.
+{54032}{54105}- Dobrze.|- Ale tak, żeby nie wiedział.
+{54107}{54183}I tak pewnie jest zaniepokojony...
+{54193}{54241}wiedząc co go czeka.
+{54251}{54312}Zresztą, my też.
+{54678}{54716}Jak ci się udało?
+{54761}{54809}Nieważne.
+{54824}{54909}- Ale kumplowi mogłeś powiedzieć.|- Co?
+{54911}{54954}Wiesz dobrze, co.
+{54956}{55029}Nie chciałem tego, Ron.
+{55031}{55064}OK?
+{55070}{55132}- Głupi jesteś.|- Zgadza się.
+{55134}{55238}Ron Weasley,|głupawy kolega Harry'ego Pottera.
+{55310}{55407}Nie wrzuciłem swojego imienia.|Nie zależy mi na wiecznej chwale.
+{55409}{55451}Chcę być...
+{55499}{55607}Nie wiem jak to się stało|i dlaczego.
+{55612}{55670}Ale stało się.|OK?
+{55912}{55936}Spadaj.
+{56312}{56368}Co za charyzmatyczny kwartet.
+{56404}{56428}Witam.
+{56464}{56517}Jestem Rita Skeeter.
+{56530}{56603}Pisuję do "Proroka Codziennego".
+{56608}{56660}Ale to pewnie wiecie.
+{56663}{56726}To was nie znają.
+{56742}{56790}Wy jesteście sensacją dnia.
+{56792}{56894}Jaka zagadka drzemie|pod tymi różanymi policzkami?
+{56896}{56994}Jakie tajemnice kryją się|pod tymi mięśniami?
+{56996}{57062}Jakie pokłady odwagi?
+{57064}{57134}Co nakręca mistrza?
+{57143}{57252}Ja chcę wiedzieć,|nie wspominając o moich czytelnikach.
+{57254}{57316}Kto chce mi się zwierzyć?
+{57395}{57460}Zacznijmy od najmłodszego.|Doskonale.
+{57750}{57791}Przytulnie tu.
+{57809}{57918}- To schowek na miotły.|- Zatem powinieneś się czuć jak u siebie.
+{57920}{57974}Nie przejmuj się moim piórem.
+{58040}{58074}Powiedz no, Harry...
+{58076}{58197}- Jak się czuje 12-latek...|- Mam 14...
+{58199}{58276}przed walką z trojgiem zawodników...
+{58278}{58367}nie tylko dalece bardziej dojrzałych,
+{58369}{58490}ale także znających zaklęcia,|o których tobie się nie śniło?
+{58492}{58529}Przejęty?
+{58568}{58643}Nie myślałem o tym...
+{58646}{58684}Nie przejmuj się piórem.
+{58694}{58751}Nie jesteś|zwykłym 12-latkiem, prawda?
+{58753}{58782}14-latkiem.
+{58784}{58886}Jesteś żywą legendą.|Czy to uraz z przeszłości
+{58888}{58977}popchnął cię do udziału|w tak niebezpiecznym turnieju?
+{58979}{59080}- Ja się nie zgłosiłem.|- Oczywiście, że nie.
+{59113}{59185}Wszyscy kochają buntowników, Harry.
+{59214}{59250}Wykreśl to ostatnie.
+{59273}{59390}A propos twoich rodziców,|czy gdyby żyli, byliby z ciebie dumni?
+{59392}{59473}Czy nie martwiliby się|twoją patologiczną potrzebą
+{59475}{59569}zwracania na siebie uwagi,|i dążeniem do samozagłady?
+{59598}{59622}Hej...
+{59630}{59759}Moje oczy wcale nie "zaszkliły się|na myśl o przeszłości".
+{60500}{60560}{y:i}Harry, nie ryzykowałem|{y:i}wysyłania Hedwigi.
+{60563}{60597}{y:i}Od finału Pucharu Świata
+{60599}{60664}{y:i}Ministerstwo uważniej|{y:i}monitoruje sowy pocztowe,
+{60666}{60772}{y:i}a ona jest łatwo rozpoznawalna.|{y:i}Musimy porozmawiać w cztery oczy.
+{60774}{60868}{y:i}Czekaj na mnie w wieży Griffindoru,|{y:i}o 1 w nocy w sobotę.
+{60870}{60916}{y:i}Bądź sam.
+{60918}{60942}{y:i}Syriusz.
+{60953}{60977}{y:i}P.S.:
+{61001}{61036}{y:i}Ta sowa dziobie.
+{61288}{61312}Syriuszu?
+{61580}{61617}{y:i}Tragiczny Turniej.
+{61619}{61724}{y:i}Harry Potter z Pucharem w Tle.
+{61727}{61777}{y:i}Harry Potter, lat 12...
+{61780}{61854}{y:i}...podejrzana kwalifikacja|{y:i}do Turnieju Trójmagicznego...
+{61856}{61928}{y:i}...oczy pełne łez|{y:i}na wspomnienie przeszłości...
+{62329}{62353}Syriusz.
+{62372}{62394}Jak...?
+{62396}{62457}Nie mamy zbyt wiele czasu.
+{62459}{62532}Czy to ty wrzuciłeś swoje imię|do Czary Ognia?
+{62534}{62558}Nie!
+{62579}{62687}Musiałem zapytać.|Teraz opowiedz mi swój sen.
+{62689}{62799}Wspomniałeś o Glizdogonie i Voldemorcie,|a kim był ten trzeci człowiek?
+{62801}{62879}- Nie wiem.|- Nie usłyszałeś jego imienia?
+{62881}{62905}Nie...
+{62929}{62994}Voldemort powierzył mu zadanie.
+{62996}{63078}- Coś ważnego.|- Co takiego?
+{63104}{63150}Mnie, chciał mnie.
+{63215}{63330}Nie wiem jak,|ale ten człowiek miał mnie dopaść.
+{63347}{63402}Ale to tylko sen, prawda?
+{63404}{63428}Tak.
+{63452}{63494}Tylko sen.
+{63508}{63536}Posłuchaj, Harry...
+{63553}{63604}śmierciożercy na Pucharze Świata...
+{63606}{63729}i ta sprawa z Czarą Ognia są podejrzane.|W Hogwarcie nie jest bezpieczne.
+{63731}{63777}- Co masz na myśli?|- To, że...
+{63779}{63906}to może być sprawka Igora Karkarowa,|był kiedyś śmierciożercą.
+{63908}{63981}A śmierciożercą jest się na zawsze.
+{63983}{64041}A Barty Crouch|ma serce z kamienia.
+{64043}{64129}Wysłał własnego syna do Azkabanu.
+{64230}{64276}Ktoś z nich|wrzucił moje imię do Czary?
+{64278}{64346}Ktokolwiek to zrobił,|nie jest ci przyjacielem...
+{64348}{64430}W tym Turnieju ludzie giną.
+{64432}{64559}- Nie dam rady, Syriuszu.|- Nie masz wyboru.
+{64604}{64710}- Ktoś tu idzie.|- Trzymaj przyjaciół blisko, Harry.
+{64744}{64792}- Z kim rozmawiałeś?|- Co?
+{64794}{64857}- Z nikim.|- Słyszałem głosy.
+{64859}{64900}Wydawało ci się.
+{64902}{64960}To nie byłby pierwszy raz.
+{64972}{65070}Pewnie ćwiczyłeś|do następnego numeru?
+{65675}{65704}Niesamowite.
+{65756}{65836}- To niesamowite.|- Neville, znowu to robisz.
+{65838}{65872}Przepraszam.
+{65918}{65988}"Magiczne rośliny z jezior"?
+{65990}{66084}Moody mi ją dał,|wtedy jak mnie zaprosił.
+{66086}{66136}Nie gadaj głupot.
+{66138}{66186}Sam powinieneś mu to przekazać.
+{66448}{66566}Ronald prosił, żebym ci powiedziała,|że Seamus mu powiedział,
+{66568}{66657}że Parvati powiedziała Deanowi,|że Hagrid cię szuka.
+{66659}{66707}Tak? No to...
+{66714}{66738}Co?
+{67000}{67081}Parvati powiedziała Deanowi, że...
+{67110}{67163}Nie każ mi powtarzać.
+{67170}{67230}- Hagrid cię szuka.|- Powiedz Ronaldowi....
+{67232}{67283}Nie jestem sową.
+{67538}{67614}- Masz pelerynę niewidkę?|- Tak.
+{67626}{67694}- Gdzie idziemy?|- Zaraz zobaczysz.
+{67696}{67758}Uważaj, to bardzo ważne.
+{67793}{67835}Po co ci ten kwiatek?
+{67852}{67909}Hagridzie, czyżbyś uczesał włosy?
+{67919}{67964}Owszem.
+{67969}{68036}Tobie też by nie zaszkodziło.
+{68255}{68276}Hagrid!
+{68384}{68425}Załóż pelerynę!
+{68579}{68624}"Bon Soir", Olympio.
+{68627}{68656}O, Hagridzie.
+{68672}{68735}Już się bałam,|że nie przyjdziesz.
+{68737}{68826}Myślałam, że o mnie zapomniałeś.
+{68828}{68891}Jak bym mógł?
+{68896}{68953}Co chciałeś mi pokazać?
+{68980}{69054}Kiedy rozmawialiśmy, byłeś taki...
+{69056}{69095}...podniecony.
+{69109}{69186}Nie pożałujesz, że przyszłaś.|Wierz mi.
+{69248}{69297}{y:i}C'est magnifique!
+{69430}{69475}Podejdziemy bliżej?
+{69654}{69686}Smoki!
+{69698}{69766}To jest pierwsze zadanie?!|To jakieś żarty.
+{69768}{69810}Spokojnie, Harry.
+{69823}{69905}Te stworzenia są niesłusznie|owiane złą legendą.
+{69964}{70080}Choć ten rogogon|to złośliwa bestia.
+{70100}{70182}Ron mało nie zemdlał|jak je zobaczył.
+{70194}{70249}- Ron tu był?|- Jasne.
+{70254}{70338}Jego brat Charlie|sprowadził je tu z Rumunii.
+{70340}{70388}Ron ci nie powiedział?
+{70422}{70451}Nie.
+{70471}{70525}Nic nie pisnął.
+{70763}{70810}Potter-Oszust.
+{70891}{70934}Potter-Śmierdziel.
+{70936}{70980}Cedrik jest najlepszy.
+{71027}{71065}Ładna plakietka?
+{71080}{71108}Przepraszam.
+{71248}{71310}- Cześć, Harry.|- Wczytaj się w tę plakietkę, Potter.
+{71312}{71348}Możemy pogadać?
+{71370}{71394}Jasne.
+{71408}{71451}Jesteś do bani, Potter.
+{71552}{71660}Smoki, to pierwsze zadanie.|Sprowadzili dla każdego po jednym.
+{71704}{71742}Poważnie?
+{71804}{71874}- A Fleur i Krum wiedzą?|- Tak.
+{71876}{71942}Dziękuję.
+{71944}{72004}Co do tych plakietek...
+{72006}{72090}- ...to nie był mój pomysł.|- Nie szkodzi.
+{72092}{72160}Nie wiem dlaczego to wybucha.
+{72162}{72268}To mi się zawsze przytrafia.|W sumie to nawet fascynujące.
+{72270}{72330}Straszny z ciebie dureń, wiesz?
+{72332}{72384}- Tak sądzisz?|- Tak.
+{72386}{72414}Coś jeszcze?
+{72421}{72509}- Tak, trzymaj się ode mnie z daleka.|- Nie ma sprawy.
+{72600}{72664}Coś taki spięty, Potter?
+{72666}{72724}Założyłem się z ojcem.
+{72731}{72815}Powiedziałem, że nie wytrzymasz|10 minut Turnieju.
+{72866}{72947}On się nie zgodził.|Twierdzi, że nie wytrzymasz nawet 5.
+{72949}{73030}Gówno mnie obchodzi|co myśli twój ojciec, Malfoy.
+{73040}{73089}On jest podły i okrutny.
+{73091}{73136}A ty żałosny.
+{73180}{73218}Ręce przy sobie!
+{73271}{73348}Już ja cię nauczę|atakować kogoś od tyłu.
+{73350}{73417}Ty śmierdząca, tchórzliwa szumowino!
+{73424}{73463}Profesorze Moody.
+{73465}{73508}Co pan wyprawia?
+{73520}{73554}Udzielam nauki.
+{73583}{73698}- Czy to jeden z uczniów?|- Technicznie rzecz biorąc, tchórz.
+{73799}{73854}Stój spokojnie.
+{74128}{74190}- Wszystko powiem ojcu.|- Jeszcze mi grozisz?!
+{74192}{74231}Grozisz mi?
+{74238}{74262}Profesorze.
+{74276}{74366}O twym ojcu mogę opowiedzieć takie historie,|od których włos się jeży!
+{74368}{74407}- Alastorze!|- Nie zadzieraj ze mną!
+{74409}{74525}Alastorze, transmutacja|nie służy do karania uczniów.
+{74536}{74598}Dumbledore chyba ci powiedział.
+{74600}{74638}Coś tam wspominał.
+{74641}{74702}Lepiej o tym pamiętaj.
+{74737}{74761}Zmykać stąd.
+{74846}{74868}Ty...
+{74870}{74906}pójdziesz ze mną.
+{75738}{75779}To mój monitor.
+{75810}{75870}Pokazuje gdzie są wrogowie.
+{75872}{76009}Jeśli widzę w nim białka ich oczu,|to znaczy, że są tuż za mną.
+{76088}{76194}Nawet ci nie powiem co tam siedzi.|I tak byś nie uwierzył.
+{76196}{76220}Dobra...
+{76278}{76350}Jak masz zamiar załatwić|tego smoka?
+{76437}{76487}Myślałem, żeby...
+{76528}{76559}Siadaj.
+{76653}{76691}Słuchaj, Potter.
+{76696}{76859}Twój kolega, Diggory, w twoim wieku transmutował|łasicę w zegarek bez zmrużenia okiem.
+{76878}{77001}Panna Delacour|to nie żadna wróżka z bajki.
+{77003}{77072}Co do Kruma,|to mięśniak bez rozumu.
+{77075}{77133}Ale Karkarow jest przebiegły.
+{77135}{77294}Obmyśli mu strategię,|i wykorzysta jego atuty.
+{77387}{77483}No, Potter, jakie ty masz atuty?
+{77519}{77624}Nie wiem.|Nieźle potrafię latać...
+{77627}{77668}To już coś.
+{77670}{77721}Ale nie pozwolą nam użyć mioteł.
+{77723}{77800}Pozwolą ci użyć... różdżki.
+{77967}{78025}Zakłady, przyjmuję zakłady!
+{78027}{78092}Przyjmujemy zakłady!
+{78094}{78168}Szykuje się krwawa łaźnia.
+{78171}{78240}Kto przeżyje, kto polegnie?|Przyjmuję zakłady.
+{78248}{78309}Dziesięć na Fleur, proszę uprzejmie.
+{78326}{78448}Proszę o uwagę.|To wielki dzień dla wszystkich.
+{78525}{78629}Każde zadanie|jest bardzo niebezpieczne...
+{78650}{78738}Psst.|Psst!
+{78768}{78849}- Harry, to ty?|- Tak.
+{78892}{78957}Jak się czujesz?|Dobrze?
+{79029}{79081}Skup się.
+{79086}{79187}- Musisz tylko...|- Pokonać smoka.
+{79259}{79312}Młodzi kochankowie!
+{79336}{79456}Jakie to... wzruszające.
+{79523}{79605}Gdyby zdarzyło się|jakieś nieszczęście...
+{79607}{79679}macie szansę|trafić na pierwszą stronę.
+{79681}{79790}Pani nie ma tu wstępu.|To namiot zawodników
+{79792}{79832}i przyjaciół.
+{79904}{79931}Nie szkodzi.
+{79948}{80003}Mamy to, czego chcieliśmy.
+{80075}{80137}Witam zawodników.|Chodźcie tu.
+{80140}{80260}Tyle czekania, tyle zagadek,|aż wreszcie nadeszła ta chwila.
+{80262}{80323}Tylko wy czworo potraficie|w pełni ją docenić.
+{80325}{80379}Co tu robi panna Granger?
+{80411}{80452}Przepraszam, już... pójdę!
+{80454}{80493}Barty, do dzieła.
+{80507}{80563}Zawodnicy, stańcie tu wkoło.
+{80565}{80635}Panna Delacour, tutaj.|Pan Krum, tu.
+{80637}{80731}Pan Potter, tu. Dobrze.
+{80733}{80792}Panno Delacour, proszę.
+{80898}{80940}Zielony Walijski.
+{81049}{81073}Panie Krum.
+{81150}{81206}Chiński Ogniomiot.
+{81350}{81399}Szwedzki Krótkopyski.
+{81419}{81465}- Czyli zostaje nam...|- Rogogon.
+{81467}{81522}- Co mówisz, chłopcze?|- Nic.
+{81606}{81654}Rogogon Węgierski.
+{81721}{81796}To miniaturki prawdziwych smoków.
+{81798}{81880}Każdy z nich strzeże jaja.
+{81882}{81976}Waszym zadaniem jest|odebranie jaj.
+{81978}{82040}Każde jajo zawiera wskazówkę,
+{82042}{82133}beż której nie poradzicie sobie|w następnym zadaniu.
+{82135}{82169}Jakieś pytania?
+{82196}{82228}Dokonale.
+{82240}{82350}Powodzenia!|Panie Diggory, na dźwięk wystrzału...
+{82919}{83001}Troje zawodników|uporało się ze smokami.
+{83003}{83078}Tak więc każde z nich|zakwalifikowało się do następnej próby.
+{83080}{83176}Czas na czwartego,|ostatniego zawodnika.
+{84906}{84947}Różdżka, Harry!
+{84951}{84980}Różdżka!
+{84990}{85038}{y:i}Accio Firebolt!
+{86309}{86356}Dawaj, smoku!
+{90596}{90662}- Brawo, Harry.|- Wiedzieliśmy, że ci się uda.
+{90664}{90712}Czy tobie się kiedyś nie udało?
+{90714}{90741}Nigdy!
+{90810}{90832}Cicho!
+{90851}{90930}Otwórz je, Harry.|Jaka jest wskazówka?
+{90940}{91012}Kto chce, żebym otworzył?
+{91032}{91101}Mam otworzyć?
+{91361}{91417}Co to, u diabła, było?
+{91516}{91583}Dobra, wracajcie do dormitoriów.
+{91585}{91687}Może się zrobić nieprzyjemnie,|jak ten wtrąci swoje trzy grosze.
+{91758}{91864}Musiałbyś być szalony,|żeby wrzucić swoje imię do Czary Ognia.
+{91866}{91938}Długo musiałeś nad tym myśleć.
+{91958}{92082}Nie tylko ja cię podejrzewałem.|Wszyscy szemrali po kątach.
+{92118}{92187}Super, to mnie pocieszyło.
+{92216}{92303}- Dałem ci cynk o smokach.|- Hagrid mi powiedział o smokach.
+{92305}{92347}Nie, to byłem ja.
+{92349}{92377}Nie pamiętasz?
+{92387}{92451}Powiedziałem Hermionie,|że Seamus mi powiedział,
+{92453}{92519}że Parvati powiedziała Deanowi,|że Hagrid cię szuka.
+{92521}{92635}Seamus nic mi nie powiedział.|Tylko ja wiedziałem.
+{92637}{92757}Myślałem, że się domyślisz.
+{92766}{92839}Jak ktoś w ogóle mógłby|się tego domyślić?
+{92857}{92910}To było całkiem porąbane.
+{92922}{93001}Może faktycznie... nieco zagmatwane.
+{93078}{93102}Chłopaki.
+{93707}{93736}Cześć, Harry.
+{93822}{93885}Patrzy na ciebie.
+{94043}{94077}Coś podobnego.
+{94125}{94184}Znowu to zrobiła.
+{94206}{94267}{y:i}"Panna Granger,|{y:i}ambitna młoda czarownica,
+{94269}{94330}{y:i}ugania się za sławnymi czarodziejami."
+{94332}{94442}{y:i}Jej ostatnim podbojem|{y:i}jest bułgarski mistrz,
+{94444}{94485}{y:i}Viktor Krum.
+{94489}{94601}{y:i}Nie wiadomo jak z tym ciosem|{y:i}poradzi sobie Harry Potter.
+{94614}{94706}- Przesyłka, panie Weasley.|- Dziękuję, Nigelu.
+{94825}{94889}Nie stój tak, Nigelu.|Później.
+{95093}{95191}Obiecałem, że zdobędę dla niego|autograf Harry'ego.
+{95216}{95270}To od mamy.
+{95452}{95494}To szata.
+{95496}{95606}- Będzie ci pasować do oczu.|- Jest też gustowna kryza.
+{95608}{95646}Bardzo śmieszne.
+{95665}{95760}- Ginny, to dla ciebie.|- Nie włożyłabym tego, to okropne.
+{95796}{95841}Z czego się śmiejesz?
+{95843}{95926}To nie dla Ginny.|Tylko dla ciebie.
+{95949}{96069}- To szata wieczorowa.|- Wieczorowa? Do czego?
+{96072}{96124}Bal Bożonarodzeniowy...
+{96126}{96258}jest tradycyjnie obchodzony|podczas Turnieju Trójmagicznego...
+{96268}{96326}od samego początku.
+{96330}{96430}W noc Bożego Narodzenia,|wraz z gośćmi zbieramy się w Wielkiej Sali,
+{96432}{96597}i kulturalnie urządzamy|szaloną zabawę.
+{96604}{96743}Jako przedstawiciele gospodarzy,|musicie wszyscy
+{96745}{96806}zaprezentować się od najlepszej strony.
+{96808}{96859}I to dosłownie.
+{96861}{96976}Ponieważ Bal Bożonarodzeniowy|polega przede wszystkim...
+{96988}{97012}na tańcu.
+{97125}{97149}Cisza!
+{97184}{97246}Dom Godryka Gryffindora|zachowywał z godnością
+{97248}{97319}tradycję świata czarodziejów|od dziesiątków stuleci.
+{97321}{97411}Nie pozwolę, byście w jeden wieczór|obrócili w perzynę
+{97413}{97535}dorobek pokoleń, zachowując się|jak krnąbrna kupa koczkodanów.
+{97537}{97583}Spróbuj to powiedzieć|szybciej niż ona.
+{97585}{97609}Taniec...
+{97629}{97718}polega na uwolnieniu ciała.
+{97720}{97756}W każdej dziewczynie
+{97758}{97862}drzemie delikatny motyl,|który chce wydostać się na wolność.
+{97864}{97951}W Heloise Midget|drzemie co najwyżej ćma.
+{97957}{98046}Zaś w każdym chłopcu|drzemie lew salonowy gotów do skoku.
+{98048}{98099}- Panie Weasley.|- Tak?
+{98109}{98162}Można prosić?
+{98294}{98363}Prawa ręka na kibici.
+{98365}{98417}- Gdzie?|- W pasie.
+{98419}{98467}Wyprostuj rękę.
+{98504}{98555}Panie Filch, proszę.
+{98620}{98764}Raz, dwa, trzy. Raz, dwa, trzy.
+{98851}{98926}- Tego mu nigdy nie zapomnimy.|- Nigdy.
+{98928}{98973}Chłopaki, do góry.
+{99578}{99632}Po co nam osoby towarzyszące?
+{99637}{99717}I dlaczego to mają być dziewczyny?
+{99870}{99964}Pokonałeś smoka,|to i z tym sobie poradzisz.
+{99966}{100038}Chyba już wolę smoki.
+{100171}{100214}Mam to po mamie.
+{100216}{100310}Opuściła nas, gdy miałem 3 lata.
+{100312}{100384}Nie była zbyt matczyną matką,|za to tata odwrotnie.
+{100403}{100449}To był nieduży jegomość.
+{100451}{100564}W wieku 6 lat, mogłem go|podnieść i włożyć do szafy.
+{100566}{100632}Ale było przy tym śmiechu.
+{100677}{100718}Skosztuj jeszcze miodu.
+{100859}{100953}Zmarło mu się,|kiedy poszedłem do szkoły.
+{100955}{101027}Więc odtąd jestem sam|jak palec.
+{101029}{101114}Ale dość o mnie.|Powiedz coś o sobie?
+{101498}{101531}To jakieś szaleństwo.
+{101533}{101640}Już tylko my dwaj nie mamy pary.
+{101670}{101740}No i Neville, rzecz jasna.
+{101747}{101819}On doskonale tańczy sam ze sobą.
+{101829}{101914}Może was zainteresuje,|że Neville kogoś zaprosił.
+{101965}{102026}No nie.|Teraz to już załamka.
+{102158}{102271}{y:i}RUSZ SIĘ BRACIE|{y:i}BO WSZYSTKIE ŁADNE|{y:i}SPRZĄTNĄ CI SPRZED NOSA
+{102283}{102328}A ty z kim idziesz?
+{102403}{102440}Angelina.
+{102748}{102818}Hermiono,|ty przecież jesteś dziewczyną.
+{102835}{102912}- Trafna uwaga.|- Nie mam racji?
+{103028}{103083}No wiesz, dla chłopaka|iść samemu to nie wstyd,
+{103085}{103138}ale dla dziewczyny, to żałosne.
+{103140}{103235}Wcale nie idę sama,|ktoś inny mnie już zaprosił.
+{103395}{103442}I się zgodziłam.
+{103491}{103515}O, do licha.
+{103528}{103623}- Kłamie, nie?|- Skoro tak twierdzisz.
+{103636}{103714}Trzeba zacisnąć zęby|i to zrobić.
+{103716}{103795}Zanim wrócimy do wieży,|obaj musimy mieć partnerki, OK?
+{103797}{103839}Dobra.
+{104413}{104461}- Cho.|- Harry.
+{104542}{104603}Uważaj na schodach,|na górze jest ślisko.
+{104605}{104638}Dobra, dzięki.
+{104755}{104779}Cho!
+{104801}{104836}Tak?
+{104893}{104929}Chciałem, czy ty...
+{104931}{105010}Czy szłabyś ze mnie na bal?
+{105040}{105102}Nie zrozumiałam, co takiego?
+{105121}{105236}Chciałem zapytać,|czy nie poszłabyś ze mną na bal?
+{105378}{105480}Harry, przykro mi,|ale ktoś inny mnie już zaprosił.
+{105576}{105638}...i obiecałam, że pójdę... z nim.
+{105688}{105787}OK. Tak, to świetnie.
+{105806}{105842}Nie ma sprawy.
+{105844}{105892}OK, dobra.
+{105916}{105955}Harry!
+{105977}{106061}Naprawdę mi... przykro.
+{106306}{106372}Nic się nie stało.
+{106374}{106407}Nic ci nie będzie.
+{106409}{106443}Co tobie?
+{106457}{106543}- Zaprosił Fleur Delacour.|- Co?
+{106545}{106639}- I co odpowiedziała?|- Naturalnie odmówiła.
+{106654}{106738}- Zgodziła się?!|- Nie zgrywaj się.
+{106740}{106788}Przechodziła obok mnie...
+{106804}{106866}Wiesz jak ja lubię ich chód.
+{106869}{106947}I jakoś mi się wymknęło.
+{106950}{107053}W zasadzie wydarł się w niebogłosy.
+{107055}{107159}- I co dalej?|- Jak to co? Uciekłem.
+{107161}{107207}Nie nadaję się do tego.
+{107209}{107292}- Nie wiem co we mnie wstąpiło.|- Cześć, Harry.
+{107300}{107376}Dotychczas tylko|patrzyłem na nią ukradkiem.
+{107392}{107469}Nigdy mi tego nie wybaczy.
+{107904}{107928}O, cholera.
+{108001}{108025}O, cholera.
+{108113}{108149}Dlaczego ja?
+{108275}{108308}Co ty na sobie masz?
+{108310}{108371}- Co to jest?|- Strój wieczorowy.
+{108374}{108479}Ale twój jest w porządku.|Bez koronek i w normalnym kolorze.
+{108488}{108541}Twój za to|jest bardziej tradycyjny.
+{108543}{108598}Tradycyjny?|On jest archaiczny.
+{108613}{108670}Wyglądam w nim jak ciotka Tessy.
+{108720}{108785}Nawet pachnę jak ciotka Tessy.
+{108904}{108949}Zabij mnie, Harry.
+{108985}{109026}Zostaw go w spokoju.
+{109048}{109131}Biedaczka, pewnie szlocha|sama w swoim pokoju.
+{109133}{109193}- Kto?|- Hermiona.
+{109196}{109281}Inaczej dawno by nam powiedziała|z kim idzie.
+{109283}{109329}Niepotrzebnie z niej żartowałeś.
+{109331}{109390}Inni też ją pytali.
+{109392}{109486}Sam bym ją zaprosił,|gdyby nie zadzierała nosa.
+{109488}{109524}Cześć, chłopaki.
+{109526}{109569}Aleś się...
+{109585}{109627}...wystroił.
+{109632}{109702}A, tu jesteś, Potter.|Gotowi?
+{109704}{109753}- Na co?|- Do tańca.
+{109755}{109859}Wedle tradycji troje zawodników,|a w tym przypadku czworo, otwiera bal.
+{109861}{109904}Nikt ci nie wspominał?
+{109906}{109983}- Nie.|- No to teraz wiesz.
+{110023}{110133}Pan, panie Weasley,|przejdzie z panną Patil do Wielkiej Sali.
+{110135}{110200}- A, tu jesteście.|- Tędy.
+{110434}{110498}Ustawcie się parami.
+{110691}{110779}- Wygląda olśniewająco.|- Tak.
+{111929}{112013}Czy to Hermiona Granger?|Z Viktorem Krum?
+{112025}{112086}Nie. Nie może być.
+{112198}{112225}Cześć.
+{112440}{112491}Chwyć mnie w talii.
+{112513}{112560}- Co?|- Szybko.
+{114134}{114198}Jesteście gotowi?!
+{114892}{114953}Dyniogłowy.
+{115008}{115128}Teraz wiadomo po co|przesiadywał w bibliotece.
+{115130}{115265}- Podasz mi ramię?|- Ramię, nogę, co tylko zechcesz.
+{115858}{115906}Gorąco, nie?
+{115915}{116003}Viktor poszedł po coś do picia.|Możecie się do nas przyłączyć.
+{116005}{116088}Nie będziemy przeszkadzać|tobie i Viktorowi.
+{116128}{116183}O co ci chodzi, Ron?
+{116185}{116272}On jest z Durmstrangu.|Bratasz się z wrogiem.
+{116274}{116312}Z wrogiem?
+{116327}{116384}A kto marzy o jego autografie?
+{116386}{116452}Poza tym,|nadrzędnym celem Turnieju jest...
+{116454}{116547}międzynarodowa współpraca czarodziejów.
+{116549}{116600}I przyjaźń.
+{116602}{116683}Dla mnie|to wygląda na coś więcej.
+{116914}{116978}Poprosisz mnie w końcu do tańca?
+{116980}{117013}Nie.
+{117199}{117244}On cię wykorzystuje.
+{117246}{117317}Jak śmiesz?|Sama o siebie zadbam.
+{117319}{117381}On jest dla ciebie za stary.
+{117383}{117437}Tak uważasz?
+{117439}{117530}- Owszem.|- No to wiesz co masz zrobić.
+{117532}{117560}Co?
+{117562}{117661}Następnym razem zaproś mnie|zanim zrobi to ktoś inny.
+{117663}{117741}- A nie w ostatniej chwili.|- Ale...
+{117743}{117808}to w ogóle jest nie na temat.
+{117810}{117853}Harry.
+{117859}{117881}Gdzie byłeś?
+{117883}{117993}Nieważne, wracajcie do siebie, obaj.
+{118019}{118056}Ona z wiekiem jest coraz gorsza.
+{118058}{118137}A ty wszystko psujesz.
+{119994}{120040}Chcę to zobaczyć jeszcze raz.
+{120046}{120137}O, tak. Czas się zbliża.
+{120267}{120324}Nareszcie.
+{120331}{120460}Odsuń się,|trzeba powitać gościa.
+{120716}{120773}Nic ci nie jest, Harry?
+{120787}{120844}Dopiero teraz wróciłem.
+{120848}{120879}Ja!
+{121141}{121227}Harry, obiecałeś, że zastanowisz się|na tym jajem kilka tygodni temu.
+{121229}{121273}Za dwa dni druga próba!
+{121276}{121323}Naprawdę?|Nie miałem pojęcia.
+{121364}{121411}Pewnie Viktor|już wszystko wygłówkował?
+{121413}{121480}Nie wiem.|Nie rozmawiamy o Turnieju.
+{121507}{121558}W zasadzie wcale nie rozmawiamy.
+{121560}{121638}Viktor jest raczej człowiekiem czynu.
+{121707}{121786}Nie jest specjalnie rozmowny.
+{121795}{121852}Głównie się na mnie patrzy.
+{121867}{121916}To wręcz irytujące.
+{121949}{122032}Ty wcale nie chcesz|otworzyć tego jaja, prawda?
+{122034}{122084}Co to ma znaczyć?
+{122086}{122161}Tylko tyle, że jesteś|wystawiony na próbę.
+{122164}{122255}W najbardziej brutalny,|niemalże okrutny sposób.
+{122266}{122320}I...
+{122361}{122417}boję się o ciebie.
+{122428}{122499}Ze smokiem miałeś szczęście.
+{122503}{122564}Tym razem to może nie wystarczyć.
+{122571}{122610}Hej, Potter.
+{122744}{122795}- Potter.|- Cedriku?
+{122845}{122903}Co u ciebie?
+{122908}{122953}Bajecznie.
+{122978}{123080}Nie podziękowałem ci jeszcze|za ten cynk o smokach.
+{123082}{123138}Nie ma za co.|Ty zrobiłbyś to samo.
+{123140}{123174}Właśnie.
+{123205}{123289}Wiesz gdzie jest|łazienka prefektów na 5 piętrze?
+{123358}{123427}Dobrze się tam iść wykąpać.
+{123479}{123618}Weź to jajo, i przemyśl wszystko|w gorącej kąpieli.
+{124448}{124491}Chyba oszalałem.
+{124749}{124808}Zdecydowanie oszalałem.
+{124867}{124949}Na twoim miejscu|otworzyłabym je pod wodą.
+{124951}{124972}Marta!
+{124974}{125134}Cześć, Harry.|Dawno cię nie widziałam.
+{125240}{125340}Pływałam sobie ostatnio|w okolicach ścieku
+{125342}{125417}i zauważyłam eliksir wielosokowy.
+{125419}{125474}Czyżbyś był|znowu niegrzeczny, Harry?
+{125476}{125524}Eliksir wielosokowy?
+{125538}{125558}Nieważne.
+{125560}{125652}Mówiłaś, że mam to włożyć|pod wodę?
+{125791}{125902}To właśnie zrobił|ten drugi chłopak.
+{125928}{125980}Ten przystojny.
+{126012}{126056}Cedrik.
+{126125}{126187}Na co czekasz?|Otwórz je.
+{126380}{126503}{y:i}Szukaj nas tam,|{y:i}gdzie słyszysz nasz głos
+{126505}{126619}{y:i}Pod wodą śpiewamy,|{y:i}taki nasz los
+{126621}{126737}{y:i}A kiedy będziesz szukał,|{y:i}zaśpiewamy tak:
+{126739}{126869}{y:i}My mamy to,|{y:i}czego tobie brak.
+{127121}{127204}Czy w jeziorze żyją trytony?
+{127227}{127268}O, bardzo sprytnie.
+{127283}{127391}Cedrik myślał nad tym|całymi godzinami.
+{127393}{127497}Aż zniknęły wszystkie bąbelki.
+{127919}{127959}Harry, powtórz jeszcze raz.
+{128000}{128075}{y:i}Szukaj nas tam,|{y:i}gdzie słyszysz nasz głos.
+{128077}{128149}Chodzi o jezioro, to pewne.
+{128157}{128220}{y:i}Aby to odzyskać,|{y:i}masz tylko godzinę.
+{128225}{128317}To też proste,|choć potencjalnie niebezpieczne.
+{128342}{128376}Potencjalnie niebezpieczne?
+{128378}{128456}Kiedy ty ostatnio|wytrzymałaś godzinę pod wodą?
+{128487}{128556}To się może udać.
+{128559}{128601}Co trzy głowy to nie jedna.
+{128603}{128654}Zróbcie sobie przerwę.
+{128658}{128715}Profesor McGonagal|prosi was do siebie.
+{128718}{128768}Nie ciebie, Potter,|tylko Weasleya i Granger.
+{128770}{128833}Ale następna próba|jest za dwie godziny.
+{128835}{128856}Właśnie.
+{128858}{128945}Lepiej, żeby Potter|trochę się przespał.
+{128947}{129004}Idź, szybko!
+{129251}{129295}Longbottom!
+{129302}{129368}Pomóż Potterowi pozbierać książki.
+{129549}{129616}Jeśli interesują cię książki|o roślinach,
+{129618}{129679}to polecam|przewodnik po ziołach Goshawk.
+{129686}{129792}Jeden czarodziej w Nepalu|hoduje drzewa odporne na korniki.
+{129794}{129940}Neville... bez obrazy,|ale guzik mnie obchodzą drzewa.
+{129949}{130145}Chyba, że znasz tybetańską rzepę, dzięki której|można wytrzymać godzinę pod wodą.
+{130177}{130260}Nie wiem nic o rzepie.|Ale możesz zażyć skrzeloziele.
+{130303}{130380}Zakłady!!!|Zakłady przyjmuję!
+{130387}{130432}Kto nie gra, ten nie wygrywa.
+{130434}{130478}Kto zwycięży, kto nie wróci?
+{130506}{130539}Po co te złośliwości?
+{130649}{130711}- Masz pewność, że to zadziała, Neville?|- Absolutną.
+{130713}{130751}- Przez godzinę?|- Pewnie tak.
+{130756}{130783}Pewnie?
+{130785}{130915}Herbolodzy spierają się|co jego skuteczności w słodkiej wodzie.
+{130917}{130977}Teraz mi to mówisz?!|Żartujesz?
+{130982}{131030}Chciałem ci pomóc.
+{131035}{131097}Ustaw się w kolejce|za Ronem i Hermioną.
+{131108}{131155}Gdzie oni tak w ogóle są?
+{131157}{131239}- Wydajesz się spięty, Harry.|- Naprawdę?
+{131400}{131448}Witam na drugim etapie Turnieju.
+{131452}{131540}Poprzedniej nocy|każdemu z zawodników coś ukradziono.
+{131545}{131577}Coś bardzo cennego.
+{131587}{131713}Te drogie ich sercu rzeczy|leżą teraz na dnie jeziora.
+{131717}{131809}Każdy z zawodników|musi odzyskać swój skarb
+{131811}{131872}i bezpiecznie powrócić na powierzchnię.
+{131874}{131925}- Połknij to szybko.|- Pamiętajcie o jednym.
+{131927}{132004}Mają na to jedną godzinę.|Nie więcej.
+{132006}{132124}Po upływie tego czasu,|skarb przepadnie.
+{132127}{132190}Po usłyszeniu wystrzału,|możecie zaczynać.
+{132818}{132847}Co z nim?
+{132852}{132889}Nie wiem.|Nie widzę go.
+{132921}{132978}O, Boże!|Zabiłem Harrego Pottera.
+{135061}{135185}Panna Dealcour została niestety|zmuszona do przerwania misji.
+{135187}{135258}I nie będzie mogła jej kontynuować.
+{137121}{137165}Ale ona też|jest moją przyjaciółką!
+{137179}{137236}Tylko jedno.
+{138482}{138534}Zejdźmy niżej.
+{140295}{140391}{y:i}Gabrielle, viens, allez.|{y:i}C'est fini.
+{140688}{140739}{y:i}Ascendio.
+{140957}{141050}Nic mu nie jest.|Nic mu się nie stało.
+{141053}{141090}Przynieście mu drugi ręcznik.
+{141092}{141157}Niech zbiorą się jurorzy.
+{141159}{141251}Uratowałeś ją,|mimo, że nie była twoja!
+{141260}{141302}Moją siostrzyczkę.
+{141361}{141509}- A ty jej pomogłeś.|- No tak. Trochę.
+{141562}{141611}{y:i}Gabrielle, ma belle, viens.
+{141684}{141772}Harry! Nic ci nie jest?|Zmarzłeś na kość.
+{141816}{141859}Osobiście uważam, że byłeś najlepszy.
+{141861}{141930}Skończyłem ostatni, Hermiono.
+{141933}{142014}Przedostatni.|Fleur zatrzymały druzgotki.
+{142146}{142179}Uwaga!
+{142236}{142304}Uwaga!!!
+{142315}{142358}Zwycięzcą etapu jest...
+{142363}{142407}Pan Diggory!
+{142416}{142515}Który użył zaklęcia bąblogłowy.
+{142518}{142581}Pan Potter miał szansę|zająć pierwsze miejsce,
+{142583}{142630}gdyby nie jego determinacja,
+{142632}{142694}by uratować|nie tylko pana Weasleya,
+{142698}{142734}ale również innych.
+{142736}{142854}Z tego powodu|przypadnie mu drugie miejsce.
+{142863}{142894}Drugie miejsce.
+{142896}{142962}Za przykładną postawę moralną.
+{143119}{143185}Stary, ty to masz postawę moralną.
+{143210}{143261}Moim zdaniem, zawaliłeś sprawę.
+{143263}{143294}Postawa pierwsza klasa.
+{143296}{143347}Moje gratulacje, Potter.|Piękne dokonanie.
+{143349}{143406}- Dziękuję.|- Dobra robota, chłopcze.
+{143417}{143452}Zobaczymy się u Hagrida, Harry.
+{143454}{143595}Żałuję, że wcześniej nie porozmawialiśmy.|Twoja historia jest mi dobrze znana.
+{143617}{143696}I dość niesamowita.|Choć tragiczna.
+{143708}{143884}Ktoś kto traci rodzinę,|odczuwa tę stratę zawsze.
+{143907}{143965}Ale... życie idzie naprzód.
+{143976}{144022}A my wraz z nim.
+{144085}{144152}Twoi rodzice|byliby z ciebie bardzo dumni.
+{144154}{144190}Bertemiuszu!
+{144195}{144289}Nie namawiasz go chyba|na staż w Ministerstwie?
+{144294}{144375}Ostatni chłopiec, który się tam zgłosił,|nigdy nie wrócił.
+{144676}{144739}A mówią, że to ja mam|nie po kolei w głowie.
+{144943}{145014}Pamiętam kiedy was poznałem.
+{145030}{145116}Największe rozrabiaki,|jakich w życiu widziałem.
+{145119}{145178}Przypomnieliście mi mnie samego.
+{145180}{145250}Od tego czasu minęły 4 lata.
+{145253}{145317}- Ciągle rozrabiamy.|- Może i tak.
+{145325}{145362}Ale mamy siebie.
+{145364}{145403}I Harrego.
+{145405}{145529}Najmłodszego zawodnika|Turnieju Trójmagicznego w historii!
+{145543}{145580}Hurra!
+{145991}{146025}Pan Crouch?
+{146206}{146276}On zabił człowieka, Knot.|I nie przestanie zabijać.
+{146278}{146326}- Musisz to ujawnić.|- Nie zrobię tego.
+{146328}{146445}W takich chwilach|świat czarodziejów potrzebuje przywódcy.
+{146447}{146579}Turniej nie może zostać przerwany.|Nie wezmę za to odpowiedzialności.
+{146581}{146646}Powinieneś zrobić to, co należy.|Nie przejmując się swoim wizerunkiem.
+{146648}{146688}Co ty powiedziałeś?
+{146690}{146790}Przepraszam panów.|Wasza rozmowa przestała być prywatna.
+{146913}{147002}O, Harry.|Jak miło cię znowu widzieć.
+{147034}{147068}Mogę wrócić później, profesorze.
+{147070}{147131}Nie trzeba, właśnie skończyliśmy.
+{147133}{147153}Zaraz przyjdę.
+{147155}{147200}Ministrze, proszę przodem,
+{147270}{147347}Poczęstuj się tymczasem, Harry.
+{147349}{147432}Ale ostrzegam, że są troszkę ostre.
+{149640}{149669}Profesorze?
+{149685}{149714}Profesorze.
+{150014}{150100}Igorze Karkarow, zostałeś sprowadzony|z Azkabanu na własne życzenie.
+{150102}{150301}Jeżeli twoje zeznania okażą się ważne,|sąd może zgodzić się na zwolnienie cię.
+{150325}{150432}Do tego czasu pozostajesz|w naszych oczach śmierciożercą.
+{150434}{150508}- Czy to jasne?|- Tak.
+{150510}{150563}Co masz do powiedzenia?
+{150587}{150632}Nazwiska.
+{150634}{150720}Był Rosier.|Evan Rosier.
+{150788}{150822}Rosier nie żyje.
+{150827}{150896}Zabrał na tamten świat|kawałek mojej osoby.
+{150898}{150949}- Nie wiedziałem.|- Czy to wszystko?
+{150951}{151011}Nie, nie.|Był jeszcze Rookwood.
+{151013}{151057}Szpiegował dla nas.
+{151059}{151125}Augustus Rookwood?|Z Departamentu Tajemnic?
+{151127}{151243}Tak, przekazywał tajne informacje|z Ministerstwa.
+{151266}{151332}Dobrze.|Rada się zastanowi.
+{151351}{151396}Do tego czasu|pozostaniesz w Azkabanie.
+{151398}{151467}Nie! Błagam.|Powiem więcej.
+{151475}{151521}Był też Snape.|Severus Snape.
+{151523}{151591}To oszczerstwo. Rada o tym wie.
+{151594}{151706}Severus Snape był śmierciożercą,|ale przeszedł na naszą stronę.
+{151708}{151756}Ponosząc przy tym|wielkie ryzyko...
+{151758}{151852}Nieprawda!|Snape jest wierny Czarnemu Panu.
+{151854}{151898}Cisza!
+{151927}{152011}O ile świadek nie poda nam|nazwisk prawdziwych śmierciożerców,
+{152013}{152070}ogłoszę zamknięcie posiedzenia.
+{152077}{152125}Nie, nie, nie.
+{152136}{152180}Mam jeszcze jednego.
+{152182}{152236}- Co takiego?|- Nazwisko.
+{152240}{152264}Tak?
+{152266}{152393}Wiem na pewno, że osoba ta brała udział|w torturowaniu zaklęciem Crusiatus
+{152395}{152485}Aurora Franka Longbottoma|i jego żony!
+{152487}{152543}Podaj nazwisko!
+{152545}{152609}Barty Crouch...
+{152667}{152703}Junior.
+{153067}{153145}Zabierzcie łapska, żałośni ludzie.
+{153173}{153229}Jak się masz, ojcze?
+{153245}{153286}Nie jesteś moim synem.
+{153564}{153668}Ciekawość to nie grzech,|ale powinieneś być ostrożny.
+{153706}{153746}To myślodsiewnia.
+{153748}{153862}Przydatne narzędzie dla osób, których umysł,|jak mój, obciążają bolesne wspomnienia.
+{153864}{153952}Pozwala też dokładnie|odtworzyć przeszłość.
+{153963}{154031}Szukałem w niej czegoś, Harry.
+{154034}{154099}Jakiegoś szczegółu...
+{154105}{154156}czegoś, co mogłem przeoczyć.
+{154158}{154257}Co wyjaśniłoby przyczynę|tych okropnych zdarzeń.
+{154279}{154371}Ale rozwiązanie|wciąż mi się wymyka.
+{154395}{154446}Tracę głowę.
+{154474}{154591}Co dokładnie stało się|z synem pana Croucha?
+{154603}{154657}Skazano go|na pobyt w Azkabanie.
+{154671}{154735}Barty bardzo to przeżył.
+{154738}{154831}Ale nie miał wyboru.|Dowody były przytłaczające.
+{154855}{154884}Czemu pytasz?
+{154895}{154996}On był w moim śnie.
+{155050}{155122}To było latem,|zanim zaczęła się szkoła.
+{155170}{155233}We śnie widziałem wnętrze domu.
+{155241}{155292}Był tam Voldemort.
+{155297}{155361}Tyle, że nie w ludzkiej postaci.
+{155363}{155452}Był tam też Glizdogon.|I syn pana Croucha.
+{155466}{155502}Miałeś jeszcze inne sny?
+{155504}{155586}Tak.|Wciąż o tym samym.
+{155662}{155750}Czy te sny...|i to, co w nich widzę...
+{155752}{155831}Czy to się działo naprawdę?
+{155883}{155959}Nie powinieneś powracać|do tych snów, Harry.
+{155961}{156020}Najlepiej, jeżeli...
+{156148}{156194}...je wymażesz.
+{156421}{156454}To znak, Severusie.
+{156456}{156521}Wiesz o tym,|równie dobrze jak ja.
+{156724}{156748}Potter!
+{156750}{156811}Skąd ten pośpiech?
+{156936}{157023}Gratuluję.|Dałeś wspaniały popis w jeziorze.
+{157035}{157089}Skrzeloziele, nie mylę się?
+{157098}{157149}Tak, proszę pana.
+{157162}{157202}Pomysłowe.
+{157249}{157341}To bardzo rzadka roślina.
+{157362}{157433}Raczej niespotykana.
+{157478}{157524}Podobnie jak to.
+{157620}{157659}Wiesz co to?
+{157704}{157742}Jakiś eliksir?
+{157744}{157794}Veritaserum.
+{157811}{157902}Wystarczą 3 krople, i Sam-Wiesz-Kto|wyjawiłby ci swoje najciemniejsze sekrety.
+{157904}{157991}Ich użycie na uczniach|jest niestety zabronione.
+{157993}{158028}Niemniej jednak...
+{158039}{158112}jeśli jeszcze raz ukradniesz coś|z mojego gabinetu,
+{158114}{158236}nie omieszkam wlać ci go|przypadkiem do soku dyniowego.
+{158238}{158271}Nic nie ukradłem.
+{158273}{158343}Nie kłam mi.
+{158371}{158420}Skrzeloziele jest nieszkodliwe.
+{158422}{158525}Co innego skóra boomslanga|i muchy liswingi.
+{158529}{158602}Ty i twoja banda sporządzacie|eliksir wielosokowy.
+{158604}{158650}I chcę wiedzieć dlaczego!
+{159797}{159842}Cisza!
+{159945}{160071}Profesor Moody umieścił dziś Puchar|w samym środku Labiryntu.
+{160084}{160133}I tylko on wie, gdzie go znaleźć.
+{160135}{160189}Jako, że pan Diggory...
+{160239}{160291}i pan Potter...
+{160328}{160375}zajmują dwa pierwsze miejsca,
+{160377}{160421}oni pierwsi wejdą do labiryntu.
+{160423}{160476}Za nimi pośpieszy pan Krum,
+{160502}{160553}a następnie panna Delacour.
+{160601}{160694}Kto pierwszy dotknie Pucharu,|będzie zwycięzcą!
+{160795}{160852}Personel szkoły będzie|patrolował obrzeża labiryntu,
+{160854}{160927}Więc jeżeli któreś z zawodników|będzie chciało się wycofać w trakcie,
+{160929}{161044}wystarczy, że zasygnalizują to|za pomocą różdżki.
+{161047}{161133}Proszę zawodników.|Szybko!
+{161224}{161314}W labiryncie nie ma ni smoków,|ni podwodnych stworów.
+{161328}{161393}Ale jest tam coś|jeszcze groźniejszego.
+{161407}{161486}Labirynt odmienia ludzką duszę.
+{161490}{161535}Postarajcie się odnaleźć Puchar,
+{161537}{161578}lecz zważcie przy tym,
+{161580}{161634}by nie zatracić siebie samych.
+{161678}{161739}Przygotujcie się!
+{161947}{162005}Synku, powodzenia.
+{162126}{162178}Na moje trzy:|Raz...
+{167160}{167198}Fleur!
+{167235}{167271}Fleur.
+{167354}{167407}{y:i}Periculum!
+{168323}{168389}Padnij!
+{168430}{168486}{y:i}Expelliarmus!
+{168691}{168730}Nie, zostaw go!
+{168732}{168802}Ktoś go zaczarował!
+{169099}{169119}Tak.
+{169739}{169773}Harry!
+{169834}{169868}Harry!
+{170008}{170060}{y:i}Reducto!
+{170457}{170488}Dzięki.
+{170490}{170536}Nie ma sprawy.
+{170552}{170639}Już myślałem, że mnie zostawisz|na ich pastwę.
+{170641}{170682}Ja też tak myślałem.
+{170728}{170763}Niezła gra, co?
+{170785}{170820}Niezła.
+{170950}{170988}Biegnij!
+{171231}{171257}Weź go!
+{171261}{171298}Uratowałeś mnie!|Weź go!
+{171300}{171331}Razem!
+{171334}{171382}Raz, dwa, trzy!
+{171682}{171749}- Jesteś cały?|- Tak, a ty?
+{171923}{171957}Gdzie my jesteśmy?
+{172088}{172125}Ja tu już byłem.
+{172217}{172249}To świstoklik.
+{172304}{172326}Puchar to świstoklik.
+{172328}{172388}Znam to miejsce|z mojego snu.
+{172449}{172523}Cedrik, musimy wrócić|do Pucharu!
+{172529}{172583}- Szybko!|- Co ty mówisz?
+{172727}{172780}- Co ci jest?|- Wracaj do Pucharu!
+{172958}{172990}Kim jesteś?|Czego chcesz?
+{172992}{173029}Zabij niepotrzebnego.
+{173031}{173078}{y:i}- Avada Kedavra!|- Nie!
+{173080}{173122}Cedrik!
+{173370}{173409}Prędko!
+{173696}{173821}{y:i}Kości Ojca, dane nieświadomie...
+{173991}{174194}{y:i}Ciało sługi... z chęcią... poświęcone...
+{174299}{174385}{y:i}Krew wroga...
+{174517}{174594}{y:i}siłą... odebrana.
+{174718}{174801}{y:i}Czarny Pan powstanie...
+{174817}{174858}{y:i}na nowo.
+{176382}{176457}Moja różdżka, Glizdogonie.
+{176703}{176761}Wyciągnij rękę.
+{176763}{176781}Panie.
+{176783}{176835}Dzięki ci, panie.
+{176837}{176879}Drugą rękę!
+{177850}{177920}Witajcie, przyjaciele.
+{177939}{177988}Minęło 13 lat.
+{177990}{178074}A mimo to,|stoicie tu przede mną,
+{178076}{178152}jakby to było zaledwie wczoraj.
+{178179}{178288}Jestem... rozczarowany.
+{178309}{178366}Żaden z was|nie próbował mnie odnaleźć.
+{178368}{178453}Crabbe, MacNair...
+{178467}{178501}Goyle!
+{178561}{178622}Nawet ty...
+{178693}{178740}Lucjuszu.
+{178785}{178893}Panie, czekałem na twoje skinienie,|szept... lub znak.
+{178895}{179012}Były znaki, mój niewierny przyjacielu.|I więcej niż szepty.
+{179014}{179115}Panie, nigdy nie zszedłem|z dawnej drogi.
+{179151}{179288}To oblicze musiałem prezentować|każdego dnia podczas twojej nieobecności.
+{179322}{179379}Lecz to tylko maska.
+{179402}{179573}- Ja powróciłem.|- Ze strachu, nie z lojalności.
+{179622}{179740}Ale okazałeś się przydatny|w ostatnich miesiącach, Glizdogonie.
+{179886}{179981}Dziękuję, panie.
+{180011}{180126}- Och, jaki ładny chłopiec.|- Nie dotykaj go!
+{180160}{180187}Harry...
+{180195}{180269}omal zapomniałem, że tu jesteś.
+{180271}{180343}Stoisz na kościach mego ojca.
+{180380}{180406}Przedstawiłbym cię,
+{180408}{180515}ale ponoć ostatnio jesteś|tak sławny jak ja sam.
+{180583}{180723}"Chłopiec, który przeżył."|Kłamstwa owiały twoją legendę.
+{180725}{180815}Chcesz wiedzieć co naprawdę|miało miejsce 13 lat temu?
+{180817}{180935}Mam wyjawić|w jaki sposób straciłem moc?
+{180990}{181026}Miłość to sprawiła.
+{181032}{181125}Kiedy miła, słodka Lily Potter|oddała życie, by ratować syna,
+{181127}{181205}zapewniła mu tarczę ochronną,
+{181207}{181247}której nie mogłem przebić.
+{181281}{181381}To była prastara magia.|Powinienem był to przewidzieć.
+{181390}{181486}Ale nieważne.|Wiele się pozmieniało.
+{181519}{181630}Dziś mogę cię dotknąć.
+{182030}{182105}Zawdzięczam to paru kroplom|twojej krwi.
+{182136}{182189}Weź różdżkę, Potter!
+{182230}{182291}Powiedziałem, podnieś.|No już!
+{182322}{182374}Uczyli cię pojedynków, tak?
+{182376}{182439}Najpierw się kłaniamy.
+{182447}{182502}No, Harry.|Gdzie twoje maniery?
+{182504}{182574}Dumbledore by ci tego|nie wybaczył.
+{182576}{182634}No, kłaniaj się!
+{182664}{182699}O to chodzi!
+{182707}{182736}A teraz...
+{182776}{182811}{y:i}Crucio!
+{182943}{182990}Dobry chłopczyk, Harry.
+{182994}{183131}Rodzice byliby dumni.|Zwłaszcza twoja szlamowata matka.
+{183133}{183161}{y:i}Expelliar...
+{183250}{183306}Zabiję cię, Harry Potterze.
+{183311}{183346}Zniszczę cię.
+{183414}{183541}Po tym, nikt nie podda|w wątpliwość mojej mocy.
+{183557}{183673}Po tobie zostanie zaś|tylko wspomnienie o tym,
+{183696}{183746}jak błagałeś mnie o śmierć.
+{183748}{183851}A ja, jako miłościwy pan,
+{183853}{183897}udzieliłem ci łaski.
+{183899}{183931}Wstawaj!
+{184045}{184094}Nie odwracaj się do mnie plecami!
+{184096}{184153}Patrz na mnie, kiedy cię zabijam!
+{184155}{184227}Chcę widzieć jak gasną twoje oczy!
+{184571}{184612}Niech tak będzie.
+{184632}{184696}{y:i}- Expelliarmus!|{y:i}- Avada Kedavra!
+{185120}{185208}Nic nie róbcie.|On należy do mnie.
+{185288}{185342}Jest mój!
+{186120}{186220}Harry, kiedy połączenie zostanie przerwane,|biegnij do Świstoklika!
+{186222}{186283}Damy ci czas na dotarcie,|ale tylko chwilę.
+{186285}{186309}Rozumiesz?
+{186344}{186413}Harry, zabierz moje ciało.
+{186427}{186482}Oddaj je mojemu ojcu.
+{186506}{186543}Puść.
+{186547}{186594}Kochanie, jesteś gotów.
+{186614}{186678}Puść!
+{186815}{186857}{y:i}Accio!
+{186987}{187033}Nie!
+{187339}{187380}Udało mu się!
+{187406}{187446}Harry!
+{187513}{187549}Harry!
+{187679}{187718}Co się stało?
+{187720}{187784}Powrócił.|
+{187786}{187823}Voldemort powrócił!
+{187825}{187892}Cedrik prosił, żebym zabrał|jego ciało z powrotem.
+{187894}{187954}Nie mogłem go tam zostawić.
+{187956}{188092}Już dobrze, Harry.|Jest w domu. Obaj jesteście.
+{188094}{188139}Niech nikt stąd nie wychodzi.
+{188141}{188185}Chłopca zabito.
+{188253}{188351}Trzeba zabrać ciało.|Zbyt wiele osób...
+{188399}{188450}Przepuście mnie!
+{188510}{188542}To mój syn!
+{188576}{188612}Mój synek!
+{188679}{188733}Mój synek!
+{188824}{188896}Wstawaj, spokojnie, spokojnie.
+{188902}{188957}Muszę cię stąd zabrać.
+{189119}{189198}Wszystko dobrze.|Trzymam cię.
+{190478}{190539}Nic ci nie jest, Potter?
+{190541}{190598}Boli cię?
+{190600}{190650}Teraz już mniej.
+{190655}{190710}Lepiej to obejrzę.
+{190774}{190832}Puchar był świstoklikiem.
+{190890}{190937}Ktoś go zaczarował.
+{190946}{190988}Jak tam było?
+{191000}{191041}- Jak on wyglądał?|- Kto?
+{191043}{191087}Czarny Pan.
+{191138}{191210}Jak to było?|Stać w jego obecności?
+{191245}{191284}Nie wiem.
+{191358}{191430}Jakbym zanurzył się|w jednym z tych snów.
+{191500}{191537}Jak w koszmarze.
+{191989}{192081}Byli tam inni?|Czy na cmentarzu byli też inni?
+{192266}{192343}Nic nie mówiłem o cmentarzu,|profesorze.
+{192508}{192602}"Smoki to wspaniałe stworzenia, co?"
+{192696}{192805}Czy myślisz, że ten półgłówek|zaprowadziłby cię do lasu, gdyby nie ja?
+{192903}{192993}A czy Cedrik Diggory|powiedziałby ci o jaju,
+{192995}{193071}gdybym sam mu wpierw|nie wyjawił o co chodzi?
+{193090}{193202}I czy Neville Longbottom,|naprowadziłby cię na skrzeloziele,
+{193204}{193276}gdyby nie książka,|którą mu wcisnąłem?
+{193478}{193521}To był pan,|od samego początku.
+{193523}{193584}Pan wrzucił moje imię|do Czary.
+{193591}{193681}- Rzucił pan zaklęcie na Kruma, ale...|- Ale, ale, ale...
+{193683}{193737}Wygrałeś,|bo ja tak chciałem, Potter.
+{193744}{193830}Trafiłeś na ten cmentarz,|bo ja cię tam wysłałem.
+{193832}{193870}l stało się.
+{193906}{194007}Twoja krew płynie teraz|w żyłach Czarnego Pana.
+{194214}{194317}On mnie wynagrodzi,|kiedy dowie się,
+{194319}{194372}że raz na zawsze
+{194394}{194497}uciszyłem wielkiego Harrego Pottera.
+{194499}{194561}{y:i}Expelliarmus!
+{194640}{194689}Severusie!
+{194813}{194858}Wiesz kim jestem?
+{194860}{194898}Albus Dumbledore.
+{194900}{194975}- Czy ty jesteś Alastor Moddy?|- Nie.
+{194977}{195013}Czy on jest w tym pokoju?
+{195015}{195051}Czy on jest tutaj?!
+{195117}{195161}Harry, odsuń się!
+{195656}{195703}Nic ci nie jest, Alastorze?
+{195705}{195753}Przepraszam, Albusie.
+{195766}{195822}Skoro to jest Moody, to kto...?
+{195853}{195959}- Eliksir wielosokowy.|- Teraz wiemy, kto cię okradał, Severusie.
+{195974}{196012}Zaraz cię wydostaniemy!
+{196960}{197014}Barty Crouch Junior.
+{197021}{197086}Pokażę ci mój,|jeśli pokażesz mi swój.
+{197149}{197192}Pokaż rękę, Harry.
+{197281}{197336}Wiesz co to oznacza, prawda?
+{197354}{197399}On powrócił.
+{197417}{197466}Lord Voldemort powrócił.
+{197496}{197550}Przepraszam, że nic nie zrobiłem.
+{197553}{197593}Wyślijcie sowę do Azkabanu.
+{197597}{197656}Dowiedzą się, że uciekł im więzień.
+{197669}{197722}Powitają mnie jak bohatera.
+{197724}{197748}Nie wątpię.
+{197750}{197808}Najwyższy czas na bohaterów.
+{198287}{198416}Dziś przeżywamy okrutną stratę.
+{198489}{198559}Cedrik Diggory był,|jak wszyscy wiecie,
+{198561}{198618}wyjątkowo pracowity...
+{198639}{198696}nieskończenie prawy...
+{198710}{198767}i co najważniejsze...
+{198774}{198878}był prawdziwym przyjacielem.
+{198905}{199002}Dlatego uważam, że macie prawo|wiedzieć jak zginął.
+{199143}{199206}Cedrik Diggory został zamordowany...
+{199212}{199257}przez Lorda Voldemorta.
+{199309}{199398}Ministerstwo Magii nie chce,|żebym wam tego mówił.
+{199410}{199491}Ale zaniechanie tego,|byłoby obrazą dla jego pamięci.
+{199551}{199709}Ból, który odczuwamy,|przypomina nam...
+{199723}{199812}że choć pochodzimy z różnych stron,|i mówimy różnymi językami,
+{199814}{199901}nasze serca|biją jednym rytmem.
+{199910}{199959}W świetle ostatnich wydarzeń
+{199961}{200014}więzy przyjaźni między nami,
+{200016}{200087}okażą się ważniejsze niż kiedykolwiek.
+{200106}{200224}Pamiętajcie to, a śmierć Cedrika Diggory'ego|nie pójdzie na marne.
+{200243}{200296}Pamiętajcie o tym...
+{200308}{200447}a uczcicie pamięć chłopca,|który był dobry i uczciwy,
+{200465}{200569}dzielny, szczery i prawy|do samego końca.
+{201178}{201233}Nie przepadałem za tymi zasłonami.
+{201244}{201308}W czwartej klasie nawet je podpaliłem.
+{201317}{201366}Oczywiście przypadkowo.
+{201493}{201568}Wystawiłem cię|na straszliwe niebezpieczeństwo, Harry.
+{201570}{201604}Wybacz mi.
+{201683}{201726}Profesorze...
+{201730}{201805}Tam na cmentarzu,|w pewnym momencie...
+{201819}{201935}kiedy różdżka Voldemorta i moja|połączyły się...
+{201970}{202021}{y:i}Priore Incantatum.
+{202116}{202183}Zobaczyłeś tam|swoich rodziców, prawda?
+{202197}{202240}Pojawili się.
+{202277}{202361}Czary nie ożywiają zmarłych, Harry.|Wiesz o tym.
+{202424}{202489}Nadchodzą ponure i trudne czasy.
+{202497}{202617}Wkrótce każdy będzie musiał dokonać wyboru|co jest słuszne, a co łatwe.
+{202697}{202735}Zapamiętaj, że...
+{202740}{202787}masz tu przyjaciół.
+{202834}{202872}Nie jesteś sam.
+{203381}{203412}Hermiono...
+{203430}{203480}To dla ciebie.
+{203492}{203547}Obiecaj, że napiszesz.
+{203569}{203602}Do widzenia.
+{203753}{203795}{y:i}Au revoir, Ron.
+{204850}{204917}Czy w Hogwarcie|można w ogóle mieć spokój?
+{204919}{204992}- Nie.|- Też tak myślę.
+{205001}{205070}No ale...|co to za życie bez smoków?
+{205161}{205225}Teraz wszystko się zmieni,|prawda?
+{205400}{205436}Tak.
+{205551}{205631}Obiecajcie, że w wakacje|będziecie obaj pisać.
+{205633}{205685}Ja na pewno nie.
+{205723}{205807}- Ale Harry będzie.|- Tak, co tydzień.
+
