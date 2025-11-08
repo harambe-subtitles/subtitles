@@ -1,0 +1,68 @@
+1
+00:01:31,360 --> 00:01:33,960
+<i>Mayday, mayday, mayday.</i>
+
+2
+00:01:34,600 --> 00:01:36,440
+Tu polski prom Jan Heweliusz.
+
+3
+00:01:39,120 --> 00:01:42,800
+<i>Jan Heweliusz, podaj pozycję.</i>
+
+4
+00:01:51,360 --> 00:01:55,200
+Powtarzam: mayday, mayday, mayday.
+
+5
+00:01:55,280 --> 00:01:57,800
+Do wszystkich jednostek.
+
+6
+00:02:45,160 --> 00:02:46,520
+Zginiemy tu!
+
+7
+00:02:48,640 --> 00:02:50,280
+Zginiemy!
+
+8
+00:02:51,040 --> 00:02:53,120
+Gdzie są tratwy?
+
+9
+00:02:53,200 --> 00:02:54,640
+Gdzie jest pomoc?
+
+10
+00:04:33,840 --> 00:04:37,120
+16 mil na południowy zachód
+od Kolliker Ort!
+
+11
+00:04:48,400 --> 00:04:52,240
+16 mil na południowy zachód
+od Kolliker Ort!
+
+12
+00:05:01,400 --> 00:05:03,320
+16 mil na południowy zachód…
+
+13
+00:05:03,400 --> 00:05:07,200
+<i>Nie! Na południowy wschód</i>
+<i>od Kolliker Ort!</i>
+
+14
+00:05:16,200 --> 00:05:19,680
+16 mil na południowy wschód
+od Kolliker Ort!
+
+15
+00:06:04,160 --> 00:06:06,840
+Mayday, mayday, mayday!
+
+16
+00:06:07,560 --> 00:06:09,800
+Tu polski prom Jan Heweliusz.
+
