@@ -1,0 +1,185 @@
+1
+00:37:57,160 --> 00:37:59,360
+<i>Ostsee Radio, Ostsee Radio, Kempen!</i>
+
+2
+00:37:59,920 --> 00:38:01,880
+<i>Jesteśmy na miejscu katastrofy!</i>
+
+3
+00:38:01,960 --> 00:38:04,520
+<i>Mamy zakłócenia radiowe. Powtórz.</i>
+
+4
+00:38:04,600 --> 00:38:07,000
+<i>Ostsee Radio, Ostsee Radio, Kempen!</i>
+
+5
+00:38:07,680 --> 00:38:11,960
+Przepraszam, to są nagrania
+z godziny czwartej rano, tak?
+
+6
+00:38:12,520 --> 00:38:15,920
+Tak, z czwartej i od piątej do 5.15.
+
+7
+00:38:16,000 --> 00:38:18,320
+Kempen, co to za statek?
+
+8
+00:38:18,840 --> 00:38:20,640
+Muszę sprawdzić.
+
+9
+00:38:20,720 --> 00:38:21,840
+Dziękuję.
+
+10
+00:38:24,440 --> 00:38:26,600
+<i>Ostsee Radio, Ostsee Radio, Kempen!</i>
+
+11
+00:38:26,680 --> 00:38:30,960
+<i>Jesteśmy na miejscu katastrofy!</i>
+<i>Po lewej mamy polski prom Jan Heweliusz.</i>
+
+12
+00:38:31,040 --> 00:38:34,440
+<i>- Rozpoczynamy akcję ratunkową.</i>
+<i>- Podaj współrzędne!</i>
+
+13
+00:38:41,080 --> 00:38:43,200
+<i>Ostsee Radio, Ostsee Radio, Kempen!</i>
+
+14
+00:38:43,280 --> 00:38:45,320
+<i>Jesteśmy na miejscu katastrofy!</i>
+
+15
+00:38:45,400 --> 00:38:49,720
+<i>Po lewej mamy polski prom Jan Heweliusz.</i>
+<i>Rozpoczynamy akcję ratunkową.</i>
+
+16
+00:38:49,800 --> 00:38:51,760
+<i>Podaj współrzędne!</i>
+
+17
+00:38:52,440 --> 00:38:54,720
+<i>16 mil na wschód od Kolliker!</i>
+
+18
+00:38:54,800 --> 00:38:56,600
+<i>16 mil na wschód od Kolliker!</i>
+
+19
+00:39:02,760 --> 00:39:04,560
+<i>Kempen, Kempen!</i>
+
+20
+00:39:04,640 --> 00:39:08,240
+<i>Tutaj Kempen, tutaj Kempen!</i>
+<i>Warunki są zbyt trudne.</i>
+
+21
+00:39:08,320 --> 00:39:10,440
+<i>Jesteśmy za mali. Odpływamy.</i>
+
+22
+00:39:11,240 --> 00:39:12,880
+<i>Kempen, Kempen!</i>
+
+23
+00:39:13,360 --> 00:39:15,680
+<i>Czy dobrze zrozumiałem, że odpływacie?</i>
+
+24
+00:39:15,760 --> 00:39:16,680
+<i>Tak.</i>
+
+25
+00:39:16,760 --> 00:39:17,600
+<i>Przyjąłem.</i>
+
+26
+00:39:19,640 --> 00:39:21,920
+Nie mamy żadnych informacji o Kempen.
+
+27
+00:39:22,000 --> 00:39:25,040
+Ale nawiązaliście z nimi łączność.
+
+28
+00:39:25,120 --> 00:39:27,280
+Tak, ale nie mamy o nich informacji.
+
+29
+00:39:30,440 --> 00:39:32,800
+Czy mogę dostać kopie tych nagrań?
+
+30
+00:39:34,440 --> 00:39:36,320
+Proszę wziąć oryginały.
+
+31
+00:39:36,400 --> 00:39:38,360
+Nie robimy kopii.
+
+32
+00:39:38,920 --> 00:39:40,840
+Tylko proszę je zwrócić, dobrze?
+
+33
+00:39:41,880 --> 00:39:43,160
+Dziękuję.
+
+34
+00:40:32,800 --> 00:40:34,400
+Przepraszam,
+
+35
+00:40:34,480 --> 00:40:35,920
+może pan jechać.
+
+36
+00:40:41,360 --> 00:40:42,880
+Nie zapomniał pan czegoś?
+
+37
+00:40:44,440 --> 00:40:45,400
+Dziękuję.
+
+38
+01:01:38,080 --> 01:01:39,640
+<i>Jan Heweliusz!</i>
+
+39
+01:01:44,240 --> 01:01:45,760
+<i>Jan Heweliusz!</i>
+
+40
+01:01:45,840 --> 01:01:47,320
+<i>Tutaj Kempen!</i>
+
+41
+01:02:06,040 --> 01:02:07,720
+<i>Jan Heweliusz, tutaj Kempen!</i>
+
+42
+01:02:08,200 --> 01:02:09,560
+<i>Tutaj Kempen!</i>
+
+43
+01:02:09,640 --> 01:02:11,640
+<i>Jesteśmy po waszej prawej!</i>
+
+44
+01:02:12,120 --> 01:02:14,240
+<i>Jesteście na kursie kolizyjnym!</i>
+
+45
+01:02:19,800 --> 01:02:21,360
+<i>Jesteśmy po waszej prawej!</i>
+
