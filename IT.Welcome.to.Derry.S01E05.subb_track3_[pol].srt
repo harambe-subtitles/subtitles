@@ -1,0 +1,2355 @@
+1
+00:00:10,981 --> 00:00:13,858
+Cholera. Pomocy!
+
+2
+00:00:13,984 --> 00:00:15,276
+Pomocy!
+
+3
+00:00:16,444 --> 00:00:18,697
+- Pomocy!
+- Wartownicy!
+
+4
+00:00:19,447 --> 00:00:21,366
+Do izby chorych, już!
+
+5
+00:00:25,704 --> 00:00:26,830
+Wszystko gra.
+
+6
+00:00:28,081 --> 00:00:30,417
+- Żyję.
+- Oddychaj.
+
+7
+00:00:35,672 --> 00:00:36,715
+I co?
+
+8
+00:00:39,634 --> 00:00:40,969
+Mamy to.
+
+9
+00:00:44,514 --> 00:00:47,726
+Przepraszam, co tu się, do diabła, stało?
+
+10
+00:00:47,851 --> 00:00:50,645
+Spokojnie. Spokojnie, majorze.
+
+11
+00:00:51,813 --> 00:00:54,441
+Czas dać panu kilka odpowiedzi.
+
+12
+00:01:09,372 --> 00:01:10,749
+W porządku.
+
+13
+00:01:16,212 --> 00:01:17,964
+Niedługo wrócą twoi rodzice.
+
+14
+00:01:18,506 --> 00:01:22,469
+A ja będę na zewnątrz
+na wypadek kolejnych... kłopotów.
+
+15
+00:01:31,186 --> 00:01:34,689
+Nie powinnam przychodzić.
+Wszyscy myślą, że to ja zrobiłam.
+
+16
+00:01:35,440 --> 00:01:37,901
+Nie martw się. Powiedziałam, że nie.
+
+17
+00:01:39,444 --> 00:01:43,698
+- Czyli co?
+- Pękły mi okulary i się skaleczyłam.
+
+18
+00:01:43,907 --> 00:01:46,659
+A gdy przyszli, próbowałaś mi pomóc.
+
+19
+00:01:49,829 --> 00:01:52,874
+Pewnie wysłaliby mnie do Juniper Hill,
+
+20
+00:01:53,458 --> 00:01:55,210
+gdyby usłyszeli, co widziałam.
+
+21
+00:02:03,510 --> 00:02:04,969
+Przepraszam, Lil.
+
+22
+00:02:06,763 --> 00:02:08,306
+Czemu ci nie wierzyłam?
+
+23
+00:02:10,892 --> 00:02:12,685
+Jesteś moją najlepszą przyjaciółką,
+
+24
+00:02:14,395 --> 00:02:15,939
+a ja cię zawiodłam.
+
+25
+00:02:23,822 --> 00:02:25,949
+Dlaczego tak się dzieje?
+
+26
+00:02:27,325 --> 00:02:29,536
+Cały czas próbujemy się dowiedzieć.
+
+27
+00:02:34,958 --> 00:02:36,835
+To stanie się znowu?
+
+28
+00:02:40,547 --> 00:02:41,798
+Nie wiem.
+
+29
+00:02:43,424 --> 00:02:44,968
+Ale jeśli tak...
+
+30
+00:02:46,845 --> 00:02:49,139
+nie będziesz sama.
+
+31
+00:02:58,523 --> 00:02:59,983
+Brakowało mi ciebie.
+
+32
+00:03:00,817 --> 00:03:02,569
+Mnie ciebie też.
+
+33
+00:03:04,571 --> 00:03:06,698
+Co z Marge? Źle to wyglądało.
+
+34
+00:03:06,823 --> 00:03:10,326
+- Uszkodziła sobie oko, ale wyzdrowieje.
+- Posłuchaj,
+
+35
+00:03:11,744 --> 00:03:14,873
+jeśli chce pomóc, niech powie Bowersowi,
+co naprawdę się stało.
+
+36
+00:03:16,499 --> 00:03:20,253
+Próbowaliśmy tego.
+Czemu jej mieliby uwierzyć?
+
+37
+00:03:20,378 --> 00:03:23,798
+Zresztą myślą, że to ja ją zaatakowałam.
+
+38
+00:03:24,257 --> 00:03:27,260
+- I że mnie kryje.
+- Wszyscy tak myślą.
+
+39
+00:03:33,266 --> 00:03:35,852
+Nie, Lilly! Nie o to mi chodziło!
+
+40
+00:03:35,977 --> 00:03:41,399
+Słuchaj! Nie, że my! Cała szkoła,
+wszyscy na poczcie, mój fryzjer...
+
+41
+00:03:57,707 --> 00:04:00,376
+To prywatny klub! Przedstaw się!
+
+42
+00:04:14,224 --> 00:04:15,850
+Matty?
+
+43
+00:04:19,062 --> 00:04:20,313
+Pomóżcie...
+
+44
+00:04:21,689 --> 00:04:23,483
+mi.
+
+45
+00:04:26,152 --> 00:04:27,862
+WYSTĘPUJĄ
+
+46
+00:04:57,642 --> 00:04:59,477
+MUZYKA
+
+47
+00:05:04,274 --> 00:05:06,109
+ZDJĘCIA
+
+48
+00:05:53,656 --> 00:05:55,658
+NA MOTYWACH POWIEŚCI STEPHENA KINGA
+
+49
+00:06:02,290 --> 00:06:06,002
+TO: WITAJCIE W DERRY
+
+50
+00:06:06,336 --> 00:06:08,129
+SCENARIUSZ
+
+51
+00:06:08,254 --> 00:06:10,465
+REŻYSERIA
+
+52
+00:06:14,761 --> 00:06:16,596
+Indianie nazywają je kolumnami.
+
+53
+00:06:19,098 --> 00:06:23,311
+13 obiektów wyciosanych z materiału,
+w którym to coś spadło na Ziemię.
+
+54
+00:06:24,270 --> 00:06:25,396
+Na Ziemię?
+
+55
+00:06:26,522 --> 00:06:29,859
+Setki lat temu plemię Sqoteawapskot
+zakopało je głęboko,
+
+56
+00:06:29,984 --> 00:06:33,738
+żeby stworzyć klatkę
+wokół terytorium istoty.
+
+57
+00:06:34,572 --> 00:06:37,325
+Która pokrywa się z dzisiejszym Derry.
+
+58
+00:06:38,910 --> 00:06:44,082
+Czyli Derry to więzienie,
+a my szukamy krat?
+
+59
+00:06:44,207 --> 00:06:46,000
+Dokładnie, majorze.
+
+60
+00:06:48,169 --> 00:06:51,464
+Ten chłopak należy do tajnego związku,
+
+61
+00:06:51,589 --> 00:06:54,926
+który czuwa, by nikt nie uwolnił istoty
+i nie zabrał kolumn.
+
+62
+00:06:55,385 --> 00:06:58,346
+Skutecznie dbali o to prawie 400 lat.
+
+63
+00:06:59,055 --> 00:07:00,264
+Aż do teraz.
+
+64
+00:07:00,598 --> 00:07:03,434
+Hallorann przeczytał mu umysł
+niczym poranną gazetę.
+
+65
+00:07:04,143 --> 00:07:07,313
+Wiemy dokładnie, gdzie są kolumny
+i jak do nich dotrzeć.
+
+66
+00:07:08,398 --> 00:07:10,191
+Ale po co?
+
+67
+00:07:11,526 --> 00:07:14,946
+Żeby zmniejszyć klatkę. Uwięzić istotę.
+
+68
+00:07:16,781 --> 00:07:18,658
+Czyli schwytać?
+
+69
+00:07:23,538 --> 00:07:25,289
+Neibolt Street 29.
+
+70
+00:07:25,998 --> 00:07:30,420
+Porzucony dom nad tunelami,
+które wiodą do 13 kolumn.
+
+71
+00:07:30,545 --> 00:07:34,382
+Jutro rano pan i pułkownik Fuller
+poprowadzicie oddział i je zabezpieczycie.
+
+72
+00:07:34,715 --> 00:07:37,218
+Zmniejszymy klatkę i pochwycimy istotę.
+
+73
+00:07:39,095 --> 00:07:42,432
+Proszę pomyśleć, co by było,
+gdybyśmy w 1951 zrzucili ją na Pusan.
+
+74
+00:07:43,266 --> 00:07:46,310
+Zrobiłaby to, za co ginęli żołnierze.
+
+75
+00:07:46,561 --> 00:07:48,813
+Wielu matkom oszczędzilibyśmy łez.
+
+76
+00:07:49,689 --> 00:07:52,358
+Czas zakończyć zimną wojnę, majorze.
+
+77
+00:07:53,943 --> 00:07:55,153
+W czym problem, synu?
+
+78
+00:07:58,448 --> 00:08:01,868
+Wiedział pan,
+że Derry to jego tereny łowieckie,
+
+79
+00:08:01,993 --> 00:08:03,828
+i pozwolił mi pan ściągnąć rodzinę.
+
+80
+00:08:04,704 --> 00:08:07,707
+Mieliście mieszkać w bazie,
+lecz pan odmówił.
+
+81
+00:08:08,499 --> 00:08:12,295
+- Powinniście się przenieść.
+- Bez dwóch zdań.
+
+82
+00:08:16,215 --> 00:08:18,718
+Pan wybaczy, generale.
+
+83
+00:08:27,518 --> 00:08:29,937
+Matty, gdzie byłeś?
+
+84
+00:08:37,320 --> 00:08:40,615
+- W porządku. Nie musisz...
+- W kanałach.
+
+85
+00:08:42,074 --> 00:08:43,993
+Pod Derry.
+
+86
+00:08:45,661 --> 00:08:47,163
+Tam żyje.
+
+87
+00:08:49,916 --> 00:08:52,376
+- Klaun.
+- Klaun?
+
+88
+00:08:55,671 --> 00:08:57,381
+Część z nas trzymał żywych.
+
+89
+00:08:58,674 --> 00:08:59,884
+Jakby...
+
+90
+00:09:00,635 --> 00:09:01,802
+potrzebował...
+
+91
+00:09:03,179 --> 00:09:06,474
+- Strachu.
+- Tak.
+
+92
+00:09:10,061 --> 00:09:12,355
+Jak uciekłeś?
+
+93
+00:09:14,732 --> 00:09:19,403
+To żeruje nocą i śpi za dnia.
+
+94
+00:09:21,322 --> 00:09:25,076
+Poczekałem. I uciekłem.
+
+95
+00:09:27,161 --> 00:09:30,957
+A Teddy? I Phil, i Susie?
+
+96
+00:09:31,874 --> 00:09:33,709
+Widziałeś ich?
+
+97
+00:09:34,585 --> 00:09:36,837
+Teddy nie żył, kiedy to go wciągnęło.
+
+98
+00:09:38,965 --> 00:09:42,343
+Jego czaszka była otwarta i to...
+
+99
+00:09:43,427 --> 00:09:44,595
+To co?
+
+100
+00:09:46,639 --> 00:09:48,516
+Na moich oczach zjadło mu mózg.
+
+101
+00:09:50,226 --> 00:09:52,144
+Niedobrze mi.
+
+102
+00:09:52,603 --> 00:09:53,688
+A Susie...
+
+103
+00:09:54,647 --> 00:09:56,315
+nie miała ręki.
+
+104
+00:09:58,067 --> 00:10:00,111
+A to ją po prostu zostawiło.
+
+105
+00:10:01,529 --> 00:10:02,697
+Całą noc...
+
+106
+00:10:03,656 --> 00:10:07,326
+wykrwawiała się i płakała.
+
+107
+00:10:12,206 --> 00:10:14,125
+Aż ucichła.
+
+108
+00:10:17,837 --> 00:10:20,923
+Ale Phil dalej tam jest.
+
+109
+00:10:22,800 --> 00:10:24,093
+Żyje?
+
+110
+00:10:24,969 --> 00:10:27,513
+Nie może mówić ani się ruszać,
+
+111
+00:10:28,848 --> 00:10:31,934
+ale żyje. Jakoś.
+
+112
+00:10:32,810 --> 00:10:34,353
+Musimy iść na policję.
+
+113
+00:10:35,521 --> 00:10:39,400
+- Nie. Żadnej policji.
+- Muszę wyciągnąć tatę,
+
+114
+00:10:39,525 --> 00:10:41,986
+a ty im powiesz, że cię nie porwał.
+
+115
+00:10:42,111 --> 00:10:44,655
+Musimy też pomóc Philowi i Matty'emu.
+
+116
+00:10:46,073 --> 00:10:48,868
+- Żadnych glin!
+- Matty, proszę.
+
+117
+00:10:48,993 --> 00:10:52,830
+Nie! Odeślą mnie z powrotem do ojca.
+
+118
+00:10:53,623 --> 00:10:57,209
+Raz już uciekłem, ucieknę znowu.
+
+119
+00:11:00,338 --> 00:11:02,590
+Wolę wrócić do kanałów niż tam.
+
+120
+00:11:07,178 --> 00:11:10,723
+Choćby jedno stracone życie
+to o jedno za dużo.
+
+121
+00:11:12,433 --> 00:11:16,854
+Ale cykl jest o wiele łagodniejszy
+niż w 1935 i 1908.
+
+122
+00:11:19,106 --> 00:11:22,985
+25 zniknięć, siedem potwierdzonych zgonów.
+
+123
+00:11:23,486 --> 00:11:26,614
+Głównie dzieci. Najstarsze 16 lat,
+
+124
+00:11:27,657 --> 00:11:29,283
+najmłodsze pięć.
+
+125
+00:11:30,242 --> 00:11:34,955
+Pocieszające jest to,
+że istota się złuszcza.
+
+126
+00:11:37,458 --> 00:11:41,962
+Od założenia miasta jej pozostałości
+zanieczyszczają wodę.
+
+127
+00:11:42,588 --> 00:11:44,465
+Do rzeczy, John.
+
+128
+00:11:44,590 --> 00:11:48,052
+Wybacz. Nie powinniśmy uczyć
+przyszłej Strażniczki?
+
+129
+00:11:48,678 --> 00:11:51,555
+Leo. Kontynuuj, John.
+
+130
+00:11:52,473 --> 00:11:56,936
+Nasi zwiadowcy ustalili, że mieszkańcy
+stają się bardziej agresywni.
+
+131
+00:11:57,061 --> 00:11:58,062
+Wróżba.
+
+132
+00:11:59,563 --> 00:12:02,608
+Właśnie. Co to oznacza?
+
+133
+00:12:03,776 --> 00:12:07,863
+Ostatnie wielkie, krwawe wydarzenie,
+które zakończy cykl.
+
+134
+00:12:08,948 --> 00:12:12,785
+Po którym czeka nas
+kolejne 27 lat ciszy i spokoju.
+
+135
+00:12:14,829 --> 00:12:16,205
+Pani Rose!
+
+136
+00:12:16,831 --> 00:12:19,250
+Spóźniłeś się. Gdzie Taniel?
+
+137
+00:12:20,960 --> 00:12:22,336
+Nie mogłem go powstrzymać.
+
+138
+00:12:48,195 --> 00:12:50,489
+Proszę mi pozwolić z nim porozmawiać.
+
+139
+00:12:51,157 --> 00:12:53,951
+Ekspres do Shawshank odjeżdża.
+
+140
+00:12:57,621 --> 00:13:00,124
+Poganiaj wybawicielkę, Grogan.
+
+141
+00:13:00,958 --> 00:13:03,794
+Ostatnia posłana tam rybka
+nie przetrwała tygodnia.
+
+142
+00:13:06,964 --> 00:13:09,592
+Jeśli ci się poszczęści, wytrzymasz dwa.
+
+143
+00:13:15,139 --> 00:13:16,849
+Spłoń w piekle, sukinsynu!
+
+144
+00:13:21,896 --> 00:13:25,191
+Jesteś trupem. Trupem, Grogan!
+
+145
+00:13:25,316 --> 00:13:29,361
+Będziesz się smażył za to,
+co zrobiłeś moim dzieciom, gnoju!
+
+146
+00:13:53,803 --> 00:13:55,137
+Siadaj.
+
+147
+00:14:01,227 --> 00:14:04,688
+Nic się nie stało,
+jestem tylko roztrzęsiona.
+
+148
+00:14:07,149 --> 00:14:08,400
+Już tam jedzie.
+
+149
+00:14:08,526 --> 00:14:10,611
+Chcę dopilnować papierów,
+
+150
+00:14:10,736 --> 00:14:15,282
+żeby jak najszybciej mógł wrócić
+do rodziny i czekać na proces.
+
+151
+00:14:16,116 --> 00:14:18,285
+Daj znać. Cześć.
+
+152
+00:14:18,410 --> 00:14:19,954
+Dzięki. Pa.
+
+153
+00:14:22,748 --> 00:14:25,042
+Jest Will? Gdzie on się podział?
+
+154
+00:14:25,835 --> 00:14:27,461
+W pokoju. Co się stało?
+
+155
+00:14:31,423 --> 00:14:33,008
+Muszę ci coś powiedzieć.
+
+156
+00:14:33,133 --> 00:14:36,136
+Choć to zabrzmi jak kompletne wariactwo,
+
+157
+00:14:36,428 --> 00:14:40,266
+naprawdę musisz mi po prostu uwierzyć.
+
+158
+00:14:43,185 --> 00:14:47,064
+<i>Wczoraj w hrabstwie Leflore w Missisipi
+użyto Gwardii Narodowej</i>
+
+159
+00:14:47,189 --> 00:14:50,234
+<i>podczas demonstracji
+w sprawie praw wyborczych Negrów.</i>
+
+160
+00:14:51,360 --> 00:14:52,736
+Generale, do pana.
+
+161
+00:14:52,862 --> 00:14:55,406
+- Nie teraz.
+- Przepraszam, ale...
+
+162
+00:14:56,282 --> 00:14:58,576
+Gdzie mój bratanek, Francis?
+
+163
+00:14:58,701 --> 00:15:01,829
+Rose. Nic mu nie grozi.
+
+164
+00:15:03,998 --> 00:15:07,626
+Gdy zakończymy operację,
+zostanie zwolniony. Daję słowo.
+
+165
+00:15:07,751 --> 00:15:11,422
+Słowo? Jak z wodociągami?
+
+166
+00:15:12,464 --> 00:15:16,010
+Powiedziałem ci, że odzyskałem
+wspomnienia po powrocie do Derry.
+
+167
+00:15:17,094 --> 00:15:20,848
+- To nie do końca prawda.
+- Co ty nie powiesz?
+
+168
+00:15:21,348 --> 00:15:25,978
+Pięć lat temu w departamencie obrony
+podano mi środek,
+
+169
+00:15:26,103 --> 00:15:30,024
+po którym wszystko sobie przypomniałem.
+
+170
+00:15:31,025 --> 00:15:33,485
+Każdy szczegół naszego lata.
+
+171
+00:15:34,778 --> 00:15:37,239
+Pierwszy raz od 45 lat.
+
+172
+00:15:40,034 --> 00:15:43,996
+Co to było? Czemu nie może wyjść z lasu?
+
+173
+00:15:49,209 --> 00:15:51,211
+Dotrzymasz tajemnicy?
+
+174
+00:15:56,508 --> 00:16:00,930
+Pamiętam, że ocaliłaś mnie przed czymś,
+co nie powinno istnieć.
+
+175
+00:16:08,187 --> 00:16:11,398
+<i>Gdy przeanalizowałem wszystko,
+co się wydarzyło,</i>
+
+176
+00:16:11,523 --> 00:16:13,901
+i wszystko, co powiedziałaś mi
+o swoich przodkach
+
+177
+00:16:14,026 --> 00:16:16,236
+i ich świętym zobowiązaniu,
+
+178
+00:16:16,445 --> 00:16:19,406
+zrozumiałem, że znam odpowiedź na pytanie,
+
+179
+00:16:19,531 --> 00:16:24,286
+które dręczyło mnie całe życie:
+"Jak ochronić ten kraj?".
+
+180
+00:16:28,874 --> 00:16:32,503
+Sądzisz, że możesz założyć
+temu czemuś smycz?
+
+181
+00:16:34,880 --> 00:16:37,675
+Nad tym nie da się panować, Francis.
+
+182
+00:16:40,386 --> 00:16:41,553
+Zobaczymy.
+
+183
+00:16:47,476 --> 00:16:51,939
+<i>Nie robiłbyś tego,
+gdybyś naprawdę pamiętał wszystko.</i>
+
+184
+00:16:52,690 --> 00:16:55,025
+Jak to jest spojrzeć temu czemuś w oczy.
+
+185
+00:16:57,611 --> 00:17:00,239
+Poczuć jego oddech na karku.
+
+186
+00:17:01,991 --> 00:17:06,745
+Zwinąłbyś tę całą operację i zwiałbyś.
+
+187
+00:17:06,870 --> 00:17:11,041
+Wiemy, jak znaleźć kolumny.
+Taniel wszystko nam powiedział.
+
+188
+00:17:11,166 --> 00:17:13,002
+Nie zrobiłby tego.
+
+189
+00:17:13,127 --> 00:17:17,381
+Dom przy Neibolt, Rose.
+Tunele pod Neibolt.
+
+190
+00:17:24,847 --> 00:17:26,557
+W takim razie
+
+191
+00:17:28,934 --> 00:17:30,561
+potrzebna ci moja pomoc.
+
+192
+00:17:32,563 --> 00:17:33,939
+Wykluczone, Rose.
+
+193
+00:17:35,315 --> 00:17:36,442
+Francis.
+
+194
+00:17:47,536 --> 00:17:51,165
+Pozwól mi chociaż przygotować Taniela.
+
+195
+00:17:52,958 --> 00:17:56,003
+Zależy od tego wasze życie.
+
+196
+00:18:19,568 --> 00:18:21,904
+- Tanielu!
+- Ciociu!
+
+197
+00:18:22,029 --> 00:18:24,740
+- Nic ci nie jest?
+- Nie chciałem dać się złapać.
+
+198
+00:18:25,282 --> 00:18:26,784
+Wiem o tym.
+
+199
+00:18:29,161 --> 00:18:31,121
+Jesteś ranny. Co to?
+
+200
+00:18:38,295 --> 00:18:39,963
+Oni coś mi zrobili.
+
+201
+00:18:42,424 --> 00:18:44,009
+Weszli mi do umysłu,
+
+202
+00:18:44,760 --> 00:18:47,012
+do głowy, wspomnień... Nie wiem jak!
+
+203
+00:18:54,728 --> 00:18:56,021
+Oni wiedzą.
+
+204
+00:18:57,022 --> 00:18:58,482
+Wszystko.
+
+205
+00:18:59,066 --> 00:19:01,735
+O nas, kolumnach, klatce.
+
+206
+00:19:03,070 --> 00:19:05,864
+- Ale nie martw się. Myślą, że...
+- Wiem.
+
+207
+00:19:09,827 --> 00:19:13,122
+- I biorą cię ze sobą.
+- Dobrze, to moja wina...
+
+208
+00:19:13,288 --> 00:19:14,540
+Po angielsku!
+
+209
+00:19:16,959 --> 00:19:22,464
+Powiedziałam,
+że pomożesz im znaleźć to, czego szukają.
+
+210
+00:19:25,050 --> 00:19:27,010
+Dzięki temu.
+
+211
+00:19:30,430 --> 00:19:35,310
+Sprawdzili.
+Wiedzą, że nie stanowi zagrożenia,
+
+212
+00:19:35,435 --> 00:19:38,772
+i rozumieją, że tylko ty wiesz,
+jak go użyć.
+
+213
+00:19:45,154 --> 00:19:46,363
+Tak, ciociu.
+
+214
+00:19:48,073 --> 00:19:49,950
+Rozumiem.
+
+215
+00:19:50,075 --> 00:19:51,451
+Ja to wezmę.
+
+216
+00:19:53,829 --> 00:19:55,539
+Daj.
+
+217
+00:19:56,665 --> 00:19:58,458
+Do rana nie będzie ci potrzebny.
+
+218
+00:20:00,544 --> 00:20:02,087
+Czas minął.
+
+219
+00:20:06,508 --> 00:20:07,676
+Idziemy.
+
+220
+00:20:09,136 --> 00:20:10,596
+Rób, co mówią.
+
+221
+00:20:12,848 --> 00:20:16,351
+Trzymaj go blisko i będziesz bezpieczny.
+
+222
+00:20:35,412 --> 00:20:37,497
+POKÓJ TO NASZ ZAWÓD
+
+223
+00:20:44,338 --> 00:20:45,505
+Dokument.
+
+224
+00:20:50,302 --> 00:20:54,598
+Baza jest daleko od miasta. Będziecie
+bezpieczni, dopóki nie wykonam zadania.
+
+225
+00:20:54,765 --> 00:20:57,017
+A moi przyjaciele? Potrzebują mnie.
+
+226
+00:20:57,142 --> 00:20:59,519
+Zobaczysz się z nimi, gdy to się skończy.
+
+227
+00:20:59,645 --> 00:21:02,898
+- Można jechać.
+- Wierz mi, że się tym zajmę.
+
+228
+00:21:20,582 --> 00:21:22,918
+Mówiła pani,
+że jeśli zechcę porozmawiać...
+
+229
+00:21:25,587 --> 00:21:26,672
+Wejdź.
+
+230
+00:21:28,090 --> 00:21:31,468
+Twierdzisz, że ten chłopiec
+może wciąż żyć?
+
+231
+00:21:31,593 --> 00:21:33,095
+Matty tak myśli,
+
+232
+00:21:33,220 --> 00:21:35,847
+ale nie pójdzie do glin,
+bo nie chce wrócić do domu.
+
+233
+00:21:36,473 --> 00:21:38,767
+Ile ten biedak przeszedł!
+
+234
+00:21:50,988 --> 00:21:54,908
+- Dzień dobry, panie Kersh.
+- Skarbie, pamiętasz Lilly?
+
+235
+00:21:56,076 --> 00:21:59,454
+- Dziecko Terri Bainbridge?
+- Tak jest.
+
+236
+00:22:01,123 --> 00:22:03,667
+- Gdzie mój stek?
+- Prawie gotowy.
+
+237
+00:22:04,293 --> 00:22:08,463
+- Za chwilkę przyniosę.
+- Tylko znowu nie przesmaż.
+
+238
+00:22:17,097 --> 00:22:20,309
+Jeśli ktoś porwał dziecko,
+musimy iść na policję.
+
+239
+00:22:20,475 --> 00:22:22,144
+Obiecałam Matty'emu.
+
+240
+00:22:22,269 --> 00:22:25,480
+To sprawy dorosłych.
+Sama tam przecież nie wejdziesz.
+
+241
+00:22:26,732 --> 00:22:28,442
+Możemy uratować Phila.
+
+242
+00:22:29,109 --> 00:22:35,032
+Lilly, nie myślisz jasno.
+Obiecaj mi, że tam nie pójdziesz.
+
+243
+00:22:36,366 --> 00:22:40,203
+Przyjaciele czy nie,
+nie warto z ich powodu umierać.
+
+244
+00:22:41,413 --> 00:22:42,873
+Obiecaj mi!
+
+245
+00:22:45,042 --> 00:22:46,293
+Słowo.
+
+246
+00:22:52,215 --> 00:22:53,884
+I co?
+
+247
+00:22:54,009 --> 00:22:56,845
+Nie jest tak do kitu, prawda?
+
+248
+00:22:57,721 --> 00:23:01,683
+Mniej miejsca niż u nas w domu,
+ale do wytrzymania.
+
+249
+00:23:05,312 --> 00:23:07,230
+Mogę iść na spacer?
+
+250
+00:23:07,356 --> 00:23:09,274
+Skoro tu utknąłem, zwiedzę sobie bazę.
+
+251
+00:23:11,443 --> 00:23:12,611
+Tak.
+
+252
+00:23:13,612 --> 00:23:16,156
+Na pewno jest tu świetlica, rzutki...
+
+253
+00:23:20,577 --> 00:23:23,997
+Zobaczysz swoich przyjaciół,
+gdy tata powie, że jest bezpiecznie.
+
+254
+00:23:24,122 --> 00:23:25,415
+Kocham cię.
+
+255
+00:23:27,918 --> 00:23:29,252
+Kocham cię.
+
+256
+00:23:44,476 --> 00:23:46,978
+<i>Autobus więzienny,</i>
+
+257
+00:23:47,104 --> 00:23:51,525
+<i>który zmierzał do Shawshank,
+rozbił się na drodze nr 9.</i>
+
+258
+00:23:51,650 --> 00:23:55,612
+<i>Źródła informują, że było wiele ofiar.</i>
+
+259
+00:23:56,113 --> 00:24:00,992
+<i>Jeden z pasażerów,
+podejrzewany o morderstwa Hank Grogan,</i>
+
+260
+00:24:01,118 --> 00:24:03,954
+<i>prawdopodobnie zbiegł.</i>
+
+261
+00:24:04,079 --> 00:24:06,706
+<i>Drogi zablokowano,
+a policja prowadzi poszukiwania</i>
+
+262
+00:24:06,832 --> 00:24:12,504
+<i>i prosi, by każdy, kto coś wie,
+kontaktował się z infolinią.</i>
+
+263
+00:24:12,838 --> 00:24:15,132
+<i>Po zachodniej stronie daje się zauważyć</i>
+
+264
+00:24:15,257 --> 00:24:19,511
+<i>zamknięcie ulic pomiędzy Center i Neibolt</i>
+
+265
+00:24:19,636 --> 00:24:21,763
+<i>spowodowane zgłoszonym wyciekiem gazu.</i>
+
+266
+00:24:22,222 --> 00:24:26,309
+<i>Władze sugerują mieszkańcom
+unikanie tej okolicy.</i>
+
+267
+00:24:31,273 --> 00:24:34,609
+Jazda! Jechać! Jechać!
+
+268
+00:24:52,961 --> 00:24:56,089
+Kilka dni próbuję dolecieć na Main Street.
+
+269
+00:24:57,424 --> 00:24:59,259
+Straciłem już dziewięć.
+
+270
+00:25:01,178 --> 00:25:02,846
+Zawsze ten wiatr, stary.
+
+271
+00:25:08,810 --> 00:25:12,439
+- Co ona tu robi?
+- Ja tylko chcę pomóc.
+
+272
+00:25:12,564 --> 00:25:15,484
+- Mam zaufać Pattycake?
+- Byłej.
+
+273
+00:25:16,109 --> 00:25:17,777
+Ją też zaatakowało.
+
+274
+00:25:18,987 --> 00:25:23,158
+Myślałam o tym. Nie zmusimy Matty'ego,
+żeby poszedł na policję.
+
+275
+00:25:24,075 --> 00:25:25,160
+Co?
+
+276
+00:25:25,285 --> 00:25:29,206
+Nie uwierzą mu, a poza tym ma rację.
+Odeślą go do ojca.
+
+277
+00:25:30,373 --> 00:25:34,586
+Ale jeśli Phil żyje i może udowodnić,
+że twój tata jest niewinny,
+
+278
+00:25:36,296 --> 00:25:38,089
+to sami musimy go ratować.
+
+279
+00:25:38,215 --> 00:25:39,508
+- Zwariowałaś?
+- W życiu!
+
+280
+00:25:40,926 --> 00:25:42,761
+Drugi raz tam nie zejdę.
+
+281
+00:25:42,886 --> 00:25:46,014
+Mówiłeś, że prędzej wrócisz
+do kanałów niż do domu.
+
+282
+00:25:46,473 --> 00:25:49,351
+To dobrze,
+bo natychmiast nas tam zaprowadzisz
+
+283
+00:25:49,518 --> 00:25:52,896
+i pokażesz, gdzie jest Phil,
+a my go wyciągniemy.
+
+284
+00:25:54,689 --> 00:25:57,609
+Bo jeśli nie, zawleczemy cię na policję.
+
+285
+00:25:58,235 --> 00:26:00,487
+Teraz. Razem.
+
+286
+00:26:00,612 --> 00:26:02,697
+Nie idźmy tam, bo nas zje!
+
+287
+00:26:03,198 --> 00:26:04,282
+Nie z tym.
+
+288
+00:26:05,867 --> 00:26:08,745
+- Mały pomocnik mamusi?
+- Właśnie.
+
+289
+00:26:08,870 --> 00:26:11,623
+Will i Matty mówią,
+że to karmi się strachem.
+
+290
+00:26:12,415 --> 00:26:15,126
+Jeśli nie będziemy się bać,
+nie mamy powodów do obaw.
+
+291
+00:26:16,336 --> 00:26:19,756
+Mama dokupiła tabletki.
+Weźmiemy, ile możemy.
+
+292
+00:26:19,881 --> 00:26:23,426
+- Nie zaszkodzą nam?
+- Mama łyka je jak M&M'sy.
+
+293
+00:26:23,969 --> 00:26:27,138
+Gdyby szkodziły, pewnie byłaby już martwa.
+
+294
+00:26:27,931 --> 00:26:29,432
+Sam nie wiem.
+
+295
+00:26:32,143 --> 00:26:35,230
+Mój tata mówił,
+
+296
+00:26:35,772 --> 00:26:38,942
+że ludzie mogą być kotwicami
+lub szalupami ratowniczymi.
+
+297
+00:26:39,651 --> 00:26:42,237
+Ciągną cię na dno
+albo utrzymują na wodzie.
+
+298
+00:26:44,614 --> 00:26:46,491
+Nie wiem, gdzie bym była, gdyby nie wy.
+
+299
+00:26:48,076 --> 00:26:51,204
+Ale Phil jest całkiem sam.
+
+300
+00:26:51,830 --> 00:26:54,291
+Jeśli nic nie zrobimy,
+nie będzie miał szans.
+
+301
+00:26:56,293 --> 00:27:02,007
+Dlatego pytam.
+Jesteście kotwicą czy szalupą?
+
+302
+00:27:04,467 --> 00:27:06,970
+- Szalupą.
+- Szalupą.
+
+303
+00:27:14,519 --> 00:27:16,104
+Szalupą?
+
+304
+00:27:27,949 --> 00:27:30,368
+Co? Co przegapiłem?
+
+305
+00:27:31,244 --> 00:27:33,121
+Nie chcesz wiedzieć.
+
+306
+00:27:35,040 --> 00:27:37,917
+Według naszych przyjaciół z Indian Marsh,
+
+307
+00:27:38,209 --> 00:27:42,839
+dom na Neibolt Street zbudowano
+nad starą studnią z czasów kolonialnych.
+
+308
+00:27:44,132 --> 00:27:46,051
+Czysto!
+
+309
+00:27:46,301 --> 00:27:49,429
+<i>Szukamy trzynastu indiańskich artefaktów,</i>
+
+310
+00:27:49,554 --> 00:27:51,556
+<i>które określane są kolumnami.</i>
+
+311
+00:27:51,806 --> 00:27:55,977
+<i>Kilka stuleci temu zakopano je
+w różnych miejscach wokół Derry.</i>
+
+312
+00:27:56,102 --> 00:28:00,190
+<i>Obecnie można się do nich dostać
+tylko poprzez kanały pod studnią.</i>
+
+313
+00:28:01,107 --> 00:28:03,818
+<i>Major Hanlon i jego ludzie
+zabezpieczą dom,</i>
+
+314
+00:28:03,943 --> 00:28:07,947
+<i>znajdą studnię i zejdą do tunelów,
+którymi nasz przewodnik, Taniel,</i>
+
+315
+00:28:08,073 --> 00:28:10,659
+<i>poprowadzi nas do kolumn.</i>
+
+316
+00:28:10,867 --> 00:28:13,411
+<i>W razie potrzeby wspomoże go
+szeregowy Hallorann.</i>
+
+317
+00:28:19,459 --> 00:28:22,379
+Dobrze, chłopcy. Na dół.
+
+318
+00:28:24,005 --> 00:28:27,342
+<i>Pamiętajcie, panowie,
+że znajdziecie się na terenie wroga.</i>
+
+319
+00:28:28,093 --> 00:28:32,055
+<i>Jakąkolwiek formę przybierze,
+wykorzysta przeciwko wam wasze lęki.</i>
+
+320
+00:28:32,931 --> 00:28:34,849
+<i>Nie wahajcie się, nie ufajcie mu.</i>
+
+321
+00:28:35,183 --> 00:28:39,771
+<i>Jeśli zobaczycie coś, czego zgodnie
+z logiką nie powinno tam być, strzelajcie</i>
+
+322
+00:28:40,689 --> 00:28:44,359
+<i>Bądźcie czujni, chrońcie się
+i zabezpieczcie obiekty.</i>
+
+323
+00:28:50,323 --> 00:28:51,533
+Tędy.
+
+324
+00:28:53,535 --> 00:28:55,412
+Czujesz to?
+
+325
+00:28:55,829 --> 00:28:57,330
+Coś czuję.
+
+326
+00:29:23,773 --> 00:29:25,316
+<i>Dick.</i>
+
+327
+00:29:29,529 --> 00:29:31,906
+- Słyszeliście?
+- Co?
+
+328
+00:29:59,684 --> 00:30:02,437
+- Taniel! Jesteś cały?
+- Tak.
+
+329
+00:30:03,855 --> 00:30:05,482
+Duży spadek.
+
+330
+00:30:23,416 --> 00:30:26,711
+<i>Dick! Dziecko!</i>
+
+331
+00:30:30,048 --> 00:30:32,592
+Ruszaj, bo zostaniemy z tyłu.
+
+332
+00:31:08,920 --> 00:31:10,046
+Gdzie on jest?
+
+333
+00:31:13,591 --> 00:31:14,551
+Hallorann!
+
+334
+00:31:17,220 --> 00:31:18,680
+Hallorann!
+
+335
+00:31:24,727 --> 00:31:27,105
+- Gdzie on jest?
+- Nie wiem! Wpadł i nie wypłynął.
+
+336
+00:31:47,000 --> 00:31:48,293
+Dickie.
+
+337
+00:31:49,836 --> 00:31:52,088
+On znowu po ciebie idzie.
+
+338
+00:31:53,756 --> 00:31:55,383
+Babciu?
+
+339
+00:32:21,784 --> 00:32:22,952
+Babciu?
+
+340
+00:32:23,453 --> 00:32:24,704
+Cześć, Dickie.
+
+341
+00:32:26,414 --> 00:32:28,499
+Już czas.
+
+342
+00:32:28,625 --> 00:32:30,126
+Hallorann!
+
+343
+00:32:32,045 --> 00:32:33,546
+Czekaj!
+
+344
+00:32:34,088 --> 00:32:35,590
+Słyszałeś?
+
+345
+00:32:36,591 --> 00:32:37,926
+To ty, Hallorann?
+
+346
+00:33:13,753 --> 00:33:17,131
+Chcę...
+
+347
+00:33:18,007 --> 00:33:19,759
+ciebie!
+
+348
+00:33:25,473 --> 00:33:26,766
+Co do diabła?
+
+349
+00:33:29,894 --> 00:33:31,229
+Hallorann!
+
+350
+00:33:58,214 --> 00:34:01,342
+Weźmy po trzy. Powinno wystarczyć.
+
+351
+00:34:13,271 --> 00:34:17,817
+- Jakby gorzkie.
+- To jakby lepsze niż dać się zjeść.
+
+352
+00:34:18,818 --> 00:34:22,071
+Dobra. Prowadź.
+
+353
+00:35:02,403 --> 00:35:05,948
+- Jesteśmy blisko.
+- Zgadzasz się, Hallorann?
+
+354
+00:35:09,535 --> 00:35:10,745
+Majorze Hanlon?
+
+355
+00:35:12,747 --> 00:35:14,540
+Cholera! Taniel!
+
+356
+00:35:14,957 --> 00:35:16,459
+Stój!
+
+357
+00:35:16,584 --> 00:35:18,002
+Taniel!
+
+358
+00:35:24,926 --> 00:35:26,677
+Popełniasz duży błąd!
+
+359
+00:35:27,553 --> 00:35:28,596
+Sukinsyn!
+
+360
+00:35:39,232 --> 00:35:40,399
+Tędy.
+
+361
+00:35:47,573 --> 00:35:49,117
+Uroczy jesteście.
+
+362
+00:35:50,243 --> 00:35:53,287
+Gadacie ze sobą w głowach,
+w tajemnicy przede mną.
+
+363
+00:35:55,414 --> 00:35:58,876
+Może i nie mam daru,
+ale nie jestem głupkiem.
+
+364
+00:36:00,044 --> 00:36:02,922
+Wiem o wszystkim,
+co powiedziała ci ta dziwka.
+
+365
+00:36:03,422 --> 00:36:05,466
+<i>Próbuje ci namieszać w głowie.</i>
+
+366
+00:36:05,967 --> 00:36:09,846
+"Dickie. Zamknij je.
+
+367
+00:36:09,971 --> 00:36:13,057
+W pudełku w swojej głowie.
+I wyrzuć klucz".
+
+368
+00:36:13,182 --> 00:36:15,143
+<i>Skrzywdzi cię. Nie słuchaj go.</i>
+
+369
+00:36:15,268 --> 00:36:16,894
+Ona nas nie rozumie.
+
+370
+00:36:17,436 --> 00:36:19,814
+Taką moc trzeba wykorzystywać.
+
+371
+00:36:19,939 --> 00:36:23,192
+Nie. Jak je znalazłeś?
+
+372
+00:36:23,943 --> 00:36:26,863
+Jak znalazłeś moje pudełko?
+
+373
+00:36:27,655 --> 00:36:29,157
+Było tutaj.
+
+374
+00:36:29,532 --> 00:36:32,743
+W zwieraczu twojej duszy.
+
+375
+00:36:32,910 --> 00:36:35,663
+<i>Wiesz, co tam jest.
+Nie pozwól mu otworzyć!</i>
+
+376
+00:36:35,788 --> 00:36:38,457
+Nie schowasz go tak,
+żebym nie znalazł! Słyszysz?!
+
+377
+00:36:38,583 --> 00:36:41,127
+<i>Dopadną cię. Nie otwieraj pudełka.</i>
+
+378
+00:36:41,711 --> 00:36:43,629
+Wypuść wszystko. Dalej.
+
+379
+00:36:43,754 --> 00:36:45,923
+- Nic nie otworzę.
+- Nie będę powtarzać.
+
+380
+00:36:46,048 --> 00:36:47,466
+Otwórz to pudełko.
+
+381
+00:36:47,592 --> 00:36:49,302
+- Otwórz je!
+- Nie!
+
+382
+00:36:50,136 --> 00:36:53,389
+Musisz je odłożyć tam, gdzie znalazłeś,
+bo niczego nie otwieram.
+
+383
+00:36:53,514 --> 00:36:55,683
+- I co wtedy?
+- Ja...
+
+384
+00:36:55,808 --> 00:36:59,270
+Co zrobisz? No co? No co zrobisz?
+
+385
+00:37:05,067 --> 00:37:06,903
+- Babciu!
+- Co niby zrobisz?!
+
+386
+00:37:07,945 --> 00:37:10,239
+Co zrobisz, chłopcze?
+
+387
+00:37:10,364 --> 00:37:13,201
+Nie otworzysz, to otworzymy razem.
+
+388
+00:37:13,326 --> 00:37:15,620
+- Nie.
+- Na trzy. Gotowy?
+
+389
+00:37:16,037 --> 00:37:19,040
+Przestań. Odłóż je.
+
+390
+00:37:19,165 --> 00:37:21,334
+- Raz.
+- Nie rób tego.
+
+391
+00:37:22,585 --> 00:37:24,128
+Przestań, przestań!
+
+392
+00:37:24,754 --> 00:37:26,297
+Nie rób tego!
+
+393
+00:37:27,006 --> 00:37:28,216
+Stój!
+
+394
+00:37:28,341 --> 00:37:30,718
+- Dwa.
+- Nie. Nie rób tego!
+
+395
+00:37:30,927 --> 00:37:34,055
+Zostaw to! Co to jest? Czym jesteś?
+
+396
+00:37:37,016 --> 00:37:38,976
+Co robisz? Wyłaź stąd!
+
+397
+00:37:39,101 --> 00:37:40,686
+- Nie!
+- Trzy.
+
+398
+00:38:06,212 --> 00:38:08,881
+Chyba wziąłem za dużo pigułek.
+
+399
+00:38:10,841 --> 00:38:13,052
+Może faktycznie przesadziliśmy.
+
+400
+00:38:13,928 --> 00:38:15,096
+Co mówisz?
+
+401
+00:38:16,222 --> 00:38:17,306
+Co?
+
+402
+00:38:18,349 --> 00:38:19,517
+Co?
+
+403
+00:38:20,977 --> 00:38:22,645
+Nic ci nie jest?
+
+404
+00:38:23,229 --> 00:38:27,525
+Przepraszam, że się tak guzdram.
+Źle widzę w ciemności.
+
+405
+00:38:28,484 --> 00:38:30,069
+Weź mnie za rękę.
+
+406
+00:38:33,197 --> 00:38:35,533
+Twoja dłoń jest bardzo miękka.
+
+407
+00:38:35,700 --> 00:38:39,036
+Czasem pożyczam od mamy krem Noxzema.
+
+408
+00:38:39,161 --> 00:38:41,831
+Jest super-hiper miękka.
+
+409
+00:38:42,623 --> 00:38:44,834
+Jak brzuszek kotka.
+
+410
+00:38:45,501 --> 00:38:48,170
+To dziwne, co mówisz.
+
+411
+00:38:48,296 --> 00:38:50,381
+Też to czujecie?
+
+412
+00:38:51,382 --> 00:38:54,802
+Jest jak wtedy,
+kiedy poszła do dr. Wagnera,
+
+413
+00:38:54,927 --> 00:38:57,305
+a higienistka podała mi gaz
+
+414
+00:38:57,555 --> 00:39:01,726
+i myślałam, że ulatuję ze swojego...
+
+415
+00:39:03,227 --> 00:39:05,146
+Oni trzymają się za ręce?
+
+416
+00:39:05,646 --> 00:39:07,398
+- Nie.
+- Tak.
+
+417
+00:39:09,734 --> 00:39:11,193
+Zbliżamy się.
+
+418
+00:39:15,531 --> 00:39:17,325
+Chryste, cuchnie tu gównem.
+
+419
+00:39:17,450 --> 00:39:20,202
+To ścieki, Pauly. Jak niby ma pachnieć?
+
+420
+00:39:22,121 --> 00:39:25,166
+- Gdzie oni są?
+- Nie wiem. Musieliśmy gdzieś skręcić.
+
+421
+00:39:25,416 --> 00:39:27,043
+- Zgubiliśmy się?
+- Nie wiem.
+
+422
+00:39:27,168 --> 00:39:30,212
+- Cholera. Halo!
+- Uspokój się.
+
+423
+00:39:30,463 --> 00:39:33,341
+- Jestem spokojny. Nie słychać?
+- Niezbyt.
+
+424
+00:39:35,718 --> 00:39:37,136
+Gorąco tu?
+
+425
+00:39:38,888 --> 00:39:40,639
+Chryste, płonę.
+
+426
+00:39:41,557 --> 00:39:46,270
+- Tu jest jak w piecu. Nie czujesz?
+- Czuję! Jest gorąco. Spokojnie.
+
+427
+00:39:46,395 --> 00:39:49,357
+Czemu nie możemy ich znaleźć?
+Czuję, że coś jest nie tak.
+
+428
+00:39:49,482 --> 00:39:52,651
+Albo ich dogonimy,
+albo złapiemy w drodze powrotnej.
+
+429
+00:39:52,818 --> 00:39:55,613
+Tak czy inaczej musimy iść naprzód.
+
+430
+00:39:56,113 --> 00:39:57,323
+- Jasne?
+- Tak.
+
+431
+00:39:57,823 --> 00:39:59,241
+Leroy!
+
+432
+00:40:00,910 --> 00:40:02,870
+Co? Co to?
+
+433
+00:40:07,625 --> 00:40:09,710
+Na co się patrzysz?
+
+434
+00:40:10,795 --> 00:40:13,714
+Leroy, pomóż. Boję się.
+
+435
+00:40:14,673 --> 00:40:18,135
+- Charlotte?
+- Chcę do domu. Boję się!
+
+436
+00:40:19,053 --> 00:40:20,763
+Co ty tu robisz?
+
+437
+00:40:23,391 --> 00:40:25,142
+Do kogo gadasz?
+
+438
+00:40:26,894 --> 00:40:30,272
+- Nie widzisz jej?
+- Kogo? Jaja sobie robisz?
+
+439
+00:40:30,398 --> 00:40:32,149
+Odłóż broń, kotku. Boję się.
+
+440
+00:40:33,442 --> 00:40:35,861
+- Co do kurwy?
+- Możemy iść do domu, Lee?
+
+441
+00:40:35,986 --> 00:40:37,863
+- Świeć równo.
+- To bateria.
+
+442
+00:40:38,906 --> 00:40:40,950
+- Moja też siadła.
+- Wymień ją!
+
+443
+00:40:50,000 --> 00:40:52,169
+Co ty, kurwa, wyprawiasz?
+
+444
+00:40:53,379 --> 00:40:54,463
+Lee!
+
+445
+00:41:21,615 --> 00:41:22,992
+Co tu się wyprawia?
+
+446
+00:41:25,119 --> 00:41:27,705
+- Co jest grane?!
+- Słuchaj!
+
+447
+00:41:27,955 --> 00:41:31,584
+Gdy tylko zobaczysz coś,
+czego nie powinno tu być, zabijaj.
+
+448
+00:41:32,293 --> 00:41:36,255
+Obojętne, czy to pierwsza dziewczyna
+czy nauczycielka WF-u. Zabijaj.
+
+449
+00:41:36,380 --> 00:41:38,674
+- Kapujesz? Pauly!
+- Tak, kapuję.
+
+450
+00:41:38,799 --> 00:41:41,594
+- Mam zabić wuefistkę.
+- Idziemy.
+
+451
+00:41:43,304 --> 00:41:45,014
+Przerażasz mnie.
+
+452
+00:42:12,875 --> 00:42:14,585
+To chyba ślepy zaułek.
+
+453
+00:42:17,421 --> 00:42:19,882
+Mógłbym przysiąc, że to tu.
+
+454
+00:42:20,591 --> 00:42:21,675
+<i>Hallorann!</i>
+
+455
+00:42:25,679 --> 00:42:28,974
+- Słyszycie?
+- Głosy.
+
+456
+00:42:31,227 --> 00:42:32,853
+Tu jest ktoś jeszcze.
+
+457
+00:42:35,481 --> 00:42:36,857
+Lepiej wracajmy.
+
+458
+00:42:42,154 --> 00:42:43,405
+Boże!
+
+459
+00:42:43,531 --> 00:42:45,616
+- To Susie!
+- Boże!
+
+460
+00:42:49,745 --> 00:42:50,955
+Teddy!
+
+461
+00:42:52,831 --> 00:42:55,209
+O, Boże! Czy to Phil?!
+
+462
+00:42:56,210 --> 00:42:57,670
+Nie żyje!
+
+463
+00:42:58,170 --> 00:43:00,631
+<i>Wszystkie tunele
+pod ziemią są.</i>
+
+464
+00:43:00,756 --> 00:43:03,342
+<i>Zniknięcie dzieci
+nie jest już grą.</i>
+
+465
+00:43:05,844 --> 00:43:08,138
+<i>Powędrowały,
+by w cyrku być.</i>
+
+466
+00:43:08,264 --> 00:43:10,849
+<i>Teraz pod ziemią
+muszą już żyć.</i>
+
+467
+00:43:10,975 --> 00:43:13,018
+<i>Połknęły pigułkę,
+by nie bać się.</i>
+
+468
+00:43:13,644 --> 00:43:15,646
+<i>- Lecz tu na dole szukają źle.</i>
+- To Matty!
+
+469
+00:43:16,272 --> 00:43:18,023
+<i>Zwiedzać świat
+każdy z nich chciał.</i>
+
+470
+00:43:18,148 --> 00:43:20,150
+<i>Teraz mieszkają
+tam, gdzie klaun.</i>
+
+471
+00:43:21,610 --> 00:43:23,153
+<i>Tu w dole, gdzie klaun.</i>
+
+472
+00:43:25,614 --> 00:43:29,618
+Tu w dole, gdzie klaun!
+
+473
+00:43:33,080 --> 00:43:35,749
+Kucajcie i chrońcie się, dzieciaki.
+
+474
+00:43:50,055 --> 00:43:51,473
+Poczekajcie!
+
+475
+00:44:03,444 --> 00:44:04,528
+<i>Pomocy!</i>
+
+476
+00:44:10,534 --> 00:44:11,827
+<i>Pomocy!</i>
+
+477
+00:44:13,746 --> 00:44:15,956
+<i>Czy ktoś mnie słyszy?</i>
+
+478
+00:44:23,756 --> 00:44:27,509
+- Też go widzę.
+- To ja! Tato!
+
+479
+00:44:27,635 --> 00:44:29,386
+Jest prawdziwy.
+
+480
+00:44:31,430 --> 00:44:32,598
+Leroy, prawdziwy!
+
+481
+00:44:38,479 --> 00:44:39,730
+Cholera!
+
+482
+00:44:40,481 --> 00:44:41,649
+Kurwa.
+
+483
+00:44:47,404 --> 00:44:50,324
+Co wy tu, do diabła, robicie?!
+Stańcie za mną!
+
+484
+00:44:55,496 --> 00:44:57,414
+Jestem przy tobie.
+
+485
+00:44:58,874 --> 00:45:01,710
+- Jest źle? Źle?
+- Nie. Wcale nie.
+
+486
+00:45:01,835 --> 00:45:04,338
+Czyli, kurwa, źle. Źle.
+
+487
+00:45:04,463 --> 00:45:08,133
+Opatrzę cię. Opatrzę,
+żebym mógł cię wynieść. Chodź.
+
+488
+00:45:08,634 --> 00:45:09,968
+- Nie, nie!
+- Co?
+
+489
+00:45:10,094 --> 00:45:11,387
+Daj odpocząć.
+
+490
+00:45:11,512 --> 00:45:13,555
+Jebać odpoczynek! Zmiatamy!
+
+491
+00:45:13,681 --> 00:45:16,517
+Nie. Słuchaj. Muszę cię stąd zabrać.
+
+492
+00:45:16,642 --> 00:45:18,060
+- Lee! Lee!
+- Co?!
+
+493
+00:45:19,561 --> 00:45:20,729
+Jest dobrze.
+
+494
+00:45:22,564 --> 00:45:27,069
+- Co?
+- To moja kolej. I tyle.
+
+495
+00:45:28,112 --> 00:45:29,405
+Przepraszam.
+
+496
+00:45:36,870 --> 00:45:38,664
+Przepraszam, bracie.
+
+497
+00:45:39,665 --> 00:45:42,459
+Spraw, żeby było warto. Spraw.
+
+498
+00:46:10,279 --> 00:46:13,741
+Dobra, dzieci. Zmywamy się stąd.
+Teraz! Biegiem!
+
+499
+00:46:38,223 --> 00:46:39,391
+Chłopaki?
+
+500
+00:46:40,350 --> 00:46:43,854
+Ronnie! Marge! Ktoś mnie słyszy?!
+
+501
+00:46:58,619 --> 00:47:04,750
+Smutno tak, źle tak,
+nie ocaliłaś chłopczyka Matty'ego.
+
+502
+00:47:06,126 --> 00:47:09,213
+Smaczny, smaczny chłopczyk Matty.
+
+503
+00:47:11,048 --> 00:47:15,010
+Przekonałaś wszystkich,
+żeby przyszli mnie zobaczyć.
+
+504
+00:47:17,679 --> 00:47:20,641
+Bo jesteś taką dobrą przyjaciółką.
+
+505
+00:47:21,600 --> 00:47:25,354
+Ale taką złą córką!
+
+506
+00:48:50,522 --> 00:48:54,109
+Nie odwracaj się. Nic nie mów.
+
+507
+00:48:56,612 --> 00:48:59,323
+Uruchom silnik i jedźmy.
+
+508
+00:49:54,419 --> 00:49:56,505
+Widziałam wiadomości i tak się martwiłam!
+
+509
+00:49:57,005 --> 00:49:59,341
+- Coś zaatakowało autobus.
+- Zaatakowało?
+
+510
+00:49:59,466 --> 00:50:03,679
+Tak. To stało się tak szybko.
+Nie wiem, co to było.
+
+511
+00:50:03,804 --> 00:50:06,598
+Ustawili posterunki
+na drogach wylotowych z miasta.
+
+512
+00:50:07,474 --> 00:50:09,977
+Trzeba cię gdzieś ukryć. Chodź do mnie.
+
+513
+00:50:10,102 --> 00:50:12,104
+Nie. To zbyt ryzykowne.
+
+514
+00:50:13,105 --> 00:50:16,191
+- Niebezpieczne.
+- Tu nie zostaniesz. Przeczesują las.
+
+515
+00:50:18,694 --> 00:50:20,988
+Cholera. Kurwa!
+
+516
+00:50:23,031 --> 00:50:25,450
+Kurwa! Cholera!
+
+517
+00:50:36,336 --> 00:50:38,088
+Jest ktoś, kto może pomóc.
+
+518
+00:50:53,937 --> 00:50:58,442
+Dzień dobry. Jestem Hanlon.
+Ktoś do mnie przyszedł?
+
+519
+00:50:58,567 --> 00:50:59,860
+Pani Hanlon?
+
+520
+00:51:01,486 --> 00:51:03,071
+Nazywam się Ingrid Kersh.
+
+521
+00:51:03,780 --> 00:51:07,325
+Nie zna mnie pani,
+ale mamy wspólnego przyjaciela.
+
+522
+00:51:09,870 --> 00:51:13,331
+Oberwał. Potem pamiętam tylko,
+
+523
+00:51:14,207 --> 00:51:16,877
+jak leżał i się wykrwawiał.
+
+524
+00:51:18,837 --> 00:51:20,797
+Podniosłem go.
+
+525
+00:51:21,465 --> 00:51:23,258
+I zabrałem ze sobą.
+
+526
+00:51:28,722 --> 00:51:29,890
+Było za późno.
+
+527
+00:51:32,893 --> 00:51:36,271
+Dziękuję, majorze. Jeśli będzie konieczne
+coś jeszcze, damy znać.
+
+528
+00:51:51,119 --> 00:51:52,871
+Przykro mi, majorze.
+
+529
+00:51:54,915 --> 00:51:56,625
+Russo był dobrym człowiekiem.
+
+530
+00:51:58,794 --> 00:52:00,796
+Zgadza się. Dziękuję.
+
+531
+00:52:03,590 --> 00:52:04,841
+Chcę, aby pan wiedział,
+
+532
+00:52:05,967 --> 00:52:09,930
+że ci ludzie odpowiedzą za to,
+w co nas wpakowali.
+
+533
+00:52:13,100 --> 00:52:17,521
+Tym niemniej mam do pana kilka pytań.
+
+534
+00:52:17,646 --> 00:52:19,064
+Przepraszam.
+
+535
+00:52:23,318 --> 00:52:26,154
+Naprawdę chcę być teraz z rodziną.
+
+536
+00:52:27,614 --> 00:52:29,032
+Oczywiście.
+
+537
+00:52:35,122 --> 00:52:36,706
+Generale!
+
+538
+00:52:38,708 --> 00:52:42,504
+Hallorann. Udało mu się?
+
+539
+00:52:44,089 --> 00:52:45,799
+Nie wrócił do bazy.
+
+540
+00:52:48,510 --> 00:52:50,679
+Nie mam pojęcia,
+czy i jak stamtąd wyjdzie,
+
+541
+00:52:52,389 --> 00:52:56,977
+<i>ale jeśli ktoś może znaleźć drogę,
+to jest to Dick Hallorann.</i>
+
+542
+00:54:26,483 --> 00:54:29,778
+Wersja polska na zlecenie HBO
+Transperfect Media Poland
+
+543
+00:54:30,403 --> 00:54:33,406
+Tekst: Wojtek Stybliński
+
