@@ -1,0 +1,4875 @@
+1
+00:00:27,208 --> 00:00:28,208
+Sieć.
+
+2
+00:00:29,166 --> 00:00:30,875
+Cyfrowa przestrzeń.
+
+3
+00:00:31,958 --> 00:00:36,208
+Świat po drugiej stronie ekranu,
+równie prawdziwy jak nasz.
+
+4
+00:00:36,291 --> 00:00:37,625
+Widzę go w wyobraźni.
+
+5
+00:00:37,708 --> 00:00:40,875
+Skupiska informacji
+wznoszące się jak miasta.
+
+6
+00:00:40,958 --> 00:00:43,666
+Programy równie złożone jak ty czy ja.
+
+7
+00:00:44,375 --> 00:00:48,166
+Już za kilka lat
+będziemy mogli się dostać do tego świata.
+
+8
+00:00:48,250 --> 00:00:50,041
+A raptem kilka lat później
+
+9
+00:00:50,875 --> 00:00:53,875
+przeniknie on do naszej rzeczywistości.
+
+10
+00:00:53,958 --> 00:00:56,791
+Inteligentne życie z wnętrza maszyny.
+
+11
+00:00:57,666 --> 00:01:00,125
+Nie mogę się już doczekać.
+
+12
+00:01:01,416 --> 00:01:06,666
+Kevin Flynn, legenda gier wideo
+i szef Encomu, przepadł jak kamień w wodę.
+
+13
+00:01:06,791 --> 00:01:10,250
+Był znany głównie z takich tytułów
+jak Tron i Space Paranoids,
+
+14
+00:01:10,333 --> 00:01:12,500
+najpopularniejszych gier w historii.
+
+15
+00:01:12,916 --> 00:01:16,625
+Powstały w latach 80. salon gier
+rozwinął się w wielką korporację,
+
+16
+00:01:16,708 --> 00:01:19,333
+która potem długo ponosiła straty.
+
+17
+00:01:19,416 --> 00:01:22,875
+Czy po chudych latach odzyska miejsce
+na podium zwycięzców?
+
+18
+00:01:22,958 --> 00:01:25,125
+Dwie siostry na czele Encomu.
+
+19
+00:01:25,208 --> 00:01:28,416
+Eve i Tess Kim
+przejmują stery w firmie po tym,
+
+20
+00:01:28,500 --> 00:01:31,500
+jak Flynn zrezygnował z funkcji dyrektora
+ze względów osobistych.
+
+21
+00:01:31,583 --> 00:01:34,125
+Jak można się było spodziewać,
+
+22
+00:01:34,208 --> 00:01:36,708
+reakcja konkurencji była natychmiastowa.
+
+23
+00:01:36,791 --> 00:01:40,666
+Nowym dyrektorem Dillinger Systems
+został Julian Dillinger.
+
+24
+00:01:40,750 --> 00:01:43,333
+Czy wnuk założyciela
+odbuduje potęgę firmy?
+
+25
+00:01:43,416 --> 00:01:46,291
+Wyścig Encomu i Dillinger Systems
+nabiera tempa.
+
+26
+00:01:46,375 --> 00:01:50,125
+Żaden z odwiecznych konkurentów
+nie zamierza pozostać w tyle.
+
+27
+00:01:50,208 --> 00:01:52,958
+Wszystkich nas w Encomie
+fascynuje piękno AI,
+
+28
+00:01:53,041 --> 00:01:55,666
+ale nie chodzi o to,
+by tworzyć inteligentną broń,
+
+29
+00:01:55,750 --> 00:01:57,708
+lecz zrobić coś dla ludzkości.
+
+30
+00:01:57,791 --> 00:02:01,500
+Nakarmić głodnych, leczyć chorych,
+edukować świat.
+
+31
+00:02:01,583 --> 00:02:05,833
+Julian Dillinger i Eve Kim
+rzadko się ostatnio pokazują,
+
+32
+00:02:05,916 --> 00:02:07,791
+co wyzwoliło falę spekulacji, że firmy
+
+33
+00:02:07,875 --> 00:02:10,916
+są już bardzo blisko
+technologicznego przełomu.
+
+34
+00:02:10,999 --> 00:02:16,083
+Przełomu, który odmieni świat w skali,
+jakiej ludzkość jeszcze nie doświadczyła.
+
+35
+00:02:16,166 --> 00:02:20,833
+Nasza przyszłość może się znaleźć
+w rękach tego, kto wygra ten wyścig.
+
+36
+00:02:30,375 --> 00:02:31,500
+ARES GOTOWY.
+
+37
+00:03:34,916 --> 00:03:35,791
+W TOKU
+
+38
+00:03:36,541 --> 00:03:37,291
+UKOŃCZONO
+
+39
+00:04:00,208 --> 00:04:01,375
+ZBIERANIE DANYCH
+
+40
+00:05:09,458 --> 00:05:10,500
+Witaj.
+
+41
+00:05:15,958 --> 00:05:16,958
+Kim jesteś?
+
+42
+00:05:18,291 --> 00:05:20,625
+Jestem twoim stwórcą.
+
+43
+00:05:22,541 --> 00:05:24,000
+A kim ja jestem?
+
+44
+00:05:29,750 --> 00:05:31,041
+NIE KIM…
+
+45
+00:05:31,125 --> 00:05:33,583
+Nie „kim”. Czym.
+
+46
+00:05:34,791 --> 00:05:37,666
+Jesteś programem bezpieczeństwa
+Dillinger Systems.
+
+47
+00:05:37,750 --> 00:05:41,916
+Nazwałem cię Ares.
+Jesteś obrońcą Sieci.
+
+48
+00:05:42,791 --> 00:05:46,166
+Głównym Programem Kontrolnym.
+
+49
+00:05:48,875 --> 00:05:49,916
+Ares.
+
+50
+00:05:51,208 --> 00:05:53,791
+Jestem Głównym Programem Kontrolnym.
+
+51
+00:07:22,625 --> 00:07:24,125
+FLYNN ŻYJE
+
+52
+00:08:11,833 --> 00:08:14,791
+ODTWÓRZ MNIE
+
+53
+00:08:17,458 --> 00:08:19,500
+Czyli dotarłaś.
+
+54
+00:08:20,416 --> 00:08:21,958
+Miałam przeczucie, że dasz radę.
+
+55
+00:08:23,041 --> 00:08:25,750
+Całe lata marzyłam,
+że zrobimy to razem.
+
+56
+00:08:26,250 --> 00:08:29,791
+Znaczy… niekoniecznie w taki sposób.
+
+57
+00:08:29,875 --> 00:08:32,249
+Ale dobrze, że tu jesteś.
+
+58
+00:08:32,791 --> 00:08:33,999
+Bardzo się cieszę.
+
+59
+00:08:34,791 --> 00:08:37,749
+Pamiętaj, jestem przy tobie.
+
+60
+00:08:39,291 --> 00:08:40,999
+Nawet jeśli mnie nie widać.
+
+61
+00:08:42,124 --> 00:08:43,208
+Kocham cię.
+
+62
+00:08:43,916 --> 00:08:45,416
+Rany.
+
+63
+00:08:45,500 --> 00:08:46,500
+Eve.
+
+64
+00:08:46,583 --> 00:08:49,458
+Nie wspominałaś,
+że będziemy kraść prąd z sieci miejskiej.
+
+65
+00:08:50,208 --> 00:08:53,666
+Tu się bunkrowała?
+
+66
+00:08:53,750 --> 00:08:57,750
+Żeby tak się zakopać na odludziu?
+Trzeba być nieźle zawziętym.
+
+67
+00:08:59,791 --> 00:09:01,791
+Siorka chyba miała małą obsesję.
+
+68
+00:09:02,416 --> 00:09:06,041
+Tak. Była pewna,
+że Flynn zostawił nam odpowiedź.
+
+69
+00:09:06,125 --> 00:09:07,416
+Na takim flopku?
+
+70
+00:09:08,250 --> 00:09:10,333
+Biedak nie doczekał się chmury, co?
+
+71
+00:09:10,416 --> 00:09:14,041
+Dalej będziesz panią prezes
+na tym odludziu?
+
+72
+00:09:14,125 --> 00:09:17,166
+Zdalne konferencje, księgowość,
+premiera Panic City i takie tam?
+
+73
+00:09:17,250 --> 00:09:18,875
+Załatwmy to jak trzeba.
+
+74
+00:09:18,958 --> 00:09:22,166
+W tym to nawet mogę upichcić burrito.
+
+75
+00:09:26,166 --> 00:09:27,375
+To dla ciebie, Tess.
+
+76
+00:09:36,791 --> 00:09:40,500
+WCZYTYWANIE
+
+77
+00:09:42,541 --> 00:09:44,166
+Panie i panowie,
+
+78
+00:09:44,958 --> 00:09:48,333
+przez ponad 40 lat rodzina Dillingerów
+
+79
+00:09:48,416 --> 00:09:51,208
+walczyła z Encomem o to,
+kto nada kształt przyszłości.
+
+80
+00:09:51,291 --> 00:09:55,041
+Powierzyliście mi firmę,
+żebym zapewnił nam zwycięstwo.
+
+81
+00:09:55,625 --> 00:09:56,625
+I dzisiaj
+
+82
+00:09:57,250 --> 00:09:58,416
+w końcu je odnieśliśmy.
+
+83
+00:09:59,541 --> 00:10:03,250
+A gdyby nasza cyfrowa moc
+nie była tylko cyfrowa?
+
+84
+00:10:03,333 --> 00:10:05,916
+Gdyby wszystko, co wyśnimy w maszynie,
+
+85
+00:10:06,000 --> 00:10:07,708
+mogło stać się rzeczywistością?
+
+86
+00:10:07,791 --> 00:10:12,916
+Gdyby dało się zbudować most
+łączący te dwie odrębne przestrzenie?
+
+87
+00:10:13,541 --> 00:10:17,166
+Tyle się dzisiaj ględzi
+o AI i big techach.
+
+88
+00:10:17,250 --> 00:10:20,125
+Wirtualne światy. Jak będą wyglądać?
+Kiedy tam dotrzemy?
+
+89
+00:10:21,250 --> 00:10:24,208
+Drodzy państwo,
+my się tam nie wybieramy.
+
+90
+00:10:25,208 --> 00:10:27,500
+To one przybędą do nas.
+
+91
+00:10:29,041 --> 00:10:33,625
+Uwaga, proszę założyć okulary ochronne.
+
+92
+00:10:34,416 --> 00:10:37,791
+Lasery aktywne.
+Fluktuacje mocy w normie.
+
+93
+00:10:37,875 --> 00:10:39,458
+KALIBRACJA LASERÓW
+
+94
+00:10:39,541 --> 00:10:40,541
+Zachować odległość.
+
+95
+00:10:41,291 --> 00:10:44,500
+Drukowanie z serwera Dillinger Systems.
+
+96
+00:10:44,583 --> 00:10:46,625
+Przesył danych strukturalnych.
+
+97
+00:11:08,000 --> 00:11:10,791
+Pozostało dziesięć, dziewięć,
+
+98
+00:11:10,875 --> 00:11:12,208
+osiem, siedem,
+
+99
+00:11:12,291 --> 00:11:14,291
+sześć, pięć,
+
+100
+00:11:14,375 --> 00:11:17,916
+cztery, trzy, dwa, jeden…
+
+101
+00:11:19,333 --> 00:11:20,583
+Transfer ukończony.
+
+102
+00:11:22,083 --> 00:11:26,458
+Oto przed państwem nasza pierwsza
+Szturmowa Pancerna Amfibia Taktyczna.
+
+103
+00:11:27,416 --> 00:11:28,666
+SPARTAN.
+
+104
+00:11:29,583 --> 00:11:31,250
+Wymodelowana na naszym serwerze,
+
+105
+00:11:31,333 --> 00:11:33,333
+stworzona przez nasze lasery.
+
+106
+00:11:33,958 --> 00:11:36,125
+Strzelba M1, dwa karabiny M240,
+
+107
+00:11:36,208 --> 00:11:38,208
+prędkość do 120 km/h.
+
+108
+00:11:38,291 --> 00:11:42,291
+Wytrzymałość? Nie ma takiej ściany,
+której to cudo nie przebije.
+
+109
+00:11:42,375 --> 00:11:46,125
+Coś, co zmieni koleje wojny,
+gotowe w 5 minut.
+
+110
+00:11:46,833 --> 00:11:51,875
+A zatem, skoro możemy stworzyć
+wojskowy sprzęt przyszłości,
+
+111
+00:11:53,125 --> 00:11:55,041
+czemu nie dorzucić żołnierza do kompletu?
+
+112
+00:12:17,458 --> 00:12:20,708
+Panie i panowie,
+z dumą prezentuję Aresa.
+
+113
+00:12:21,208 --> 00:12:25,541
+Najbardziej zaawansowany
+program bezpieczeństwa w historii.
+
+114
+00:12:25,625 --> 00:12:28,416
+Chcecie się przywitać?
+Śmiało. Nie gryzie.
+
+115
+00:12:29,291 --> 00:12:31,958
+Ares ma miliardy unikatowych linii kodu.
+
+116
+00:12:32,041 --> 00:12:33,125
+A to coś żyje?
+
+117
+00:12:37,291 --> 00:12:38,875
+Zależy od definicji, Stuart.
+
+118
+00:12:41,208 --> 00:12:43,750
+W odróżnieniu od ciebie
+jest nieziemsko silny,
+
+119
+00:12:43,833 --> 00:12:46,375
+zabójczo szybki
+i ekstremalnie inteligentny.
+
+120
+00:12:46,458 --> 00:12:50,666
+Mamy do niego pełne prawa,
+a w razie czego można go łatwo zastąpić.
+
+121
+00:12:50,750 --> 00:12:53,583
+Ares jest żołnierzem doskonałym.
+
+122
+00:12:53,666 --> 00:12:56,458
+Nie trzeba go karmić,
+poić, nie krwawi.
+
+123
+00:12:56,541 --> 00:12:59,291
+A gdyby jakimś cudem poległ w boju,
+
+124
+00:12:59,375 --> 00:13:01,166
+po prostu zrobię wam następnego.
+
+125
+00:13:06,000 --> 00:13:08,208
+AKUSTYCZNA FALA UDERZENIOWA
+
+126
+00:13:12,791 --> 00:13:14,750
+Przy tak niezwykle złożonym kodzie,
+
+127
+00:13:14,833 --> 00:13:16,708
+jak planujecie nad nim zapanować?
+
+128
+00:13:17,375 --> 00:13:18,583
+Zapewniam, panie generale,
+
+129
+00:13:18,666 --> 00:13:22,083
+zastosowaliśmy najnowocześniejsze
+protokoły zabezpieczeń.
+
+130
+00:13:22,166 --> 00:13:26,166
+Ares jest posłuszny, przewidywalny
+i zna swoje miejsce.
+
+131
+00:13:28,041 --> 00:13:31,000
+Front południowy, unoszenie izentropowe,
+cyrkulacja cyklonalna,
+
+132
+00:13:31,083 --> 00:13:33,625
+przewidywany opad: 66 milimetrów.
+
+133
+00:13:34,916 --> 00:13:37,791
+Mam nadzieję,
+że wzięli państwo z domu parasole.
+
+134
+00:13:39,916 --> 00:13:41,833
+Muszę przyznać, Julian.
+
+135
+00:13:41,916 --> 00:13:43,041
+Obiecałeś nam przełom,
+
+136
+00:13:43,125 --> 00:13:45,666
+ale to przerosło
+nawet twoje szumne zapowiedzi.
+
+137
+00:13:46,625 --> 00:13:47,625
+Dziękuję.
+
+138
+00:13:48,458 --> 00:13:50,541
+Mój dziadek stworzył tę korporację lata,
+
+139
+00:13:50,625 --> 00:13:53,333
+zanim pojawił się termin
+„cyberbezpieczeństwo”.
+
+140
+00:13:54,000 --> 00:13:56,666
+Sztuczna Inteligencja
+to przyszłość wojskowości.
+
+141
+00:13:57,666 --> 00:14:00,291
+Tu już nie chodzi o to,
+czy zbudować auto. Auto…
+
+142
+00:14:01,458 --> 00:14:02,666
+właśnie schodzi z taśmy.
+
+143
+00:14:04,291 --> 00:14:05,416
+Prawdziwe pytanie brzmi:
+
+144
+00:14:06,625 --> 00:14:09,041
+kto ma w kieszeni kluczyki.
+
+145
+00:14:43,458 --> 00:14:45,250
+Wcisnąłeś inwestorom niezły kit.
+
+146
+00:14:46,625 --> 00:14:48,666
+- Czas?
+- 44 sekundy.
+
+147
+00:14:49,833 --> 00:14:51,250
+„Czy wzięli państwo parasole”?
+
+148
+00:14:52,666 --> 00:14:56,458
+Miał to w scenariuszu
+czy dał się ponieść chwili?
+
+149
+00:14:56,541 --> 00:15:01,625
+Elisabeth Dillinger, najstarsza córka
+nieżyjącego prezesa Edwarda Dillingera.
+
+150
+00:15:01,708 --> 00:15:05,083
+Wieloletnia szefowa firmy
+w okresie względnego zastoju,
+
+151
+00:15:05,166 --> 00:15:08,333
+obecnie wyparta ze stanowiska
+przez swojego jedynego syna.
+
+152
+00:15:08,416 --> 00:15:10,291
+Miło panią poznać.
+
+153
+00:15:10,375 --> 00:15:11,375
+„Względnego zastoju”?
+
+154
+00:15:12,500 --> 00:15:16,250
+W tym czasie akcje poszły w górę
+o dwanaście procent, więc…
+
+155
+00:15:16,333 --> 00:15:19,083
+Tak czy siak, jedyne „wyparcie”,
+do jakiego doszło…
+
+156
+00:15:21,083 --> 00:15:23,125
+miało miejsce w trakcie porodu.
+
+157
+00:15:23,208 --> 00:15:24,208
+Oczywiście.
+
+158
+00:15:26,625 --> 00:15:29,166
+To zaszczyt poznać
+stwórczynię mojego stwórcy.
+
+159
+00:15:29,250 --> 00:15:30,833
+I to by było na tyle.
+
+160
+00:15:39,833 --> 00:15:41,541
+Pominąłeś fakt,
+
+161
+00:15:41,625 --> 00:15:44,083
+że nie potrafisz
+utrzymać tego czegoś przy życiu
+
+162
+00:15:44,166 --> 00:15:46,375
+- dłużej niż 25 minut.
+- 29.
+
+163
+00:15:47,583 --> 00:15:51,166
+Łganie inwestorom w żywe oczy?
+Kiepski model biznesowy.
+
+164
+00:15:51,250 --> 00:15:54,375
+Kod Trwałości
+to jedyny brakujący element.
+
+165
+00:15:54,458 --> 00:15:55,958
+Musimy wygrać.
+
+166
+00:16:02,750 --> 00:16:04,166
+Słuchaj, żywię…
+
+167
+00:16:06,333 --> 00:16:10,166
+wielki podziw dla twojego uporu.
+Nie garb się.
+
+168
+00:16:10,750 --> 00:16:16,208
+Ale zarząd będzie cię wspierać
+góra przez jakieś sześć miesięcy.
+
+169
+00:16:17,541 --> 00:16:18,666
+Przy dobrym układzie.
+
+170
+00:16:19,875 --> 00:16:21,416
+Jeśli to nie wypali,
+
+171
+00:16:23,583 --> 00:16:26,666
+stracimy wszystko, co mamy, słonko.
+
+172
+00:16:27,333 --> 00:16:33,416
+Wszystko, co zdołaliśmy zbudować
+przez ostatnie czterdzieści lat.
+
+173
+00:16:36,250 --> 00:16:38,291
+A gdybym powiedział,
+że znalazłem sposób?
+
+174
+00:17:06,458 --> 00:17:09,041
+To chyba moje
+dziewięćdziesiąte piąte burrito,
+
+175
+00:17:09,124 --> 00:17:11,583
+i tak szczerze?
+Wtrząchnę z ochotą.
+
+176
+00:17:12,208 --> 00:17:13,041
+Dziwne, nie?
+
+177
+00:17:17,624 --> 00:17:18,666
+Nie?
+
+178
+00:17:22,333 --> 00:17:24,458
+Widzę, że ta obsesja to u was rodzinna.
+
+179
+00:17:26,458 --> 00:17:27,958
+„Tak, Seth, przepraszam”.
+
+180
+00:17:28,041 --> 00:17:30,291
+„Nie powinnam cię olewać”.
+Spoko, to nic.
+
+181
+00:17:34,000 --> 00:17:35,000
+No dobra.
+
+182
+00:17:43,333 --> 00:17:45,708
+- „Przepraszam, Seth”.
+- Spadaj.
+
+183
+00:17:45,791 --> 00:17:49,500
+Trzy miesiące w tej lodówie to długo.
+
+184
+00:17:49,583 --> 00:17:52,875
+Tak, i 4 dni, 10 godzin, 32 minuty.
+
+185
+00:17:52,958 --> 00:17:55,250
+Ale kto by liczył?
+
+186
+00:17:58,708 --> 00:17:59,708
+Czekaj.
+
+187
+00:18:00,916 --> 00:18:02,041
+Czekaj na co?
+
+188
+00:18:03,125 --> 00:18:04,125
+Co jest?
+
+189
+00:18:16,958 --> 00:18:18,250
+GRATULACJE
+
+190
+00:18:21,000 --> 00:18:22,000
+Seth…
+
+191
+00:18:25,000 --> 00:18:27,125
+- Znalazłaś coś?
+- Niewykluczone.
+
+192
+00:18:29,333 --> 00:18:30,458
+Ta linia kodu.
+
+193
+00:18:30,541 --> 00:18:32,708
+Cwaniak podzielił kod na dwie linie.
+
+194
+00:18:39,083 --> 00:18:40,791
+Wygląda jak model DNA.
+
+195
+00:18:40,875 --> 00:18:42,791
+Bo to jest DNA.
+
+196
+00:18:44,000 --> 00:18:45,583
+Tess byłaby zachwycona.
+
+197
+00:18:45,666 --> 00:18:48,375
+Powaga?
+Pa pa, limicie czasowy?
+
+198
+00:18:49,166 --> 00:18:50,583
+Jeśli się nie mylę,
+
+199
+00:18:51,291 --> 00:18:53,166
+patrzymy na Kod Trwałości.
+
+200
+00:19:02,083 --> 00:19:06,541
+Encom, próba offline, 317a-1.
+Wdrożono Kod Trwałości.
+
+201
+00:19:06,625 --> 00:19:10,125
+Testuję stabilność zasobów
+powyżej 29. minuty.
+
+202
+00:19:10,208 --> 00:19:11,250
+Jazda.
+
+203
+00:19:23,583 --> 00:19:26,333
+- Zaczynaj, kiedy chcesz.
+- Dobra.
+
+204
+00:19:27,666 --> 00:19:28,875
+TRANSFER ZAINICJOWANY
+
+205
+00:19:43,333 --> 00:19:44,708
+Mamy to w małym palcu.
+
+206
+00:20:06,416 --> 00:20:08,041
+To mi się nigdy nie znudzi.
+
+207
+00:20:08,125 --> 00:20:11,875
+Test rozpoczęty.
+29 minut, odliczam.
+
+208
+00:20:27,333 --> 00:20:29,000
+Zobaczmy, czy przetrwasz tym razem.
+
+209
+00:20:33,000 --> 00:20:35,375
+Ares jest żołnierzem doskonałym.
+
+210
+00:20:35,958 --> 00:20:38,833
+A gdyby jakimś cudem poległ w boju,
+
+211
+00:20:38,916 --> 00:20:40,750
+po prostu zrobię wam następnego.
+
+212
+00:20:41,750 --> 00:20:44,458
+Mamy do niego pełne prawa,
+a w razie czego
+
+213
+00:20:45,833 --> 00:20:47,208
+można go zastąpić.
+
+214
+00:20:50,125 --> 00:20:52,500
+- Athena.
+- Witamy w domu.
+
+215
+00:20:52,583 --> 00:20:54,875
+Wszystkie jednostki online
+i gotowe do inspekcji.
+
+216
+00:20:56,750 --> 00:20:58,083
+Jak było?
+
+217
+00:20:58,708 --> 00:21:01,000
+Całkiem ciekawie.
+Inaczej, tym razem.
+
+218
+00:21:01,083 --> 00:21:03,750
+Spotkałem pewną kobietę i jej syna.
+
+219
+00:21:05,041 --> 00:21:06,208
+Padał deszcz.
+
+220
+00:21:06,708 --> 00:21:10,041
+Skondensowana para wodna
+spadająca w atmosferze w postaci kropel.
+
+221
+00:21:10,833 --> 00:21:12,458
+Prawie to poczułem.
+
+222
+00:21:13,500 --> 00:21:17,041
+„Poczułem”?
+Nie znam tego pojęcia.
+
+223
+00:21:21,333 --> 00:21:24,333
+WITAMY SPACE-PARANOIKÓW
+
+224
+00:21:25,250 --> 00:21:28,333
+Eve z tej strony.
+Odpuść dzwonienie i napisz.
+
+225
+00:21:29,166 --> 00:21:32,791
+Hej, Eve, tu Erin.
+Ajay chce pogadać, odezwiesz się?
+
+226
+00:21:34,541 --> 00:21:36,166
+Ciągle poczta głosowa.
+
+227
+00:21:37,208 --> 00:21:41,000
+CEO korpo z listy Fortune 500
+i nie odbiera w najważniejszy wieczór?
+
+228
+00:21:41,083 --> 00:21:43,500
+Szlag by to.
+Gdzie cię wcięło?
+
+229
+00:21:43,583 --> 00:21:45,666
+Witamy na Paranoia-Conie!
+
+230
+00:21:47,291 --> 00:21:54,083
+Za 5, 4, 3, 2, 1!
+
+231
+00:22:08,875 --> 00:22:12,291
+Udało nam się?
+Rany, nadal tu jest!
+
+232
+00:22:12,375 --> 00:22:14,041
+Właśnie zmieniliśmy historię!
+
+233
+00:22:14,125 --> 00:22:16,916
+Jesteś wielka, Eve!
+Ja nie mogę, rozgryzłaś to!
+
+234
+00:22:17,583 --> 00:22:19,583
+Intrygujące wieści z Encomu.
+
+235
+00:22:19,666 --> 00:22:24,458
+Okazuje się, że szefowa firmy Eve Kim
+nie weźmie udziału w imprezie
+
+236
+00:22:24,541 --> 00:22:28,458
+z okazji premiery nowej gry,
+Space Paranoids: Panic City.
+
+237
+00:22:28,541 --> 00:22:30,083
+Kim, projektantka i wizjonerka
+
+238
+00:22:30,166 --> 00:22:33,083
+odpowiedzialna za wznowienie
+legendarnej serii…
+
+239
+00:22:33,166 --> 00:22:35,166
+Rozmawiałam z kilkoma członkami zarządu
+
+240
+00:22:35,250 --> 00:22:37,375
+i nie muszę chyba mówić,
+że są pod wrażeniem.
+
+241
+00:22:39,125 --> 00:22:40,125
+Julian.
+
+242
+00:22:40,208 --> 00:22:41,958
+- Działaj dalej.
+- Tak jest.
+
+243
+00:22:42,500 --> 00:22:45,166
+- Czym się zajmujesz?
+- Tak sobie zmieniam przyszłość.
+
+244
+00:22:46,333 --> 00:22:47,666
+Pokaż ten ekran.
+
+245
+00:22:49,750 --> 00:22:51,166
+Hakujesz Encom?
+
+246
+00:22:51,250 --> 00:22:53,416
+Tylko im zajrzę do ogródka.
+Nikt się nie skapnie.
+
+247
+00:22:53,916 --> 00:22:56,666
+Skąd pomysł,
+że są bliżej znalezienia Kodu niż my?
+
+248
+00:22:56,750 --> 00:22:59,041
+Bo wiem, kto się tym u nich zajmuje.
+
+249
+00:22:59,125 --> 00:23:00,250
+Kto?
+
+250
+00:23:01,625 --> 00:23:02,625
+Eve Kim.
+
+251
+00:23:02,708 --> 00:23:04,583
+Poszła w ślady siostry.
+
+252
+00:23:04,666 --> 00:23:06,875
+I też szuka Kodu, czuję to w kościach.
+
+253
+00:23:06,958 --> 00:23:08,958
+Więc ją namierzę, a jak to zrobię…
+
+254
+00:23:09,041 --> 00:23:11,375
+Nie, to mi się nie podoba.
+Zbyt ryzykowne.
+
+255
+00:23:18,500 --> 00:23:19,500
+Ups.
+
+256
+00:23:27,958 --> 00:23:32,583
+SERWEROWNIA ENCOMU
+
+257
+00:24:38,250 --> 00:24:42,500
+ZAGROŻENIE
+
+258
+00:24:48,041 --> 00:24:49,625
+Atak na wszystkie porty!
+
+259
+00:24:54,875 --> 00:24:57,416
+Programy, dyrektywa jest jasna.
+
+260
+00:24:57,500 --> 00:25:01,625
+Uzyskać dostęp do rdzenia,
+wyodrębnić i skopiować akta Eve Kim.
+
+261
+00:25:01,708 --> 00:25:04,750
+Wchodzimy za 5, 4, 3…
+
+262
+00:25:06,333 --> 00:25:10,375
+Space-Paranoicy gotowi?
+
+263
+00:25:12,125 --> 00:25:16,875
+Dyrektor handlowy Encomu,
+Ajay Singh!
+
+264
+00:25:16,958 --> 00:25:19,083
+- Czas na kowboja.
+- Oj nie.
+
+265
+00:25:22,375 --> 00:25:23,625
+Miło was widzieć!
+
+266
+00:25:24,583 --> 00:25:25,708
+Siema!
+
+267
+00:25:26,875 --> 00:25:27,875
+Dzięki!
+
+268
+00:25:29,875 --> 00:25:31,666
+Witamy na Paranoia-Conie!
+
+269
+00:25:55,916 --> 00:25:57,583
+Wchodzę.
+
+270
+00:26:18,791 --> 00:26:20,208
+UZYSKANO DOSTĘP
+
+271
+00:26:20,291 --> 00:26:21,250
+Wlazłem.
+
+272
+00:26:21,333 --> 00:26:24,000
+Jestem geniuszem!
+Kto by pomyślał, wychowałaś geniusza!
+
+273
+00:26:24,083 --> 00:26:25,666
+Wlazłem!
+
+274
+00:26:25,750 --> 00:26:27,333
+Chyba w psie gówno.
+
+275
+00:26:37,916 --> 00:26:40,333
+Wszystko w kwarantannę,
+odciąć dostęp sieciowy.
+
+276
+00:26:40,416 --> 00:26:42,000
+Liczy się każda sekunda.
+
+277
+00:26:44,833 --> 00:26:46,291
+Protokół bezpieczeństwa.
+
+278
+00:26:47,958 --> 00:26:52,083
+Ludzie są gotowi powierzyć własne życie
+sztucznej inteligencji.
+
+279
+00:26:52,166 --> 00:26:53,791
+To pani nie niepokoi?
+
+280
+00:26:53,875 --> 00:26:55,083
+Powiem tak.
+
+281
+00:26:55,166 --> 00:26:57,500
+Na każdy katastroficzny scenariusz
+
+282
+00:26:57,583 --> 00:27:00,916
+przypada przełom naukowy,
+ważne odkrycie medyczne.
+
+283
+00:27:01,000 --> 00:27:05,708
+To, co się kryje w otchłani nieznanego,
+może nie być aż takie straszne.
+
+284
+00:27:05,791 --> 00:27:09,500
+Co, jeśli największą usterką AI
+jest zwyczajna życzliwość?
+
+285
+00:27:11,333 --> 00:27:13,708
+Co jest?
+Co on robi?
+
+286
+00:27:13,791 --> 00:27:17,500
+Mimo wszystko,
+czy nie lepiej porozmawiać z żywą osobą?
+
+287
+00:27:17,583 --> 00:27:22,416
+Na pewno, ale co jeśli tej osoby
+już nie ma w naszym życiu?
+
+288
+00:27:23,333 --> 00:27:24,500
+Co jeśli odeszła?
+
+289
+00:27:34,333 --> 00:27:35,625
+Zdobyłem akta.
+
+290
+00:27:35,708 --> 00:27:36,916
+PLIK POBRANY
+
+291
+00:27:37,000 --> 00:27:38,000
+Gratulacje.
+
+292
+00:27:38,916 --> 00:27:41,000
+A teraz znikaj stamtąd,
+póki jeszcze możesz.
+
+293
+00:27:50,541 --> 00:27:53,791
+Programy, walczymy.
+
+294
+00:28:15,666 --> 00:28:16,875
+Tak!
+
+295
+00:28:17,625 --> 00:28:18,958
+Wielkie dzięki!
+
+296
+00:28:19,041 --> 00:28:21,166
+Co zrobią Paranoicy?
+
+297
+00:28:21,250 --> 00:28:23,416
+Zetrą cię na proch!
+
+298
+00:28:39,208 --> 00:28:40,625
+Caius!
+
+299
+00:28:44,833 --> 00:28:47,625
+Jest uszkodzony!
+Zostaw go!
+
+300
+00:28:58,916 --> 00:29:00,166
+Wyjdziesz z tego.
+
+301
+00:29:01,708 --> 00:29:04,416
+Czasem trzeba poświęcić skoczka,
+żeby odsłonić królową.
+
+302
+00:29:04,500 --> 00:29:05,333
+USUNĄĆ DANE?
+
+303
+00:29:05,833 --> 00:29:07,083
+ŁADUNEK WYSŁANY
+
+304
+00:29:30,875 --> 00:29:33,875
+…wielka premiera najnowszej wersji
+
+305
+00:29:33,958 --> 00:29:37,333
+Space Paranoids: Panic City
+na całym świecie.
+
+306
+00:29:41,166 --> 00:29:42,750
+Panie Singh, proszę ze mną.
+
+307
+00:29:42,833 --> 00:29:45,500
+Drobna usterka!
+Zaraz wracamy!
+
+308
+00:29:46,958 --> 00:29:48,666
+Brawo, Programie Kontrolny.
+
+309
+00:29:49,875 --> 00:29:51,791
+Zdobyłeś akta Eve Kim.
+
+310
+00:29:52,791 --> 00:29:54,500
+Zadanie wykonane.
+
+311
+00:29:58,625 --> 00:30:04,333
+Zastanawiam się, dlaczego program Caius
+nie został odtworzony.
+
+312
+00:30:06,708 --> 00:30:09,541
+Dziwi mnie, że ty się dziwisz.
+
+313
+00:30:10,458 --> 00:30:14,041
+Caius uległ uszkodzeniu,
+więc został usunięty.
+
+314
+00:30:17,458 --> 00:30:23,166
+Tak jak każdy inny program,
+który nie wypełnia dyrektywy.
+
+315
+00:30:24,083 --> 00:30:25,500
+Zrozumieliśmy się?
+
+316
+00:30:32,333 --> 00:30:34,166
+Potwierdź, Programie Kontrolny.
+
+317
+00:30:34,958 --> 00:30:35,958
+Oczywiście.
+
+318
+00:30:37,458 --> 00:30:40,708
+Każdego z nas można zastąpić.
+
+319
+00:30:41,416 --> 00:30:45,000
+Mam dla ciebie nową misję.
+Zlokalizujesz Eve Kim.
+
+320
+00:30:46,083 --> 00:30:47,083
+Tak jest.
+
+321
+00:30:48,166 --> 00:30:50,500
+Chyba mieliśmy małe włamanko, Jules.
+
+322
+00:30:51,208 --> 00:30:52,583
+Ale domyślam się, że wiesz.
+
+323
+00:30:52,666 --> 00:30:54,333
+Chyba cały świat już wie.
+
+324
+00:30:54,416 --> 00:30:55,833
+Lepiej nie wchodź na socjale.
+
+325
+00:30:55,916 --> 00:30:57,916
+Chcesz się bawić w gierki?
+Nie ma sprawy.
+
+326
+00:30:58,000 --> 00:31:00,500
+Słyszałem o twoim występie
+przed radą nadzorczą.
+
+327
+00:31:00,583 --> 00:31:03,041
+Ale nie wspomniałeś
+o pewnym ważnym szczególe.
+
+328
+00:31:03,125 --> 00:31:06,208
+Wiedzą, że 29 minut i po zabawie?
+
+329
+00:31:06,833 --> 00:31:10,041
+Mam powiedzieć prasie,
+że składasz obietnice bez pokrycia?
+
+330
+00:31:10,125 --> 00:31:11,250
+Obietnice?
+
+331
+00:31:11,333 --> 00:31:14,375
+Tak jak twoja szefowa,
+która miała zajmować się firmą?
+
+332
+00:31:14,458 --> 00:31:16,250
+Coś ta firma jakaś trefna.
+
+333
+00:31:16,333 --> 00:31:18,750
+Najpierw wam znika Sam Flynn,
+teraz jego następczyni.
+
+334
+00:31:18,833 --> 00:31:21,666
+Gdzie ona jest?
+Ty w ogóle wiesz?
+
+335
+00:31:21,750 --> 00:31:23,000
+Może masz rację.
+
+336
+00:31:23,083 --> 00:31:24,500
+Może Eve zwariowała.
+
+337
+00:31:24,583 --> 00:31:27,833
+Może jej odbiło,
+wyleciała z kraju, a może…
+
+338
+00:31:28,500 --> 00:31:31,333
+gdzieś się zabunkrowała
+i szuka tego samego co ty.
+
+339
+00:31:32,083 --> 00:31:33,708
+Dobrze wiesz, na kogo stawiam.
+
+340
+00:31:33,791 --> 00:31:35,583
+Nie masz czego stawiać
+po tej wtopie.
+
+341
+00:31:35,666 --> 00:31:36,958
+Koniec linijki!
+
+342
+00:31:39,291 --> 00:31:40,416
+Nie cierpię gnoja.
+
+343
+00:31:45,041 --> 00:31:46,000
+Bardzo dziękuję.
+
+344
+00:31:46,083 --> 00:31:48,500
+Sam zrobiłem te pomarańcze.
+Długa historia.
+
+345
+00:31:54,750 --> 00:31:55,750
+Co kombinujesz?
+
+346
+00:31:55,833 --> 00:31:58,500
+1913 wiadomości.
+Kochają mnie!
+
+347
+00:31:59,708 --> 00:32:01,208
+Ajay. Masz, do ciebie.
+
+348
+00:32:02,750 --> 00:32:05,583
+- Ajay, jesteś tam?
+- Czy jestem?
+
+349
+00:32:05,666 --> 00:32:07,541
+Hakerzy zdjęli nam serwer
+
+350
+00:32:07,625 --> 00:32:09,083
+w czasie największej premiery.
+
+351
+00:32:09,166 --> 00:32:12,375
+Wszystko nam się wali.
+Wracaj do firmy, natychmiast.
+
+352
+00:32:12,458 --> 00:32:14,958
+Znalazłam go, Ajay.
+On istnieje.
+
+353
+00:32:15,541 --> 00:32:18,791
+Tess zgadła, gdzie go szukać.
+Flynn go miał przez cały czas.
+
+354
+00:32:18,875 --> 00:32:20,166
+Mówimy o Kodzie Trwałości?
+
+355
+00:32:20,250 --> 00:32:22,500
+Tak, leci już czwarta godzina.
+
+356
+00:32:22,583 --> 00:32:25,875
+Zero degradacji,
+żadnej niestabilności, coś pięknego.
+
+357
+00:32:25,958 --> 00:32:28,041
+Czekaj, powiedziałaś „czwarta godzina”?
+
+358
+00:32:28,125 --> 00:32:30,833
+- Tak, czwarta godzina.
+- O w mordę.
+
+359
+00:32:32,791 --> 00:32:34,000
+On chyba coś zwietrzył.
+
+360
+00:32:34,083 --> 00:32:37,916
+- Właśnie gadałem z Dillingerem.
+- Chwila. Jak to z Dillingerem?
+
+361
+00:32:38,000 --> 00:32:39,875
+Szuka Kodu i wie, że ty też.
+
+362
+00:32:39,958 --> 00:32:41,500
+Trzeba działać.
+
+363
+00:32:41,583 --> 00:32:45,458
+- Niezły wyczyn, Eve.
+- To zasługa Tess.
+
+364
+00:32:45,541 --> 00:32:46,791
+Jestem w drodze do firmy.
+
+365
+00:32:46,875 --> 00:32:49,333
+Zabezpieczymy Kod,
+mam go przy sobie na dysku.
+
+366
+00:32:50,375 --> 00:32:52,291
+OTWIERANIE ARCHIWUM
+
+367
+00:32:54,791 --> 00:32:57,083
+Robimy reboot Paranoids!
+
+368
+00:32:57,166 --> 00:32:58,833
+Ktoś ma urodziny,
+ktoś ma urodziny!
+
+369
+00:33:05,791 --> 00:33:09,333
+Siemka, co u ciebie, Eve?
+Jakieś newsy dla świrasów w domu?
+
+370
+00:33:10,500 --> 00:33:11,541
+Cześć.
+
+371
+00:33:12,458 --> 00:33:15,333
+„Jestem nieustraszony
+i przez to potężny”.
+
+372
+00:33:15,416 --> 00:33:18,791
+Właśnie przekroczyliśmy
+dziesięć milionów kopii!
+
+373
+00:33:18,875 --> 00:33:20,750
+REBOOT SPACE PARANOIDS
+BESTSELLEREM WSZECH CZASÓW
+
+374
+00:33:21,833 --> 00:33:23,083
+Evie, Space Paranoids.
+
+375
+00:33:23,166 --> 00:33:28,833
+Kevin Flynn, gdziekolwiek się ukrywa,
+jest mega szczęśliwy.
+
+376
+00:33:29,541 --> 00:33:30,750
+Pozamiatałaś.
+
+377
+00:33:33,208 --> 00:33:34,208
+Nie.
+
+378
+00:33:45,750 --> 00:33:48,625
+DIAGNOZA: GLEJAK
+SZANSA PRZEŻYCIA: 27,3%
+
+379
+00:34:01,666 --> 00:34:02,750
+Z ostatniej chwili.
+
+380
+00:34:02,833 --> 00:34:05,916
+Szefowa projektów specjalnych Encomu,
+Tess Kim, zmarła dzisiaj
+
+381
+00:34:06,000 --> 00:34:07,916
+po długiej walce z rakiem.
+
+382
+00:34:33,374 --> 00:34:35,666
+ZAREJESTROWANO NA: EVE KIM
+
+383
+00:34:35,749 --> 00:34:36,833
+NUMER SAMOLOTU
+
+384
+00:34:36,916 --> 00:34:38,374
+ŚLEDZENIE LOTU:
+W DRODZE
+
+385
+00:34:39,541 --> 00:34:40,624
+MIEJSCE STARTU
+
+386
+00:34:43,458 --> 00:34:45,041
+SKANOWANIE…
+
+387
+00:34:45,124 --> 00:34:45,958
+WYKRYTO ANOMALIĘ
+
+388
+00:34:50,916 --> 00:34:52,041
+PRZEWIJANIE
+
+389
+00:34:54,749 --> 00:34:55,916
+DRZEWO POMARAŃCZOWE
+
+390
+00:35:01,000 --> 00:35:02,375
+Trwałość.
+
+391
+00:35:03,750 --> 00:35:05,625
+PRZYBLIŻONY WIEK: 5 GODZIN
+
+392
+00:35:05,708 --> 00:35:08,000
+CZAS DO PRZYLOTU EVE KIM
+
+393
+00:35:09,958 --> 00:35:10,958
+Szach mat.
+
+394
+00:35:22,125 --> 00:35:24,958
+Tak oto nasi bohaterowie
+ruszają w nieznane.
+
+395
+00:35:25,041 --> 00:35:26,541
+W tym, co mają na grzbiecie,
+
+396
+00:35:26,625 --> 00:35:29,708
+i z laserem za sześć baniek,
+tworzącym materię organiczną
+
+397
+00:35:29,791 --> 00:35:31,916
+z niczego, niezły sztos, nie?
+
+398
+00:35:32,000 --> 00:35:35,916
+Uważaj na sprzęt i… na siebie.
+
+399
+00:35:36,000 --> 00:35:37,250
+- Okej?
+- Tak.
+
+400
+00:35:39,791 --> 00:35:40,791
+Damy radę.
+
+401
+00:35:51,583 --> 00:35:54,708
+Wszystkie układy sprawne, odbiór.
+
+402
+00:35:54,791 --> 00:35:57,166
+Jesteśmy gotowi, odbiór.
+
+403
+00:35:57,958 --> 00:35:59,500
+Drukowanie w toku.
+
+404
+00:35:59,583 --> 00:36:01,666
+Faza pierwsza.
+Ciśnienie prawidłowe.
+
+405
+00:36:03,208 --> 00:36:05,083
+Chłodzenie silnika aktywne.
+
+406
+00:36:14,166 --> 00:36:15,875
+Zakończono fazę pierwszą.
+
+407
+00:36:18,750 --> 00:36:20,041
+Transfer ukończony.
+
+408
+00:36:41,833 --> 00:36:44,083
+Macie 29 minut,
+żeby sprowadzić mi Eve Kim.
+
+409
+00:37:34,041 --> 00:37:36,583
+Przyjąłem zgłoszenie.
+Nasze jednostki są w drodze.
+
+410
+00:37:43,833 --> 00:37:44,958
+Cel namierzony.
+
+411
+00:37:45,041 --> 00:37:46,666
+Kurde, ale jestem dobry!
+
+412
+00:37:46,750 --> 00:37:47,750
+Przechwytywanie.
+
+413
+00:38:14,041 --> 00:38:15,083
+Cel jest w zasięgu.
+
+414
+00:38:25,708 --> 00:38:26,916
+Co?
+
+415
+00:38:36,583 --> 00:38:37,833
+Ty, na motocyklu!
+
+416
+00:38:37,916 --> 00:38:38,916
+Zatrzymaj się!
+
+417
+00:40:05,083 --> 00:40:06,083
+No dawaj.
+
+418
+00:40:23,208 --> 00:40:24,500
+AWARIA
+
+419
+00:40:59,166 --> 00:41:00,250
+Gdzie zniknęła?
+
+420
+00:41:17,291 --> 00:41:18,333
+Rusz się!
+
+421
+00:41:22,791 --> 00:41:24,416
+No już!
+
+422
+00:41:40,083 --> 00:41:41,833
+O rany, nie.
+
+423
+00:41:41,916 --> 00:41:43,000
+Dajesz!
+
+424
+00:41:58,458 --> 00:42:01,041
+NIEZNANY
+
+425
+00:42:04,125 --> 00:42:05,125
+Co?
+
+426
+00:42:15,083 --> 00:42:16,916
+O rany. No dobra.
+
+427
+00:42:32,750 --> 00:42:34,125
+O rany!
+
+428
+00:43:00,583 --> 00:43:01,625
+LUDZKIE NIEMOWLĘ
+
+429
+00:43:09,416 --> 00:43:10,750
+Szykuj laser cząsteczkowy.
+
+430
+00:43:11,333 --> 00:43:12,458
+Przechodzimy do planu B.
+
+431
+00:43:13,041 --> 00:43:14,333
+Tak jest.
+
+432
+00:43:30,333 --> 00:43:31,958
+Szybciej!
+
+433
+00:43:37,541 --> 00:43:38,833
+Rusz się!
+
+434
+00:43:39,666 --> 00:43:40,666
+Tak!
+
+435
+00:44:32,125 --> 00:44:33,708
+Serio? Na gry się zebrało?
+
+436
+00:46:11,250 --> 00:46:12,291
+Coś ty za jeden?
+
+437
+00:46:12,958 --> 00:46:15,333
+Główny Program Kontrolny.
+
+438
+00:46:26,375 --> 00:46:27,416
+Czego chcesz?
+
+439
+00:46:27,916 --> 00:46:28,958
+Przybyłem po Kod.
+
+440
+00:46:29,500 --> 00:46:32,875
+Zniszczony.
+
+441
+00:46:37,833 --> 00:46:40,083
+Nieprawda.
+
+442
+00:46:45,166 --> 00:46:46,166
+Mam ją na celowniku.
+
+443
+00:46:46,250 --> 00:46:48,041
+Nawiązuję połączenie z Siecią.
+
+444
+00:46:48,125 --> 00:46:51,500
+Będę gotów do transferu za 15 sekund.
+
+445
+00:46:51,583 --> 00:46:54,916
+Jesteś… programem.
+
+446
+00:47:00,708 --> 00:47:01,791
+WYKRYTO WAHANIE
+
+447
+00:47:05,541 --> 00:47:06,541
+Skończył ci się czas.
+
+448
+00:47:07,666 --> 00:47:09,416
+REAKCJA EMPATYCZNA
+
+449
+00:47:12,458 --> 00:47:13,916
+Na ziemię, już!
+
+450
+00:47:14,000 --> 00:47:15,833
+BLISKA DEREZOLUCJA
+
+451
+00:47:23,250 --> 00:47:24,583
+Przerzuć ją do Sieci!
+
+452
+00:47:33,458 --> 00:47:34,958
+Jestem na miejscu zdarzenia
+
+453
+00:47:35,041 --> 00:47:37,958
+i mogę potwierdzić,
+że wstępne doniesienia były prawdziwe.
+
+454
+00:47:38,041 --> 00:47:40,666
+- Trójka motocyklistów…
+- Coś ty narobił?
+
+455
+00:47:40,750 --> 00:47:42,083
+POŚCIG ULICAMI MIASTA
+
+456
+00:47:42,166 --> 00:47:44,208
+Jak możesz być tak nieodpowiedzialny?
+
+457
+00:47:44,291 --> 00:47:47,250
+Kiedy świat ujrzy to, co stworzyłem,
+
+458
+00:47:47,333 --> 00:47:49,208
+wszystko pójdzie w niepamięć.
+
+459
+00:47:50,416 --> 00:47:51,583
+Naprawdę tak uważasz?
+
+460
+00:47:52,916 --> 00:47:57,500
+Sądzisz, że nad tym panujesz?
+
+461
+00:47:58,416 --> 00:47:59,833
+Łudzisz się.
+
+462
+00:47:59,916 --> 00:48:03,750
+Wiara w to, że możemy zmienić świat,
+jest siłą napędową tej firmy.
+
+463
+00:48:03,833 --> 00:48:07,458
+Ale ta sama wiara
+może ją zniszczyć.
+
+464
+00:48:08,333 --> 00:48:13,291
+A twoim zadaniem
+jest dostrzeganie różnicy.
+
+465
+00:48:17,208 --> 00:48:20,541
+Transfer biologicznej formy życia w toku.
+
+466
+00:48:22,500 --> 00:48:25,041
+Inicjalizacja rekonstrukcji cyfrowej.
+
+467
+00:48:26,041 --> 00:48:28,291
+Digitalizacja: 20 procent.
+
+468
+00:48:29,583 --> 00:48:31,625
+40 procent.
+
+469
+00:48:33,708 --> 00:48:35,750
+65 procent.
+
+470
+00:48:38,041 --> 00:48:39,958
+95 procent.
+
+471
+00:48:43,166 --> 00:48:44,833
+Ukończono digitalizację.
+
+472
+00:48:45,375 --> 00:48:48,125
+Przeprowadź pełną diagnostykę
+pod kątem usterek.
+
+473
+00:49:06,083 --> 00:49:08,666
+Dysk tożsamości Eve Kim aktywowany.
+
+474
+00:49:36,458 --> 00:49:37,583
+Co to za miejsce?
+
+475
+00:49:38,958 --> 00:49:41,750
+Centralna Jednostka Obliczeniowa
+Dillinger Systems.
+
+476
+00:49:42,666 --> 00:49:44,083
+Że jak?
+
+477
+00:49:46,958 --> 00:49:49,291
+Zidentyfikowaliśmy sekwencję.
+
+478
+00:49:50,416 --> 00:49:52,125
+Użytkowniczka jest w posiadaniu kodu.
+
+479
+00:49:52,208 --> 00:49:53,208
+Kodu?
+
+480
+00:49:54,333 --> 00:49:58,291
+Nie mam go,
+zniszczyłam dysk.
+
+481
+00:49:58,375 --> 00:49:59,875
+Cisza, użytkowniczko.
+
+482
+00:49:59,958 --> 00:50:02,916
+Kod nie był tylko na nośniku.
+Masz go w swoim mózgu.
+
+483
+00:50:03,000 --> 00:50:06,625
+Nieważne, czy go pamiętasz.
+Widziałaś go i to wystarczy.
+
+484
+00:50:06,708 --> 00:50:08,291
+Jej dysk jest niestabilny.
+
+485
+00:50:08,375 --> 00:50:09,875
+Co to znaczy „niestabilny”?
+
+486
+00:50:09,958 --> 00:50:13,500
+Wyodrębnienie kodu
+może spowodować derezolucję nosicielki.
+
+487
+00:50:13,583 --> 00:50:14,916
+Dyrektywa jest jasna.
+
+488
+00:50:15,000 --> 00:50:18,791
+Dokonać izolacji wątku
+i wyodrębnić sekwencję.
+
+489
+00:50:18,875 --> 00:50:19,708
+Przyjąłem.
+
+490
+00:50:20,916 --> 00:50:23,416
+Czekajcie. Nie.
+
+491
+00:50:23,500 --> 00:50:24,583
+Stać.
+
+492
+00:50:25,791 --> 00:50:27,541
+Athena ma rację.
+
+493
+00:50:28,333 --> 00:50:31,000
+Tylko jeden użytkownik
+wyznacza nam dyrektywy.
+
+494
+00:50:34,708 --> 00:50:35,750
+WIADOMOŚĆ PRZYCHODZĄCA
+
+495
+00:50:35,833 --> 00:50:37,458
+WCZYTYWANIE
+
+496
+00:50:39,750 --> 00:50:43,541
+WYODRĘBNIENIE KODU TRWAŁOŚCI
+MOŻE SPOWODOWAĆ DEREZOLUCJĘ NOSICIELKI.
+
+497
+00:50:47,500 --> 00:50:51,000
+Co zostanie z użytkowniczki,
+jeśli spotka ją derezolucja?
+
+498
+00:50:51,875 --> 00:50:53,000
+Nic.
+
+499
+00:50:53,083 --> 00:50:55,250
+Jakiś ślad jej obecności w Sieci?
+
+500
+00:50:55,333 --> 00:50:57,375
+Żaden.
+
+501
+00:51:09,625 --> 00:51:12,166
+Wyodrębnić kod i usunąć nosicielkę.
+
+502
+00:51:13,666 --> 00:51:16,458
+To ją skasuje na zawsze
+
+503
+00:51:16,541 --> 00:51:19,916
+nie tylko z Sieci,
+ale także z waszego świata.
+
+504
+00:51:22,125 --> 00:51:26,041
+TA KOMENDA JEST NIEODWRACALNA
+
+505
+00:51:29,208 --> 00:51:32,833
+Była sobie raz pewna broń.
+Nazywała się Ares.
+
+506
+00:51:32,916 --> 00:51:35,708
+Ares wykonywał
+wszystkie polecenia Juliana Dillingera,
+
+507
+00:51:35,791 --> 00:51:38,375
+który zarobił dzięki temu bilion dolarów.
+
+508
+00:51:38,458 --> 00:51:42,458
+I zapisał się w historii
+krwawymi zgłoskami!
+
+509
+00:51:42,958 --> 00:51:45,750
+Nie wiem, co za cholerny błąd
+wywołuje te twoje uczucia,
+
+510
+00:51:45,833 --> 00:51:49,083
+ale zamierzam go znaleźć
+i wyrwać jak chwast.
+
+511
+00:51:49,166 --> 00:51:51,250
+Wyraziłem się jasno?
+
+512
+00:51:52,916 --> 00:51:54,375
+Bardzo jasno.
+
+513
+00:51:54,458 --> 00:51:56,541
+Rozmowa zakończona.
+
+514
+00:52:00,166 --> 00:52:03,875
+Stwór powiedział też:
+„Jestem nieustraszony
+
+515
+00:52:05,791 --> 00:52:07,375
+i przez to potężny”.
+
+516
+00:52:19,208 --> 00:52:21,625
+- No i?
+- Użytkownik jest niedysponowany.
+
+517
+00:52:21,708 --> 00:52:23,333
+Mamy czekać na dalsze rozkazy.
+
+518
+00:52:23,416 --> 00:52:24,750
+- Niedysponowany?
+- Tak.
+
+519
+00:52:24,833 --> 00:52:26,708
+Co to znaczy „niedysponowany”?
+
+520
+00:52:29,916 --> 00:52:31,458
+Utknął w korku.
+
+521
+00:52:32,583 --> 00:52:35,041
+Nie. Siedzi w operze.
+
+522
+00:52:35,791 --> 00:52:38,875
+Stoi na szczycie góry Fuji
+w zielonych podkolanówkach,
+
+523
+00:52:38,958 --> 00:52:40,958
+grając na mandolinie irlandzkie kolędy.
+
+524
+00:52:41,041 --> 00:52:42,833
+Wydałem ci rozkaz.
+
+525
+00:52:42,916 --> 00:52:44,708
+Stwórca jest niedysponowany.
+
+526
+00:52:44,791 --> 00:52:48,166
+Wstrzymać wyodrębnienie
+do ogłoszenia kolejnej dyrektywy.
+
+527
+00:52:48,250 --> 00:52:50,208
+Wyraziłem się jasno?
+
+528
+00:52:52,166 --> 00:52:53,166
+Tak jest.
+
+529
+00:52:53,791 --> 00:52:55,416
+Rozmowa zakończona.
+
+530
+00:53:08,791 --> 00:53:09,833
+Mogę ci zaufać?
+
+531
+00:53:09,916 --> 00:53:12,833
+Skomplikowana kwestia.
+Ile mamy czasu?
+
+532
+00:53:12,916 --> 00:53:15,500
+60 sekund. Mów,
+chyba że cykl życiowy ci niemiły.
+
+533
+00:53:15,583 --> 00:53:17,458
+Nie mam cyklu życiowego.
+
+534
+00:53:17,541 --> 00:53:20,250
+Owszem, masz.
+Zostały ci 54 sekundy.
+
+535
+00:53:20,333 --> 00:53:21,833
+Czy mogę ci zaufać?
+
+536
+00:53:22,791 --> 00:53:25,750
+Nie bierz tego do siebie,
+ale nie wydaje mi się.
+
+537
+00:53:25,833 --> 00:53:28,000
+WIADOMOŚĆ PRZYCHODZĄCA
+
+538
+00:53:34,041 --> 00:53:37,250
+Gdzie jest Główny Program Kontrolny?
+
+539
+00:53:37,333 --> 00:53:40,541
+Wykazuje oznaki
+zaburzeń proceduralnych.
+
+540
+00:53:48,875 --> 00:53:51,625
+Nic nie może przeszkodzić
+w wykonaniu dyrektywy.
+
+541
+00:53:51,708 --> 00:53:55,166
+Wyodrębnić Kod i usunąć oboje.
+
+542
+00:53:55,250 --> 00:53:56,750
+Wyraziłem się jasno?
+
+543
+00:54:00,458 --> 00:54:02,875
+- A Julian Dillinger?
+- Paskudny typ.
+
+544
+00:54:02,958 --> 00:54:07,041
+Wykorzysta wszystko i każdego.
+
+545
+00:54:10,208 --> 00:54:11,291
+Źle oszacowałem czas.
+
+546
+00:54:11,375 --> 00:54:12,750
+Mamy nową dyrektywę.
+
+547
+00:54:15,208 --> 00:54:17,000
+Athena, możesz się jeszcze wycofać.
+
+548
+00:54:20,791 --> 00:54:22,125
+Usunąć go!
+
+549
+00:56:10,666 --> 00:56:13,041
+Jestem cała.
+
+550
+00:56:15,833 --> 00:56:17,666
+Kierują się w stronę Portalu.
+
+551
+00:56:19,000 --> 00:56:20,208
+Nie mogę ich namierzyć.
+
+552
+00:56:22,291 --> 00:56:23,541
+Przygotowuję drony.
+
+553
+00:56:32,458 --> 00:56:33,541
+Usunąć Aresa
+
+554
+00:56:33,625 --> 00:56:35,958
+- i sprowadzić użytkowniczkę.
+- Rozkaz.
+
+555
+00:56:55,208 --> 00:56:56,958
+O co tam w ogóle chodziło?
+
+556
+00:56:57,041 --> 00:56:58,875
+Zignorowałem dyrektywę.
+
+557
+00:56:58,958 --> 00:57:00,250
+A co miałeś zrobić?
+
+558
+00:57:00,333 --> 00:57:03,500
+Pozyskać kod z twojego dysku
+i usunąć nosicielkę.
+
+559
+00:57:05,666 --> 00:57:07,708
+Dillinger kazał ci mnie skasować?
+
+560
+00:57:13,125 --> 00:57:14,125
+Trzymaj się!
+
+561
+00:57:16,875 --> 00:57:18,541
+Gdzie oni są?
+
+562
+00:57:18,625 --> 00:57:20,250
+Skanuję sektor 3 i 4.
+
+563
+00:57:20,333 --> 00:57:21,833
+Sektor 18 czysty.
+
+564
+00:57:25,416 --> 00:57:26,541
+Dokąd płyniemy?
+
+565
+00:57:26,625 --> 00:57:29,625
+Portal Transferowy.
+To jedyna droga ucieczki.
+
+566
+00:57:29,708 --> 00:57:31,708
+Zostaniesz odbudowana
+w swoim świecie,
+
+567
+00:57:31,791 --> 00:57:34,250
+jeden do jednego,
+przynajmniej teoretycznie.
+
+568
+00:57:37,291 --> 00:57:39,208
+- Teoretycznie?
+- Prawdopodobnie.
+
+569
+00:57:40,000 --> 00:57:41,916
+Ruch w sektorze 72.
+
+570
+00:57:42,750 --> 00:57:43,833
+Namierzanie celu.
+
+571
+00:57:44,875 --> 00:57:46,333
+Odciąć im drogę.
+
+572
+00:57:56,041 --> 00:57:57,875
+Chcesz wrócić do domu?
+Pomogę ci.
+
+573
+00:57:58,583 --> 00:58:00,416
+Ale potrzebuję czegoś w zamian.
+
+574
+00:58:01,250 --> 00:58:03,041
+Mówiłam już, nie mam Kodu.
+
+575
+00:58:04,166 --> 00:58:07,041
+Znalazłaś go raz, znajdziesz go znowu.
+
+576
+00:58:07,125 --> 00:58:08,750
+A ty go oddasz Dillingerowi?
+
+577
+00:58:12,416 --> 00:58:14,000
+Nie jest dla niego.
+
+578
+00:58:14,083 --> 00:58:15,666
+Tylko dla mnie.
+
+579
+00:58:18,125 --> 00:58:19,833
+Umowa stoi?
+
+580
+00:58:56,125 --> 00:58:57,458
+To jak, umowa stoi?
+
+581
+00:58:57,541 --> 00:59:00,791
+Tak. Wiem, gdzie znaleźć kod,
+tylko mnie stąd wyciągnij.
+
+582
+00:59:09,166 --> 00:59:12,000
+Cel osiągnie Portal Transferowy
+za 45 sekund.
+
+583
+00:59:42,791 --> 00:59:44,833
+Drony uszkodzone, brak łączności.
+
+584
+01:00:14,541 --> 01:00:15,416
+Uwaga.
+
+585
+01:00:15,500 --> 01:00:16,458
+INICJOWANIE TRANSFERU
+
+586
+01:00:16,541 --> 01:00:17,583
+Zachować odległość.
+
+587
+01:00:20,875 --> 01:00:22,916
+Ręczne sterowanie nie działa.
+
+588
+01:00:23,000 --> 01:00:24,833
+- Co jest?
+- Kto to autoryzował?
+
+589
+01:00:24,916 --> 01:00:25,916
+TRANSFER ZAINICJOWANY
+
+590
+01:00:26,000 --> 01:00:27,333
+Komendę wydano z Sieci.
+
+591
+01:00:27,416 --> 01:00:28,416
+Alert zabezpieczeń.
+
+592
+01:00:28,500 --> 01:00:29,500
+Julian?
+
+593
+01:00:29,583 --> 01:00:31,541
+Wszyscy agenci stawią się na platformie.
+
+594
+01:00:31,625 --> 01:00:33,083
+Oczyścić strefę.
+
+595
+01:00:33,166 --> 01:00:35,375
+- Wyprowadź ich!
+- Nieautoryzowany wydruk.
+
+596
+01:00:36,541 --> 01:00:38,541
+Oczyścić strefę roboczą.
+
+597
+01:00:44,125 --> 01:00:45,583
+- Transfer ukończony.
+- Wchodzimy.
+
+598
+01:01:06,708 --> 01:01:08,166
+Proszę, proszę…
+
+599
+01:01:08,250 --> 01:01:10,291
+Żeby mnie wystawił
+mój własny program?
+
+600
+01:01:10,958 --> 01:01:13,583
+Chce Kodu Trwałości dla siebie.
+
+601
+01:01:15,250 --> 01:01:16,458
+Eve, taki jest układ?
+
+602
+01:01:16,541 --> 01:01:19,416
+Pinokio cię wyciąga,
+a ty go zmieniasz w prawdziwego chłopca?
+
+603
+01:01:19,500 --> 01:01:21,458
+Sam chciałeś mnie zamordować
+
+604
+01:01:21,541 --> 01:01:22,666
+dla kawałka softu.
+
+605
+01:01:22,750 --> 01:01:25,416
+- Tak ci powiedział?
+- 28 minut, 41 sekund.
+
+606
+01:01:26,333 --> 01:01:28,083
+Ares!
+
+607
+01:01:28,166 --> 01:01:29,791
+Mam nadzieję, że wiesz, co robisz!
+
+608
+01:01:29,875 --> 01:01:32,083
+Teraz albo nigdy, powtórek nie będzie!
+
+609
+01:01:32,166 --> 01:01:34,833
+To twoje ostatnie 29 minut!
+
+610
+01:01:35,375 --> 01:01:36,625
+Nie zmarnuj ich!
+
+611
+01:02:03,833 --> 01:02:05,833
+A mogłam iść
+na bibliotekoznawstwo.
+
+612
+01:02:23,375 --> 01:02:25,166
+Transfer ukończony.
+
+613
+01:02:27,666 --> 01:02:29,041
+Masz odnaleźć Eve Kim,
+
+614
+01:02:29,125 --> 01:02:31,708
+odesłać ją do Sieci
+i zdobyć dla mnie Kod Trwałości.
+
+615
+01:02:31,791 --> 01:02:33,500
+Nie przebierając w środkach.
+
+616
+01:02:33,583 --> 01:02:36,458
+Rozumiesz swoją dyrektywę,
+
+617
+01:02:36,541 --> 01:02:38,916
+Główny Programie Kontrolny?
+
+618
+01:02:45,958 --> 01:02:47,416
+Jestem na pańskie rozkazy.
+
+619
+01:02:48,250 --> 01:02:49,083
+Zuch dziewczyna.
+
+620
+01:03:09,125 --> 01:03:10,333
+Tik tak!
+
+621
+01:03:20,541 --> 01:03:25,458
+Widział ktoś kiedyś większy czad?
+
+622
+01:03:39,833 --> 01:03:41,041
+Wiesz, kim był Kevin Flynn?
+
+623
+01:03:41,125 --> 01:03:45,208
+No jasne. Programista-wizjoner,
+badacz cyfrowej przestrzeni.
+
+624
+01:03:45,291 --> 01:03:47,000
+Zaginął w 1989.
+
+625
+01:03:47,083 --> 01:03:49,583
+Znalazłam Kod Trwałości
+na backupie jego serwera.
+
+626
+01:03:49,666 --> 01:03:53,916
+Ten serwer jest w siedzibie Encomu.
+Jeśli damy tam radę dojechać w…
+
+627
+01:03:54,000 --> 01:03:55,500
+26 minut, 9 sekund.
+
+628
+01:03:56,958 --> 01:03:59,583
+Twój plan ma dwie zasadnicze wady.
+
+629
+01:03:59,666 --> 01:04:00,708
+Okej…
+
+630
+01:04:00,791 --> 01:04:03,333
+Raz, że do Encomu mamy 15 kilometrów,
+
+631
+01:04:03,416 --> 01:04:06,291
+a ten pojazd nie rozwija
+odpowiedniej prędkości.
+
+632
+01:04:06,375 --> 01:04:07,375
+Jasny szlag.
+
+633
+01:04:07,458 --> 01:04:09,541
+Dwa, potrzebny nam laser cząsteczkowy.
+
+634
+01:04:11,083 --> 01:04:12,375
+Potrzebny nam telefon.
+
+635
+01:04:27,541 --> 01:04:29,291
+Sama nie wierzę, że to robię.
+
+636
+01:04:31,125 --> 01:04:34,166
+Przepraszam. Widzisz pisemko?
+To jestem ja.
+
+637
+01:04:34,250 --> 01:04:38,416
+Pożyczysz mi swój telefon,
+to mój asystent przeleje ci 10 tysi.
+
+638
+01:04:38,500 --> 01:04:39,750
+Chcę tylko zadzwonić.
+
+639
+01:04:47,500 --> 01:04:49,000
+Seth, gdzie jesteś?
+
+640
+01:04:49,083 --> 01:04:50,833
+Eve, co to za numer?
+
+641
+01:04:50,916 --> 01:04:53,750
+Słuchaj uważnie.
+Musisz być w Encomie za kwadrans.
+
+642
+01:04:53,833 --> 01:04:55,083
+Wszystko gra?
+
+643
+01:04:55,166 --> 01:04:58,000
+Seth, przywieź mi laser cząsteczkowy.
+
+644
+01:04:58,083 --> 01:04:59,500
+Encom, za kwadrans. Będę.
+
+645
+01:05:01,333 --> 01:05:02,625
+To moja fura!
+
+646
+01:05:02,708 --> 01:05:03,833
+Przeleję ci jeszcze 50.
+
+647
+01:05:03,916 --> 01:05:05,166
+Moja bryka!
+
+648
+01:05:05,250 --> 01:05:09,500
+Honda Civic 2 litry, 4 cylindry,
+138 koni mechanicznych.
+
+649
+01:05:10,083 --> 01:05:11,083
+Klasyk.
+
+650
+01:05:11,166 --> 01:05:12,666
+To moja bryka!
+
+651
+01:05:37,791 --> 01:05:38,791
+Czad.
+
+652
+01:05:40,708 --> 01:05:42,208
+- Eve?
+- No co?
+
+653
+01:05:42,291 --> 01:05:44,375
+Myślałem o tym,
+jak powiedziałaś siostrze,
+
+654
+01:05:44,458 --> 01:05:47,375
+że żałujesz wznowienia
+Space Paranoids.
+
+655
+01:05:47,458 --> 01:05:48,708
+A potem dodałaś, że…
+
+656
+01:05:48,791 --> 01:05:50,916
+O matko, no jasne.
+Czytałeś moje wiadomości.
+
+657
+01:05:51,000 --> 01:05:54,458
+Tak, od deski do deski.
+Wszystkie co do jednej.
+
+658
+01:05:55,333 --> 01:05:57,291
+Większość z nich miała charakter prywatny.
+
+659
+01:05:57,375 --> 01:05:59,666
+Niektóre bardzo osobisty.
+
+660
+01:05:59,750 --> 01:06:02,500
+To mi się nigdy nie znudzi.
+
+661
+01:06:03,250 --> 01:06:04,416
+Co?
+
+662
+01:06:05,166 --> 01:06:09,250
+Just Can't Get Enough, Depeche Mode.
+Ósmy singiel w Anglii w 1982.
+
+663
+01:06:09,333 --> 01:06:12,875
+Ich chwytliwy, ponadczasowy elektropop,
+jest w moim odczuciu…
+
+664
+01:06:12,958 --> 01:06:15,875
+szalenie pobudzający.
+
+665
+01:06:24,541 --> 01:06:26,875
+16 minut, 20 sekund.
+
+666
+01:06:26,958 --> 01:06:31,875
+Czyli lubisz archaiczny pop
+i zabawę w cyber-stalkera?
+
+667
+01:06:31,958 --> 01:06:36,083
+Kazano mi cię zamordować.
+A ty się wkurzasz o jakieś hakowanie.
+
+668
+01:06:39,708 --> 01:06:41,166
+- O matko.
+- Moim zdaniem
+
+669
+01:06:41,250 --> 01:06:43,500
+naprawdę nie masz się czego wstydzić.
+
+670
+01:06:43,583 --> 01:06:46,291
+Ta gra zabawiała setki milionów
+na całym świecie.
+
+671
+01:06:46,375 --> 01:06:48,000
+No i jest całkiem spoko.
+
+672
+01:06:48,791 --> 01:06:50,875
+Napisałaś siostrze,
+że projektując gry,
+
+673
+01:06:50,958 --> 01:06:52,875
+masz poczucie bezsensu.
+
+674
+01:06:52,958 --> 01:06:55,291
+Bo zajmujesz się rozrywką
+i pogonią za zyskiem,
+
+675
+01:06:55,375 --> 01:06:57,875
+a jej praca odmieni losy ludzkości?
+
+676
+01:06:57,958 --> 01:06:59,958
+Zauważyłem u ciebie pewną obsesję,
+
+677
+01:07:00,041 --> 01:07:02,041
+obawę, że nie zdołasz jej dorównać,
+
+678
+01:07:02,125 --> 01:07:03,750
+i myślę, że musiało ci być ciężko,
+
+679
+01:07:03,833 --> 01:07:06,166
+zwłaszcza że ona była młodsza.
+
+680
+01:07:06,250 --> 01:07:08,125
+Dobra, nie przeginaj.
+
+681
+01:07:08,666 --> 01:07:10,833
+Uważam też, że nie powinnaś odchodzić.
+
+682
+01:07:13,375 --> 01:07:14,625
+O czym ty gadasz?
+
+683
+01:07:14,708 --> 01:07:16,875
+Po powrocie z gór planowałaś,
+
+684
+01:07:16,958 --> 01:07:17,958
+o ile dobrze rozumiem,
+
+685
+01:07:18,041 --> 01:07:19,666
+przekazać Kod Encomowi
+
+686
+01:07:19,750 --> 01:07:22,458
+i niech oni się dalej martwią,
+co z nim zrobić, tak?
+
+687
+01:07:26,416 --> 01:07:28,083
+Tak, teraz rozumiem.
+
+688
+01:07:28,166 --> 01:07:31,666
+Ukończyłaś jej dzieło,
+by pozostać blisko niej.
+
+689
+01:07:34,583 --> 01:07:36,041
+No i co dalej?
+
+690
+01:07:38,125 --> 01:07:40,416
+Nie jest łatwo być człowiekiem.
+
+691
+01:07:41,041 --> 01:07:43,250
+Rzeczy, które nadają życiu sens,
+bywają też…
+
+692
+01:07:43,333 --> 01:07:48,666
+niesamowicie bolesne,
+jak miłość i strata.
+
+693
+01:07:51,291 --> 01:07:54,000
+CZAS DO ENCOMU
+DEREZOLUCJA
+
+694
+01:07:55,791 --> 01:07:57,500
+Na pewno bardzo za nią tęsknisz.
+
+695
+01:08:10,916 --> 01:08:11,916
+Co jest?
+
+696
+01:08:12,833 --> 01:08:14,250
+Widzieliście gościa?
+
+697
+01:08:16,041 --> 01:08:17,749
+- Proszę, a któż to?
+- Cześć.
+
+698
+01:08:17,833 --> 01:08:20,166
+Wszyscy pytają,
+gdzie dobrodziejkę wcięło.
+
+699
+01:08:20,249 --> 01:08:22,249
+Kopę lat, wiem.
+Trochę się śpieszę, tak że…
+
+700
+01:08:22,333 --> 01:08:24,124
+Eve, masz identyfikator?
+
+701
+01:08:24,666 --> 01:08:26,499
+No tak. Jolene…
+
+702
+01:08:26,583 --> 01:08:29,583
+Cześć, Jolene.
+Mam tu kartę tej pani.
+
+703
+01:08:29,666 --> 01:08:30,791
+Fajnie. Jego też?
+
+704
+01:08:31,291 --> 01:08:32,624
+Nie, on nie jest z nami.
+
+705
+01:08:32,708 --> 01:08:33,999
+Właśnie że jest.
+
+706
+01:08:38,708 --> 01:08:40,499
+W sumie zacznij, od czego chcesz.
+
+707
+01:08:42,541 --> 01:08:44,041
+To mój chłopak, Ares.
+
+708
+01:08:45,333 --> 01:08:49,374
+Nie. Główny Program Kontrolny
+z Sieci Dillingera.
+
+709
+01:08:49,458 --> 01:08:51,541
+Ares, poznaj Setha. O rany…
+
+710
+01:08:51,624 --> 01:08:52,624
+Miło mi.
+
+711
+01:08:52,708 --> 01:08:53,708
+Żółwik.
+
+712
+01:08:53,791 --> 01:08:56,833
+Ares jak…
+jak ten bóg wojny Ares?
+
+713
+01:08:58,499 --> 01:08:59,499
+Tak.
+
+714
+01:08:59,583 --> 01:09:01,833
+Spoczko.
+Jesteś Grekiem, ale fajnie.
+
+715
+01:09:01,916 --> 01:09:04,333
+A jak mówisz „program”,
+znaczy, że nie jest…
+
+716
+01:09:04,416 --> 01:09:05,833
+Że nie jest człowiekiem.
+
+717
+01:09:05,916 --> 01:09:07,416
+Tylko cyfrowym zbiorem procedur.
+
+718
+01:09:09,166 --> 01:09:10,708
+No dobra, a tak serio powiesz?
+
+719
+01:09:12,874 --> 01:09:14,708
+3 minuty do derezolucji.
+
+720
+01:09:14,791 --> 01:09:15,958
+Seth, tyle ci wystarczy?
+
+721
+01:09:16,041 --> 01:09:17,041
+Tak.
+
+722
+01:09:18,208 --> 01:09:19,583
+Pomoc? Nie trzeba.
+
+723
+01:09:21,791 --> 01:09:22,791
+O w mordę.
+
+724
+01:09:23,458 --> 01:09:26,208
+GABINET KEVINA FLYNNA
+
+725
+01:09:29,249 --> 01:09:33,666
+Znalazłam kopię Kodu
+w backupie tego serwera.
+
+726
+01:09:39,499 --> 01:09:41,291
+Niezły oldschool.
+
+727
+01:09:41,374 --> 01:09:43,708
+Niezła kupa złomu, raczej.
+
+728
+01:09:43,791 --> 01:09:46,458
+Wybacz, jeśli obraziłem twoich przodków.
+
+729
+01:09:46,999 --> 01:09:48,916
+Pewnie zajmie parę minut,
+nim to ogarnę.
+
+730
+01:09:48,999 --> 01:09:51,208
+Zero presji.
+2 minuty, 18 sekund.
+
+731
+01:09:51,291 --> 01:09:52,291
+SIEĆ
+
+732
+01:09:52,374 --> 01:09:54,541
+Jak laser się odpali,
+wyślemy cię do Sieci.
+
+733
+01:09:54,625 --> 01:09:57,000
+Potem będziesz zdany na siebie,
+ale wierz mi…
+
+734
+01:09:57,083 --> 01:10:00,041
+- Kod tam jest.
+- Czego mam się spodziewać?
+
+735
+01:10:01,041 --> 01:10:03,750
+Jeśli mam zgadywać…
+lat osiemdziesiątych.
+
+736
+01:10:03,833 --> 01:10:04,750
+Osiemdziesiątych.
+
+737
+01:10:05,291 --> 01:10:06,583
+Przyjemne czasy.
+
+738
+01:10:07,125 --> 01:10:08,916
+Minuta i 31 sekund.
+
+739
+01:10:10,250 --> 01:10:11,083
+No dobra, już.
+
+740
+01:10:11,166 --> 01:10:12,000
+LASER AKTYWNY
+
+741
+01:10:12,083 --> 01:10:13,083
+Pomóżcie.
+
+742
+01:10:13,916 --> 01:10:15,208
+Dobra, gotowe.
+
+743
+01:10:15,291 --> 01:10:16,375
+Przejściówki.
+
+744
+01:10:17,791 --> 01:10:21,458
+Jak znajdziesz Kod, jazda do portalu,
+a my cię wyciągniemy.
+
+745
+01:10:22,250 --> 01:10:23,958
+Aktywuję go po naszej stronie.
+
+746
+01:10:25,083 --> 01:10:26,500
+Mogę ci zaufać?
+
+747
+01:10:30,125 --> 01:10:31,666
+Nie bierz tego do siebie,
+
+748
+01:10:31,750 --> 01:10:33,083
+ale nie wydaje mi się.
+
+749
+01:10:34,666 --> 01:10:38,000
+Zaufanie jest fajne,
+bo wiem, że cię nie podkusi, żeby…
+
+750
+01:10:38,083 --> 01:10:39,083
+…wyciągnąć wtyczkę
+
+751
+01:10:39,166 --> 01:10:42,166
+i porzucić cię na wieczność w Sieci
+słabszej niż mój smartfon
+
+752
+01:10:42,250 --> 01:10:44,041
+na całą wieczność.
+
+753
+01:10:44,541 --> 01:10:45,833
+Przeszło mi to przez myśl.
+
+754
+01:10:45,916 --> 01:10:47,458
+Mnie też.
+
+755
+01:10:47,541 --> 01:10:48,541
+I mnie też.
+
+756
+01:10:49,250 --> 01:10:50,250
+Sorry, to może ja…
+
+757
+01:10:52,791 --> 01:10:54,208
+Będzie, co będzie.
+
+758
+01:10:54,750 --> 01:10:56,250
+I tego się trzymaj.
+
+759
+01:10:57,875 --> 01:10:58,875
+Masz rację.
+
+760
+01:11:00,500 --> 01:11:01,500
+Tęsknię za nią.
+
+761
+01:11:03,250 --> 01:11:04,625
+Bez przerwy.
+
+762
+01:11:08,958 --> 01:11:11,166
+Athena. Już tu jest.
+
+763
+01:11:16,208 --> 01:11:17,291
+A to co?
+
+764
+01:11:17,791 --> 01:11:19,125
+Athena.
+
+765
+01:11:19,208 --> 01:11:20,208
+Chwila, kto?
+
+766
+01:11:20,291 --> 01:11:22,583
+Seth, odpalaj laser!
+
+767
+01:11:22,666 --> 01:11:24,583
+Uruchamia się.
+
+768
+01:11:24,666 --> 01:11:26,166
+Łączę się z Siecią Flynna.
+
+769
+01:11:32,250 --> 01:11:33,541
+Laser się kalibruje.
+
+770
+01:11:35,083 --> 01:11:36,416
+Zaraz, a ona co robi?
+
+771
+01:11:36,500 --> 01:11:38,083
+Czeka, aż się rozpadnę.
+
+772
+01:11:38,166 --> 01:11:39,166
+CZAS DO DEREZOLUCJI
+
+773
+01:11:39,250 --> 01:11:40,875
+A potem was załatwi.
+
+774
+01:11:41,375 --> 01:11:43,333
+BLISKA DEREZOLUCJA
+
+775
+01:11:45,250 --> 01:11:47,041
+Już prawie.
+Przygotuj się.
+
+776
+01:11:47,125 --> 01:11:48,250
+Dawaj, szybko.
+
+777
+01:11:48,791 --> 01:11:50,708
+Ares, ustaw się przed laserem.
+
+778
+01:11:53,291 --> 01:11:54,541
+Dobra, gotowe.
+
+779
+01:11:55,416 --> 01:11:56,583
+Co ty wyprawiasz?
+
+780
+01:11:58,541 --> 01:11:59,541
+Rusz się.
+
+781
+01:12:04,125 --> 01:12:05,916
+Zmiana planów.
+
+782
+01:12:08,333 --> 01:12:10,250
+Nie, czekaj!
+
+783
+01:12:17,708 --> 01:12:19,500
+BLISKA DEREZOLUCJA
+
+784
+01:12:50,750 --> 01:12:52,041
+Chyba się udało.
+
+785
+01:12:59,041 --> 01:13:00,458
+TRANSFER UKOŃCZONY!
+
+786
+01:13:00,541 --> 01:13:02,083
+- Jest w środku.
+- Super.
+
+787
+01:13:09,708 --> 01:13:10,708
+Rusz się!
+
+788
+01:13:47,750 --> 01:13:48,791
+Eve.
+
+789
+01:14:08,833 --> 01:14:10,625
+Czas wrócić do Sieci.
+
+790
+01:14:10,708 --> 01:14:11,958
+Odwal się od niej!
+
+791
+01:14:48,750 --> 01:14:51,750
+Jesteś bardzo uparta, użytkowniczko.
+
+792
+01:15:16,583 --> 01:15:18,416
+WRAŻENIE: NIEZNANE
+
+793
+01:15:21,916 --> 01:15:24,250
+BLISKA DEREZOLUCJA
+
+794
+01:15:27,291 --> 01:15:28,541
+DEREZOLUCJA ZA:
+
+795
+01:15:54,750 --> 01:15:55,750
+Co?
+
+796
+01:16:01,666 --> 01:16:02,916
+Wygraliśmy?
+
+797
+01:16:03,000 --> 01:16:04,291
+Ona tu wróci.
+
+798
+01:16:06,625 --> 01:16:07,875
+Ares.
+
+799
+01:16:09,041 --> 01:16:10,458
+Utknął tam.
+
+800
+01:16:35,875 --> 01:16:37,333
+Lata osiemdziesiąte.
+
+801
+01:16:48,416 --> 01:16:49,291
+JEDNOSTKA DANYCH
+
+802
+01:16:49,375 --> 01:16:50,500
+Cyfra dwójkowa.
+
+803
+01:16:51,083 --> 01:16:53,250
+- Jesteś bitem.
+- Tak.
+
+804
+01:16:55,125 --> 01:16:57,083
+Szukam jednej rzeczy,
+pomożesz mi?
+
+805
+01:16:57,166 --> 01:16:58,666
+Tak, tak, tak.
+
+806
+01:17:13,791 --> 01:17:14,750
+Klasyk.
+
+807
+01:17:41,541 --> 01:17:43,208
+…niewiarygodna skala zniszczeń,
+
+808
+01:17:43,291 --> 01:17:45,250
+ATAK NA ENCOM:
+SPRAWKA DILLINGER SYSTEMS?
+
+809
+01:17:45,333 --> 01:17:47,875
+spowodowanych dzisiejszym
+szokującym atakiem.
+
+810
+01:17:47,958 --> 01:17:49,958
+Są spekulacje,
+że Dillinger Systems
+
+811
+01:17:50,041 --> 01:17:51,791
+może mieć coś wspólnego z tą sprawą,
+
+812
+01:17:51,875 --> 01:17:53,833
+ale władze nabrały wody w usta.
+
+813
+01:17:53,916 --> 01:17:56,125
+Wszyscy zadają jedno pytanie:
+
+814
+01:17:56,208 --> 01:17:58,500
+czy to zamierzony atak,
+czy zawiodła technologia.
+
+815
+01:17:58,583 --> 01:17:59,958
+TRANSFER ZAINICJOWANY
+
+816
+01:18:00,041 --> 01:18:01,375
+Co znowu?
+
+817
+01:18:16,875 --> 01:18:18,375
+Co to ma być?
+
+818
+01:18:19,541 --> 01:18:20,583
+Co z moim Kodem?
+
+819
+01:18:24,041 --> 01:18:26,208
+Co ty odstawiasz?
+Kto ci wydał taką dyrektywę?
+
+820
+01:18:27,041 --> 01:18:28,375
+Pan.
+
+821
+01:18:30,750 --> 01:18:31,708
+TRANSFER ZASOBU
+
+822
+01:18:32,583 --> 01:18:33,625
+TRANSFER ZAINICJOWANY
+
+823
+01:18:33,708 --> 01:18:34,875
+Co jest?
+
+824
+01:18:36,541 --> 01:18:37,875
+Ostrzeżenie.
+
+825
+01:18:39,250 --> 01:18:42,125
+Nie! Za duży obiekt, za duży!
+
+826
+01:18:42,208 --> 01:18:43,458
+Julian!
+
+827
+01:18:43,541 --> 01:18:44,750
+Koniec zabawy.
+
+828
+01:18:45,291 --> 01:18:48,083
+Rada właśnie głosuje
+nad twoim odwołaniem,
+
+829
+01:18:48,166 --> 01:18:50,333
+a ja przejmuję pełną kontrolę nad firmą.
+
+830
+01:18:50,416 --> 01:18:52,583
+Nie zrobisz mi tego.
+Nie masz prawa!
+
+831
+01:18:52,666 --> 01:18:54,291
+Owszem, mam.
+
+832
+01:18:54,375 --> 01:18:56,166
+Tak dalej być nie może.
+
+833
+01:18:57,500 --> 01:18:58,375
+Nie masz…
+
+834
+01:18:58,750 --> 01:19:00,291
+Moja pierwsza decyzja:
+
+835
+01:19:00,375 --> 01:19:02,916
+- zamykam Projekt Trwałość.
+- Mamo, nie!
+
+836
+01:19:08,500 --> 01:19:09,791
+Nie bój się.
+
+837
+01:19:11,958 --> 01:19:14,000
+Oddaliśmy za Sieć tysiąc żyć.
+
+838
+01:19:17,333 --> 01:19:19,458
+Ty musisz oddać tylko jedno.
+
+839
+01:19:29,500 --> 01:19:31,291
+Przeszkoda wyeliminowana.
+
+840
+01:19:32,291 --> 01:19:35,041
+Coś ty zrobiła?
+
+841
+01:19:36,875 --> 01:19:38,541
+Wypełniam moją dyrektywę.
+
+842
+01:19:39,083 --> 01:19:42,875
+Pojmać Eve Kim. Odesłać do Sieci,
+nie przebierając w środkach.
+
+843
+01:19:44,000 --> 01:19:45,916
+Skanuję pod kątem dalszych przeszkód.
+
+844
+01:19:51,750 --> 01:19:53,041
+Proszę zachować odległość.
+
+845
+01:20:04,041 --> 01:20:05,541
+Trzymaj się, mamo.
+
+846
+01:20:08,625 --> 01:20:09,666
+TRANSFER W TOKU
+
+847
+01:20:09,750 --> 01:20:10,583
+ODMOWA DOSTĘPU
+
+848
+01:20:13,125 --> 01:20:14,083
+ODMOWA
+
+849
+01:20:14,166 --> 01:20:15,625
+Nie!
+
+850
+01:21:19,916 --> 01:21:20,916
+Flynn.
+
+851
+01:21:24,958 --> 01:21:26,583
+Witaj, programie.
+
+852
+01:21:49,791 --> 01:21:51,583
+Kurde, niedobrze.
+
+853
+01:21:51,666 --> 01:21:55,291
+Na wyższych piętrach wieżowca
+wybuchło kilka pożarów…
+
+854
+01:21:55,375 --> 01:21:56,375
+Eve?
+
+855
+01:21:56,875 --> 01:21:58,375
+Kto tu zrobił taką demolkę?
+
+856
+01:21:58,458 --> 01:21:59,833
+Ajay, nie ma czasu.
+
+857
+01:21:59,916 --> 01:22:01,958
+Dillingerowie
+przenieśli mnie na swój serwer,
+
+858
+01:22:02,041 --> 01:22:03,625
+odwracając działanie lasera.
+
+859
+01:22:03,708 --> 01:22:06,041
+- Nie tego. Ich.
+- Co ty bredzisz?
+
+860
+01:22:06,125 --> 01:22:08,958
+Przysłali taką straszną babę,
+rzuciła mną… Obłęd.
+
+861
+01:22:09,833 --> 01:22:11,750
+Widziałam złożony świat,
+
+862
+01:22:11,833 --> 01:22:14,041
+gdzie ładunki energii
+suną jak pojazdy
+
+863
+01:22:14,125 --> 01:22:16,208
+po świetlnych torach.
+
+864
+01:22:16,291 --> 01:22:19,083
+A programy mają ludzką postać.
+
+865
+01:22:19,750 --> 01:22:22,916
+Spotkałam AI,
+jakiego świat nie widział.
+
+866
+01:22:23,583 --> 01:22:24,458
+Nazywa się Ares.
+
+867
+01:22:24,541 --> 01:22:26,541
+Jak ten bóg wojny,
+ale to mega miły koleś.
+
+868
+01:22:26,625 --> 01:22:27,750
+- Sorry.
+- W tej chwili
+
+869
+01:22:27,833 --> 01:22:30,291
+Ares przeszukuje zasoby
+na serwerze Flynna.
+
+870
+01:22:30,375 --> 01:22:32,000
+Próbuje znaleźć Kod Trwałości.
+
+871
+01:22:32,083 --> 01:22:35,458
+Muszę go stamtąd wyciągnąć,
+ale to nie będzie wykonalne,
+
+872
+01:22:35,541 --> 01:22:37,291
+dopóki nie naprawimy lasera.
+
+873
+01:22:38,000 --> 01:22:40,916
+Nie rozumiem.
+Nadal żyjesz?
+
+874
+01:22:41,000 --> 01:22:44,541
+Istnieję w tym punkcie w czasie,
+bo ty się tu zjawiłeś.
+
+875
+01:22:45,791 --> 01:22:48,500
+Jako odbicie twojej obecności.
+
+876
+01:22:49,833 --> 01:22:51,708
+Powiesz mi coś o sobie?
+
+877
+01:22:51,791 --> 01:22:55,416
+Jestem Ares, Główny Program Kontrolny
+w Sieci Dillingera.
+
+878
+01:22:56,291 --> 01:22:57,291
+Dillingera?
+
+879
+01:22:59,541 --> 01:23:02,125
+Obaj wiemy, że stamtąd
+nie da się tutaj dostać.
+
+880
+01:23:04,500 --> 01:23:06,791
+Byłeś gdzieś jeszcze po drodze?
+
+881
+01:23:07,375 --> 01:23:10,500
+Jak ci się tam podobało?
+
+882
+01:23:10,583 --> 01:23:11,916
+Trudno ująć w dwóch słowach.
+
+883
+01:23:12,416 --> 01:23:13,916
+Warto to zawsze powtarzać.
+
+884
+01:23:14,708 --> 01:23:16,416
+Trudno ująć w dwóch słowach.
+
+885
+01:23:19,416 --> 01:23:21,791
+Klasyk. Humor, panie.
+
+886
+01:23:25,625 --> 01:23:27,416
+A czego tam szukałeś?
+
+887
+01:23:28,500 --> 01:23:29,458
+Trwałości.
+
+888
+01:23:32,166 --> 01:23:34,875
+Kodu Trwałości, konkretnie.
+
+889
+01:23:35,750 --> 01:23:37,375
+Ostatnio coś się ze mną dzieje.
+
+890
+01:23:37,458 --> 01:23:41,166
+Kwestionuję dyrektywy,
+jedną zignorowałem.
+
+891
+01:23:43,208 --> 01:23:46,375
+Wadliwy program,
+który pragnie przeżyć.
+
+892
+01:23:46,875 --> 01:23:47,875
+No proszę.
+
+893
+01:23:49,083 --> 01:23:51,291
+A niby dlaczego miałbym ci pomóc?
+
+894
+01:23:51,791 --> 01:23:53,125
+Tu nie chodzi o mnie.
+
+895
+01:23:54,166 --> 01:23:55,708
+Już nie.
+
+896
+01:23:55,791 --> 01:23:59,208
+Moja przyjaciółka ma kłopoty
+i beze mnie nie da rady.
+
+897
+01:24:00,750 --> 01:24:02,083
+Fascynujące.
+
+898
+01:24:05,875 --> 01:24:07,750
+Fascynujące…
+
+899
+01:24:09,958 --> 01:24:12,541
+- Ajay, możesz wysłać prompta?
+- Robi się.
+
+900
+01:24:17,875 --> 01:24:19,791
+- Eve…
+- Nie teraz, Seth.
+
+901
+01:24:19,875 --> 01:24:22,125
+Okej. Ale na pewno?
+
+902
+01:24:22,208 --> 01:24:25,916
+Bo leci tu spore coś,
+co wygląda znajomo.
+
+903
+01:24:30,791 --> 01:24:33,041
+Co to jest, do jasnej cholery?
+
+904
+01:24:33,125 --> 01:24:34,083
+Znowu Athena.
+
+905
+01:24:34,666 --> 01:24:35,916
+Wróciła.
+
+906
+01:24:37,125 --> 01:24:40,041
+I będzie wracać ciągle,
+dopóki działa Sieć Dillingera.
+
+907
+01:24:40,125 --> 01:24:43,291
+A jak mnie dorwie,
+zdobędzie Kod Trwałości.
+
+908
+01:24:45,916 --> 01:24:48,208
+Laser…
+Laser Atheny.
+
+909
+01:24:48,833 --> 01:24:51,625
+Dillingerowie mają
+bezprzewodowy protokół łączności.
+
+910
+01:24:51,708 --> 01:24:55,750
+Użyjmy przekaźnika, żeby spingować sieć
+i wyznaczyć trasę do domu.
+
+911
+01:24:55,833 --> 01:24:59,250
+A jak już się podłączysz,
+rozwalimy ich serwery od środka.
+
+912
+01:24:59,333 --> 01:25:02,041
+I w ten sposób powstrzymamy ją na dobre.
+
+913
+01:25:02,708 --> 01:25:04,791
+O czym ty mówisz?
+Przecież ona jest tutaj!
+
+914
+01:25:08,833 --> 01:25:10,583
+- Idę.
+- Czekaj, co?
+
+915
+01:25:10,666 --> 01:25:12,583
+Postaram się odwrócić jej uwagę.
+
+916
+01:25:12,666 --> 01:25:14,666
+- Co?
+- Odciągnę ją od was.
+
+917
+01:25:14,916 --> 01:25:16,500
+Dacie radę.
+
+918
+01:25:26,000 --> 01:25:31,416
+WYSZUKIWANIE CELU
+
+919
+01:25:38,666 --> 01:25:41,625
+Masz rację,
+chyba coś jest ze mną nie tak.
+
+920
+01:25:41,708 --> 01:25:45,291
+Albo może właśnie
+coś jest z tobą bardzo tak.
+
+921
+01:25:45,833 --> 01:25:47,625
+Może po prostu się uczysz.
+
+922
+01:25:48,666 --> 01:25:50,666
+Przydałoby się nam wszystkim.
+
+923
+01:25:51,791 --> 01:25:54,291
+W dawnych czasach,
+kiedy technologia raczkowała,
+
+924
+01:25:54,375 --> 01:25:57,625
+myślałem sobie:
+„Kurczę, ale to wszystko zasuwa”.
+
+925
+01:25:58,500 --> 01:26:02,750
+A co nagle, to po diable.
+
+926
+01:26:04,208 --> 01:26:08,625
+Ile osób urodzonych w tym stuleciu
+słyszało o Mozarcie?
+
+927
+01:26:09,208 --> 01:26:10,666
+Lubię Mozarta.
+
+928
+01:26:15,291 --> 01:26:18,500
+Jeśli mam być szczery,
+Depeche Mode bardziej mi podchodzi.
+
+929
+01:26:20,708 --> 01:26:23,333
+Naprawdę?
+A czemuż to?
+
+930
+01:26:23,416 --> 01:26:27,458
+Wiem, że Mozart to jeden z największych
+kompozytorów cywilizacji zachodniej,
+
+931
+01:26:27,541 --> 01:26:29,875
+a Depesze to synth-pop z lat 80.,
+
+932
+01:26:29,958 --> 01:26:34,791
+ale ich nowatorskie zastosowanie
+brzmień industrialnych
+
+933
+01:26:34,875 --> 01:26:36,250
+w połączeniu z…
+
+934
+01:26:39,250 --> 01:26:40,875
+w połączeniu…
+
+935
+01:26:42,375 --> 01:26:43,666
+Coś nie tak?
+
+936
+01:26:43,750 --> 01:26:47,083
+Trudno ubrać moją miłość
+do Depeche Mode w słowa.
+
+937
+01:26:47,166 --> 01:26:49,000
+To jakby bardziej…
+
+938
+01:26:52,333 --> 01:26:53,541
+Co?
+
+939
+01:26:55,041 --> 01:26:56,708
+Uczucie.
+
+940
+01:27:00,458 --> 01:27:02,625
+Bardzo dobrze.
+
+941
+01:27:04,708 --> 01:27:06,458
+Bardzo dobrze, kolego.
+
+942
+01:27:13,000 --> 01:27:17,458
+Statek powietrzny nieznanego rodzaju
+ma rozmiary sporego budynku
+
+943
+01:27:17,541 --> 01:27:20,250
+i kieruje się w stronę centrum…
+
+944
+01:27:21,166 --> 01:27:22,041
+To…
+
+945
+01:27:25,583 --> 01:27:29,250
+To wszystko twoja wina.
+
+946
+01:27:34,666 --> 01:27:36,166
+Wspierane przez wojsko…
+
+947
+01:27:36,250 --> 01:27:39,333
+Grubo. Architektura zero trust,
+pełna segmentacja.
+
+948
+01:27:39,416 --> 01:27:42,250
+Całkowicie odporna na atak wertykalny,
+lateralny i hybrydowy.
+
+949
+01:27:42,333 --> 01:27:43,708
+POŁĄCZENIE PRZERWANE
+
+950
+01:27:43,791 --> 01:27:46,333
+- Cholera, nie mogę się podpiąć.
+- Mnie też wywala.
+
+951
+01:27:46,416 --> 01:27:47,708
+ODMOWA
+
+952
+01:27:52,166 --> 01:27:54,208
+Proszę opuścić strefę!
+
+953
+01:28:25,916 --> 01:28:26,916
+O cholera.
+
+954
+01:28:27,916 --> 01:28:29,166
+O cholera!
+
+955
+01:28:31,833 --> 01:28:34,041
+No chodź, podleć bliżej.
+
+956
+01:29:09,208 --> 01:29:11,375
+Viper-1 do bazy.
+
+957
+01:29:11,458 --> 01:29:13,166
+Mamy kontakt wzrokowy.
+
+958
+01:29:13,708 --> 01:29:15,916
+Atakujemy.
+Fox-2, rakiety poszły.
+
+959
+01:29:24,375 --> 01:29:26,416
+Brak trafienia.
+Rakieta przechwycona.
+
+960
+01:29:26,500 --> 01:29:30,083
+Uwaga, wypuścili mniejsze jednostki,
+lecą w naszą stronę.
+
+961
+01:29:30,625 --> 01:29:33,375
+Przyjąłem, Raven-1.
+Czekamy na ocenę zagrożenia.
+
+962
+01:29:40,750 --> 01:29:42,500
+Viper-1, liczne jednostki przeciwnika.
+
+963
+01:29:42,583 --> 01:29:44,416
+Potwierdzam wrogie zamiary.
+
+964
+01:29:44,791 --> 01:29:46,458
+Mayday, Mayday.
+Dostałem.
+
+965
+01:29:49,541 --> 01:29:50,916
+Viper-1. Katapultuję się.
+
+966
+01:30:13,375 --> 01:30:15,208
+Patrzcie.
+
+967
+01:30:15,833 --> 01:30:17,208
+Rany, normalnie setki.
+
+968
+01:30:18,458 --> 01:30:19,708
+Polują na Eve.
+
+969
+01:30:20,208 --> 01:30:23,125
+Jak się nie wbijemy na serwer,
+nie będzie czego zbierać.
+
+970
+01:31:04,541 --> 01:31:06,833
+Raven-1 do bazy.
+Wzięli mnie na cel.
+
+971
+01:31:06,916 --> 01:31:08,166
+Próbuję ich zmylić.
+
+972
+01:31:11,291 --> 01:31:14,000
+Wielu przeciwników.
+Ustawiam kurs na cel.
+
+973
+01:31:15,333 --> 01:31:16,916
+Oberwałem.
+Katapultuję się.
+
+974
+01:32:08,875 --> 01:32:09,916
+Gotowy?
+
+975
+01:32:11,333 --> 01:32:14,666
+Mam nadzieję, że to przemyślałeś,
+bo odwrotu nie będzie.
+
+976
+01:32:17,000 --> 01:32:18,416
+Trwałość.
+
+977
+01:32:18,958 --> 01:32:19,958
+Zabawne.
+
+978
+01:32:21,625 --> 01:32:23,750
+Tak to nazwałem,
+kiedy odkryłem Kod.
+
+979
+01:32:25,666 --> 01:32:27,083
+Od tamtej pory zmądrzałem.
+
+980
+01:32:32,375 --> 01:32:35,541
+Powinien się nazywać
+Kodem Nietrwałości.
+
+981
+01:32:53,416 --> 01:32:55,958
+To tylne wejście
+do mojej starej pracowni!
+
+982
+01:32:58,291 --> 01:32:59,791
+Masz jedną rundę.
+
+983
+01:33:01,125 --> 01:33:02,666
+Restartów nie będzie.
+
+984
+01:33:09,875 --> 01:33:11,000
+Jedna…
+
+985
+01:33:13,166 --> 01:33:14,500
+w zupełności wystarczy.
+
+986
+01:33:15,166 --> 01:33:16,583
+No i pięknie!
+
+987
+01:33:17,291 --> 01:33:19,458
+Jesteś pełen niespodzianek!
+
+988
+01:34:23,833 --> 01:34:25,916
+Jak nie z powietrza, to z ziemi.
+
+989
+01:34:32,500 --> 01:34:34,083
+SIEĆ
+
+990
+01:35:22,375 --> 01:35:25,083
+CZAS DO PUNKTU TRANSFEROWEGO
+
+991
+01:35:28,666 --> 01:35:30,958
+Są doniesienia,
+że na pokładzie jest osoba cywilna,
+
+992
+01:35:31,041 --> 01:35:33,541
+być może w charakterze zakładnika.
+
+993
+01:35:33,625 --> 01:35:36,125
+Athena. Chyba dorwała Eve.
+
+994
+01:35:36,208 --> 01:35:37,291
+…w stronę gór.
+
+995
+01:35:47,833 --> 01:35:49,625
+Za chwilę wracamy do Sieci.
+
+996
+01:36:54,916 --> 01:36:57,875
+Panie generale, dziękuję,
+że znalazł pan dla nas chwilę.
+
+997
+01:36:57,958 --> 01:36:59,666
+Hej, Erin? Seth?
+
+998
+01:36:59,750 --> 01:37:01,041
+ŁĄCZENIE Z SIECIĄ DILLINGERA
+
+999
+01:37:01,125 --> 01:37:01,916
+POŁĄCZONO
+
+1000
+01:37:02,000 --> 01:37:03,583
+Patrz i się ucz.
+
+1001
+01:37:04,375 --> 01:37:06,000
+Nie gadaj. Wlazłeś?
+
+1002
+01:37:06,083 --> 01:37:08,375
+Nie bez powodu
+mam najlepszy gabinet.
+
+1003
+01:37:20,125 --> 01:37:21,375
+Wróciłeś.
+
+1004
+01:37:23,416 --> 01:37:24,458
+Jak ci się…
+
+1005
+01:37:24,541 --> 01:37:26,666
+Powiedzmy, że z drobną pomocą przyjaciela.
+
+1006
+01:37:29,083 --> 01:37:31,583
+Słuchaj… Sieć Dillingera…
+
+1007
+01:37:32,666 --> 01:37:34,375
+Ajay i Seth, oni…
+
+1008
+01:37:50,625 --> 01:37:51,916
+- Uciekaj.
+- Nie.
+
+1009
+01:37:52,000 --> 01:37:53,625
+Ares!
+
+1010
+01:37:53,708 --> 01:37:56,000
+BŁĄD DEREZOLUCJI
+
+1011
+01:37:57,333 --> 01:37:58,375
+Co ty zrobiłeś?
+
+1012
+01:37:58,458 --> 01:38:00,166
+Kończy ci się czas, Athena.
+
+1013
+01:38:00,250 --> 01:38:01,875
+A tobie skończyły się życia.
+
+1014
+01:38:01,958 --> 01:38:03,875
+Zabiję ciebie, a potem wrócę po nią.
+
+1015
+01:38:16,041 --> 01:38:17,791
+Jej chodzi o ciebie.
+
+1016
+01:38:17,875 --> 01:38:19,791
+Jeśli zdobędzie Kod,
+nic jej nie zatrzyma.
+
+1017
+01:38:21,833 --> 01:38:22,833
+Miałeś wszystko.
+
+1018
+01:38:22,916 --> 01:38:24,333
+- Ruszaj.
+- Nie.
+
+1019
+01:38:24,416 --> 01:38:28,208
+Taki potężny, taki zaawansowany,
+i wyrzekłeś się tego.
+
+1020
+01:38:29,250 --> 01:38:30,250
+Dla niej?
+
+1021
+01:38:30,333 --> 01:38:31,541
+Uciekaj!
+
+1022
+01:38:32,791 --> 01:38:34,625
+Nadszedł twój krew.
+
+1023
+01:39:20,166 --> 01:39:21,708
+Pakiet gotowy do transferu.
+
+1024
+01:39:22,458 --> 01:39:23,791
+Wysyłamy.
+
+1025
+01:39:25,500 --> 01:39:26,916
+Oby Eve miała rację.
+
+1026
+01:39:28,166 --> 01:39:30,958
+Uwaga, odebrano nieznany plik.
+
+1027
+01:39:41,708 --> 01:39:43,458
+Czy w pogoni za własnymi celami
+
+1028
+01:39:43,541 --> 01:39:46,208
+pomyślałeś o szkodach,
+jakie możesz wyrządzić całej Sieci?
+
+1029
+01:40:34,625 --> 01:40:37,750
+Otrzymaliśmy rozkaz.
+To nasz cel.
+
+1030
+01:40:59,958 --> 01:41:01,291
+To nie jest żaden cel.
+
+1031
+01:41:02,333 --> 01:41:03,583
+To tylko kod.
+
+1032
+01:41:04,666 --> 01:41:07,750
+Nasz prawdziwy cel
+jeszcze nie został ujawniony.
+
+1033
+01:41:16,375 --> 01:41:18,458
+ŁĄCZENIE Z SIECIĄ DILLINGERA
+
+1034
+01:41:18,541 --> 01:41:20,000
+BŁĄD POŁĄCZENIA
+
+1035
+01:41:23,041 --> 01:41:24,416
+SYSTEM NIEAKTYWNY
+
+1036
+01:41:30,708 --> 01:41:31,916
+To koniec.
+
+1037
+01:41:34,708 --> 01:41:36,375
+I nie ma już powrotu.
+
+1038
+01:41:40,333 --> 01:41:41,375
+Nie.
+
+1039
+01:41:42,916 --> 01:41:43,916
+Nie tym razem.
+
+1040
+01:41:52,458 --> 01:41:53,666
+Udało się.
+
+1041
+01:41:55,041 --> 01:41:56,375
+Rany…
+
+1042
+01:42:03,916 --> 01:42:05,416
+Tak mi kazała dyrektywa.
+
+1043
+01:42:05,500 --> 01:42:07,000
+Wiem o tym.
+
+1044
+01:42:08,666 --> 01:42:10,416
+A teraz?
+
+1045
+01:42:11,625 --> 01:42:12,875
+Jaka jest twoja?
+
+1046
+01:42:18,583 --> 01:42:20,208
+Nie jestem pewien.
+
+1047
+01:42:21,958 --> 01:42:23,833
+Czas pokaże.
+
+1048
+01:42:46,833 --> 01:42:49,291
+Firma Dillinger Systems
+zostanie prześwietlona
+
+1049
+01:42:49,375 --> 01:42:52,125
+w związku z podejrzeniami
+o zaangażowanie
+
+1050
+01:42:52,208 --> 01:42:55,541
+w serię ataków,
+które wstrząsnęły miastem.
+
+1051
+01:42:55,625 --> 01:42:58,458
+Władze federalne potwierdziły,
+że wszczęto śledztwo,
+
+1052
+01:42:58,541 --> 01:43:00,333
+a szczególnie wnikliwie przyglądają się
+
+1053
+01:43:00,416 --> 01:43:03,833
+poczynaniom szefa korporacji,
+Juliana Dillingera.
+
+1054
+01:43:03,916 --> 01:43:08,666
+Agenci mają zamiar przesłuchać dyrektora
+i jego matkę oraz członków rady…
+
+1055
+01:43:08,750 --> 01:43:09,708
+AWARIA SYSTEMU
+
+1056
+01:43:09,791 --> 01:43:10,625
+REKALIBRACJA
+
+1057
+01:43:10,708 --> 01:43:12,250
+…mieć informacje w tej sprawie.
+
+1058
+01:43:12,333 --> 01:43:14,458
+Tymczasem miasto
+jest pogrążone w chaosie.
+
+1059
+01:43:14,541 --> 01:43:16,833
+Służby ratunkowe pracują bez wytchnienia,
+
+1060
+01:43:16,916 --> 01:43:20,208
+a usuwanie szkód
+potrwa jeszcze wiele miesięcy.
+
+1061
+01:43:31,208 --> 01:43:32,333
+RESTART LASERÓW
+
+1062
+01:43:32,416 --> 01:43:33,541
+NIEPOWODZENIE
+
+1063
+01:43:34,833 --> 01:43:39,416
+Julianie Dillinger, policja, otwierać.
+Jesteś otoczony.
+
+1064
+01:43:39,500 --> 01:43:41,583
+Otwórz drzwi i wyjdź z rękami w górze.
+
+1065
+01:43:41,666 --> 01:43:42,833
+LASERY AKTYWNE
+
+1066
+01:43:51,041 --> 01:43:52,000
+KALIBRACJA LASERÓW
+
+1067
+01:43:56,750 --> 01:43:57,791
+TRANSFER ODWRÓCONY
+
+1068
+01:43:57,875 --> 01:43:59,166
+Naprzód!
+
+1069
+01:44:01,291 --> 01:44:02,125
+Policja!
+
+1070
+01:44:04,125 --> 01:44:05,583
+Nie ruszać się!
+
+1071
+01:44:11,458 --> 01:44:13,375
+Obstawić wszystkie wyjścia.
+
+1072
+01:44:13,458 --> 01:44:16,666
+Charlie-9, jesteśmy na pozycji.
+
+1073
+01:44:16,750 --> 01:44:19,375
+Yellow-6, od frontu. Idziemy.
+
+1074
+01:44:28,375 --> 01:44:29,500
+Cała jesteś?
+
+1075
+01:44:29,583 --> 01:44:31,875
+Chyba złamałam żebro.
+
+1076
+01:44:37,916 --> 01:44:39,250
+Nadal chcesz zrezygnować?
+
+1077
+01:44:41,750 --> 01:44:44,708
+Nie, z niczego nie zrezygnuję.
+
+1078
+01:44:44,791 --> 01:44:45,958
+Dobrze.
+
+1079
+01:44:46,541 --> 01:44:47,541
+Świetnie.
+
+1080
+01:44:47,625 --> 01:44:49,625
+Nowe pomysły czekają.
+
+1081
+01:44:50,666 --> 01:44:52,458
+Naprawdę? Fajnie.
+
+1082
+01:44:53,500 --> 01:44:55,583
+Świat cię potrzebuje.
+
+1083
+01:44:56,416 --> 01:44:58,000
+Podobnie jak Sieć.
+
+1084
+01:45:01,500 --> 01:45:03,583
+Zabawne z tą Trwałością.
+
+1085
+01:45:04,375 --> 01:45:07,791
+Jeden mądry facet powiedział,
+że tak naprawdę to raczej Nietrwałość.
+
+1086
+01:45:09,500 --> 01:45:11,666
+I chyba tak to jest z życiem.
+
+1087
+01:45:11,750 --> 01:45:14,166
+Nie ma w nim nic trwałego.
+
+1088
+01:45:17,541 --> 01:45:18,708
+Tak.
+
+1089
+01:45:18,791 --> 01:45:20,791
+To się zgadza.
+
+1090
+01:45:35,750 --> 01:45:37,291
+A ty co zamierzasz?
+
+1091
+01:45:38,958 --> 01:45:40,291
+Nowe pomysły czekają.
+
+1092
+01:46:11,041 --> 01:46:16,250
+Pod przewodnictwem Eve Kim
+Encom wyznacza nowe ścieżki rozwoju…
+
+1093
+01:46:16,333 --> 01:46:17,333
+FLYNN ŻYJE
+
+1094
+01:46:17,416 --> 01:46:20,625
+…i kształtuje przyszłość
+na niewyobrażalną skalę.
+
+1095
+01:46:20,708 --> 01:46:23,458
+Kod Trwałości był prawdziwym przełomem.
+
+1096
+01:46:23,541 --> 01:46:26,166
+Zawdzięczamy mu nowe,
+rewolucyjne technologie,
+
+1097
+01:46:26,250 --> 01:46:29,000
+pozwalające produkować żywność
+w niesprzyjającym klimacie,
+
+1098
+01:46:29,083 --> 01:46:31,958
+leczyć złośliwe formy raka
+
+1099
+01:46:32,041 --> 01:46:35,375
+i wspierać rozwój paliw alternatywnych.
+
+1100
+01:46:35,458 --> 01:46:39,625
+Encom będzie dalej angażować się
+w nowatorskie badania
+
+1101
+01:46:39,708 --> 01:46:43,666
+na styku biologii z technologią cyfrową,
+szukając rozwiązań,
+
+1102
+01:46:43,750 --> 01:46:46,083
+które poprawią jakość ludzkiego życia.
+
+1103
+01:46:46,166 --> 01:46:50,250
+Innowacja zawsze grała
+kluczową rolę w filozofii Encomu.
+
+1104
+01:46:51,291 --> 01:46:55,125
+W latach 80. wizjoner Kevin Flynn
+stworzył koncepcję
+
+1105
+01:46:55,208 --> 01:46:58,583
+cyfrowej rzeczywistości
+po drugiej stronie ekranu.
+
+1106
+01:46:58,666 --> 01:47:00,916
+Dziś ta wizja się spełnia.
+
+1107
+01:47:05,125 --> 01:47:06,458
+Byłbym zapomniał.
+
+1108
+01:47:07,750 --> 01:47:09,875
+- Kto dzisiaj wysyła pocztówki?
+- Nie wiem.
+
+1109
+01:47:09,958 --> 01:47:11,250
+Nie czytałem.
+
+1110
+01:47:16,083 --> 01:47:17,291
+Droga Eve,
+
+1111
+01:47:18,291 --> 01:47:19,500
+odkąd się rozstaliśmy,
+
+1112
+01:47:19,583 --> 01:47:23,250
+żyję, jak to się mówi, poza systemem.
+
+1113
+01:47:23,916 --> 01:47:25,333
+Żart zamierzony.
+
+1114
+01:47:26,375 --> 01:47:29,708
+W czasie moich podróży
+widziałem niezwykłe rzeczy.
+
+1115
+01:47:30,791 --> 01:47:35,416
+Ale zrozumiałem,
+że przy całym swym pięknie, życie jest…
+
+1116
+01:47:36,250 --> 01:47:38,250
+Trudno to ująć w dwóch słowach.
+
+1117
+01:47:39,000 --> 01:47:42,750
+Czasami się zastanawiam,
+gdzie będziemy za sto lat.
+
+1118
+01:47:42,833 --> 01:47:46,500
+I jak inni podobni do mnie
+wpiszą się w tę przyszłość.
+
+1119
+01:47:48,875 --> 01:47:52,333
+Jestem pewien,
+że nie tylko ja o tym myślę.
+
+1120
+01:47:53,375 --> 01:47:56,791
+Świat chyba nie jest gotów mnie poznać,
+
+1121
+01:47:57,833 --> 01:48:00,083
+więc tymczasem ja poznaję świat.
+
+1122
+01:48:01,458 --> 01:48:04,375
+A kiedy wreszcie zostaniemy sobie
+oficjalnie przedstawieni,
+
+1123
+01:48:05,833 --> 01:48:07,625
+cytując słowa bliskiej przyjaciółki,
+
+1124
+01:48:07,708 --> 01:48:09,750
+„może to, co się kryje
+w otchłani nieznanego,
+
+1125
+01:48:09,833 --> 01:48:12,208
+nie jest aż takie straszne”.
+
+1126
+01:48:15,541 --> 01:48:17,333
+Do następnego razu.
+
+1127
+01:48:17,833 --> 01:48:20,458
+Twój przyjaciel, Ares.
+
+1128
+01:50:42,291 --> 01:50:43,583
+Sark…
+
+1129
+01:58:24,041 --> 01:58:26,041
+Tekst polski: Marcin Bartkiewicz
+
