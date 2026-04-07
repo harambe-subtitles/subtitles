@@ -1,0 +1,873 @@
+1
+00:00:27,167 --> 00:00:30,917
+POPRZEDNIO
+
+2
+00:00:32,917 --> 00:00:33,917
+<i>Coś się stało.</i>
+
+3
+00:00:34,500 --> 00:00:36,375
+<i>Poddaj się i chodź z nami.</i>
+
+4
+00:00:37,625 --> 00:00:38,750
+<i>Co masz, Dwojak?</i>
+
+5
+00:00:38,833 --> 00:00:40,792
+<i>Dane zastrzeżone przez BBI.</i>
+
+6
+00:00:40,875 --> 00:00:44,083
+<i>Mam zgłaszać natychmiast,</i>
+<i>gdyby podejrzany się pojawił.</i>
+
+7
+00:00:44,167 --> 00:00:45,542
+<i>Nikomu ani słowa.</i>
+
+8
+00:00:46,208 --> 00:00:47,833
+<i>Mam nowe wieści o syndykatach.</i>
+
+9
+00:00:47,917 --> 00:00:50,042
+<i>Zapłacą za wszystko.</i>
+
+10
+00:00:50,833 --> 00:00:52,667
+Nigdy nie strzelam w plecy.
+
+11
+00:00:52,750 --> 00:00:54,000
+Zabiłeś Deemisa.
+
+12
+00:00:54,083 --> 00:00:55,500
+<i>Wrobili mnie.</i>
+
+13
+00:00:55,583 --> 00:00:57,542
+Słyszałeś kiedyś o Kolektywie Cienia?
+
+14
+00:00:58,333 --> 00:01:01,125
+<i>Vario mi nie ucieknie.</i>
+
+15
+00:01:01,833 --> 00:01:03,583
+<i>Nawet jeśli schowa się w celi.</i>
+
+16
+00:01:06,625 --> 00:01:10,083
+<i>Ale to nie wszystko.</i>
+
+17
+00:01:14,333 --> 00:01:15,333
+Maul…
+
+18
+00:01:27,583 --> 00:01:34,583
+GWIEZDNE WOJNY: MAUL – MISTRZ CIENIA
+
+19
+00:01:43,958 --> 00:01:48,667
+Rozdział 2
+Złowieszcze Plany
+
+20
+00:02:04,000 --> 00:02:05,292
+Uważajcie na więźniów.
+
+21
+00:02:16,042 --> 00:02:17,167
+Hej, co tu się…
+
+22
+00:02:26,583 --> 00:02:27,583
+Nie.
+
+23
+00:02:57,958 --> 00:02:58,958
+Skołuj transport.
+
+24
+00:03:00,000 --> 00:03:02,167
+- Zaraz wracam, kapitanie.
+- Co robisz?
+
+25
+00:03:04,167 --> 00:03:05,417
+Policja. Biorę pojazd.
+
+26
+00:03:08,667 --> 00:03:11,875
+- Przepraszam za odór.
+- Bywało gorzej.
+
+27
+00:03:11,958 --> 00:03:12,958
+Dorwijmy ich.
+
+28
+00:03:33,833 --> 00:03:35,125
+Droid policyjny.
+
+29
+00:03:35,208 --> 00:03:36,833
+- Zbliżają się.
+- Dopadną nas.
+
+30
+00:04:44,750 --> 00:04:46,708
+- Wszyscy na kładkę.
+- Szybko!
+
+31
+00:04:49,625 --> 00:04:52,125
+Pomocy!
+
+32
+00:04:52,208 --> 00:04:53,833
+Mamy cię.
+
+33
+00:05:05,750 --> 00:05:07,250
+Skacz, złapiemy cię.
+
+34
+00:05:07,333 --> 00:05:08,333
+Jesteś bezpieczny.
+
+35
+00:05:09,250 --> 00:05:10,958
+Obywatele, jesteście bezpieczni.
+
+36
+00:05:13,708 --> 00:05:15,292
+Hej, kolego? Wszystko gra?
+
+37
+00:05:31,167 --> 00:05:32,708
+Czego mogą od niej chcieć?
+
+38
+00:05:35,083 --> 00:05:36,458
+Dobre pytanie.
+
+39
+00:05:36,542 --> 00:05:37,542
+Lawson.
+
+40
+00:05:44,000 --> 00:05:46,042
+Ataki na cele cywilne i rządowe.
+
+41
+00:05:46,125 --> 00:05:49,458
+Uprowadzenie dwóch więźniów,
+w tym potężnego gangstera.
+
+42
+00:05:49,542 --> 00:05:50,708
+Z kim się mierzymy?
+
+43
+00:05:50,792 --> 00:05:54,208
+Zbiegły znakomicie
+władał mieczem laserowym.
+
+44
+00:05:54,292 --> 00:05:56,292
+Mówiłam gubernatorowi,
+że dajemy radę,
+
+45
+00:05:56,375 --> 00:05:58,875
+ale jak się wkurzy,
+to wezwie Imperium.
+
+46
+00:05:59,292 --> 00:06:00,833
+To sprawa lokalna.
+
+47
+00:06:00,917 --> 00:06:04,083
+Jak ściągniemy Imperium,
+zamkną nam całą planetę.
+
+48
+00:06:04,167 --> 00:06:06,667
+Więc to załatw. I to szybko.
+
+49
+00:06:34,000 --> 00:06:35,000
+Jesteś ranna.
+
+50
+00:06:36,292 --> 00:06:37,292
+Siadaj.
+
+51
+00:06:37,792 --> 00:06:40,917
+Mandalorianie doskonale
+opatrują rany bitewne.
+
+52
+00:06:59,167 --> 00:07:01,250
+Myślałam, że chciałeś zabić Vario.
+
+53
+00:07:02,000 --> 00:07:04,667
+Może się jeszcze przydać.
+Jeśli nie – pozbędę się go.
+
+54
+00:07:06,208 --> 00:07:07,292
+A dziewczyna?
+
+55
+00:07:07,375 --> 00:07:09,875
+Ona jest Jedi.
+
+56
+00:07:10,583 --> 00:07:15,250
+Mam zamiar uczynić z niej broń
+zdolną zniszczyć wszystkich,
+
+57
+00:07:15,333 --> 00:07:18,250
+którzy odważyli się mnie zdradzić.
+
+58
+00:07:19,083 --> 00:07:22,083
+Na czele z Darthem Sidiousem.
+
+59
+00:07:24,042 --> 00:07:25,042
+Sidious.
+
+60
+00:07:25,750 --> 00:07:26,917
+Rozumiem, mój panie.
+
+61
+00:07:27,792 --> 00:07:29,542
+Ale Jedi?
+
+62
+00:07:30,125 --> 00:07:31,708
+Jakim cudem przetrwała?
+
+63
+00:07:32,292 --> 00:07:33,708
+Zaraz się dowiemy.
+
+64
+00:07:36,042 --> 00:07:37,458
+Czego chcecie?
+
+65
+00:07:38,292 --> 00:07:39,625
+Czemu mnie porwaliście?
+
+66
+00:07:41,458 --> 00:07:43,125
+Kim jesteś?
+
+67
+00:07:44,417 --> 00:07:45,417
+Więźniem.
+
+68
+00:07:47,667 --> 00:07:49,792
+Skoro naprawdę w to wierzysz.
+
+69
+00:08:03,458 --> 00:08:04,458
+A to co?
+
+70
+00:08:04,542 --> 00:08:06,917
+Co wy robicie?
+Nie wejdę tam.
+
+71
+00:08:07,000 --> 00:08:08,000
+Hej, chwila…
+
+72
+00:08:09,250 --> 00:08:10,250
+To skandal!
+
+73
+00:08:11,458 --> 00:08:13,167
+Wiecie, kim jestem?
+
+74
+00:08:13,667 --> 00:08:15,750
+Otwierać! Ale już!
+
+75
+00:08:25,917 --> 00:08:29,750
+Już od dziecka prano ci mózg.
+
+76
+00:08:29,833 --> 00:08:32,167
+Teraz musisz się wyleczyć.
+
+77
+00:08:48,083 --> 00:08:50,708
+<i>Mamy awarię centrali wodnej w sektorze 3X.</i>
+
+78
+00:08:50,792 --> 00:08:53,583
+<i>Mechanicy są już na miejscu,</i>
+<i>ale potrzebują wsparcia.</i>
+
+79
+00:09:11,208 --> 00:09:12,417
+Hej, tato.
+
+80
+00:09:12,500 --> 00:09:14,292
+- Dopiero wróciłeś?
+- Tak.
+
+81
+00:09:14,375 --> 00:09:15,958
+Długa noc.
+
+82
+00:09:16,542 --> 00:09:18,542
+Słyszałem. Wszystko OK?
+
+83
+00:09:18,625 --> 00:09:19,958
+Tak, jeszcze dycham.
+
+84
+00:09:20,542 --> 00:09:22,042
+A Dwojak? W jednym kawałku?
+
+85
+00:09:22,583 --> 00:09:24,083
+Złego licho nie rusza.
+
+86
+00:09:25,708 --> 00:09:26,708
+Gadałem z mamą.
+
+87
+00:09:28,375 --> 00:09:30,917
+Chce… żebym ją odwiedził.
+
+88
+00:09:31,000 --> 00:09:32,500
+- Mówiła…
+- Rylee, proszę.
+
+89
+00:09:32,583 --> 00:09:34,167
+Wytrzymaj. Pojedziemy razem.
+
+90
+00:09:45,250 --> 00:09:46,375
+Przepraszam cię.
+
+91
+00:09:46,458 --> 00:09:48,542
+Niedługo wezmę urlop.
+
+92
+00:09:54,083 --> 00:09:56,167
+<i>Kapitanie, nowe wieści.</i>
+
+93
+00:09:57,583 --> 00:09:58,792
+Dobra, jadę.
+
+94
+00:10:01,375 --> 00:10:02,875
+Wrócimy do tego, dobra?
+
+95
+00:10:04,083 --> 00:10:05,083
+Jasne.
+
+96
+00:10:18,292 --> 00:10:20,667
+Przesłuchujemy kilku członków
+syndykatu Vario,
+
+97
+00:10:20,750 --> 00:10:22,958
+ale nie chcą współpracować.
+
+98
+00:10:23,042 --> 00:10:26,667
+Nie mogę znaleźć żadnych informacji
+na temat tego Kolektywu Cienia.
+
+99
+00:10:26,750 --> 00:10:29,167
+Może Vario nie był z nami
+do końca szczery?
+
+100
+00:10:29,250 --> 00:10:31,500
+Bał się. Myślę, że nie kłamał.
+
+101
+00:10:32,083 --> 00:10:33,583
+Pierwszy raz w życiu.
+
+102
+00:10:33,667 --> 00:10:35,125
+Szukaj dalej, partnerze.
+
+103
+00:10:35,750 --> 00:10:37,417
+Moje zdanie pan zna.
+
+104
+00:10:37,500 --> 00:10:40,042
+Tak. Chcesz tu wezwać Imperium.
+
+105
+00:10:40,125 --> 00:10:41,500
+Czym prędzej!
+
+106
+00:10:41,583 --> 00:10:42,583
+Jeszcze nie.
+
+107
+00:10:43,125 --> 00:10:44,125
+Mam inny plan.
+
+108
+00:10:57,167 --> 00:10:59,083
+Nareszcie. Ile można czekać.
+
+109
+00:11:04,292 --> 00:11:06,042
+Wspólniku?
+
+110
+00:11:06,125 --> 00:11:07,917
+Pogadajmy o interesach. Zaraz…
+
+111
+00:11:12,667 --> 00:11:17,750
+Twój syndykat pomaga Pykom
+przemycać do tego układu przyprawę.
+
+112
+00:11:17,833 --> 00:11:21,750
+Zdradzisz mi dokładne daty
+i wszystkie lokalizacje dostaw.
+
+113
+00:11:21,833 --> 00:11:23,708
+Jasne, bez problemu.
+
+114
+00:11:23,792 --> 00:11:25,333
+Kiedy przejmę ich towar,
+
+115
+00:11:25,417 --> 00:11:28,625
+Krim zacznie podejrzewać ciebie
+i zechce się spotkać.
+
+116
+00:11:29,375 --> 00:11:31,542
+- OK.
+- Wystawisz mi Krima,
+
+117
+00:11:31,625 --> 00:11:33,042
+a ja go zabiję.
+
+118
+00:11:33,125 --> 00:11:37,917
+Słuchaj, zgodziłem się pomóc,
+ale… to Krim, nie?
+
+119
+00:11:38,000 --> 00:11:40,542
+Niebezpieczny. Potężny.
+Nie tak jak ty, ale…
+
+120
+00:11:40,625 --> 00:11:41,625
+Zaczynam się bać.
+
+121
+00:11:41,708 --> 00:11:44,542
+Przypominam ci tylko i zapewniam,
+
+122
+00:11:44,625 --> 00:11:47,375
+że robię wszystko,
+żebyś się zemścił na tym łajdaku.
+
+123
+00:11:47,458 --> 00:11:48,458
+Bardzo chcę pomóc.
+
+124
+00:11:51,583 --> 00:11:52,583
+Super.
+
+125
+00:11:52,667 --> 00:11:56,125
+To jesteśmy dogadani?
+
+126
+00:11:56,917 --> 00:11:57,917
+Mam nadzieję.
+
+127
+00:12:04,375 --> 00:12:08,083
+<i>Jednostka nocna aresztowała</i>
+<i>drobnego złodzieja w Dzielnicy Rozrywki.</i>
+
+128
+00:12:33,625 --> 00:12:35,000
+Brander Lawson.
+
+129
+00:12:36,708 --> 00:12:39,000
+Wreszcie sobie o mnie przypomniałeś.
+
+130
+00:12:43,208 --> 00:12:44,208
+Co u młodego?
+
+131
+00:12:45,250 --> 00:12:46,833
+Szybko dorasta.
+
+132
+00:12:49,625 --> 00:12:50,625
+Za Catalor.
+
+133
+00:12:55,333 --> 00:12:56,333
+Catalor.
+
+134
+00:12:56,833 --> 00:12:58,167
+Zdrada smakuje gorzko.
+
+135
+00:13:00,250 --> 00:13:01,958
+Po co przyszedłeś?
+
+136
+00:13:03,292 --> 00:13:04,375
+Kolektyw Cienia.
+
+137
+00:13:06,375 --> 00:13:08,375
+To cię będzie kosztowało.
+
+138
+00:13:09,125 --> 00:13:10,125
+Nie dbam o cenę.
+
+139
+00:13:11,833 --> 00:13:13,125
+Kolektyw Cienia.
+
+140
+00:13:13,583 --> 00:13:16,125
+Mieli bazę na Mandalore,
+z tego, co pamiętam.
+
+141
+00:13:16,208 --> 00:13:21,958
+Ich szef, Maul, połączył Pyków,
+Szkarłatny Świt i Czarne Słońce.
+
+142
+00:13:23,667 --> 00:13:24,667
+Opowiedz o Maulu.
+
+143
+00:13:24,750 --> 00:13:26,625
+Zniknął zaraz po wojnie.
+
+144
+00:13:26,708 --> 00:13:30,333
+Syndykaty się rozdzieliły,
+pewnie z ulgą, że już go nie ma.
+
+145
+00:13:33,042 --> 00:13:34,250
+Myślisz, że wrócił?
+
+146
+00:13:36,042 --> 00:13:40,042
+To by tłumaczyło
+te ataki na Deemisa i Vario.
+
+147
+00:13:40,125 --> 00:13:41,667
+Mieli z nim umowę?
+
+148
+00:13:41,750 --> 00:13:45,875
+Zakładam, że musieli ją złamać,
+skoro Deemis nie żyje,
+
+149
+00:13:45,958 --> 00:13:47,833
+a Vario zniknął.
+
+150
+00:13:49,125 --> 00:13:50,333
+Sądzisz, że to zemsta?
+
+151
+00:13:50,833 --> 00:13:53,417
+Mogę spać spokojnie,
+bo nie zadawałam się z Maulem.
+
+152
+00:13:53,917 --> 00:13:56,417
+Ale jeśli serio powrócił – bądź ostrożny.
+
+153
+00:13:59,625 --> 00:14:00,750
+Coś jeszcze?
+
+154
+00:14:01,708 --> 00:14:04,250
+Może… wspólna kolacja?
+
+155
+00:14:20,417 --> 00:14:22,292
+Długo będziesz mnie tu trzymał?
+
+156
+00:14:22,375 --> 00:14:24,375
+Możesz wyjść, kiedy zechcesz.
+
+157
+00:14:24,458 --> 00:14:26,125
+Chcę teraz.
+
+158
+00:14:26,208 --> 00:14:28,333
+Ale to ewidentnie niemożliwe.
+
+159
+00:14:28,417 --> 00:14:33,250
+Jeśli tak postrzegasz tę kwestię,
+to mówiąc szczerze,
+
+160
+00:14:33,333 --> 00:14:35,458
+jestem zawiedziony.
+
+161
+00:14:37,417 --> 00:14:42,125
+Mogę ci pokazać, jak uzyskać moce,
+których Jedi cię nie nauczą.
+
+162
+00:14:42,208 --> 00:14:43,583
+Sama dam sobie radę.
+
+163
+00:14:43,667 --> 00:14:48,792
+Jestem o tym przekonany,
+ale czasy się zmieniły.
+
+164
+00:14:49,542 --> 00:14:52,500
+Co dla ciebie znaczy, że jesteś Jedi?
+
+165
+00:14:52,583 --> 00:14:55,042
+Strażnikiem pokoju i sprawiedliwości
+
+166
+00:14:55,125 --> 00:14:57,875
+w czasach totalnego bezprawia?
+
+167
+00:14:57,958 --> 00:15:00,333
+Nadal wierzę w sens mojej misji.
+
+168
+00:15:01,750 --> 00:15:03,375
+Gdyby było więcej takich jak ty,
+
+169
+00:15:04,000 --> 00:15:07,000
+dzisiejszy świat być może
+wyglądałby całkiem inaczej.
+
+170
+00:15:07,583 --> 00:15:09,125
+Słyszałam co nieco.
+
+171
+00:15:09,208 --> 00:15:10,833
+Wiem, czym jesteś.
+
+172
+00:15:10,917 --> 00:15:14,000
+Przestań udawać, że dbasz o jakieś dobro.
+
+173
+00:15:14,083 --> 00:15:17,667
+Cały czas wydaje ci się,
+że to ja tu jestem złoczyńcą,
+
+174
+00:15:17,750 --> 00:15:21,375
+ale w życiu rzadko
+cokolwiek bywa czarno-białe.
+
+175
+00:15:23,667 --> 00:15:25,792
+Jak mogę ci udowodnić,
+
+176
+00:15:26,667 --> 00:15:28,583
+że stoimy po tej samej stronie?
+
+177
+00:15:29,708 --> 00:15:31,000
+Może mnie stąd wypuść?
+
+178
+00:15:32,417 --> 00:15:34,917
+Ależ kto ci broni, Jedi.
+
+179
+00:15:35,500 --> 00:15:37,292
+Wyjdź.
+
+180
+00:15:39,375 --> 00:15:40,500
+Przepraszam, panie.
+
+181
+00:15:41,500 --> 00:15:45,167
+Vario powiedział prawdę.
+Transport od Pyków dotrze o czasie.
+
+182
+00:16:09,625 --> 00:16:10,625
+Co się stało?
+
+183
+00:16:15,333 --> 00:16:18,833
+- Czemu nie skoczyliśmy w nadprzestrzeń?
+- Mamy problem z hipernapędem.
+
+184
+00:16:18,917 --> 00:16:20,875
+Straciliśmy kontrolę nad wspomaganiem.
+
+185
+00:16:20,958 --> 00:16:23,125
+Zostaliśmy przekierowani.
+
+186
+00:16:33,250 --> 00:16:35,625
+Naprawcie to i zabierzcie nas stąd!
+
+187
+00:16:35,708 --> 00:16:38,083
+Czujniki wykryły jakiś statek w pobliżu.
+
+188
+00:16:39,375 --> 00:16:42,000
+- Wyślijcie sygnał alarmowy.
+- Komunikatory padły.
+
+189
+00:16:51,583 --> 00:16:52,583
+Za mną!
+
+190
+00:16:53,542 --> 00:16:54,917
+Bronić ładunku!
+
+191
+00:17:13,917 --> 00:17:14,958
+Otworzyć ogień!
+
+192
+00:17:23,000 --> 00:17:24,000
+Jazda!
+
+193
+00:17:39,250 --> 00:17:41,250
+- Bierzcie kasę.
+- Zgodnie z rozkazem.
+
+194
+00:17:51,875 --> 00:17:54,292
+Nie ciesz się, bo skończysz marnie.
+
+195
+00:17:55,167 --> 00:17:57,792
+To już nie czasy twojego syndykatu.
+
+196
+00:17:57,875 --> 00:18:03,583
+Wszystko, co kiedyś posiadałeś,
+należy teraz do Marga Krima.
+
+197
+00:18:03,667 --> 00:18:05,875
+Twoja wiara jest ujmująca.
+
+198
+00:18:31,542 --> 00:18:32,542
+Nie ruszaj się.
+
+199
+00:19:00,625 --> 00:19:01,625
+Opłaciło się, co?
+
+200
+00:19:02,042 --> 00:19:04,042
+Miałem rację czy miałem rację?
+
+201
+00:19:04,125 --> 00:19:05,458
+Wypuść mnie, świętujemy.
+
+202
+00:19:05,542 --> 00:19:08,542
+Uwolnię cię, kiedy zabiję Krima.
+
+203
+00:19:12,083 --> 00:19:14,000
+Dobra, luzik,
+bo ci żyłka pęknie.
+
+204
+00:19:24,000 --> 00:19:30,500
+Najwyższy czas, żebyś dostrzegła
+prawdziwe oblicze galaktyki.
+
+205
+00:21:13,250 --> 00:21:14,667
+Na podstawie GWIEZDNYCH WOJEN i postaci
+stworzonych przez GEORGE’A LUCASA
+
+206
+00:22:01,375 --> 00:22:03,375
+Napisy: Barbara Eyman-Stranc
+
