@@ -1,0 +1,1330 @@
+1
+00:00:06,791 --> 00:00:09,458
+Nie miałam tajemnic.
+Po prostu ci nie powiedziałam.
+
+2
+00:00:09,541 --> 00:00:10,916
+To działa tajemnica.
+
+3
+00:00:11,000 --> 00:00:13,625
+Ty też żeś dał ciała, panisko wielkie.
+
+4
+00:00:13,708 --> 00:00:16,250
+Ja? Miałaś pilnować Groga.
+
+5
+00:00:16,333 --> 00:00:19,666
+Trzeba było mnie nie zostawiać
+z fiutem w garści.
+
+6
+00:00:19,750 --> 00:00:21,125
+A ty co, Keyleth?
+
+7
+00:00:21,208 --> 00:00:23,583
+Nie zwalaj tego na mnie.
+
+8
+00:00:23,666 --> 00:00:28,041
+„Od wielkich bohaterów
+po wielkie zera Tal'Dorei”?
+
+9
+00:00:28,291 --> 00:00:31,041
+- Umiesz czasem nie jojczyć?
+- Daruj.
+
+10
+00:00:31,125 --> 00:00:32,000
+Cisza!
+
+11
+00:00:32,250 --> 00:00:35,333
+Jak mogliście tak nawalić?
+
+12
+00:00:35,416 --> 00:00:36,875
+To był…
+
+13
+00:00:36,958 --> 00:00:39,041
+Skok idealny.
+
+14
+00:00:40,291 --> 00:00:43,166
+Chcecie się włamać
+do Kobaltowych Archiwów?
+
+15
+00:00:43,250 --> 00:00:44,125
+To żart.
+
+16
+00:00:44,208 --> 00:00:46,958
+Z moich żartów byś się, waszmość, śmiał.
+
+17
+00:00:47,041 --> 00:00:50,666
+Bo ja, Taryon Darrington,
+pięć lat ćwiczyłem improwizację.
+
+18
+00:00:50,750 --> 00:00:52,208
+W Kompanii Niedzielnej.
+
+19
+00:00:52,291 --> 00:00:53,541
+Poważnie?
+
+20
+00:00:53,625 --> 00:00:55,333
+To jak pościg za duchem.
+
+21
+00:00:55,416 --> 00:00:58,416
+Żaden mędrzec, historyk czy księga
+
+22
+00:00:58,500 --> 00:01:00,583
+nie wspominają o Szeptanym.
+
+23
+00:01:00,666 --> 00:01:05,250
+W mojej wizji walczył z nim wojownik
+odziany w szaty Kobaltowej Duszy.
+
+24
+00:01:05,333 --> 00:01:07,833
+Jeśli mamy coś o nim znaleźć, to tam.
+
+25
+00:01:07,916 --> 00:01:11,208
+Uzyskać byle zwój z Archiwów
+to nie lada wyzwanie.
+
+26
+00:01:11,291 --> 00:01:12,958
+A sekret tej wagi?
+
+27
+00:01:13,041 --> 00:01:14,333
+To niemożliwe.
+
+28
+00:01:14,416 --> 00:01:17,208
+Chcecie się zakraść do skarbca strzeżonego
+
+29
+00:01:17,291 --> 00:01:19,458
+przez prastarą sektę mnichów
+
+30
+00:01:19,541 --> 00:01:23,250
+i wyjść stamtąd z wiedzą tak groźną,
+że wymazano jej istnienie?
+
+31
+00:01:24,791 --> 00:01:27,583
+To nie będzie takie proste.
+
+32
+00:01:28,291 --> 00:01:32,625
+Kobaltowe Archiwa
+to strzeżony zbiór świętych tekstów.
+
+33
+00:01:32,708 --> 00:01:36,208
+Główny skarbiec skrywa
+starożytne i bezcenne artefakty,
+
+34
+00:01:36,291 --> 00:01:37,791
+w tym nasz zwój.
+
+35
+00:01:37,875 --> 00:01:41,375
+Strzegą go elitarni mnisi-wojownicy.
+
+36
+00:01:41,958 --> 00:01:46,541
+Taryon będzie udawał bogacza,
+który przybył z darowizną.
+
+37
+00:01:47,541 --> 00:01:49,750
+Zbroją Męczennika Świtu Pike.
+
+38
+00:01:50,041 --> 00:01:52,000
+Tylko że będzie z nim Pike,
+
+39
+00:01:52,083 --> 00:01:55,541
+którą mnisi nieświadomie
+zaniosą do skarbca.
+
+40
+00:01:55,625 --> 00:01:59,958
+Bliźniaki użyją Talizmanu Prawdy,
+który nam dałeś,
+
+41
+00:02:00,041 --> 00:02:04,250
+aby poznać kombinację niezbędną
+do wyciągnięcia Groga i Pike ze skarbca.
+
+42
+00:02:04,333 --> 00:02:06,708
+Informatorzy Vaxa w Uścisku wspominali,
+
+43
+00:02:07,041 --> 00:02:10,750
+że skarbiec jest chroniony
+potężnym polem antymagicznym.
+
+44
+00:02:11,333 --> 00:02:13,750
+I wtedy wkroczymy z Keyleth.
+
+45
+00:02:15,000 --> 00:02:18,500
+Gdy je zdezaktywujemy,
+Grog wyskoczy z amuletu Błyskotka
+
+46
+00:02:18,583 --> 00:02:21,416
+i użyje wielkiego mechanizmu
+sterującego skarbcem.
+
+47
+00:02:21,500 --> 00:02:24,625
+Tymczasem Pike wypije eliksir zrozumienia.
+
+48
+00:02:24,708 --> 00:02:25,708
+WIEDZA
+
+49
+00:02:25,791 --> 00:02:28,833
+Dzięki temu będzie w stanie
+odczytać starożytne zapiski.
+
+50
+00:02:28,916 --> 00:02:32,041
+Czmychniemy stamtąd,
+nim ktoś się zorientuje.
+
+51
+00:02:35,833 --> 00:02:38,000
+Jakieś pytania?
+
+52
+00:02:39,416 --> 00:02:41,666
+Tylko jedno, które warto zadać.
+
+53
+00:02:41,750 --> 00:02:45,500
+Co będę z tego miał
+poza zarzutami współudziału?
+
+54
+00:02:45,583 --> 00:02:48,958
+Satysfakcję, bo ocalisz świat
+przed apokalipsą?
+
+55
+00:02:50,375 --> 00:02:52,625
+Wolałbym kolacyjkę z nowym.
+
+56
+00:02:52,708 --> 00:02:54,000
+Że ze mną?
+
+57
+00:02:54,500 --> 00:02:58,833
+Schlebiasz mi,
+ale ledwo cię znam… A niech mnie.
+
+58
+00:02:59,250 --> 00:03:01,833
+Mów mi Shaun.
+
+59
+00:03:03,208 --> 00:03:04,791
+No dobrze.
+
+60
+00:03:07,541 --> 00:03:10,125
+LEGENDA VOX MACHINY
+
+61
+00:03:10,208 --> 00:03:14,583
+AFERA W KOBALTOWEJ DUSZY
+
+62
+00:03:27,541 --> 00:03:28,500
+Tędy.
+
+63
+00:03:31,666 --> 00:03:33,500
+Przybyli, Wyższa Kuratorko.
+
+64
+00:03:36,166 --> 00:03:39,083
+Pan Barrington?
+
+65
+00:03:39,583 --> 00:03:42,625
+Yudala Fon,
+główna archiwistka Kobaltowej Duszy.
+
+66
+00:03:42,708 --> 00:03:46,958
+Jesteśmy wdzięczni za darowiznę.
+Jeśli okaże się autentyczna.
+
+67
+00:03:47,500 --> 00:03:52,458
+Naturalnie. Ostrożnie!
+To delikatny artefakt.
+
+68
+00:03:52,875 --> 00:03:55,250
+Oczywiście. Zadbamy o niego.
+
+69
+00:03:56,041 --> 00:03:57,416
+Dziękuję.
+
+70
+00:03:59,833 --> 00:04:03,750
+Pańscy ludzie zaczekają na zewnątrz.
+Ze względów bezpieczeństwa.
+
+71
+00:04:03,833 --> 00:04:07,333
+Myślicie, że was okradniemy?
+
+72
+00:04:09,208 --> 00:04:12,041
+Wielu próbowało. Nikogo nie odnaleziono.
+
+73
+00:04:14,208 --> 00:04:16,541
+Precz, wieśniacy. Sio.
+
+74
+00:04:20,083 --> 00:04:23,916
+Artefakt Dywergencji
+wygląda na prawdziwy, pani.
+
+75
+00:04:24,000 --> 00:04:27,833
+Dusza dziękuje panu
+za pańską hojność, panie Barrington.
+
+76
+00:04:27,916 --> 00:04:30,166
+Jak wszedł pan w posiadanie zbroi?
+
+77
+00:04:30,250 --> 00:04:32,958
+Pani kochana, cóż to za historia.
+
+78
+00:04:33,041 --> 00:04:35,666
+Ale nie chcę zabierać więcej czasu.
+
+79
+00:04:35,750 --> 00:04:39,375
+Zatem osobiście dopilnuję,
+by skrzynia trafiła do skarbca.
+
+80
+00:04:39,583 --> 00:04:40,791
+Grzmot przeciął niebo.
+
+81
+00:04:40,875 --> 00:04:46,375
+Artefaktu strzegł olbrzymi potwór
+górujący nad drobną, lecz odważną duszą.
+
+82
+00:04:46,458 --> 00:04:49,333
+Niejakim Baryonem Barringtonem.
+
+83
+00:05:05,583 --> 00:05:09,125
+Kurwa mać, w dupę pierdolona.
+
+84
+00:05:14,041 --> 00:05:15,583
+Trzymaj się, kolego.
+
+85
+00:05:15,666 --> 00:05:18,041
+Gdy Percy i Keyleth wyłączą tarczę,
+
+86
+00:05:18,125 --> 00:05:19,958
+wyjdziesz z amuletu.
+
+87
+00:05:20,041 --> 00:05:21,166
+Mam nadzieję.
+
+88
+00:05:37,291 --> 00:05:39,041
+Daj znać, jak będziesz w środku.
+
+89
+00:06:13,208 --> 00:06:15,500
+Percy, słyszysz mnie?
+
+90
+00:06:15,583 --> 00:06:18,958
+Głośno i wyraźnie. Powiedz mi, co widzisz.
+
+91
+00:06:19,875 --> 00:06:22,958
+No dobra. Widzę sieć niebieskich światełek
+
+92
+00:06:23,041 --> 00:06:26,416
+i linie wychodzące z jakichś symboli.
+
+93
+00:06:26,500 --> 00:06:30,125
+To runiczny kod transpozycyjny,
+który mechanicznie tłumi magię.
+
+94
+00:06:30,208 --> 00:06:31,541
+Jak to możliwe?
+
+95
+00:06:31,625 --> 00:06:33,333
+Myślałam, że wiesz.
+
+96
+00:06:33,416 --> 00:06:36,291
+Najpierw musisz znaleźć i nacisnąć…
+
+97
+00:06:36,375 --> 00:06:38,000
+Przepraszam bardzo.
+
+98
+00:06:38,083 --> 00:06:40,333
+- Co nacisnąć?
+- Znamy się?
+
+99
+00:06:47,000 --> 00:06:47,833
+Co jest?
+
+100
+00:06:49,791 --> 00:06:50,791
+Chodź.
+
+101
+00:07:12,875 --> 00:07:14,041
+Szlag.
+
+102
+00:07:24,708 --> 00:07:25,958
+To biblioteka.
+
+103
+00:07:30,958 --> 00:07:33,000
+Masz Talizman Prawdy?
+
+104
+00:07:33,083 --> 00:07:36,125
+Pewnie. Zobaczmy, kto będzie wygadany.
+
+105
+00:07:40,583 --> 00:07:42,000
+Ale daje po oczach.
+
+106
+00:07:44,583 --> 00:07:45,416
+Czołem.
+
+107
+00:07:45,500 --> 00:07:47,250
+Zgłupieliście?
+
+108
+00:07:47,333 --> 00:07:51,666
+Tu aż roi się od naszych.
+Nie dotrzecie do wyjścia.
+
+109
+00:07:51,750 --> 00:07:54,125
+To nieuprzejme. Zgodzisz się?
+
+110
+00:07:54,208 --> 00:07:55,291
+Wyjątkowo.
+
+111
+00:07:55,375 --> 00:07:58,916
+Może nam to wynagrodzisz,
+zdradzając nam dzisiejszą kombinację?
+
+112
+00:08:00,000 --> 00:08:02,208
+W życiu wam tego nie zdradzę.
+
+113
+00:08:02,291 --> 00:08:04,958
+„Oko serca patrzy w górę,
+a oko ręki w dół”.
+
+114
+00:08:05,625 --> 00:08:08,791
+Że co? Jak wam się…
+
+115
+00:08:08,875 --> 00:08:10,708
+Doceniam szczerość, przyjacielu.
+
+116
+00:08:19,000 --> 00:08:21,541
+Nawet ci pasuje to wdzianko.
+
+117
+00:08:21,625 --> 00:08:23,458
+Ty z kolei jesteś jakby kusawa.
+
+118
+00:08:27,375 --> 00:08:29,416
+Żartujesz sobie?
+
+119
+00:08:32,708 --> 00:08:33,791
+O nie.
+
+120
+00:08:41,458 --> 00:08:44,125
+Co mówił Gilmore? Ile potrwa ten efekt?
+
+121
+00:08:45,208 --> 00:08:46,833
+Ile to im zajmie?
+
+122
+00:08:48,791 --> 00:08:49,916
+Kurwa mać.
+
+123
+00:08:57,166 --> 00:08:58,708
+Na pomoc!
+
+124
+00:09:03,916 --> 00:09:05,375
+To ci dopiero skarbiec.
+
+125
+00:09:14,416 --> 00:09:16,416
+Percy, przydałoby się wsparcie.
+
+126
+00:09:16,500 --> 00:09:17,500
+Hej.
+
+127
+00:09:18,833 --> 00:09:22,208
+Mogę przysiąc, że gdzieś cię widziałem.
+
+128
+00:09:22,291 --> 00:09:24,500
+Mało prawdopodobne. Lepiej…
+
+129
+00:09:24,583 --> 00:09:28,000
+Momencik. Jesteś Pan Elegancik.
+
+130
+00:09:29,625 --> 00:09:30,625
+Że kto?
+
+131
+00:09:30,708 --> 00:09:33,208
+Poznaję cię z plakatu z trasy.
+
+132
+00:09:36,375 --> 00:09:37,916
+Pieprzony Shorthalt.
+
+133
+00:09:38,000 --> 00:09:39,708
+Da radę skrobnąć autograf?
+
+134
+00:09:45,833 --> 00:09:48,625
+De Rolo III.
+
+135
+00:09:48,708 --> 00:09:52,416
+Wolałbym autograf Scanlana.
+
+136
+00:09:55,333 --> 00:09:56,666
+Percy.
+
+137
+00:09:56,750 --> 00:09:59,291
+Nie ma go.
+
+138
+00:09:59,375 --> 00:10:00,833
+Ale da się ogarnąć.
+
+139
+00:10:00,916 --> 00:10:04,666
+Cudnie. Nie wierzę,
+że nie znasz jego piosenki.
+
+140
+00:10:04,750 --> 00:10:06,000
+Pozwól, że ją zagram.
+
+141
+00:10:09,166 --> 00:10:10,291
+No dalej.
+
+142
+00:10:23,083 --> 00:10:24,666
+Kiepsko to wygląda.
+
+143
+00:10:24,750 --> 00:10:27,375
+Wyglądałem przy tym majestatycznie,
+
+144
+00:10:27,458 --> 00:10:30,750
+dosiadając płonącego delfina
+w morzu ognia.
+
+145
+00:10:30,833 --> 00:10:33,666
+„Prędzej, Fiero”,
+krzyknąłem, rzucając się w bój
+
+146
+00:10:33,750 --> 00:10:35,791
+i nie zważając na własną dolę,
+
+147
+00:10:35,875 --> 00:10:39,500
+pewien, że z honorem i wdziękiem
+zdobędę pancerz.
+
+148
+00:10:39,583 --> 00:10:42,208
+Wstrząsająca historia, panie Barrington.
+
+149
+00:10:42,291 --> 00:10:44,875
+Zapewne się pan ucieszy,
+że artefaktu strzeże
+
+150
+00:10:44,958 --> 00:10:47,250
+wielopoziomowy system zabezpieczeń.
+
+151
+00:10:48,583 --> 00:10:50,500
+Wielopoziomowy?
+
+152
+00:10:51,791 --> 00:10:56,083
+Pole antymagiczne skarbca
+doskonale trzyma magów na dystans.
+
+153
+00:10:56,166 --> 00:11:00,375
+Jeśli jednak zawiedzie,
+przebudzą się magiczni strażnicy.
+
+154
+00:11:01,208 --> 00:11:04,416
+Strażnicy, powiadasz? Łazienka!
+
+155
+00:11:07,583 --> 00:11:08,625
+Tary?
+
+156
+00:11:10,208 --> 00:11:11,208
+Tary.
+
+157
+00:11:13,083 --> 00:11:17,791
+„Schowaj się w skrzyni, to pestka.
+Książki sobie poczytasz”.
+
+158
+00:11:22,375 --> 00:11:23,791
+Olbrzym.
+
+159
+00:11:23,875 --> 00:11:26,125
+Dobra, Grog. Jedziesz.
+
+160
+00:11:28,250 --> 00:11:30,208
+Głupia tarcza antymagiczna.
+
+161
+00:11:33,666 --> 00:11:36,291
+Pieprzony Percy!
+
+162
+00:11:36,375 --> 00:11:39,291
+Pajac nie mógł powiedzieć,
+że nas też to dotknie?
+
+163
+00:11:39,583 --> 00:11:41,333
+Nie ufałam mu, gdy byliście parą.
+
+164
+00:11:41,416 --> 00:11:44,916
+Żebym ci nie przypomniał,
+kto ciebie bałamucił.
+
+165
+00:11:45,000 --> 00:11:47,583
+Przy tłuku z Gildii Pogromców
+Grog to mądrala.
+
+166
+00:11:47,666 --> 00:11:50,916
+Nie musisz się już o to martwić,
+bo jestem mężatką.
+
+167
+00:11:51,000 --> 00:11:52,416
+Że co? Żartujesz.
+
+168
+00:11:53,041 --> 00:11:56,166
+Pobraliśmy się rok temu.
+Szlag. Potajemnie. Kuźwa.
+
+169
+00:11:56,916 --> 00:11:57,750
+Ale…
+
+170
+00:12:01,833 --> 00:12:04,666
+Mnie zabroniłaś potajemnych ślubów.
+
+171
+00:12:04,750 --> 00:12:06,916
+Wybacz, nie planowałam tego.
+
+172
+00:12:07,000 --> 00:12:08,500
+Tak bardzo go kocham.
+
+173
+00:12:08,583 --> 00:12:11,916
+A ty i Keyleth macie niesamowite życie.
+Odkrywacie świat.
+
+174
+00:12:12,000 --> 00:12:14,500
+Byłam zazdrosna, bo utknęłam w Whitestone.
+
+175
+00:12:14,583 --> 00:12:17,208
+Też chciałam przeżywać przygody.
+
+176
+00:12:17,958 --> 00:12:21,041
+Nie patrz tak na mnie. Nikt nie umiera.
+
+177
+00:12:21,375 --> 00:12:24,041
+Możliwe, że ja.
+
+178
+00:12:24,125 --> 00:12:25,625
+Co? Ściemniasz.
+
+179
+00:12:29,166 --> 00:12:32,875
+O nie. Co to jest?
+
+180
+00:12:32,958 --> 00:12:34,958
+Czemu mi nie mówiłeś?
+
+181
+00:12:35,041 --> 00:12:37,333
+Bo wtedy to by się stało rzeczywiste.
+
+182
+00:12:37,666 --> 00:12:39,000
+Bogowie, to prawda?
+
+183
+00:12:39,083 --> 00:12:42,583
+Wy dwoje.
+Czemu nie jesteście na stanowiskach?
+
+184
+00:12:42,666 --> 00:12:46,041
+Bo włamujemy się do skarbca. Szlag.
+
+185
+00:12:48,125 --> 00:12:52,416
+Cholera jasna! Percy!
+
+186
+00:12:52,500 --> 00:12:56,083
+Pan Elegancik w wieży z kości słoniowej
+
+187
+00:12:56,166 --> 00:13:00,500
+Składa coś wciąż
+Ile godzin w dobie
+
+188
+00:13:02,541 --> 00:13:05,750
+Myśl jak Percy. Co lubią nerdzi?
+
+189
+00:13:05,833 --> 00:13:08,625
+Liczby, historię, łamigłówki.
+
+190
+00:13:12,416 --> 00:13:13,458
+Chrzanić to.
+
+191
+00:13:23,750 --> 00:13:26,416
+Jeszcze raz.
+
+192
+00:13:32,250 --> 00:13:33,166
+Tak jest.
+
+193
+00:13:34,958 --> 00:13:36,166
+Magia działa.
+
+194
+00:13:39,541 --> 00:13:41,458
+Wali tam niedźwiedzim klockiem.
+
+195
+00:13:41,541 --> 00:13:43,833
+Dobra, kolego, czas ucieka.
+
+196
+00:13:44,791 --> 00:13:47,208
+Wypiję eliksir mądrości i przeczytam zwój,
+
+197
+00:13:47,291 --> 00:13:49,791
+a ty odpalaj łapki i kręć tym szajsem.
+
+198
+00:13:49,875 --> 00:13:52,291
+- Szybko, daj eliksir.
+- O wiele lepiej.
+
+199
+00:13:52,875 --> 00:13:54,541
+Jaja sobie robisz?
+
+200
+00:13:54,625 --> 00:13:58,916
+Znosiłem ten drażniący zapach
+przez 37 minut.
+
+201
+00:13:59,000 --> 00:14:00,750
+Chwila, ty nie umiesz liczyć.
+
+202
+00:14:01,333 --> 00:14:02,625
+Co?
+
+203
+00:14:12,208 --> 00:14:13,708
+Grog?
+
+204
+00:14:13,791 --> 00:14:15,541
+Bogowie, Pikey.
+
+205
+00:14:15,916 --> 00:14:18,833
+Mój umysł promienieje
+wirującymi węzłami myśli,
+
+206
+00:14:18,916 --> 00:14:21,583
+które przemierzają
+kosmiczną mgłę pomyślunku!
+
+207
+00:14:21,666 --> 00:14:22,791
+Że co?
+
+208
+00:14:22,875 --> 00:14:25,958
+To eliksir zrozumienia. Zadziałał.
+
+209
+00:14:26,041 --> 00:14:28,750
+Nie jestem głupi!
+
+210
+00:14:31,625 --> 00:14:34,000
+- Szybko, do skarbca.
+- Szlag.
+
+211
+00:14:34,625 --> 00:14:36,958
+Sporo strażników.
+
+212
+00:14:37,333 --> 00:14:38,583
+Nic dziwnego.
+
+213
+00:14:39,041 --> 00:14:41,833
+Na ostatnim tajnym koncercie
+doszło do zamieszek.
+
+214
+00:14:41,916 --> 00:14:43,166
+Czyim?
+
+215
+00:14:43,666 --> 00:14:45,458
+Chyba nie…
+
+216
+00:14:45,708 --> 00:14:49,250
+Niczyim. Na pewno nie w sali wykładowej.
+
+217
+00:14:49,333 --> 00:14:50,416
+Gadam za dużo.
+
+218
+00:14:50,500 --> 00:14:53,333
+Ożeż, Scanlan tu jest?
+
+219
+00:14:54,083 --> 00:14:55,916
+Jesteś moim bohaterem.
+
+220
+00:14:59,000 --> 00:15:01,208
+Wybacz, Keyleth. Mamy mało czasu.
+
+221
+00:15:01,291 --> 00:15:04,791
+Aby rozbroić tarczę,
+musisz określić ścieżkę…
+
+222
+00:15:05,666 --> 00:15:08,166
+Keyleth? A tarcza antymagiczna?
+
+223
+00:15:08,250 --> 00:15:10,791
+Już ogarnięte, nie pomogłeś.
+
+224
+00:15:10,875 --> 00:15:15,166
+- Tary.
+- To nic dobrego, prawda?
+
+225
+00:15:15,250 --> 00:15:18,875
+„Wyłączona tarcza antymagiczna
+równa się włączeni strażnicy”.
+
+226
+00:15:18,958 --> 00:15:20,583
+- O rany.
+- Trzeba ich ostrzec.
+
+227
+00:15:20,666 --> 00:15:23,458
+Wy troje, stać.
+
+228
+00:15:27,041 --> 00:15:31,541
+Grog, ja miałam wypić eliksir,
+żebyś ty zakręcił kołem.
+
+229
+00:15:31,625 --> 00:15:33,000
+Czekaj, co robisz?
+
+230
+00:15:33,916 --> 00:15:37,041
+Według spisu sporządzonego
+w starożytnym qoniirańskim
+
+231
+00:15:37,125 --> 00:15:41,125
+zwój zawierający upragnioną wiedzę
+znajduje się na piątym poziomie.
+
+232
+00:15:41,208 --> 00:15:42,833
+Na górze.
+
+233
+00:15:47,083 --> 00:15:50,625
+Że co, kurwa? To posąg?
+
+234
+00:15:51,791 --> 00:15:54,750
+Pora zidentyfikować inne wejście.
+
+235
+00:16:38,583 --> 00:16:40,625
+Grog, co ty wyprawiasz?
+
+236
+00:16:40,708 --> 00:16:43,625
+W ciągu ostatnich 20 sekund nauczyłem się,
+
+237
+00:16:43,708 --> 00:16:48,333
+że potrzeba jest matką wynalazków.
+Trzeba improwizować.
+
+238
+00:16:51,416 --> 00:16:54,208
+O w dupę, jestem potworem.
+
+239
+00:16:54,291 --> 00:16:58,625
+Super. A teraz nadaj mi
+odpowiednią prędkość,
+
+240
+00:16:58,708 --> 00:17:02,458
+abym mógł obliczyć trajektorię
+i minąć strażnika na drodze do celu.
+
+241
+00:17:03,083 --> 00:17:04,041
+Co?
+
+242
+00:17:06,541 --> 00:17:10,208
+Ty kręcić, ja znaleźć książka.
+
+243
+00:17:12,958 --> 00:17:15,125
+Zajebioza.
+
+244
+00:17:48,375 --> 00:17:51,791
+Bum. Można przywyknąć.
+
+245
+00:17:53,791 --> 00:17:57,208
+Kiepski moment,
+by uświadomić sobie własną śmiertelność.
+
+246
+00:17:57,625 --> 00:17:59,791
+Weź się w garść, chłopie!
+
+247
+00:18:01,375 --> 00:18:07,125
+Chce mi się czytać!
+
+248
+00:18:07,875 --> 00:18:11,291
+Sama metafizyka i filozofia.
+
+249
+00:18:11,375 --> 00:18:12,833
+Bezużyteczne pierdoły.
+
+250
+00:18:12,916 --> 00:18:16,333
+Kręć, Pikey! Kręć jak wiatr!
+
+251
+00:18:21,208 --> 00:18:25,416
+Doskonale potrafimy wydobywać informacje,
+panie Barrington.
+
+252
+00:18:25,500 --> 00:18:28,375
+Czas, by powiedział pan prawdę.
+
+253
+00:18:29,333 --> 00:18:34,166
+Możecie mnie torturować,
+rwać paznokcie i rzucać zaklęcia.
+
+254
+00:18:34,250 --> 00:18:39,875
+Nigdy się nie złamię, nigdy się nie ugnę,
+nigdy nie zdradzę towarzyszy.
+
+255
+00:18:43,000 --> 00:18:44,625
+To Vox Machina. Są w skarbcu.
+
+256
+00:18:44,708 --> 00:18:46,458
+Jestem Darrington. Nie bij.
+
+257
+00:18:47,000 --> 00:18:48,625
+Do skarbca. Za mną.
+
+258
+00:18:49,791 --> 00:18:52,000
+Niech to. Muszę ich ostrzec.
+
+259
+00:19:02,833 --> 00:19:03,833
+Poważnie?
+
+260
+00:19:03,916 --> 00:19:06,291
+Skąd ta choroba?
+
+261
+00:19:06,375 --> 00:19:10,291
+Kiedy ocaliliśmy Percy’ego…
+Matrona chyba chciała mnie ukarać.
+
+262
+00:19:10,375 --> 00:19:12,458
+A ja tak się dowiaduję?
+
+263
+00:19:13,458 --> 00:19:14,666
+Stać.
+
+264
+00:19:15,791 --> 00:19:16,958
+Ty byś mi powiedziała?
+
+265
+00:19:18,250 --> 00:19:19,625
+W życiu.
+
+266
+00:19:21,666 --> 00:19:22,541
+Rozumiem.
+
+267
+00:19:29,541 --> 00:19:33,000
+Może omówimy to dokładniej
+bez perspektywy wpierdzielu?
+
+268
+00:19:38,708 --> 00:19:40,750
+Pikey, zaczekaj. Pomóż.
+
+269
+00:19:46,916 --> 00:19:49,458
+Radość to konstrukt, ale się raduję.
+
+270
+00:19:49,541 --> 00:19:52,416
+Tajemne zapiski
+z zapieczętowania Szeptanego.
+
+271
+00:19:52,500 --> 00:19:55,083
+Ale jestem zajebiście mądry!
+
+272
+00:20:03,750 --> 00:20:07,541
+O nie. Potrzebuję więcej czasu.
+
+273
+00:20:10,583 --> 00:20:11,875
+Nie!
+
+274
+00:20:37,500 --> 00:20:40,041
+Jeszcze odrobinkę.
+
+275
+00:20:42,041 --> 00:20:43,500
+Zwycięstwo!
+
+276
+00:20:44,625 --> 00:20:46,875
+Czemu nie działa?
+
+277
+00:21:15,791 --> 00:21:17,541
+W mordę.
+
+278
+00:21:17,625 --> 00:21:20,125
+A… le przygoda.
+
+279
+00:21:20,208 --> 00:21:21,666
+- Tary.
+- Doty.
+
+280
+00:21:21,750 --> 00:21:25,000
+Percy. Twój plan jest do bani.
+Wyciągnę nas stąd.
+
+281
+00:21:26,750 --> 00:21:29,333
+Nie wiem, co chcieliście osiągnąć,
+
+282
+00:21:29,416 --> 00:21:33,166
+ale nie pozwolę wam splamić
+tego świętego miejsca.
+
+283
+00:21:39,041 --> 00:21:41,375
+Ki chuj?
+
+284
+00:21:43,416 --> 00:21:44,708
+To nasza szansa.
+
+285
+00:21:53,291 --> 00:21:55,083
+Szybko, hasło.
+
+286
+00:21:56,541 --> 00:21:58,250
+„Oko serca patrzy w górę”.
+
+287
+00:22:05,333 --> 00:22:06,750
+„Oko ręki patrzy w dół”.
+
+288
+00:22:13,416 --> 00:22:15,750
+W końcu szczęście nam sprzyja.
+
+289
+00:22:16,291 --> 00:22:17,750
+Pike! Co ty robisz?
+
+290
+00:22:17,833 --> 00:22:20,250
+Improwizuję!
+
+291
+00:22:20,458 --> 00:22:22,750
+Wiem, że Scanlan tam jest.
+
+292
+00:22:22,833 --> 00:22:25,166
+Nie ruszam się stąd.
+
+293
+00:22:31,875 --> 00:22:33,875
+Poszło kiepsko nawet jak na nas.
+
+294
+00:22:34,083 --> 00:22:37,333
+Bardziej spierdolić się nie dało.
+
+295
+00:22:37,416 --> 00:22:39,083
+To był tylko podstęp, prawda?
+
+296
+00:22:39,166 --> 00:22:42,750
+W tym czasie zdobyliście to,
+po co przybyliśmy.
+
+297
+00:22:42,833 --> 00:22:43,916
+- Urocze.
+- Tak.
+
+298
+00:22:44,000 --> 00:22:45,375
+Jak nieobsrana łąka.
+
+299
+00:22:45,458 --> 00:22:48,916
+Szukają nas pewnie w całym Rexxentrum.
+
+300
+00:22:49,000 --> 00:22:51,500
+Już tu nie wrócimy.
+
+301
+00:22:51,583 --> 00:22:54,375
+Niczego się nie dowiedziałaś?
+
+302
+00:22:54,458 --> 00:22:56,875
+Księga wyślizgnęła nam się z rąk.
+
+303
+00:22:56,958 --> 00:22:58,208
+Tyle zachodu na nic.
+
+304
+00:22:58,916 --> 00:23:00,250
+Prawie na nic.
+
+305
+00:23:03,416 --> 00:23:06,416
+Boże, Grog się obudził.
+
+306
+00:23:06,500 --> 00:23:08,250
+Kolego, nic ci nie jest?
+
+307
+00:23:09,250 --> 00:23:11,291
+Niech ktoś mi da ołówek,
+
+308
+00:23:11,375 --> 00:23:16,291
+bo przeczytałem kawał zwoju
+i mam tylko 63 sekundy, żeby to spisać.
+
+309
+00:23:16,375 --> 00:23:17,250
+Czyli…
+
+310
+00:23:17,333 --> 00:23:21,833
+Wiem, co spotkało Szeptanego.
+
+311
+00:24:04,500 --> 00:24:06,500
+Napisy: Konrad Szabowicz
+
+312
+00:24:06,583 --> 00:24:08,583
+Nadzór kreatywny nad tłumaczeniem
+Maciej Kowalski
+
